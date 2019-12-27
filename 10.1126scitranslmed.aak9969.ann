@@ -1,0 +1,45 @@
+T1 Condition 702 717 RRAGC mutations
+T2 Condition 911 915 EZH2
+T3 Protein 844 852 SESTRIN1
+T4 Condition 212 219 genetic
+T5 Protein 618 622 mRNA
+T6 Intervention 779 788 antitumor
+T7 Condition 11 19 lymphoma
+T8 Protein 291 299 SESTRIN1
+T9 Gene 177 190 chromosome 6q
+T10 Condition 356 361 tumor
+T11 Protein 998 1008 RapaLink-1
+T12 Protein 659 667 SESTRIN1
+T13 Condition 458 488 EZH2 gain-of-function mutation
+T14 Gene 870 876 mTORC1
+T15 Condition 104 111 genetic
+T16 Protein 377 385 SESTRIN1
+T17 Biomarker 328 339 6q deletion
+T18 Protein 1048 1056 SESTRIN1
+T19 Condition 1076 1083 genetic
+T20 Condition 196 205 mutations
+T21 Condition 941 967 EZH2Y641X mutant lymphomas
+T22 Condition 958 966 lymphoma
+T23 Condition 817 821 EZH2
+T24 Protein 21 23 FL
+T25 Condition 490 494 EZH2
+T26 Condition 261 268 genetic
+T28 Condition 239 243 EZH2
+T29 Condition 708 717 mutations
+T30 Condition 1120 1128 lymphoma
+T31 Gene 1110 1116 mTORC1
+T32 Condition 49 64 B cell lymphoma
+T33 Protein 502 510 SESTRIN1
+T36 Condition 1091 1098 genetic
+T37 Condition 458 462 EZH2
+T38 Protein 123 125 FL
+T39 Protein 1025 1039 mTOR inhibitor
+T40 Gene 577 596 rapamycin complex 1
+T41 Condition 104 119 genetic lesions
+T42 Gene 66 73 Genomic
+T43 Condition 919 927 lymphoma
+T44 Condition 941 945 EZH2
+T45 Condition 440 448 lymphoma
+T46 Protein 405 413 SESTRIN1
+T47 Gene 732 738 mTORC1
+R1 Relation Arg1:T15 Arg2:T38

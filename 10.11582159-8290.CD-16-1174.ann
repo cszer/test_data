@@ -1,0 +1,77 @@
+T1 Gene 346 350 Pten
+T2 Level 785 803 e differentiation 
+T4 Organism 1700 1707 patient
+T5 Organism 1700 1708 patients
+T6 Condition 1274 1285 abiraterone
+T7 Level 691 701 human CRPC
+T8 Gene 1597 1604 genetic
+T9 Gene 890 892 or
+T10 Intervention 1112 1126 neuroendocrine
+T11 Gene 563 570 CRPC-NE
+T12 Intervention 1112 1123 neuroendocr
+T13 Condition 563 567 CRPC
+T14 Organism 120 127 patient
+T15 Gene 488 490 or
+T16 Condition 852 893 abiraterone-treated NPp53 prostate tumors
+T17 Protein 1244 1248 TP53
+T18 Gene 265 272 genetic
+T19 Level 386 396 human CRPC
+T20 Gene 1336 1343 CRPC-NE
+T22 Protein 1728 1741 antiandrogens
+T23 Level 1190 1196  cells
+T24 Intervention 531 545 neuroendocrine
+T25 Level 1318 1332 adenocarcinoma
+T26 Protein 98 100 AR
+T27 Protein 336 341 Trp53
+T28 Intervention 913 922 focal and
+T29 Intervention 932 943 neuroendocr
+T30 Gene 79 96 androgen receptor
+T31 Condition 23 59 castration-resistant prostate cancer
+T32 Intervention 531 542 neuroendocr
+T33 Level 691 696 human
+T34 Condition 61 65 CRPC
+T35 Condition 1336 1340 CRPC
+T36 Condition 485 491 tumors
+T37 Protein 295 298 GEM
+T38 Condition 825 837 NPp53 tumors
+T39 Gene 1615 1617 or
+T40 Gene 1710 1712 or
+T41 Intervention 932 946 neuroendocrine
+T42 Protein 1253 1257 PTEN
+T43 Gene 643 645 or
+T44 Gene 676 685 conserved
+T45 Condition 521 525 CRPC
+T46 Condition 236 247 abiraterone
+T47 Level 1112 1134 neuroendocrine regions
+T48 Level 1168 1196 luminal adenocarcinoma cells
+T49 Level 1176 1190 adenocarcinoma
+T50 Intervention 772 783 neuroendocr
+T51 Condition 434 445 abiraterone
+T52 Level 544 562 e differentiation 
+T53 Level 805 811  cells
+T54 Protein 1543 1546 GEM
+T55 Gene 847 849 or
+T56 Gene 923 925 or
+T57 Intervention 772 786 neuroendocrine
+T58 Organism 1439 1446 patient
+T59 Gene 747 749 or
+T60 Gene 834 836 or
+T63 Gene 94 96 or
+T64 Condition 697 701 CRPC
+T65 Organism 404 414 NPp53 mice
+T66 Gene 697 704 CRPC-NE
+T67 Gene 20 22 or
+T68 Gene 216 218 or
+T70 Gene 1220 1222 or
+T71 Gene 1685 1687 or
+T72 Condition 852 863 abiraterone
+T74 Organism 1439 1447 patients
+T75 Species 288 293 mouse
+T76 Species 575 581 humans
+T77 Gene 265 276 genetically
+T78 Gene 1241 1243 or
+T79 Level 1558 1563 human
+R1 Relation Arg1:T34 Arg2:T26
+R2 Relation Arg1:T67 Arg2:T26
+R3 Relation Arg1:T34 Arg2:T63
+R4 Relation Arg1:T67 Arg2:T34

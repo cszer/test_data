@@ -1,0 +1,114 @@
+T1 Condition 273 278  CRC 
+T2 Condition 2454 2459 tumor
+T5 Level 1706 1733 intestinal epithelial cells
+T8 Organism 926 939 nATF6IEC mice
+T9 Protein 117 121 ATF6
+T10 Organism 2514 2522 patients
+T11 Condition 2288 2338 signal transducer and activator of transcription 3
+T12 Organism 2390 2394 mice
+T13 Intervention 800 816 Cecal microbiota
+T14 Organism 1504 1514  nATF6IEC 
+T15 Protein 2533 2537 ATF6
+T16 Organism 678 688 nATF6IECfl
+T17 Condition 2143 2148 tumor
+T18 Organism 1610 1620  nATF6IEC 
+T19 Protein 679 683 ATF6
+T20 Organism 1505 1518 nATF6IEC mice
+T21 Organism 2380 2390  nATF6IEC 
+T22 Organism 2473 2499 ex–germ-free nATF6IEC mice
+T23 Intervention 1661 1677 cecal microbiota
+T24 Condition 2430 2435 tumor
+T25 Protein 896 900 ATF6
+T26 Organism 925 935  nATF6IEC 
+T27 Condition 1489 1492 CRC
+T28 Biomarker 778 787 germ-free
+T29 Condition 2216 2221 tumor
+T30 Organism 2381 2394 nATF6IEC mice
+T31 Condition 285 304 Cancer Genome Atlas
+T32 Organism 2053 2066 nATF6IEC mice
+T33 Protein 52 56 ATF6
+T34 Gene 318 334 genetic variants
+T35 Protein 2487 2491 ATF6
+T36 Protein 2612 2616 ATF6
+T37 Condition 1779 1784 tumor
+T38 Organism 712 722  nATF6IEC 
+T39 Biomarker 2104 2113 germ-free
+T40 Condition 179 192  using tissue
+T41 Organism 487 491 mice
+T42 Condition 1541 1546 colon
+T43 Organism 2170 2184 nATF6IEC MyD88
+T44 Organism 211 226 transgenic mice
+T45 Gene 497 571 intestinal epithelial cell–specific expression of the active form of Atf6 
+T46 Condition 457 462  CRC 
+T47 Organism 2052 2062  nATF6IEC 
+T48 Organism 987 1083 myeloid differentiation primary response gene 88 and toll-like receptor adaptor molecule 1 gene 
+T49 Level 1706 1716 intestinal
+T50 Gene 1346 1368 16S ribosomal RNA gene
+T52 Organism 894 904  nATF6IEC 
+T53 Condition 2083 2088 tumor
+T54 Condition 458 461 CRC
+T55 Protein 1255 1262 protein
+T56 Organism 1150 1154 mice
+T57 Condition 1541 1555 colon adenomas
+T58 Organism 1475 1483 patients
+T59 Protein 2171 2175 ATF6
+T60 Gene 581 596  from 2 alleles
+T61 Organism 198 206 patients
+T62 Organism 1104 1108 mice
+T63 Cellular_component 68 89 endoplasmic reticulum
+T64 Organism 920 924 mice
+T65 Condition 1995 2000 tumor
+T67 Gene 1289 1294 genes
+T68 Organism 222 226 mice
+T69 Organism 2485 2495  nATF6IEC 
+T70 Organism 895 908 nATF6IEC mice
+T71 Organism 260 268 patients
+T72 Organism 611 615 mice
+T73 Intervention 1751 1768 mucus barrier—all
+T75 Organism 2407 2411 mice
+T76 Organism 858 862 mice
+T77 Protein 1411 1415 ATF6
+T78 Protein 927 931 ATF6
+T79 Organism 722 726 mice
+T82 Gene 2740 2745 genes
+T83 Organism 1802 1806 mice
+T85 Organism 2062 2066 mice
+T86 Organism 1514 1518 mice
+T87 Intervention 2359 2375 cecal microbiota
+T88 Protein 2670 2674 ATF6
+T89 Gene 2149 2154 genes
+T90 Organism 935 939 mice
+T91 Condition 274 277 CRC
+T92 Protein 2054 2058 ATF6
+T93 Organism 444 452 patients
+T94 Condition 156 174 colorectal cancer 
+T95 Organism 713 726 nATF6IEC mice
+T96 Organism 958 962 mice
+T98 Gene 635 657 nATF6IEC from 1 allele
+T99 Protein 2027 2038 antibiotics
+T100 Level 1320 1326 genome
+T101 Protein 573 577 ATF6
+T102 Disease 1946 1958 inflammation
+T104 Organism 2495 2499 mice
+T106 Organism 2199 2203 mice
+T107 Condition 2734 2739 tumor
+T108 Organism 2185 2203 TRIF-knockout mice
+T110 Organism 692 696 mice
+T111 Condition 175 178 CRC
+T112 Condition 1986 1991 tumor
+T113 Condition 1890 1940 signal transducer and activator of transcription 3
+T114 Organism 2611 2624 nATF6IEC mice
+T115 Condition 2216 2258 tumor initiation and growth required MyD88
+T116 Biomarker 752 774 specific-pathogen–free
+T117 Protein 1506 1510 ATF6
+T119 Organism 1620 1624 mice
+T120 Level 2645 2655 intestinal
+T121 Organism 634 644  nATF6IEC 
+T123 Condition 2528 2531 CRC
+T124 Organism 2169 2179  nATF6IEC 
+T125 Protein 1612 1616 ATF6
+T126 Condition 2259 2338 TRIF-dependent activation of signal transducer and activator of transcription 3
+T127 Protein 378 385 protein
+T128 Biomarker 2476 2485 germ-free
+T129 Organism 689 696 fl mice
+T130 Protein 834 838 ATF6

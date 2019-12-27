@@ -1,0 +1,54 @@
+T1 Organism 440 469  genetically-engineered mouse
+T2 Level 188 199 fibroblasts
+T3 Biomarker 669 673 cAMP
+T4 Gene 964 985 phosphodiesterase 4A1
+T5 Condition 244 250 glioma
+T6 Biomarker 835 839 cAMP
+T9 Condition 632 637 brain
+T11 Condition 779 785 glioma
+T12 Intervention 324 346 central nervous system
+T13 Condition 864 870 glioma
+T14 Condition 120 125 tumor
+T15 Biomarker 766 770 cAMP
+T16 Condition 1103 1130 human NF1-associated glioma
+T17 Organism 1361 1370 Nf1 mouse
+T19 Condition 844 849 brain
+T20 Condition 230 243 brain tumors 
+T21 Condition 236 241 tumor
+T22 Intervention 1002 1008 cortex
+T23 Biomarker 1339 1343 cAMP
+T24 Intervention 799 802 NF1
+T25 Intervention 1237 1244  glioma
+T26 Condition 548 553 optic
+T27 Condition 1256 1261 tumor
+T28 Intervention 708 711 NF1
+T29 Organism 571 579 children
+T30 Organism 887 895 children
+T31 Intervention 778 785  glioma
+T32 Biomarker 1171 1175 cAMP
+T34 Level 1064 1085 hypercellular lesions
+T35 Protein 987 991 PDE4
+T36 Biomarker 1200 1208 Rolipram
+T37 Gene 1270 1277 Nf1 GEM
+T40 Organism 707 712  NF1 
+T41 Intervention 901 904 NF1
+T42 Organism 415 435 Neurofibromatosis-1 
+T43 Protein 1037 1043 PDE4A1
+T44 Gene 1012 1019 Nf1 GEM
+T45 Intervention 711 718  glioma
+T47 Intervention 1109 1112 NF1
+T49 Condition 1232 1244 optic glioma
+T50 Condition 347 352 tumor
+T51 Intervention 523 530  glioma
+T53 Condition 864 871 gliomas
+T54 Intervention 863 870  glioma
+T56 Intervention 1493 1500  glioma
+T57 Protein 1185 1189 PDE4
+T58 Condition 1232 1237 optic
+T59 Protein 1037 1041 PDE4
+T60 Intervention 436 439 NF1
+T61 Protein 987 993 PDE4A1
+T62 Level 173 183 leukocytes
+T63 Protein 471 474 GEM
+T65 Biomarker 1453 1457 cAMP
+T66 Condition 230 235 brain

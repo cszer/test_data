@@ -1,0 +1,66 @@
+T2 Biomarker 658 668 sildenafil
+T3 Protein 741 755 PDE5 inhibitor
+T4 Protein 1290 1294 PDE5
+T5 Protein 1432 1439 Beclin1
+T6 Condition 240 256 H-RAS mutational
+T8 Disease 1186 1194 toxicity
+T9 Gene 1604 1629  and checkpoint kinase 2 
+T10 Biomarker 376 387 mitomycin C
+T11 Biomarker 832 845 protein-short
+T12 Biomarker 410 420 paclitaxel
+T13 Intervention 400 409 cisplatin
+T14 Protein 1092 1135 CD95 or Fas-associated death domain protein
+T15 Level 462 466 cell
+T16 Condition 1900 1916 gastrointestinal
+T17 Protein 500 504 PDE5
+T18 Protein 1487 1501 PDE5 inhibitor
+T19 Protein 639 643 PDE5
+T20 Protein 1290 1305 PDE5 inhibitors
+T21 Gene 1584 1597 γhistone 2AX 
+T22 Condition 1917 1938 genitourinary cancers
+T24 Protein 505 515 inhibitors
+T25 Level 204 224 bladder cancer cells
+T26 Gene 479 485 mutant
+T27 Biomarker 579 590 gemcitabine
+T28 Biomarker 591 601 paclitaxel
+T29 Protein 80 84 PDE5
+T30 Level 445 467 pancreatic tumor cells
+T31 Protein 1487 1491 PDE5
+T32 Protein 684 688 PDE5
+T33 Disease 1164 1172 toxicity
+T34 Protein 1838 1852 PDE5 inhibitor
+T35 Protein 500 515 PDE5 inhibitors
+T36 Protein 86 96 inhibitors
+T37 Disease 1066 1076 toxicities
+T38 Biomarker 388 399 gemcitabine
+T39 Protein 297 301 PDE5
+T40 Level 611 615 cell
+T41 Level 194 198 cell
+T42 Level 173 199 genitourinary cancer cells
+T43 Protein 1838 1853 PDE5 inhibitors
+T44 Protein 1543 1546 DNA
+T45 Biomarker 567 578 doxorubicin
+T46 Gene 995 1022 B-cell lymphoma–extra large
+T47 Condition 156 172 gastrointestinal
+T48 Level 430 434 cell
+T49 Gene 59 78 phosphodiesterase 5
+T51 Protein 297 311 PDE5 inhibitor
+T52 Biomarker 1407 1414 adenine
+T53 Protein 500 514 PDE5 inhibitor
+T54 Biomarker 965 975 sildenafil
+T55 Intervention 801 820 cellular FLICE-like
+T56 Level 219 223 cell
+T57 Protein 639 653 PDE5 inhibitor
+T58 Protein 1217 1262 necrostatin or receptor interacting protein 1
+T59 Condition 1667 1722 ataxia telangiectasia mutated suppressed γH2AX and CHK2
+T60 Level 801 805 cell
+T61 Biomarker 364 375 doxorubicin
+T63 Level 997 1001 cell
+T64 Condition 1707 1714  γH2AX 
+T65 Protein 741 745 PDE5
+T66 Protein 1487 1502 PDE5 inhibitors
+T67 Protein 1290 1304 PDE5 inhibitor
+T68 Protein 1838 1842 PDE5
+R1 Relation Arg1:T13 Arg2:T12
+R2 Relation Arg1:T13 Arg2:T48
+R3 Relation Arg1:T38 Arg2:T48

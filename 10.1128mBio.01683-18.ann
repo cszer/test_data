@@ -1,0 +1,91 @@
+T1 Species 501 505 mice
+T2 Condition 1838 1850 glioblastoma
+T3 Level 2085 2095 human GSCs
+T4 Condition 882 885 GSC
+T5 Condition 80 83 GSC
+T6 Protein 213 216 GBM
+T7 Condition 1464 1468 GSCs
+T8 Organism 2003 2009 animal
+T9 Biomarker 1692 1700 ZIKV-LAV
+T10 Condition 1692 1696 ZIKV
+T11 Disease 541 565 behavioral abnormalities
+T12 Condition 1634 1638 GSCs
+T13 Condition 1464 1467 GSC
+T14 Species 1738 1743 human
+T15 Condition 720 724 ZIKV
+T16 Level 1352 1363 tumor cells
+T17 Species 415 420 human
+T18 Condition 487 491 ZIKV
+T19 Level 898 903 tumor
+T20 Condition 430 433 GSC
+T21 Species 1723 1728 human
+T22 Organism 843 849 animal
+T23 Condition 1092 1115 IMPORTANCE Glioblastoma
+T24 Condition 1874 1878 GSCs
+T25 Biomarker 589 597 ZIKV-LAV
+T26 Level 1890 1895 tumor
+T27 Condition 1667 1673  ZIKV 
+T28 Condition 1744 1747 GSC
+T29 Condition 1577 1588 Zika virus 
+T30 Condition 1874 1877 GSC
+T31 Condition 1067 1071 ZIKV
+T32 Condition 293 296 GSC
+T33 Condition 1910 1914 ZIKV
+T34 Condition 2051 2055 ZIKV
+T36 Condition 293 297 GSCs
+T37 Condition 359 365  ZIKV 
+T38 Protein 1117 1120 GBM
+T39 Condition 248 252 ZIKV
+T40 Protein 1080 1083 GBM
+T41 Condition 1962 1975 intracerebral
+T42 Condition 922 926 ZIKV
+T43 Biomarker 1067 1075 ZIKV-LAV
+T44 Condition 653 683 encephalitis virus LAV 14-14-2
+T45 Condition 1634 1637 GSC
+T46 Biomarker 1798 1806 ZIKV-LAV
+T48 Level 61 78 glioma stem cells
+T49 Condition 2091 2095 GSCs
+T50 Organism 1723 1732 human GBM
+T51 Biomarker 384 392 ZIKV-LAV
+T52 Biomarker 720 728 ZIKV-LAV
+T53 Condition 802 821 intracerebral tumor
+T54 Level 1457 1461 cell
+T55 Condition 164 184 virus targeting GSCs
+T56 Condition 360 364 ZIKV
+T57 Condition 384 388 ZIKV
+T59 Level 1553 1558 tumor
+T60 Species 2085 2090 human
+T61 Level 816 821 tumor
+T62 Condition 2091 2094 GSC
+T63 Level 1738 1755 human GSC-derived
+T64 Intervention 460 473 Intracerebral
+T65 Protein 2193 2196 GBM
+T66 Biomarker 1910 1918 ZIKV-LAV
+T67 Condition 236 247 Zika virus 
+T68 Level 1296 1301 tumor
+T69 Level 44 55 brain tumor
+T70 Level 1419 1423 cell
+T71 Biomarker 2051 2059 ZIKV-LAV
+T72 Condition 589 593 ZIKV
+T73 Condition 80 84 GSCs
+T74 Level 1445 1462 glioma stem cells
+T76 Condition 1798 1802 ZIKV
+T77 Level 1352 1357 tumor
+T78 Level 1934 1938 cell
+T80 Condition 1668 1672 ZIKV
+T81 Level 1145 1156 brain tumor
+T82 Level 1358 1362 cell
+T83 Condition 180 183 GSC
+T84 Condition 921 927  ZIKV 
+T85 Level 100 105 tumor
+T87 Intervention 516 528 neurological
+T88 Condition 1589 1593 ZIKV
+T89 Biomarker 771 779 ZIKV-LAV
+T90 Protein 743 746 GBM
+T91 Biomarker 487 495 ZIKV-LAV
+T92 Level 73 77 cell
+T93 Condition 771 775 ZIKV
+T94 Protein 14 17 GBM
+T95 Condition 802 815 intracerebral
+T97 Organism 415 424 human GBM
+R1 Relation Arg1:T83 Arg2:T6

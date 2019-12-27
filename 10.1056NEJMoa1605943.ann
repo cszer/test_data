@@ -1,0 +1,56 @@
+T1 Condition 374 398 neurofibromatosis type 1
+T2 Gene 519 530 Selumetinib
+T3 Condition 374 386 neurofibroma
+T4 Condition 1852 1864 neurofibroma
+T5 Intervention 494 500 plasma
+T6 Condition 1100 1105 tumor
+T7 Biomarker 1514 1529 creatine kinase
+T8 Protein 2252 2265 dose-adjusted
+T9 Gene_or_gene_product 344 352  1 and 2
+T10 Biomarker 690 701 selumetinib
+T11 Biomarker 282 293 ARRY-142886
+T13 Condition 758 770 neurofibroma
+T14 Condition 1917 1922 tumor
+T15 Disease 1455 1469 acneiform rash
+T16 Protein 165 202 RAS–mitogen-activated protein kinase 
+T17 Condition 2163 2175 neurofibroma
+T18 Biomarker 258 269 selumetinib
+T19 Condition 114 126 neurofibroma
+T20 Organism 1609 1617 children
+T21 Biomarker 1153 1164 selumetinib
+T22 Protein 1404 1409 toxic
+T23 Disease 2028 2046 tumor-related pain
+T24 Protein 271 278 AZD6244
+T25 Condition 414 437 plexiform neurofibromas
+T26 Condition 998 1010 neurofibroma
+T27 Intervention 1471 1487 gastrointestinal
+T28 Condition 71 127 neurofibromatosis type 1–related plexiform neurofibromas
+T29 Biomarker 2281 2292 selumetinib
+T30 Condition 725 749 neurofibromatosis type 1
+T31 Condition 725 770 neurofibromatosis type 1–related neurofibroma
+T32 Organism 1032 1040 children
+T33 Biomarker 1434 1445 selumetinib
+T34 Condition 2213 2225 neurofibroma
+T36 Species 1884 1888 mice
+T37 Biomarker 1691 1702 selumetinib
+T38 Condition 856 879 plexiform neurofibromas
+T39 Organism 1166 1174 Patients
+T40 Biomarker 1196 1207 selumetinib
+T41 Condition 1744 1749 tumor
+T42 Protein 326 331  MAPK
+T43 Gene_or_gene_product 1784 1787 ≥20
+T44 Organism 357 365 children
+T45 Condition 2028 2033 tumor
+T46 Condition 424 436 neurofibroma
+T47 Organism 2149 2157 children
+T48 Condition 2163 2187 neurofibromatosis type 1
+T49 Condition 866 878 neurofibroma
+T50 Organism 1806 1814 children
+T51 Protein 2315 2320 toxic
+T52 Gene_or_gene_product 1956 1959 ≥20
+T53 Species 710 715 mouse
+T54 Condition 725 737 neurofibroma
+T55 Gene_or_gene_product 299 339 oral selective inhibitor of MAPK kinase 
+T56 Condition 71 83 neurofibroma
+T57 Condition 71 95 neurofibromatosis type 1
+T58 Biomarker 1587 1598 selumetinib

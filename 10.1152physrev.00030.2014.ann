@@ -1,0 +1,20 @@
+T1 Condition 980 986 cancer
+T2 Condition 1004 1011 obesity
+T4 Condition 151 158 cancers
+T5 Condition 1016 1031 type 2 diabetes
+T7 Condition 19 27 diabetes
+T8 Condition 443 450 obesity
+T9 Condition 12 27 type 2 diabetes
+T10 Condition 1050 1056 cancer
+T11 Condition 259 267 diabetes
+T12 Condition 957 964 obesity
+T13 Condition 204 219 type 2 diabetes
+T14 Condition 741 747 cancer
+T16 Condition 1023 1031 diabetes
+T17 Intervention 596 610 gut microbiome
+T18 Condition 966 974 diabetes
+T19 Condition 455 470 type 2 diabetes
+T20 Condition 842 848 cancer
+T22 Condition 307 313 cancer
+T23 Condition 433 439 cancer
+T24 Condition 151 157 cancer

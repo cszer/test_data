@@ -1,0 +1,25 @@
+T2 Protein 273 275 AD
+T3 Organism 376 379  AD
+T4 Disease 1326 1349 ventricular enlargement
+T5 Intervention 1196 1207 ventricular
+T6 Organism 1407 1410  AD
+T7 Organism 714 722 patients
+T8 Organism 421 424  AD
+T10 Protein 377 379 AD
+T11 Intervention 1326 1337 ventricular
+T12 Intervention 942 953 hippocampus
+T13 Organism 272 275  AD
+T14 Disease 734 752 cognitive Impaired
+T15 Intervention 521 526 brain
+T16 Intervention 1293 1321 medial temporal lobe atrophy
+T17 Intervention 998 1006 amygdala
+T18 Intervention 1408 1416 AD brain
+T20 Protein 875 877 AD
+T21 Organism 874 877  AD
+T22 Disease 1196 1219 ventricular enlargement
+T25 Protein 232 234 AD
+T26 Protein 724 726 AD
+T29 Protein 422 424 AD
+T30 Intervention 59 67 cerebral
+T31 Intervention 1164 1172 amygdala
+T32 Intervention 1144 1155 hippocampus

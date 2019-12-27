@@ -1,0 +1,18 @@
+T2 Biomarker 826 842 progression-free
+T3 Protein 654 663 anti-PD-1
+T4 Protein 1099 1104 PBMCs
+T5 Intervention 573 589 peripheral blood
+T6 Biomarker 252 268 progression-free
+T7 Intervention 607 624 stage IV melanoma
+T8 Protein 879 888 anti-PD-1
+T9 Level 943 952 monocytes
+T10 Condition 46 52 cancer
+T11 Condition 212 218 cancer
+T12 Condition 182 219 metastatic melanoma and other cancers
+T13 Level 546 565 immune cell subsets
+T15 Organism 301 309 patients
+T16 Organism 593 601 patients
+T17 Protein 102 122 cell death protein 1
+T18 Level 748 766 T cell compartment
+T19 Level 1086 1095 monocytes
+T20 Biomarker 124 128 PD-1

@@ -1,0 +1,25 @@
+T1 Biomarker 21 27 oxygen
+T2 Disease 419 426 hypoxia
+T3 Level 873 884 cancer cell
+T4 Condition 873 879 cancer
+T5 Condition 273 279 cancer
+T6 Protein 360 365 NADPH
+T7 Protein 371 374 ATP
+T8 Level 471 475 cell
+T9 Biomarker 249 256 glucose
+T10 Condition 563 570 cancers
+T11 Biomarker 306 313 glucose
+T12 Condition 111 116 tumor
+T15 Condition 388 394 cancer
+T16 Biomarker 342 348 carbon
+T17 Condition 930 936 cancer
+T18 Condition 911 942 mutated enzymes or cancer genes
+T19 Biomarker 295 304 glutamine
+T20 Condition 804 810 cancer
+T21 Condition 68 77 mutations
+T22 Condition 563 569 cancer
+T23 Level 388 400 cancer cells
+T24 Gene 89 98 oncogenes
+T25 Intervention 642 654 mitochondria
+T26 Level 388 399 cancer cell
+T27 Condition 744 750 cancer

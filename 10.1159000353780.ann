@@ -1,0 +1,43 @@
+T1 Condition 256 261 cysts
+T2 Condition 1101 1123 papillary thyroid carc
+T5 Condition 467 480 thyroid gland
+T6 Condition 358 364 tumors
+T7 Organism 320 323 men
+T8 Condition 1009 1027  the thyroid gland
+T9 Organism 179 187 patients
+T11 Condition 571 593 papillary thyroid carc
+T14 Condition 846 882 honeycomb-like multiple small cysts 
+T16 Condition 1001 1006 cysts
+T17 Condition 390 425 honeycomb-like multiple small cysts
+T18 Condition 889 902 thyroid gland
+T19 Condition 1101 1128 papillary thyroid carcinoma
+T20 Intervention 10 25 Thyroid nodules
+T21 Condition 971 1007 honeycomb-like multiple small cysts 
+T22 Condition 462 480  the thyroid gland
+T23 Condition 811 882 oma that histopathologically shows honeycomb-like multiple small cysts 
+T25 Organism 308 313 women
+T26 Intervention 31 37 cystic
+T27 Condition 1164 1169 cysts
+T28 Biomarker 146 155 benignity
+T29 Condition 846 881 honeycomb-like multiple small cysts
+T30 Condition 1134 1170 honeycomb-like multiple small cysts 
+T31 Organism 1036 1044 patients
+T32 Condition 746 751 cysts
+T34 Level 677 702 papillary carcinoma cells
+T35 Intervention 1220 1234 cystic lesions
+T37 Condition 787 814 papillary thyroid carcinoma
+T38 Condition 571 598 papillary thyroid carcinoma
+T39 Organism 292 300 patients
+T40 Condition 619 624 cysts
+T41 Condition 1134 1169 honeycomb-like multiple small cysts
+T42 Level 571 649 papillary thyroid carcinoma with multiple small cysts and a small solid lesion
+T43 Intervention 715 729 thyroid tissue
+T44 Condition 884 902  the thyroid gland
+T45 Condition 208 230 papillary thyroid carc
+T47 Condition 971 1006 honeycomb-like multiple small cysts
+T48 Organism 1286 1289 men
+T49 Condition 787 809 papillary thyroid carc
+T50 Condition 390 426 honeycomb-like multiple small cysts 
+T51 Condition 193 235 honeycomb-like papillary thyroid carcinoma
+R1 Relation Arg1:T9 Arg2:T1
+R2 Relation Arg1:T1 Arg2:T39

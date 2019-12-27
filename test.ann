@@ -1,0 +1,13 @@
+T1 Organism 213 221 patients
+T2 Condition 689 692  AD
+T4 Condition 690 692 AD
+T5 Protein 507 514 amyloid
+T6 Protein 516 519 tau
+T7 Condition 1003 1006  AD
+T8 Disease 102 122 cognitive impairment
+T10 Condition 279 281 AD
+T11 Protein 868 875 amyloid
+T12 Protein 880 883 tau
+T13 Disease 387 413 episodic memory impairment
+T14 Protein 304 311 amyloid
+T15 Protein 868 891 amyloid and tau markers

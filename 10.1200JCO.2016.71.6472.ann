@@ -1,0 +1,36 @@
+T1 Condition 470 477  RR-DTC
+T2 Protein 272 283 subanalysis
+T3 Organism 1795 1803 patients
+T4 Biomarker 1267 1277 lenvatinib
+T6 Organism 1870 1878 patients
+T7 Organism 1286 1294 patients
+T8 Organism 1516 1524 patients
+T9 Biomarker 1583 1593 lenvatinib
+T10 Protein 814 817 PFS
+T11 Protein 1323 1326 ORR
+T12 Protein 625 628 PFS
+T13 Protein 127 143 progression-free
+T14 Biomarker 546 556 lenvatinib
+T15 Disease 1655 1663 toxicity
+T16 Biomarker 846 856 lenvatinib
+T17 Organism 1686 1694 patients
+T18 Condition 74 81 Thyroid
+T19 Biomarker 92 102 lenvatinib
+T20 Intervention 744 748 arms
+T21 Organism 177 185 patients
+T23 Condition 1895 1901 RR-DTC
+T24 Protein 1094 1097 PFS
+T26 Organism 518 526 Patients
+T27 Organism 1267 1294 lenvatinib-treated patients
+T28 Protein 1540 1551 subanalysis
+T29 Condition 245 251 RR-DTC
+T30 Organism 356 364 Patients
+T31 Biomarker 1821 1831 lenvatinib
+T33 Biomarker 345 355 lenvatinib
+T34 Biomarker 1172 1182 lenvatinib
+T35 Protein 1574 1577 PFS
+T36 Organism 432 440 patients
+T37 Protein 921 924 PFS
+T38 Organism 1172 1199 lenvatinib-treated patients
+T39 Condition 191 244 radioiodine-refractory differentiated thyroid cancer 
+T40 Condition 60 66 Cancer

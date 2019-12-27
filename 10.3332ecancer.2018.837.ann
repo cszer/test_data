@@ -1,0 +1,19 @@
+T1 Intervention 740 747 hepatic
+T3 Condition 996 1011 dermatomyositis
+T4 Condition 65 80 dermatomyositis
+T5 Level 1114 1125 tumour cell
+T6 Level 1296 1306 anticancer
+T7 Intervention 699 706 omentum
+T8 Condition 1114 1120 tumour
+T9 Intervention 906 915 cisplatin
+T10 Condition 666 672 tumour
+T11 Condition 240 255 dermatomyositis
+T12 Condition 137 151 ovarian cancer
+T13 Condition 385 426 intra-abdominal epithelial ovarian cancer
+T14 Intervention 752 757 nodal
+T15 Intervention 472 483 Neoadjuvant
+T16 Organism 352 357 woman
+T17 Intervention 818 830 subcutaneous
+T18 Intervention 708 727 gynaecologic organs
+T19 Condition 555 561 tumour
+T20 Intervention 843 858 intraperitoneal

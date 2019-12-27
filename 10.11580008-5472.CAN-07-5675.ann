@@ -1,0 +1,67 @@
+T1 Gene 994 999  the 
+T2 Biomarker 146 151 COX-2
+T3 Protein 1222 1225 p21
+T4 Level 1463 1466 GBM
+T5 Level 861 865 cell
+T6 Biomarker 975 982 15-PGDH
+T7 Level 377 383  cells
+T8 Protein 392 409 COX-2–independent
+T9 Biomarker 1312 1317 COX-2
+T10 Biomarker 842 849 15-PGDH
+T11 Level 1312 1341 COX-2 siRNA transfected cells
+T12 Level 1336 1340 cell
+T13 Level 809 812 GBM
+T14 Biomarker 1211 1218 15-PGDH
+T15 Level 378 382 cell
+T16 Gene 1427 1432  the 
+T17 Biomarker 510 540 prostaglandin catabolic enzyme
+T18 Level 637 641 cell
+T19 Gene 1036 1042 terfer
+T20 Protein 700 706 NSAIDs
+T21 Level 1023 1026 GBM
+T22 Level 1317 1323  siRNA
+T23 Biomarker 1527 1532 COX-2
+T24 Biomarker 678 685 15-PGDH
+T25 Protein 1155 1161 NSAIDs
+T26 Protein 1527 1542 COX-2 enzymatic
+T27 Gene 799 804  the 
+T28 Biomarker 968 973 COX-2
+T30 Biomarker 392 397 COX-2
+T31 Biomarker 534 540 enzyme
+T32 Level 348 372 glioblastoma multiforme 
+T33 Biomarker 153 159 enzyme
+T34 Protein 1288 1291 p21
+T35 Level 373 376 GBM
+T36 Intervention 275 284 antitumor
+T37 Biomarker 743 750 15-PGDH
+T38 Protein 1417 1423 NSAIDs
+T39 Level 632 637  GBM 
+T40 Level 754 757 GBM
+T41 Gene 730 735  the 
+T42 Biomarker 1398 1405 15-PGDH
+T43 Protein 128 144 cyclooxygenase-2
+T44 Biomarker 493 500 15-PGDH
+T45 Protein 690 693 p21
+T46 Biomarker 217 222 COX-2
+T47 Protein 921 924 p21
+T48 Protein 13 66 conjectured that nonsteroidal anti-inflammatory drugs
+T49 Level 633 647 GBM cell lines
+T50 Level 633 636 GBM
+T51 Gene 545 550  the 
+T52 Level 1110 1120 T98G cells
+T53 Protein 217 234 COX-2–independent
+T54 Gene 501 506  the 
+T55 Level 804 822 T98G GBM cell line
+T56 Gene 333 338  the 
+T57 Protein 1497 1500 p21
+T58 Level 813 817 cell
+T59 Level 808 813  GBM 
+T60 Level 550 554 cell
+T61 Protein 571 574 p21
+T63 Level 1335 1341  cells
+T64 Level 1115 1119 cell
+T65 Protein 315 321 NSAIDs
+T66 Gene 1376 1381  the 
+T67 Biomarker 1241 1246 COX-2
+T69 Gene 454 491 15-hydroxyprostaglandin dehydrogenase
+T70 Gene 954 959  the 

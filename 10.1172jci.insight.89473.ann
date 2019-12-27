@@ -1,0 +1,40 @@
+T1 Organism 5 13 patients
+T2 Protein 569 572 RNA
+T3 Intervention 449 457 Biopsies
+T4 Organism 420 428 patients
+T5 Condition 1199 1225 aggressive multisystem LCH
+T6 Protein 757 795 extracellular signal–regulated kinase 
+T7 Condition 88 111 Erdheim-Chester disease
+T8 Gene 529 536 genomic
+T9 Protein 898 904 MAP2K1
+T10 Protein 113 116 ECD
+T11 Organism 1185 1193 patients
+T12 Gene 992 1009 in-frame deletion
+T13 Organism 593 601 patients
+T14 Protein 561 564 DNA
+T15 Protein 800 877  and were sensitive to inhibitors of mitogen-activated protein kinase kinase 
+T16 Disease 19 40 histiocytic disorders
+T17 Condition 80 83 LCH
+T18 Protein 1112 1137 V600E-specific inhibitors
+T19 Protein 1088 1093  ERK 
+T20 Condition 374 383 mutations
+T21 Organism 464 472 patients
+T22 Intervention 123 151 treatment-refractory disease
+T23 Condition 49 78 Langerhans cell histiocytosis
+T24 Gene 626 645 BRAF V600E mutation
+T25 Gene 1013 1017 BRAF
+T27 Condition 1222 1225 LCH
+T28 Organism 966 974 patients
+T29 Protein 698 704 MAP2K1
+T30 Condition 685 694 mutations
+T31 Biomarker 434 447 histiocytoses
+T32 Biomarker 491 504 histiocytoses
+T33 Gene 936 954 ALK rearrangements
+T35 Condition 962 965 LCH
+T36 Biomarker 212 225 histiocytoses
+T37 Gene 1380 1387 genomic
+T38 Gene 344 349 genes
+T39 Organism 654 662 patients
+T40 Protein 1089 1092 ERK
+T41 Condition 194 208 gene mutations
+T42 Gene 626 630 BRAF

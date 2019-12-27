@@ -1,0 +1,31 @@
+T1 Condition 867 872 tumor
+T3 Level 890 897 T cells
+T4 Level 519 525 T-cell
+T5 Cellular_component 1320 1338 key signaling node
+T6 Level 1261 1268 T cells
+T7 Gene 334 340 serine
+T8 CL 702 725 effector-to-memory cell
+T9 Level 997 1010 memory T-cell
+T10 CL 835 846 memory cell
+T11 Level 778 805 C-X-C chemokine receptor 3 
+T12 Protein 420 423 Akt
+T13 Protein 921 924 Akt
+T14 Condition 1272 1277 tumor
+T15 CL 1032 1043 memory cell
+T16 Organism 590 599 pdk1K465E
+T17 Organism 600 618 K465E knockin mice
+T18 Protein 1311 1314 Akt
+T19 Level 683 690 T cells
+T20 Condition 54 59 tumor
+T21 Gene 341 361 threonine kinase Akt
+T22 Protein 1102 1174 proapoptotic protein Bim and the T-box transcription factor eomesodermin
+T23 Level 456 462 T-cell
+T24 Level 1384 1390 T-cell
+T25 Condition 66 76 anticancer
+T26 Level 577 584 T cells
+T27 Protein 644 647 Akt
+T29 Level 411 418 T cells
+T30 Level 151 157 T-cell
+T31 Gene 456 501 T-cell antigen receptor and the cytokine IL-2
+T33 Condition 54 60 tumors
+T34 Level 12 19 T cells

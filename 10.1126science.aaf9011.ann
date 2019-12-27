@@ -1,0 +1,19 @@
+T1 Protein 104 107 DNA
+T2 Condition 689 695 cancer
+T3 Condition 670 679 mutations
+T4 Condition 953 959 cancer
+T8 Condition 988 997 mutations
+T9 Condition 474 480 cancer
+T10 Condition 953 960 cancers
+T11 Level 182 198 normal stem cell
+T12 Level 363 379 normal stem cell
+T13 Condition 620 631 R mutations
+T14 Condition 784 791 cancers
+T15 Condition 548 561 cancer genome
+T17 Condition 22 31 mutations
+T18 Condition 986 997 R mutations
+T19 Condition 548 554 cancer
+T20 Condition 784 790 cancer
+T21 Condition 228 234 cancer
+T22 Condition 683 696 human cancers
+T23 Condition 459 470 R mutations

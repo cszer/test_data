@@ -1,0 +1,43 @@
+T1 Gene 526 533 genetic
+T2 Biomarker 418 423 PPARγ
+T4 Intervention 970 977 hepatic
+T5 Gene 740 769 hepatocyte nuclear factor 1α 
+T6 Organism 1132 1138 murine
+T7 Condition 53 58 liver
+T9 Condition 1148 1181 steatosis-associated liver cancer
+T12 Condition 210 215 liver
+T13 Biomarker 978 983 PPARγ
+T14 Biomarker 291 296 PPARγ
+T15 Condition 116 128 malignancies
+T16 Condition 427 432 liver
+T17 Condition 509 521 liver cancer
+T18 Condition 647 652 liver
+T19 Intervention 547 571 human liver biopsy atlas
+T20 Species 1214 1220 humans
+T21 Protein 387 391 Akt2
+T22 Biomarker 781 786 PPARγ
+T23 Protein 770 775 HNF1α
+T24 Condition 553 558 liver
+T25 Species 1225 1229 mice
+T27 Intervention 1256 1263 hepatic
+T28 Gene 1303 1310  HNF1α 
+T29 Level 740 750 hepatocyte
+T30 Condition 210 222 liver cancer
+T31 Condition 175 187 liver cancer
+T32 Condition 694 704 protumoral
+T33 Level 840 850 hepatocyte
+T34 Level 855 864 adipocyte
+T35 Protein 1242 1246 Akt2
+T36 Condition 259 264 liver
+T37 Biomarker 1314 1319 PPARγ
+T38 Protein 929 934 HNF1α
+T39 Condition 175 180 liver
+T40 Biomarker 1080 1085 PPARγ
+T41 Condition 509 514 liver
+T42 Protein 1304 1309 HNF1α
+T43 Protein 720 724 Akt2
+T44 Species 493 498 mouse
+T45 Condition 1169 1174 liver
+T46 Condition 667 673 cancer
+T47 Protein 896 900 Akt2
+R1 Relation Arg1:T12 Arg2:T30

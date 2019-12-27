@@ -1,0 +1,32 @@
+T1 Gene 1297 1309 EGF receptor
+T2 Biomarker 591 602 hydralazine
+T3 Level 854 858 cell
+T4 Level 848 859 DU145 cells
+T5 Biomarker 1140 1178 hydralazine restored androgen receptor
+T6 Gene 358 368  inhibitor
+T7 Biomarker 871 882 hydralazine
+T8 Biomarker 1140 1151 hydralazine
+T9 Protein 1223 1226 p21
+T10 Gene 532 542  inhibitor
+T11 Level 547 561 PCa cell lines
+T12 Level 1236 1240 cell
+T13 Protein 503 506 DNA
+T14 Level 1394 1398 cell
+T15 Level 1481 1485 cell
+T16 Protein 780 783 DNA
+T17 Biomarker 1427 1438 hydralazine
+T18 Gene 283 303 cancer-related genes
+T19 Gene 1080 1090 transcript
+T20 Protein 1247 1254 Protein
+T21 Biomarker 473 484 hydralazine
+T22 Protein 447 458 anti-cancer
+T23 Protein 343 346 DNA
+T24 Level 1388 1399 DU145 cells
+T25 Gene 488 526 non-nucleoside DNA methyltransferases 
+T26 Level 1477 1486 PCa cells
+T27 Gene 316 323 feature
+T28 Protein 233 236 DNA
+T29 Level 551 555 cell
+T30 Biomarker 1366 1377 hydralazine
+T31 Level 1230 1245 DU145 cell line
+T32 Level 758 762 cell

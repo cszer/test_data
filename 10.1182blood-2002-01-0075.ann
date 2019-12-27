@@ -1,0 +1,335 @@
+T2 Biomarker 737 747 sildenafil
+T3 Protein 134 136  i
+T4 Biomarker 320 330 vardenafil
+T5 Level 888 933 Vardenafil- or sildenafil-treated B-CLL cells
+T6 Condition 263 268  CLL 
+T7 Biomarker 859 868 cAMP-PDE3
+T8 Gene 4 6  4
+T9 Level 1236 1238  o
+T10 Level 108 110  c
+T11 Level 899 901  o
+T12 Condition 174 176  C
+T13 Level 149 151  o
+T14 Gene 775 777  3
+T15 Biomarker 967 969  a
+T16 Level 858 860  c
+T17 Level 1239 1241  B
+T18 Biomarker 367 370 MQZ
+T19 Gene 276 278  4
+T21 Gene 102 104  (
+T22 Protein 1348 1350  i
+T23 Level 855 857  o
+T24 Biomarker 698 701 MQZ
+T25 Level 922 933 B-CLL cells
+T26 Gene 365 367  (
+T27 Gene 411 413  P
+T28 Level 390 392  c
+T29 Organism 178 180  p
+T30 Level 1245 1247  c
+T31 Protein 455 457  i
+T32 Level 264 273 CLL cells
+T34 Protein 1251 1253  i
+T35 Biomarker 444 446  a
+T36 Level 247 249  o
+T37 Gene 542 544  f
+T38 Protein 297 299  i
+T39 Protein 1012 1014  i
+T40 Organism 646 648  p
+T41 Level 547 549  c
+T42 Condition 1309 1314  CLL 
+T43 Level 974 976  c
+T44 Biomarker 1260 1262  a
+T45 Biomarker 693 695  a
+T46 Biomarker 765 767  a
+T48 Level 267 273  cells
+T49 Organism 6 8  p
+T50 Condition 263 265  C
+T51 Gene 747 749  f
+T52 Biomarker 191 193  s
+T53 Biomarker 682 684  s
+T54 Biomarker 479 488 zaprinast
+T56 Level 1161 1163  c
+T57 Protein 1071 1073  i
+T58 Level 527 533  cells
+T60 Gene 787 789  m
+T61 Level 1208 1210  c
+T62 Biomarker 1122 1124  s
+T63 Level 1245 1251  cells
+T64 Biomarker 903 913 sildenafil
+T65 Protein 1289 1291  i
+T66 Biomarker 1047 1049  z
+T67 Biomarker 342 344  a
+T68 Gene 626 628  3
+T69 Biomarker 589 600 PDE-induced
+T70 Protein 1340 1342  i
+T71 Biomarker 192 202 sildenafil
+T72 Protein 612 622 Vardenafil
+T73 Biomarker 834 836  a
+T74 Biomarker 1186 1188  a
+T75 Gene 632 634  3
+T76 Biomarker 1093 1095  a
+T77 Biomarker 653 655  a
+T78 Biomarker 683 693 sildenafil
+T79 Gene 1269 1271  m
+T80 Intervention 954 967 intracellular
+T81 Biomarker 732 734  a
+T82 Protein 415 417  i
+T83 Biomarker 1343 1345  v
+T84 Biomarker 628 630  a
+T85 Biomarker 803 807 cAMP
+T86 Biomarker 1254 1256  v
+T87 Biomarker 1097 1099  s
+T88 Biomarker 331 333  z
+T89 Protein 435 437  i
+T90 Gene 588 590  P
+T91 Biomarker 697 699  M
+T92 Biomarker 1363 1365  s
+T93 Biomarker 332 341 zaprinast
+T94 Biomarker 319 321  v
+T95 Gene 1138 1140  f
+T96 Biomarker 870 875 -PDE4
+T97 Biomarker 1087 1091 IL-4
+T98 Organism 179 186 patient
+T99 Level 927 929  c
+T100 Biomarker 736 738  s
+T101 Level 1240 1251 B-CLL cells
+T102 Biomarker 478 480  z
+T103 Gene 1148 1150  (
+T104 Biomarker 722 732 vardenafil
+T105 Level 108 114  cells
+T106 Protein 412 426 PDE inhibitors
+T107 Gene 975 984 caspase 3
+T108 Protein 31 33  i
+T109 Protein 1201 1203  i
+T110 Organism 1313 1315  p
+T112 Biomarker 1191 1201 sildenafil
+T113 Level 664 666  o
+T115 Gene 982 984  3
+T116 Gene 641 643  m
+T117 Protein 1150 1156 SDF-1α
+T118 Gene 1123 1148 stromal-derived factor1-α
+T119 Biomarker 308 318 sildenafil
+T120 Level 1029 1031  c
+T121 Condition 174 179  CLL 
+T122 Level 73 75  c
+T123 Level 525 527  B
+T124 Biomarker 1176 1201 vardenafil and sildenafil
+T125 Protein 285 287  i
+T126 Level 716 718  B
+T127 Protein 533 535  i
+T128 Biomarker 1190 1192  s
+T129 Biomarker 721 723  v
+T130 Gene 766 801 adenosine 3′5′ cyclic monophosphate
+T131 Organism 1058 1060  p
+T132 Gene 278 280  P
+T133 Biomarker 998 1000  a
+T134 Level 526 533 B cells
+T135 Gene 24 26  (
+T136 Biomarker 1030 1057 caspase inhibitor z-VAD.fmk
+T137 Biomarker 876 878  a
+T138 Biomarker 1226 1228  a
+T139 Gene 1332 1334  f
+T141 Level 1306 1308  o
+T142 Biomarker 462 464  a
+T143 Biomarker 600 602  a
+T144 Biomarker 307 309  s
+T145 Protein 228 230  i
+T146 Protein 888 898 Vardenafil
+T147 Biomarker 60 62  a
+T148 Biomarker 231 233  v
+T149 Biomarker 881 886 -PDE7
+T150 Gene 346 348  m
+T151 Gene 801 803  (
+T152 Protein 1072 1085 interleukin-4
+T153 Condition 816 818  l
+T154 Organism 1314 1321 patient
+T155 Condition 93 95  l
+T156 Condition 1309 1311  C
+T158 Level 267 269  c
+T159 Organism 153 155  p
+T160 Level 387 389  o
+T161 Biomarker 859 863 cAMP
+T162 Condition 74 103 chronic lymphocytic leukemia 
+T163 Biomarker 1175 1177  v
+T164 Protein 656 658  i
+T165 Level 1278 1280  c
+T166 Level 125 127  c
+T167 Protein 260 262  i
+T168 Protein 837 839  i
+T169 Biomarker 722 747 vardenafil and sildenafil
+T170 Biomarker 902 904  s
+T171 Condition 81 83  l
+T172 Biomarker 403 405  v
+T173 Organism 1310 1322 CLL patients
+T174 Protein 237 239  i
+T175 Level 527 529  c
+T176 Level 780 782  c
+T177 Gene 1085 1087  (
+T178 Level 921 923  B
+T179 Condition 808 810  l
+T180 Protein 1037 1039  i
+T181 Level 146 148  o
+R1 Relation Arg1:T12 Arg2:T50
+R2 Relation Arg1:T12 Arg2:T145
+R3 Relation Arg1:T12 Arg2:T148
+R4 Relation Arg1:T13 Arg2:T52
+R5 Relation Arg1:T13 Arg2:T71
+R6 Relation Arg1:T13 Arg2:T145
+R7 Relation Arg1:T36 Arg2:T19
+R8 Relation Arg1:T19 Arg2:T94
+R9 Relation Arg1:T19 Arg2:T125
+R10 Relation Arg1:T145 Arg2:T19
+R11 Relation Arg1:T148 Arg2:T19
+R12 Relation Arg1:T26 Arg2:T28
+R13 Relation Arg1:T38 Arg2:T26
+R14 Relation Arg1:T67 Arg2:T26
+R15 Relation Arg1:T94 Arg2:T26
+R16 Relation Arg1:T125 Arg2:T26
+R17 Relation Arg1:T144 Arg2:T26
+R18 Relation Arg1:T145 Arg2:T26
+R19 Relation Arg1:T159 Arg2:T26
+R20 Relation Arg1:T26 Arg2:T160
+R21 Relation Arg1:T38 Arg2:T28
+R22 Relation Arg1:T48 Arg2:T28
+R23 Relation Arg1:T67 Arg2:T28
+R24 Relation Arg1:T88 Arg2:T28
+R25 Relation Arg1:T94 Arg2:T28
+R26 Relation Arg1:T125 Arg2:T28
+R27 Relation Arg1:T132 Arg2:T28
+R28 Relation Arg1:T144 Arg2:T28
+R29 Relation Arg1:T145 Arg2:T28
+R30 Relation Arg1:T148 Arg2:T28
+R31 Relation Arg1:T150 Arg2:T28
+R32 Relation Arg1:T28 Arg2:T160
+R33 Relation Arg1:T29 Arg2:T145
+R34 Relation Arg1:T159 Arg2:T29
+R35 Relation Arg1:T36 Arg2:T32
+R36 Relation Arg1:T32 Arg2:T38
+R37 Relation Arg1:T32 Arg2:T48
+R38 Relation Arg1:T32 Arg2:T88
+R39 Relation Arg1:T32 Arg2:T94
+R40 Relation Arg1:T32 Arg2:T125
+R41 Relation Arg1:T32 Arg2:T132
+R42 Relation Arg1:T32 Arg2:T144
+R43 Relation Arg1:T145 Arg2:T32
+R44 Relation Arg1:T148 Arg2:T32
+R45 Relation Arg1:T32 Arg2:T150
+R46 Relation Arg1:T32 Arg2:T158
+R47 Relation Arg1:T32 Arg2:T160
+R48 Relation Arg1:T174 Arg2:T32
+R49 Relation Arg1:T36 Arg2:T38
+R50 Relation Arg1:T36 Arg2:T50
+R51 Relation Arg1:T71 Arg2:T36
+R52 Relation Arg1:T36 Arg2:T125
+R53 Relation Arg1:T36 Arg2:T132
+R54 Relation Arg1:T36 Arg2:T144
+R55 Relation Arg1:T145 Arg2:T36
+R56 Relation Arg1:T148 Arg2:T36
+R57 Relation Arg1:T36 Arg2:T158
+R58 Relation Arg1:T36 Arg2:T167
+R59 Relation Arg1:T48 Arg2:T38
+R60 Relation Arg1:T50 Arg2:T38
+R61 Relation Arg1:T38 Arg2:T67
+R62 Relation Arg1:T38 Arg2:T88
+R63 Relation Arg1:T38 Arg2:T94
+R64 Relation Arg1:T125 Arg2:T38
+R65 Relation Arg1:T132 Arg2:T38
+R66 Relation Arg1:T38 Arg2:T144
+R67 Relation Arg1:T145 Arg2:T38
+R68 Relation Arg1:T148 Arg2:T38
+R69 Relation Arg1:T158 Arg2:T38
+R70 Relation Arg1:T38 Arg2:T160
+R71 Relation Arg1:T167 Arg2:T38
+R72 Relation Arg1:T174 Arg2:T38
+R73 Relation Arg1:T48 Arg2:T88
+R74 Relation Arg1:T48 Arg2:T94
+R75 Relation Arg1:T48 Arg2:T125
+R76 Relation Arg1:T48 Arg2:T132
+R77 Relation Arg1:T48 Arg2:T144
+R78 Relation Arg1:T145 Arg2:T48
+R79 Relation Arg1:T148 Arg2:T48
+R80 Relation Arg1:T48 Arg2:T150
+R81 Relation Arg1:T48 Arg2:T160
+R82 Relation Arg1:T174 Arg2:T48
+R83 Relation Arg1:T52 Arg2:T50
+R84 Relation Arg1:T71 Arg2:T50
+R85 Relation Arg1:T50 Arg2:T88
+R86 Relation Arg1:T50 Arg2:T94
+R87 Relation Arg1:T50 Arg2:T125
+R88 Relation Arg1:T50 Arg2:T132
+R89 Relation Arg1:T145 Arg2:T50
+R90 Relation Arg1:T148 Arg2:T50
+R91 Relation Arg1:T50 Arg2:T167
+R92 Relation Arg1:T174 Arg2:T50
+R93 Relation Arg1:T52 Arg2:T125
+R94 Relation Arg1:T52 Arg2:T132
+R95 Relation Arg1:T52 Arg2:T145
+R96 Relation Arg1:T52 Arg2:T148
+R97 Relation Arg1:T159 Arg2:T52
+R98 Relation Arg1:T52 Arg2:T167
+R99 Relation Arg1:T181 Arg2:T52
+R100 Relation Arg1:T94 Arg2:T67
+R101 Relation Arg1:T125 Arg2:T67
+R102 Relation Arg1:T132 Arg2:T67
+R103 Relation Arg1:T144 Arg2:T67
+R104 Relation Arg1:T148 Arg2:T67
+R105 Relation Arg1:T67 Arg2:T150
+R106 Relation Arg1:T158 Arg2:T67
+R107 Relation Arg1:T67 Arg2:T160
+R108 Relation Arg1:T71 Arg2:T132
+R109 Relation Arg1:T71 Arg2:T145
+R110 Relation Arg1:T71 Arg2:T148
+R111 Relation Arg1:T159 Arg2:T71
+R112 Relation Arg1:T71 Arg2:T167
+R113 Relation Arg1:T71 Arg2:T174
+R114 Relation Arg1:T181 Arg2:T71
+R115 Relation Arg1:T144 Arg2:T88
+R116 Relation Arg1:T148 Arg2:T88
+R117 Relation Arg1:T88 Arg2:T150
+R118 Relation Arg1:T158 Arg2:T88
+R119 Relation Arg1:T88 Arg2:T160
+R120 Relation Arg1:T125 Arg2:T94
+R121 Relation Arg1:T132 Arg2:T94
+R122 Relation Arg1:T144 Arg2:T94
+R123 Relation Arg1:T145 Arg2:T94
+R124 Relation Arg1:T94 Arg2:T150
+R125 Relation Arg1:T158 Arg2:T94
+R126 Relation Arg1:T94 Arg2:T160
+R127 Relation Arg1:T167 Arg2:T94
+R128 Relation Arg1:T125 Arg2:T132
+R129 Relation Arg1:T125 Arg2:T144
+R130 Relation Arg1:T145 Arg2:T125
+R131 Relation Arg1:T148 Arg2:T125
+R132 Relation Arg1:T125 Arg2:T150
+R133 Relation Arg1:T158 Arg2:T125
+R134 Relation Arg1:T125 Arg2:T160
+R135 Relation Arg1:T167 Arg2:T125
+R136 Relation Arg1:T174 Arg2:T125
+R137 Relation Arg1:T132 Arg2:T144
+R138 Relation Arg1:T145 Arg2:T132
+R139 Relation Arg1:T148 Arg2:T132
+R140 Relation Arg1:T132 Arg2:T150
+R141 Relation Arg1:T158 Arg2:T132
+R142 Relation Arg1:T159 Arg2:T132
+R143 Relation Arg1:T132 Arg2:T160
+R144 Relation Arg1:T167 Arg2:T132
+R145 Relation Arg1:T174 Arg2:T132
+R146 Relation Arg1:T148 Arg2:T144
+R147 Relation Arg1:T144 Arg2:T150
+R148 Relation Arg1:T158 Arg2:T144
+R149 Relation Arg1:T144 Arg2:T160
+R150 Relation Arg1:T145 Arg2:T148
+R151 Relation Arg1:T145 Arg2:T150
+R152 Relation Arg1:T145 Arg2:T158
+R153 Relation Arg1:T159 Arg2:T145
+R154 Relation Arg1:T145 Arg2:T160
+R155 Relation Arg1:T145 Arg2:T167
+R156 Relation Arg1:T145 Arg2:T174
+R157 Relation Arg1:T181 Arg2:T145
+R158 Relation Arg1:T148 Arg2:T158
+R159 Relation Arg1:T159 Arg2:T148
+R160 Relation Arg1:T148 Arg2:T160
+R161 Relation Arg1:T148 Arg2:T167
+R162 Relation Arg1:T150 Arg2:T160
+R163 Relation Arg1:T158 Arg2:T160
+R164 Relation Arg1:T174 Arg2:T158

@@ -1,0 +1,62 @@
+T1 Protein 470 520 PRC2 enzymatic subunit enhancer of zeste homolog 2
+T2 Condition 633 637 EZH2
+T4 Gene 367 397 polycomb repressive complex 2 
+T5 Condition 319 325 cancer
+T6 Condition 1037 1041 EZH2
+T7 Protein 837 839 es
+T8 Condition 27 44 plasma cell tumor
+T9 Level 1037 1055 EZH2 and H3K27me3 
+T10 Protein 1069 1071 es
+T11 Protein 1195 1197 es
+T12 Protein 826 828 es
+T13 Protein 268 270 es
+T14 Condition 944 955 miR-125a-3p
+T15 Protein 506 508 es
+T16 Condition 1157 1159 MM
+T17 Condition 336 338 MM
+T18 Condition 960 968 miR-320c
+T19 Level 1057 1067  MM cell l
+T20 Condition 909 911 MM
+T21 Protein 62 73 bone marrow
+T22 Protein 745 747 es
+T23 Protein 380 382 es
+T24 Protein 703 705 es
+T25 Condition 801 805 EZH2
+T26 Condition 862 867 tumor
+T27 Condition 724 726 MM
+T28 Level 1076 1089 primary cells
+T29 Protein 873 875 es
+T30 Condition 693 697 EZH2
+T31 Protein 357 359 es
+T32 Protein 458 460 es
+T33 Condition 1058 1060 MM
+T34 Condition 177 179 MM
+T35 Condition 18 20 MM
+T36 Condition 202 206 gene
+T37 Condition 259 264 tumor
+T38 Condition 565 567 MM
+T39 Organism 145 153 patients
+T40 Condition 927 931 gene
+T41 Protein 81 83 es
+T42 Condition 997 1008 miR-125a-3p
+T43 Protein 1096 1098 es
+T44 Protein 75 77 BM
+T45 Condition 522 526 EZH2
+T46 Gene 769 786 BLIMP-1 and c-MYC
+T47 Condition 1315 1317 MM
+T48 Condition 742 746 gene
+T49 Protein 128 130 es
+T50 Protein 930 932 es
+T51 Condition 431 435 gene
+T52 Gene 469 474  PRC2
+T53 Condition 1265 1269 EZH2
+T54 Protein 714 716 es
+T55 Condition 449 451 MM
+T56 Condition 1184 1189 tumor
+T57 Condition 265 269 gene
+T58 Protein 1259 1261 es
+T59 Protein 1166 1168 es
+T60 Condition 1013 1021 miR-320c
+R1 Relation Arg1:T34 Arg2:T36
+R2 Relation Arg1:T39 Arg2:T34
+R3 Relation Arg1:T49 Arg2:T34

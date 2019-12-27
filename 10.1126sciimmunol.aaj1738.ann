@@ -1,0 +1,24 @@
+T1 Intervention 428 433 TGF-β
+T2 Condition 526 532 tumors
+T3 Intervention 57 66 antitumor
+T4 Level 578 589 CD8 T cells
+T5 Gene 136 163 latency-associated peptide 
+T6 Level 395 422 tolerogenic dendritic cells
+T7 Condition 1093 1099 cancer
+T8 Condition 35 41 cancer
+T9 Level 709 720 CD8 T cells
+T10 Gene 99 116 anti-LAP antibody
+T11 Condition 350 362 glioblastoma
+T12 Gene_or_gene_product 876 885 granzymes
+T13 Condition 677 683 cancer
+T14 Biomarker 779 785 CTLA-4
+T15 Intervention 199 204 TGF-β
+T16 Protein 364 372 Anti-LAP
+T17 Intervention 593 613 draining lymph nodes
+T18 Intervention 249 258 antitumor
+T19 Level 915 926 CD8 T cells
+T20 Protein 491 499 Anti-LAP
+T21 Intervention 622 628 spleen
+T22 Protein 790 804 interleukin-10
+T23 Level 662 673 CD8 T cells
+R1 Relation Arg1:T15 Arg2:T11

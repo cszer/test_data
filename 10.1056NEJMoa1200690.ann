@@ -1,0 +1,55 @@
+T1 Protein 456 460 body
+T2 Organism 248 256 patients
+T3 Gene 1862 1880 Anti–PD-1 antibody
+T4 Biomarker 1568 1572 PD-1
+T5 Condition 1270 1278 melanoma
+T7 Protein 1573 1578 PD-L1
+T8 Gene 1499 1524 intratumoral PD-1 ligand 
+T9 Condition 1071 1097 non–small-cell lung cancer
+T10 Organism 1235 1243 patients
+T11 Biomarker 1867 1871 PD-1
+T12 Biomarker 1512 1516 PD-1
+T13 Protein 190 198 antibody
+T14 Intervention 808 817 pulmonary
+T16 Protein 407 411 body
+T18 Organism 1256 1264 patients
+T19 Biomarker 224 228 PD-1
+T21 Gene 1792 1798  PD-L1
+T23 Gene 1511 1517  PD-1 
+T24 Protein 194 198 body
+T25 Condition 1968 1994 non–small-cell lung cancer
+T26 Protein 1793 1798 PD-L1
+T27 Organism 1954 1962 patients
+T28 Organism 945 953 patients
+T29 Condition 1710 1731 PD-L1–negative tumors
+T30 Gene 2138 2144  PD-L1
+T31 Gene 10 41 Blockade of programmed death 1 
+T32 Biomarker 175 185 BMS-936558
+T33 Organism 1434 1442 patients
+T34 Protein 1568 1578 PD-1–PD-L1
+T35 Protein 516 522 8-week
+T37 Biomarker 42 46 PD-1
+T38 Level 142 151 antitumor
+T39 Biomarker 398 402 PD-1
+T40 Condition 1099 1107 melanoma
+T41 Gene 1709 1715  PD-L1
+T42 Condition 1996 2004 melanoma
+T43 Organism 1355 1363 patients
+T44 Organism 1314 1322 patients
+T45 Organism 1680 1688 patients
+T46 Protein 2032 2045 adverse-event
+T47 Level 85 92 T cells
+T49 Protein 1525 1530 PD-L1
+T50 Organism 769 777 patients
+T52 Organism 1696 1704 patients
+T53 Organism 540 548 Patients
+T54 Organism 1289 1297 patients
+T56 Level 2159 2170 tumor cells
+T57 Condition 271 279 melanoma
+T58 Organism 1773 1781 patients
+T59 Organism 654 662 patients
+T60 Protein 393 411 anti–PD-1 antibody
+T61 Condition 1328 1345 renal-cell cancer
+T62 Condition 1112 1129 renal-cell cancer
+T63 Condition 281 307 non–small-cell lung cancer
+T64 Organism 1184 1192 patients

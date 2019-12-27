@@ -1,0 +1,40 @@
+T1 Protein 349 363 growth factors
+T2 Protein 1148 1151 TKI
+T3 Condition 44 57 human cancers
+T4 Protein 385 401 oncogenic kinase
+T6 Protein 16 25 inhibitor
+T7 Species 844 848 mice
+T8 Protein 647 690 BCR-ABL fusion protein kinase–induced mouse
+T9 Level 129 140 tumor cells
+T10 Protein 980 985 DUSP1
+T11 Level 205 233 MRD stem or progenitor cells
+T12 Condition 1293 1302 leukemias
+T13 Level 629 634 tumor
+T14 Protein 539 574  and dual-specificity phosphatase 1
+T15 Protein 27 30 TKI
+T16 Protein 972 975 FOS
+T17 Protein 1218 1223 DUSP1
+T18 Protein 764 767 FOS
+T19 Level 1000 1011 tumor cells
+T20 Protein 471 516 signaling proteins FBJ osteosarcoma oncogene 
+T21 Condition 1036 1059 kinase-driven leukemias
+T22 Protein 576 581 DUSP1
+T23 Protein 1097 1102 DUSP1
+T24 Condition 700 725 chronic myeloid leukemia 
+T25 Protein 647 654 BCR-ABL
+T26 Protein 779 786 BCR-ABL
+T27 Level 894 898  CML
+T28 Protein 945 948 TKI
+T29 Protein 535 538 Fos
+T30 Level 1000 1005 tumor
+T31 Protein 604 607 Fos
+T32 Protein 612 617 Dusp1
+T33 Gene 584 600 Genetic deletion
+T34 Protein 519 522 FOS
+T35 Protein 769 774 DUSP1
+T36 Level 871 904 patient-derived primary CML cells
+T37 Protein 1256 1259 TKI
+T38 Protein 1089 1092 FOS
+T39 Level 129 134 tumor
+T40 Protein 252 268 oncogenic kinase
+T41 Protein 1210 1213 FOS

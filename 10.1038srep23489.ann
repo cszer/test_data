@@ -1,0 +1,22 @@
+T1 Protein 614 634 non-targeting PCVPTX
+T2 Biomarker 315 319  PTX
+T4 Level 652 664 SKOV-3 cells
+T8 Biomarker 628 631 PCV
+T9 Protein 415 424 fP-PCVPTX
+T10 Biomarker 702 705 PCV
+T11 Biomarker 418 421 PCV
+T12 Biomarker 567 570 PCV
+T14 Biomarker 65 76 paclitaxel 
+T15 Biomarker 77 80 PTX
+T16 Level 455 471 folate receptor 
+T18 Condition 901 907 cancer
+T19 Biomarker 271 275  PTX
+T20 Condition 749 759 anticancer
+T21 Condition 118 124 cancer
+T22 Biomarker 102 112 folic acid
+T23 Level 901 913 cancer cells
+T24 Protein 564 573 fP-PCVPTX
+T25 Biomarker 48 51 PCV
+T27 Condition 822 829 tumours
+T28 Biomarker 316 330 PTX-loaded PCV
+T30 Biomarker 347 377 alkyne-modified PEG-folic acid

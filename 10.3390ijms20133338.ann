@@ -1,0 +1,33 @@
+T1 Gene 15 81 RNA-dependent DNA polymerase with telomerase reverse transcriptase
+T2 Level 412 433 human malignant cells
+T3 Level 1313 1319 cancer
+T4 Level 618 644 normal and cancerous cells
+T5 Biomarker 692 696 TERT
+T6 Biomarker 380 384 TERT
+T7 Biomarker 835 839 TERT
+T8 Gene 29 32 DNA
+T9 Biomarker 1419 1423 TERT
+T10 Level 251 256 cells
+T11 Biomarker 1419 1431 TERT-related
+T12 Biomarker 162 166 TERT
+T14 Level 320 339 proliferative cells
+T15 Gene 49 59 telomerase
+T16 Level 428 433 cells
+T17 Protein 790 810 telomere-lengthening
+T18 Biomarker 1262 1266 TERT
+T19 Biomarker 83 87 TERT
+T20 Biomarker 1059 1063 TERT
+T22 Protein 790 798 telomere
+T23 Level 639 644 cells
+T24 Protein 162 171 TERT gene
+T25 Level 629 635 cancer
+T26 Level 1202 1208 cancer
+T28 Gene 522 532 telomerase
+T29 Level 273 278 cells
+T30 Gene 697 707 telomerase
+T31 Protein 866 894 chromatin remodeling factors
+T32 Biomarker 517 521 TERT
+T33 Gene 911 914 DNA
+T34 Protein 541 549 telomere
+T35 Level 951 959 cellular
+T36 Biomarker 1128 1132 TERT

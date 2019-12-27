@@ -1,0 +1,23 @@
+T1 Organism 1110 1122 participants
+T3 Condition 102 109 obesity
+T4 Intervention 808 812 body
+T5 Condition 1078 1091 kidney cancer
+T6 Intervention 929 933 body
+T7 Condition 204 217 kidney cancer
+T8 Intervention 642 646 body
+T9 Organism 239 251 participants
+T10 Condition 1585 1598 kidney cancer
+T11 Condition 192 199 obesity
+T12 Condition 1180 1193 kidney cancer
+T13 Organism 463 466 men
+T14 Condition 406 419 kidney cancer
+T15 Intervention 986 998 MRFIT sample
+T16 Condition 964 977 kidney cancer
+T17 Condition 725 738 kidney cancer
+T18 Disease 1561 1573 hypertension
+T19 Disease 175 187 hypertension
+T20 Organism 259 264 Women
+T21 Disease 114 126 hypertension
+T22 Condition 1506 1519 kidney cancer
+T24 Organism 540 545 Women
+T25 Intervention 383 388 blood

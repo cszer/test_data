@@ -1,0 +1,31 @@
+T2 Intervention 641 651 macrophage
+T3 Intervention 854 864 macrophage
+T4 Biomarker 552 566 nab-paclitaxel
+T5 Intervention 527 537 macrophage
+T6 Gene 674 683  cytokine
+T7 Intervention 993 1003 macrophage
+T8 Biomarker 900 914 nab-paclitaxel
+T10 Biomarker 313 327 Nab-paclitaxel
+T11 Biomarker 1066 1076 paclitaxel
+T12 Condition 195 234 pancreatic ductal adenocarcinoma tumors
+T13 Gene 741 762 nitric oxide synthase
+T14 Intervention 593 607 macropinocytic
+T15 Biomarker 802 816 Nab-paclitaxel
+T17 Intervention 989 993  M1 
+T18 Intervention 854 865 macrophages
+T19 Condition 1165 1182 pancreatic cancer
+T21 Biomarker 464 474 first-line
+T23 Intervention 837 865 tumor-associated macrophages
+T24 Biomarker 622 632 paclitaxel
+T25 Intervention 300 310 macrophage
+T26 Intervention 1080 1090 macrophage
+T27 Biomarker 397 407 paclitaxel
+T28 Protein 368 381 albumin-bound
+T29 Protein 779 793 TLR4-dependent
+T30 Protein 715 719 IFNγ
+T31 Biomarker 434 445 gemcitabine
+T32 Biomarker 618 632 nab-paclitaxel
+T33 Condition 489 506 pancreatic cancer
+T34 Intervention 641 670 macrophage immunostimulatory 
+T37 Intervention 175 182 stromal
+T38 Biomarker 1062 1076 nab-paclitaxel

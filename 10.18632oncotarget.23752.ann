@@ -1,0 +1,37 @@
+T1 Level 243 278 p16Ink4a-overexpressing tumor cells
+T2 Condition 120 126 tumors
+T3 Gene 671 675 gene
+T4 Condition 1 9 p16Ink4a
+T6 Protein 464 467 p53
+T7 Condition 175 183 p16Ink4a
+T8 Gene 727 731 gene
+T9 Level 873 877 cell
+T10 Level 87 91 cell
+T11 Gene 436 448 RAS oncogene
+T12 Condition 778 786 p16Ink4a
+T13 Level 22 26 cell
+T14 Gene 578 605 anti-cancer small molecules
+T15 Level 671 694 generated sarcoma cells
+T16 Protein 740 743 3MR
+T17 Condition 842 850 p16Ink4a
+T18 Level 223 227 cell
+T19 Protein 778 795 p16Ink4a promoter
+T20 Biomarker 569 576 ABT-737
+T21 Condition 636 644 p16Ink4a
+T22 Level 656 660 cell
+T23 Condition 1034 1042 p16Ink4a
+T24 Level 842 878 p16Ink4a-overxpressing sarcoma cells
+T25 Biomarker 557 564 ABT-263
+T26 Level 87 95 cellular
+T27 Gene 392 396 gene
+T28 Level 533 537 cell
+T29 Condition 495 503 p16Ink4a
+T30 Level 62 66 cell
+T31 Level 273 277 cell
+T32 Condition 136 145 mutations
+T33 Condition 243 251 p16Ink4a
+T34 Level 495 538 p16Ink4a-overxpressing murine sarcoma cells
+T35 Gene 932 936 gene
+T36 Condition 402 417 murine sarcomas
+T37 Level 689 693 cell
+R1 Relation Arg1:T18 Arg2:T31

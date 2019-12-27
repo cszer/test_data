@@ -1,0 +1,23 @@
+T1 Disease 1289 1315 mismatch-repair deficiency
+T3 Condition 87 93 tumors
+T4 Intervention 1029 1055 treatment-sensitive clones
+T5 Biomarker 485 495 WES-guided
+T6 Protein 1223 1234 Yale-Glioma
+T7 Condition 1204 1215 110 gliomas
+T8 Intervention 167 174 lesions
+T9 Gene 1317 1324 genomic
+T11 Protein 1657 1666 molecular
+T12 Intervention 1086 1090 ones
+T13 Organism 511 518 patient
+T14 Protein 426 435 molecular
+T16 Intervention 1051 1055 ones
+T17 Condition 1165 1169 GBMs
+T18 Intervention 606 633 treatment-induced molecular
+T19 Biomarker 678 693 decision-making
+T21 Condition 255 261 tumors
+T22 Organism 1109 1123 chromothripsis
+T23 Intervention 1639 1666 treatment-induced molecular
+T24 Protein 715 726 Yale-Glioma
+T25 Biomarker 356 367 whole-exome
+T26 Gene 1586 1593 genomic
+T27 Gene 930 937 genomic

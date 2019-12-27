@@ -1,0 +1,40 @@
+T1 Protein 464 468 ATF4
+T2 Gene 464 497 ATF4 co-occupies promoter regions
+T3 Condition 172 175 MYC
+T4 Condition 1075 1092 MYC-driven tumour
+T5 Protein 782 789 protein
+T6 Biomarker 554 564 amino acid
+T7 Intervention 723 746 MYC-induced proteotoxic
+T8 Condition 723 726 MYC
+T9 Gene 885 891 mTORC1
+T10 Gene 1037 1045 deletion
+T11 Biomarker 707 713 4E-BP1
+T12 Condition 509 512 MYC
+T13 Protein 349 353 ATF4
+T14 Level 1177 1185 cellular
+T15 Condition 1075 1078 MYC
+T16 Gene 265 287 transcription factor 4
+T17 Protein 4 18 c-Myc oncogene
+T18 Gene 425 448 uncharged transfer RNAs
+T19 Condition 317 320 MYC
+T20 Condition 1291 1297 tumour
+T21 Condition 989 992 MYC
+T22 Biomarker 864 883 rapamycin complex 1
+T23 Species 1131 1136 mouse
+T25 Condition 1198 1201 MYC
+T26 Protein 404 408 GCN2
+T27 Biomarker 661 667 4E-BP1
+T28 Protein 289 293 ATF4
+T29 Protein 569 576 protein
+T30 Protein 963 967 ATF4
+T31 Gene 937 943 mTORC1
+T32 Protein 650 657 protein
+T33 Protein 1167 1171 ATF4
+T34 Cellular_component 989 1022 MYC-induced endoplasmic reticulum
+T35 Gene 384 402 nonderepressible 2
+T36 Protein 598 659 eukaryotic translation initiation factor 4E-binding protein 1
+T37 Gene 509 525 MYC-target genes
+T38 Level 937 983 mTORC1 signalling rescues ATF4-deficient cells
+T39 Biomarker 801 807 4E-BP1
+T40 Protein 1049 1053 ATF4
+T41 Condition 333 336 MYC

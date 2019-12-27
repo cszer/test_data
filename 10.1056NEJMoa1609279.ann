@@ -1,0 +1,24 @@
+T1 Intervention 555 565 chromosome
+T3 Intervention 443 449 lesion
+T4 Intervention 443 450 lesions
+T5 CL 76 81 tumor
+T6 CL 297 302 tumor
+T7 Intervention 212 227 lung metastases
+T8 Condition 861 867 cancer
+T9 Protein 56 72 mutant KRAS G12D
+T10 Organism 123 130 patient
+T11 CL 76 106 tumor-infiltrating lymphocytes
+T12 Protein 883 889 mutant
+T14 Condition 136 164 metastatic colorectal cancer
+T16 Protein 883 899 mutant KRAS G12D
+T17 Protein 410 419 KRAS G12D
+T18 Protein 690 699  molecule
+T19 Protein 649 658  molecule
+T20 Intervention 508 514 lesion
+T21 Level 365 382 T-cell clonotypes
+T22 CL 731 736 tumor
+T23 Condition 827 836 antitumor
+T24 Protein 56 62 mutant
+T25 Gene 568 577 haplotype
+T27 CL 297 327 tumor-infiltrating lymphocytes
+T28 Protein 796 802 mutant

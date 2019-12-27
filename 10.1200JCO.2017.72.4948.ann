@@ -1,0 +1,19 @@
+T1 Organism 1303 1311 patients
+T2 Biomarker 1582 1593 gemcitabine
+T3 Biomarker 1710 1721 gemcitabine
+T4 Intervention 1228 1232 arms
+T5 Biomarker 836 848 capecitabine
+T6 Biomarker 1106 1117 gemcitabine
+T8 Condition 1391 1408 pancreatic cancer
+T9 Disease 1655 1663 toxicity
+T10 Condition 322 339 pancreatic cancer
+T11 Condition 918 950 pancreatic ductal adenocarcinoma
+T12 Organism 1368 1376 patients
+T13 Disease 1282 1290 diarrhea
+T14 Biomarker 820 865 gemcitabine and capecitabine with gemcitabine
+T15 Organism 895 903 patients
+T16 Biomarker 820 831 gemcitabine
+T17 Condition 390 403 primary tumor
+T18 Disease 1259 1277 hand-foot syndrome
+T19 Biomarker 1598 1610 capecitabine
+T20 Organism 308 316 patients

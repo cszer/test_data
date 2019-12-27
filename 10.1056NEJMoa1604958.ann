@@ -1,0 +1,48 @@
+T1 Organism 96 103 patient
+T2 Protein 1072 1076 JAK1
+T3 Condition 417 436 metastatic melanoma
+T4 Condition 949 957 mutation
+T5 Biomarker 1388 1392 PD-1
+T6 Organism 1419 1427 patients
+T7 Organism 1419 1426 patient
+T8 Condition 676 692 resistant tumors
+T9 Condition 775 783 mutation
+T11 Gene 792 796 gene
+T12 Gene 863 877 Janus kinase 2
+T13 Protein 1237 1240 B2M
+T14 Organism 717 724 patient
+T15 Biomarker 79 83 PD-1
+T16 Protein 1032 1035 B2M
+T17 Protein 1081 1085 JAK2
+T18 Organism 717 725 patients
+T20 Condition 110 118 melanoma
+T21 Organism 96 104 patients
+T22 Condition 217 222 tumor
+T23 Protein 1141 1157 interferon gamma
+T24 Condition 1252 1260 mutation
+T25 Protein 983 1030 antigen-presenting protein beta-2-microglobulin
+T26 Protein 854 858 JAK1
+T27 Condition 1433 1441 melanoma
+T28 Gene 918 934 wild-type allele
+T29 Condition 686 691 tumor
+T30 Organism 403 410 patient
+T31 Protein 597 608 Whole-exome
+T32 Condition 1097 1106 mutations
+T33 Gene 807 852 interferon-receptor–associated Janus kinase 1
+T34 Gene 965 969 gene
+T35 Level 1219 1231 cancer cells
+T36 Gene 54 77 anti–programmed death 1
+T37 Organism 403 411 patients
+T38 Protein 736 757 resistance-associated
+T39 Intervention 337 351 biopsy samples
+T40 Condition 775 784 mutations
+T41 Gene 792 797 genes
+T42 Gene 902 910 deletion
+T43 Organism 1063 1070 patient
+T44 Protein 879 883 JAK2
+T45 Gene 807 826 interferon-receptor
+T46 Gene 1498 1517 interferon-receptor
+T47 Condition 1097 1105 mutation
+T48 Gene 502 511 anti–PD-1
+T49 Condition 470 475 tumor
+T50 Condition 377 394 relapsing lesions

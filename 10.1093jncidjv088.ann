@@ -1,0 +1,45 @@
+T1 Condition 1541 1547 breast
+T2 Condition 464 470 cancer
+T3 Condition 626 632 cancer
+T4 Condition 1867 1873 cancer
+T6 Condition 249 256 cancers
+T7 Intervention 1460 1468 pancreas
+T8 Level 1335 1341 weight
+T9 Condition 1541 1554 breast cancer
+T10 Condition 249 255 cancer
+T13 Organism 986 989 men
+T14 Condition 1232 1238 cancer
+T15 Organism 1616 1621 women
+T16 Organism 1618 1621 men
+T17 Condition 1183 1195 colon cancer
+T19 Organism 1199 1202 men
+T20 Organism 833 836 men
+T21 Condition 844 850 breast
+T22 Condition 1701 1719 endometrial cancer
+T23 Condition 851 857 cancer
+T24 Condition 844 857 breast cancer
+T26 Level 1801 1807 weight
+T27 Level 204 210 weight
+T28 Condition 446 471 adiposity-related cancers
+T29 Condition 1867 1874 cancers
+T30 Level 415 421 weight
+T31 Condition 1445 1450 colon
+T32 Condition 1009 1015 cancer
+T33 Organism 1401 1406 women
+T34 Condition 997 1015 endometrial cancer
+T36 Condition 1108 1122 ovarian cancer
+T37 Condition 231 256 adiposity-related cancers
+T38 Intervention 1474 1481 thyroid
+T39 Condition 1364 1370 cancer
+T40 Condition 1364 1371 cancers
+T42 Level 1525 1531 weight
+T43 Intervention 1435 1443 prostate
+T44 Intervention 136 140 body
+T46 Intervention 34 38 body
+T48 Level 753 759 weight
+T49 Organism 890 893 men
+T50 Organism 1390 1393 men
+T52 Condition 1225 1238 kidney cancer
+T53 Organism 1452 1457 women
+T54 Level 96 102 weight
+T55 Condition 1183 1188 colon

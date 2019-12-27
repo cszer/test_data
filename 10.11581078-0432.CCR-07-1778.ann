@@ -1,0 +1,614 @@
+T1 Organism 495 511 e plus doxorubic
+T2 Protein 1267 1268  
+T3 Protein 159 160  
+T4 Protein 680 681  
+T5 Protein 1102 1103  
+T6 Protein 308 309  
+T7 Protein 811 812  
+T8 Protein 1397 1398  
+T10 Protein 1466 1467  
+T11 Organism 580 589  or dopam
+T12 Gene 51 115 vascular permeability factor/vascular endothelial growth factor 
+T13 Protein 1671 1672  
+T14 Protein 1160 1161  
+T15 Biomarker 244 252 dopamine
+T16 Protein 546 547  
+T17 Protein 776 777  
+T18 Protein 1758 1759  
+T19 Condition 839 844 tumor
+T20 Biomarker 1348 1353 dopam
+T21 Protein 1086 1087  
+T22 Biomarker 726 734 dopamine
+T23 Protein 390 391  
+T24 Protein 418 419  
+T25 Protein 875 876  
+T27 Protein 1575 1576  
+T28 Protein 1732 1733  
+T29 Protein 1716 1717  
+T30 Protein 565 566  
+T31 Protein 612 613  
+T32 Protein 15 16  
+T33 Protein 940 941  
+T34 Protein 170 171  
+T35 Protein 1711 1712  
+T36 Protein 722 723  
+T37 Protein 734 735  
+T38 Protein 1133 1134  
+T39 Condition 1012 1017 tumor
+T40 Protein 1432 1433  
+T41 Protein 1586 1587  
+T42 Condition 1092 1102 anticancer
+T43 Protein 1220 1221  
+T44 Protein 472 473  
+T45 Protein 1318 1319  
+T46 Organism 516 533  MCF-7 tumor-bear
+T47 Protein 1275 1276  
+T48 Protein 1109 1110  
+T49 Protein 1504 1505  
+T50 Protein 905 906  
+T51 Protein 1761 1762  
+T52 Protein 976 977  
+T53 Biomarker 827 835 dopamine
+T54 Protein 202 203  
+T55 Protein 1650 1651  
+T56 Protein 715 716  
+T57 Biomarker 1062 1070 Dopamine
+T58 Gene 1461 1466  VEGF
+T59 Condition 647 652 tumor
+T60 Protein 1383 1384  
+T61 Condition 523 528 tumor
+T62 Protein 1244 1245  
+T63 Condition 839 853 tumor vascular
+T64 Protein 1676 1677  
+T65 Biomarker 330 338 dopamine
+T66 Biomarker 488 496 dopamine
+T67 Protein 1146 1147  
+T68 Protein 1851 1852  
+T69 Organism 468 482 e or doxorubic
+T70 Protein 1667 1668  
+T71 Protein 1369 1370  
+T72 Protein 1823 1824  
+T73 Protein 469 470  
+T74 Protein 1785 1786  
+T75 Gene 870 875  VEGF
+T76 Protein 1522 1523  
+T77 Protein 815 816  
+T78 Protein 1401 1402  
+T79 Protein 1787 1788  
+T80 Organism 516 523  MCF-7 
+T81 Protein 289 290  
+T82 Protein 166 167  
+T83 Protein 615 616  
+T84 Protein 785 786  
+T85 Protein 1150 1151  
+T86 Protein 453 454  
+T87 Protein 536 537  
+T88 Protein 191 192  
+T89 Protein 1311 1312  
+T91 Protein 1438 1439  
+T92 Protein 1446 1447  
+T93 Biomarker 461 469 dopamine
+T94 Protein 396 397  
+T95 Biomarker 244 249 dopam
+T96 Condition 1306 1316 tumor cell
+T97 Protein 947 948  
+T98 Protein 186 187  
+T99 Protein 1458 1459  
+T100 Biomarker 1348 1356 dopamine
+T101 Protein 1581 1582  
+T102 Protein 1741 1742  
+T103 Protein 711 712  
+T104 Protein 770 771  
+T105 Protein 802 803  
+T106 Protein 652 653  
+T107 Protein 1040 1041  
+T108 Protein 931 932  
+T109 Protein 1372 1373  
+T110 Biomarker 1587 1595 dopamine
+T111 Protein 88 89  
+T112 Protein 542 543  
+T113 Protein 1179 1180  
+T114 Biomarker 827 832 dopam
+T115 Protein 1174 1175  
+T116 Protein 1694 1695  
+T117 Protein 212 213  
+T118 Protein 1123 1124  
+T119 Protein 1420 1421  
+T120 Protein 1819 1820  
+T121 Protein 870 871  
+T122 Protein 748 749  
+T123 Protein 1461 1462  
+T124 Protein 129 130  
+T125 Protein 867 868  
+T126 Protein 1091 1092  
+T127 Biomarker 1209 1214 dopam
+T128 Biomarker 554 562 dopamine
+T129 Protein 72 73  
+T130 Protein 1538 1539  
+T131 Protein 59 60  
+T132 Protein 779 780  
+T133 Protein 235 236  
+T134 Protein 270 295 efficacies of these drugs
+T135 Protein 968 969  
+T136 Protein 1193 1194  
+T137 Protein 1735 1736  
+T138 Biomarker 584 592 dopamine
+T139 Protein 1706 1707  
+T140 Biomarker 726 731 dopam
+T141 Protein 1765 1766  
+T142 Protein 146 147  
+T143 Protein 326 327  
+T144 Protein 265 266  
+T145 Protein 513 514  
+T146 Protein 1260 1261  
+T147 Protein 1609 1610  
+T148 Protein 50 51  
+T149 Protein 1169 1170  
+T150 Protein 1282 1283  
+T151 Protein 823 824  
+T152 Protein 386 387  
+T153 Organism 615 625  HT29-bear
+T154 Protein 696 697  
+T155 Protein 460 461  
+T156 Biomarker 330 335 dopam
+T157 Condition 1847 1858  and colon 
+T158 Protein 761 762  
+T159 Protein 1231 1232  
+T160 Protein 1795 1796  
+T161 Protein 1411 1412  
+T162 Protein 1827 1828  
+T163 Protein 707 708  
+T164 Organism 561 589 e or 5-fluorouracil or dopam
+T165 Biomarker 1587 1592 dopam
+T166 Protein 1203 1204  
+T167 Protein 1217 1218  
+T168 Protein 1837 1838  
+T169 Protein 142 143  
+T170 Level 1306 1317 tumor cells
+T171 Protein 501 502  
+T172 Protein 1360 1361  
+T173 Protein 790 791  
+T174 Protein 1208 1209  
+T175 Protein 1035 1036  
+T176 Protein 1798 1799  
+T177 Biomarker 1717 1725 dopamine
+T178 Protein 209 210  
+T179 Condition 1221 1231 anticancer
+T180 Biomarker 1209 1217 dopamine
+T181 Protein 737 738  
+T182 Protein 844 845  
+T183 Protein 1414 1415  
+T184 Protein 1618 1619  
+T185 Biomarker 554 559 dopam
+T186 Protein 364 365  
+T187 Protein 553 554  
+T188 Protein 701 702  
+T189 Protein 1293 1294  
+T190 Protein 1726 1727  
+T191 Protein 1164 1165  
+T192 Protein 1512 1513  
+T193 Protein 1322 1323  
+T194 Level 1012 1035 tumor endothelial cells
+T195 Protein 100 101  
+T196 Protein 1847 1848  
+T197 Protein 1237 1238  
+T198 Protein 1633 1634  
+T199 Protein 32 33  
+T200 Level 765 776 tumor cells
+T201 Protein 597 598  
+T202 Protein 338 339  
+T203 Protein 660 661  
+T204 Protein 1278 1279  
+T205 Protein 444 445  
+T206 Condition 1306 1311 tumor
+T207 Condition 1841 1864 breast and colon cancer
+T208 Protein 764 765  
+T209 Protein 853 854  
+T210 Protein 371 372  
+T211 Condition 1415 1420 tumor
+T212 Protein 925 926  
+T213 Protein 1008 1009  
+T214 Protein 1071 1072  
+T216 Protein 1253 1254  
+T217 Protein 1347 1348  
+T218 Protein 114 115  
+T219 Protein 921 922  
+T220 Organism 535 541 g mice
+T221 Biomarker 33 41 dopamine
+T222 Protein 1645 1646  
+T223 Organism 417 423 g mice
+T224 Biomarker 1717 1722 dopam
+T225 Protein 926 947 focal adhesion kinase
+T226 Protein 1691 1692  
+T227 Protein 319 320  
+T228 Protein 358 359  
+T229 Protein 1661 1662  
+T230 Protein 41 42  
+T231 Protein 1516 1517  
+T232 Biomarker 1245 1253 Dopamine
+T233 Condition 386 397  and colon 
+T234 Protein 1622 1623  
+T235 Protein 243 244  
+T236 Protein 826 827  
+T237 Condition 192 202 anticancer
+T238 Protein 1636 1637  
+T239 Protein 1257 1258  
+T240 Protein 149 150  
+T241 Protein 1074 1075  
+T242 Protein 887 888  
+T243 Protein 484 485  
+T244 Protein 592 593  
+T245 Protein 741 742  
+T246 Protein 1517 1538 focal adhesion kinase
+T247 Protein 1029 1030  
+T248 Condition 1134 1139 tumor
+T249 Protein 107 108  
+T250 Protein 1813 1814  
+T251 Protein 998 999  
+T252 Protein 1531 1532  
+T254 Protein 1780 1781  
+T255 Protein 222 223  
+T256 Biomarker 488 493 dopam
+T257 Protein 424 425  
+T258 Protein 1496 1497  
+T259 Protein 1792 1793  
+T260 Protein 1139 1140  
+T261 Protein 964 965  
+T262 Protein 838 839  
+T263 Biomarker 461 466 dopam
+T264 Protein 280 281  
+T265 Protein 355 356  
+T267 Condition 675 685 tumor cell
+T268 Protein 1857 1858  
+T269 Level 1415 1438 tumor endothelial cells
+T270 Protein 913 914  
+T271 Protein 329 330  
+T272 Protein 342 343  
+T273 Protein 256 257  
+T274 Protein 403 404  
+T275 Protein 562 563  
+T276 Protein 1356 1357  
+T277 Condition 765 775 tumor cell
+T278 Protein 1595 1596  
+T279 Protein 1774 1775  
+T280 Protein 1840 1841  
+T281 Protein 725 726  
+T282 Organism 591 613 e plus 5-fluorouracil 
+T283 Protein 1289 1290  
+T284 Protein 1011 1012  
+T285 Protein 487 488  
+T286 Protein 835 836  
+T287 Protein 1686 1687  
+T288 Protein 252 253  
+T289 Protein 1344 1345  
+T291 Protein 1017 1018  
+T292 Protein 1753 1754  
+T294 Gene 51 79 vascular permeability factor
+T295 Protein 1305 1306  
+T296 Protein 646 647  
+T297 Protein 973 974  
+T298 Biomarker 33 38 dopam
+T299 Protein 634 635  
+T300 Condition 1651 1661 anticancer
+T301 Protein 752 753  
+T302 Protein 1302 1303  
+T303 Protein 1337 1338  
+T304 Protein 269 270  
+T305 Protein 1478 1479  
+T306 Protein 980 981  
+T307 Organism 484 493  or dopam
+T308 Protein 674 675  
+T309 Condition 675 680 tumor
+T310 Protein 580 581  
+T311 Protein 583 584  
+T312 Protein 628 629  
+T313 Protein 516 517  
+T314 Protein 685 686  
+T315 Organism 627 633 g mice
+T316 Protein 994 995  
+R1 Relation Arg1:T3 Arg2:T6
+R2 Relation Arg1:T3 Arg2:T34
+R3 Relation Arg1:T3 Arg2:T54
+R4 Relation Arg1:T3 Arg2:T82
+R5 Relation Arg1:T3 Arg2:T88
+R6 Relation Arg1:T3 Arg2:T95
+R7 Relation Arg1:T3 Arg2:T98
+R8 Relation Arg1:T111 Arg2:T3
+R9 Relation Arg1:T3 Arg2:T117
+R10 Relation Arg1:T124 Arg2:T3
+R11 Relation Arg1:T131 Arg2:T3
+R12 Relation Arg1:T3 Arg2:T133
+R13 Relation Arg1:T3 Arg2:T144
+R14 Relation Arg1:T148 Arg2:T3
+R15 Relation Arg1:T169 Arg2:T3
+R16 Relation Arg1:T3 Arg2:T178
+R17 Relation Arg1:T195 Arg2:T3
+R18 Relation Arg1:T218 Arg2:T3
+R19 Relation Arg1:T3 Arg2:T227
+R20 Relation Arg1:T230 Arg2:T3
+R21 Relation Arg1:T249 Arg2:T3
+R22 Relation Arg1:T3 Arg2:T264
+R23 Relation Arg1:T3 Arg2:T273
+R24 Relation Arg1:T34 Arg2:T6
+R25 Relation Arg1:T54 Arg2:T6
+R26 Relation Arg1:T82 Arg2:T6
+R27 Relation Arg1:T95 Arg2:T6
+R28 Relation Arg1:T111 Arg2:T6
+R29 Relation Arg1:T124 Arg2:T6
+R30 Relation Arg1:T133 Arg2:T6
+R31 Relation Arg1:T144 Arg2:T6
+R32 Relation Arg1:T148 Arg2:T6
+R33 Relation Arg1:T195 Arg2:T6
+R34 Relation Arg1:T218 Arg2:T6
+R35 Relation Arg1:T240 Arg2:T6
+R36 Relation Arg1:T249 Arg2:T6
+R37 Relation Arg1:T264 Arg2:T6
+R38 Relation Arg1:T273 Arg2:T6
+R39 Relation Arg1:T288 Arg2:T6
+R40 Relation Arg1:T304 Arg2:T6
+R41 Relation Arg1:T34 Arg2:T15
+R42 Relation Arg1:T54 Arg2:T15
+R43 Relation Arg1:T82 Arg2:T15
+R44 Relation Arg1:T98 Arg2:T15
+R45 Relation Arg1:T111 Arg2:T15
+R46 Relation Arg1:T117 Arg2:T15
+R47 Relation Arg1:T124 Arg2:T15
+R48 Relation Arg1:T133 Arg2:T15
+R49 Relation Arg1:T15 Arg2:T143
+R50 Relation Arg1:T169 Arg2:T15
+R51 Relation Arg1:T178 Arg2:T15
+R52 Relation Arg1:T15 Arg2:T227
+R53 Relation Arg1:T249 Arg2:T15
+R54 Relation Arg1:T15 Arg2:T264
+R55 Relation Arg1:T34 Arg2:T54
+R56 Relation Arg1:T34 Arg2:T81
+R57 Relation Arg1:T34 Arg2:T82
+R58 Relation Arg1:T34 Arg2:T88
+R59 Relation Arg1:T34 Arg2:T95
+R60 Relation Arg1:T34 Arg2:T98
+R61 Relation Arg1:T111 Arg2:T34
+R62 Relation Arg1:T34 Arg2:T117
+R63 Relation Arg1:T124 Arg2:T34
+R64 Relation Arg1:T131 Arg2:T34
+R65 Relation Arg1:T34 Arg2:T133
+R66 Relation Arg1:T34 Arg2:T144
+R67 Relation Arg1:T148 Arg2:T34
+R68 Relation Arg1:T169 Arg2:T34
+R69 Relation Arg1:T34 Arg2:T178
+R70 Relation Arg1:T195 Arg2:T34
+R71 Relation Arg1:T218 Arg2:T34
+R72 Relation Arg1:T240 Arg2:T34
+R73 Relation Arg1:T249 Arg2:T34
+R74 Relation Arg1:T34 Arg2:T264
+R75 Relation Arg1:T34 Arg2:T273
+R76 Relation Arg1:T34 Arg2:T288
+R77 Relation Arg1:T34 Arg2:T304
+R78 Relation Arg1:T82 Arg2:T54
+R79 Relation Arg1:T54 Arg2:T95
+R80 Relation Arg1:T98 Arg2:T54
+R81 Relation Arg1:T111 Arg2:T54
+R82 Relation Arg1:T54 Arg2:T117
+R83 Relation Arg1:T124 Arg2:T54
+R84 Relation Arg1:T131 Arg2:T54
+R85 Relation Arg1:T54 Arg2:T133
+R86 Relation Arg1:T54 Arg2:T143
+R87 Relation Arg1:T148 Arg2:T54
+R88 Relation Arg1:T54 Arg2:T178
+R89 Relation Arg1:T195 Arg2:T54
+R90 Relation Arg1:T218 Arg2:T54
+R91 Relation Arg1:T240 Arg2:T54
+R92 Relation Arg1:T249 Arg2:T54
+R93 Relation Arg1:T54 Arg2:T264
+R94 Relation Arg1:T54 Arg2:T288
+R95 Relation Arg1:T54 Arg2:T304
+R96 Relation Arg1:T82 Arg2:T81
+R97 Relation Arg1:T111 Arg2:T81
+R98 Relation Arg1:T117 Arg2:T81
+R99 Relation Arg1:T131 Arg2:T81
+R100 Relation Arg1:T133 Arg2:T81
+R101 Relation Arg1:T81 Arg2:T143
+R102 Relation Arg1:T148 Arg2:T81
+R103 Relation Arg1:T178 Arg2:T81
+R104 Relation Arg1:T195 Arg2:T81
+R105 Relation Arg1:T218 Arg2:T81
+R106 Relation Arg1:T81 Arg2:T227
+R107 Relation Arg1:T249 Arg2:T81
+R108 Relation Arg1:T264 Arg2:T81
+R109 Relation Arg1:T304 Arg2:T81
+R110 Relation Arg1:T82 Arg2:T88
+R111 Relation Arg1:T82 Arg2:T95
+R112 Relation Arg1:T82 Arg2:T98
+R113 Relation Arg1:T111 Arg2:T82
+R114 Relation Arg1:T82 Arg2:T117
+R115 Relation Arg1:T124 Arg2:T82
+R116 Relation Arg1:T131 Arg2:T82
+R117 Relation Arg1:T82 Arg2:T133
+R118 Relation Arg1:T82 Arg2:T144
+R119 Relation Arg1:T148 Arg2:T82
+R120 Relation Arg1:T169 Arg2:T82
+R121 Relation Arg1:T82 Arg2:T178
+R122 Relation Arg1:T195 Arg2:T82
+R123 Relation Arg1:T218 Arg2:T82
+R124 Relation Arg1:T240 Arg2:T82
+R125 Relation Arg1:T249 Arg2:T82
+R126 Relation Arg1:T82 Arg2:T264
+R127 Relation Arg1:T82 Arg2:T288
+R128 Relation Arg1:T82 Arg2:T304
+R129 Relation Arg1:T111 Arg2:T88
+R130 Relation Arg1:T124 Arg2:T88
+R131 Relation Arg1:T195 Arg2:T88
+R132 Relation Arg1:T218 Arg2:T88
+R133 Relation Arg1:T240 Arg2:T88
+R134 Relation Arg1:T249 Arg2:T88
+R135 Relation Arg1:T88 Arg2:T304
+R136 Relation Arg1:T98 Arg2:T95
+R137 Relation Arg1:T111 Arg2:T95
+R138 Relation Arg1:T117 Arg2:T95
+R139 Relation Arg1:T124 Arg2:T95
+R140 Relation Arg1:T133 Arg2:T95
+R141 Relation Arg1:T95 Arg2:T143
+R142 Relation Arg1:T178 Arg2:T95
+R143 Relation Arg1:T218 Arg2:T95
+R144 Relation Arg1:T95 Arg2:T264
+R145 Relation Arg1:T111 Arg2:T98
+R146 Relation Arg1:T98 Arg2:T117
+R147 Relation Arg1:T124 Arg2:T98
+R148 Relation Arg1:T131 Arg2:T98
+R149 Relation Arg1:T98 Arg2:T133
+R150 Relation Arg1:T98 Arg2:T143
+R151 Relation Arg1:T98 Arg2:T144
+R152 Relation Arg1:T148 Arg2:T98
+R153 Relation Arg1:T169 Arg2:T98
+R154 Relation Arg1:T98 Arg2:T178
+R155 Relation Arg1:T195 Arg2:T98
+R156 Relation Arg1:T218 Arg2:T98
+R157 Relation Arg1:T98 Arg2:T227
+R158 Relation Arg1:T240 Arg2:T98
+R159 Relation Arg1:T249 Arg2:T98
+R160 Relation Arg1:T98 Arg2:T264
+R161 Relation Arg1:T98 Arg2:T273
+R162 Relation Arg1:T98 Arg2:T288
+R163 Relation Arg1:T98 Arg2:T304
+R164 Relation Arg1:T111 Arg2:T117
+R165 Relation Arg1:T111 Arg2:T124
+R166 Relation Arg1:T131 Arg2:T111
+R167 Relation Arg1:T111 Arg2:T133
+R168 Relation Arg1:T111 Arg2:T142
+R169 Relation Arg1:T111 Arg2:T143
+R170 Relation Arg1:T148 Arg2:T111
+R171 Relation Arg1:T111 Arg2:T169
+R172 Relation Arg1:T111 Arg2:T178
+R173 Relation Arg1:T111 Arg2:T195
+R174 Relation Arg1:T199 Arg2:T111
+R175 Relation Arg1:T111 Arg2:T218
+R176 Relation Arg1:T111 Arg2:T227
+R177 Relation Arg1:T230 Arg2:T111
+R178 Relation Arg1:T111 Arg2:T240
+R179 Relation Arg1:T111 Arg2:T249
+R180 Relation Arg1:T111 Arg2:T264
+R181 Relation Arg1:T111 Arg2:T288
+R182 Relation Arg1:T111 Arg2:T304
+R183 Relation Arg1:T124 Arg2:T117
+R184 Relation Arg1:T131 Arg2:T117
+R185 Relation Arg1:T117 Arg2:T133
+R186 Relation Arg1:T117 Arg2:T144
+R187 Relation Arg1:T148 Arg2:T117
+R188 Relation Arg1:T117 Arg2:T178
+R189 Relation Arg1:T195 Arg2:T117
+R190 Relation Arg1:T218 Arg2:T117
+R191 Relation Arg1:T240 Arg2:T117
+R192 Relation Arg1:T249 Arg2:T117
+R193 Relation Arg1:T117 Arg2:T264
+R194 Relation Arg1:T117 Arg2:T288
+R195 Relation Arg1:T117 Arg2:T304
+R196 Relation Arg1:T131 Arg2:T124
+R197 Relation Arg1:T124 Arg2:T133
+R198 Relation Arg1:T124 Arg2:T142
+R199 Relation Arg1:T148 Arg2:T124
+R200 Relation Arg1:T124 Arg2:T169
+R201 Relation Arg1:T124 Arg2:T178
+R202 Relation Arg1:T195 Arg2:T124
+R203 Relation Arg1:T199 Arg2:T124
+R204 Relation Arg1:T218 Arg2:T124
+R205 Relation Arg1:T230 Arg2:T124
+R206 Relation Arg1:T124 Arg2:T240
+R207 Relation Arg1:T249 Arg2:T124
+R208 Relation Arg1:T124 Arg2:T273
+R209 Relation Arg1:T124 Arg2:T288
+R210 Relation Arg1:T124 Arg2:T304
+R211 Relation Arg1:T131 Arg2:T133
+R212 Relation Arg1:T131 Arg2:T142
+R213 Relation Arg1:T131 Arg2:T144
+R214 Relation Arg1:T131 Arg2:T148
+R215 Relation Arg1:T131 Arg2:T169
+R216 Relation Arg1:T131 Arg2:T178
+R217 Relation Arg1:T131 Arg2:T195
+R218 Relation Arg1:T131 Arg2:T218
+R219 Relation Arg1:T131 Arg2:T227
+R220 Relation Arg1:T230 Arg2:T131
+R221 Relation Arg1:T131 Arg2:T240
+R222 Relation Arg1:T131 Arg2:T249
+R223 Relation Arg1:T131 Arg2:T264
+R224 Relation Arg1:T131 Arg2:T273
+R225 Relation Arg1:T131 Arg2:T304
+R226 Relation Arg1:T133 Arg2:T143
+R227 Relation Arg1:T133 Arg2:T144
+R228 Relation Arg1:T169 Arg2:T133
+R229 Relation Arg1:T178 Arg2:T133
+R230 Relation Arg1:T218 Arg2:T133
+R231 Relation Arg1:T133 Arg2:T227
+R232 Relation Arg1:T240 Arg2:T133
+R233 Relation Arg1:T133 Arg2:T264
+R234 Relation Arg1:T133 Arg2:T273
+R235 Relation Arg1:T133 Arg2:T288
+R236 Relation Arg1:T133 Arg2:T304
+R237 Relation Arg1:T148 Arg2:T142
+R238 Relation Arg1:T169 Arg2:T142
+R239 Relation Arg1:T195 Arg2:T142
+R240 Relation Arg1:T218 Arg2:T142
+R241 Relation Arg1:T230 Arg2:T142
+R242 Relation Arg1:T249 Arg2:T142
+R243 Relation Arg1:T178 Arg2:T143
+R244 Relation Arg1:T195 Arg2:T143
+R245 Relation Arg1:T264 Arg2:T143
+R246 Relation Arg1:T288 Arg2:T143
+R247 Relation Arg1:T148 Arg2:T144
+R248 Relation Arg1:T178 Arg2:T144
+R249 Relation Arg1:T195 Arg2:T144
+R250 Relation Arg1:T144 Arg2:T227
+R251 Relation Arg1:T240 Arg2:T144
+R252 Relation Arg1:T148 Arg2:T169
+R253 Relation Arg1:T148 Arg2:T178
+R254 Relation Arg1:T148 Arg2:T195
+R255 Relation Arg1:T199 Arg2:T148
+R256 Relation Arg1:T148 Arg2:T218
+R257 Relation Arg1:T148 Arg2:T227
+R258 Relation Arg1:T230 Arg2:T148
+R259 Relation Arg1:T148 Arg2:T240
+R260 Relation Arg1:T148 Arg2:T249
+R261 Relation Arg1:T148 Arg2:T264
+R262 Relation Arg1:T148 Arg2:T273
+R263 Relation Arg1:T148 Arg2:T304
+R264 Relation Arg1:T169 Arg2:T178
+R265 Relation Arg1:T195 Arg2:T169
+R266 Relation Arg1:T199 Arg2:T169
+R267 Relation Arg1:T218 Arg2:T169
+R268 Relation Arg1:T169 Arg2:T227
+R269 Relation Arg1:T230 Arg2:T169
+R270 Relation Arg1:T169 Arg2:T240
+R271 Relation Arg1:T249 Arg2:T169
+R272 Relation Arg1:T169 Arg2:T264
+R273 Relation Arg1:T169 Arg2:T304
+R274 Relation Arg1:T195 Arg2:T178
+R275 Relation Arg1:T218 Arg2:T178
+R276 Relation Arg1:T240 Arg2:T178
+R277 Relation Arg1:T249 Arg2:T178
+R278 Relation Arg1:T178 Arg2:T264
+R279 Relation Arg1:T178 Arg2:T288
+R280 Relation Arg1:T178 Arg2:T304
+R281 Relation Arg1:T199 Arg2:T195
+R282 Relation Arg1:T195 Arg2:T218
+R283 Relation Arg1:T230 Arg2:T195
+R284 Relation Arg1:T195 Arg2:T240
+R285 Relation Arg1:T195 Arg2:T249
+R286 Relation Arg1:T195 Arg2:T264
+R287 Relation Arg1:T199 Arg2:T218
+R288 Relation Arg1:T199 Arg2:T230
+R289 Relation Arg1:T199 Arg2:T249
+R290 Relation Arg1:T218 Arg2:T227
+R291 Relation Arg1:T230 Arg2:T218
+R292 Relation Arg1:T218 Arg2:T240
+R293 Relation Arg1:T218 Arg2:T249
+R294 Relation Arg1:T230 Arg2:T227
+R295 Relation Arg1:T240 Arg2:T227
+R296 Relation Arg1:T249 Arg2:T227
+R297 Relation Arg1:T264 Arg2:T227
+R298 Relation Arg1:T273 Arg2:T227
+R299 Relation Arg1:T230 Arg2:T240
+R300 Relation Arg1:T230 Arg2:T249
+R301 Relation Arg1:T230 Arg2:T273
+R302 Relation Arg1:T249 Arg2:T240
+R303 Relation Arg1:T240 Arg2:T264
+R304 Relation Arg1:T240 Arg2:T273
+R305 Relation Arg1:T249 Arg2:T273
+R306 Relation Arg1:T288 Arg2:T264

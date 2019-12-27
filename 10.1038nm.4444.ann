@@ -1,0 +1,33 @@
+T1 Protein 882 887 TRBC2
+T2 Protein 471 476 TRBC2
+T4 Level 890 897 T cells
+T5 Level 563 571  normal 
+T6 Level 1123 1131  T cells
+T7 Level 807 815  T cells
+T8 Protein 866 871 TRBC1
+T9 Level 287 297 pan–T cell
+T10 Level 844 852  normal 
+T11 Level 889 897  T cells
+T13 Level 808 815 T cells
+T14 Protein 515 520 TRBC1
+T15 Level 494 502 antibody
+T16 Protein 633 638 TRBC2
+T17 Protein 309 328 prohibitively toxic
+T18 Protein 727 736 anti-TRBC
+T20 Condition 1071 1088 T cell malignancy
+T21 Level 1116 1124  normal 
+T22 Level 252 260  T cells
+T24 Condition 662 674 malignancies
+T25 Protein 765 774 anti-TRBC
+T26 Condition 944 952 leukemia
+T27 Condition 590 607 T cell population
+T28 Level 1144 1152 cellular
+T29 Gene 765 802 anti-TRBC1 chimeric antigen receptor 
+T30 Protein 622 627 TRBC1
+T31 Condition 236 244 healthy 
+T32 CL 269 275 B cell
+T33 Condition 575 608 virus-specific T cell populations
+T34 Condition 1006 1023 T cell population
+T35 Species 929 934 mouse
+T36 Gene 411 459 T cell receptor β-chain constant domains 1 and 2
+R1 Relation Arg1:T31 Arg2:T22

@@ -1,0 +1,14 @@
+T1 CL 547 553 T cell
+T2 Condition 948 954 cancer
+T3 Species 465 471 humans
+T4 Condition 107 113 cancer
+T5 Biomarker 477 493 thymus atrophies
+T6 Condition 153 170 genetic mutations
+T7 Condition 161 169 mutation
+T8 Condition 776 782 cancer
+T9 Condition 834 840 cancer
+T10 CL 1005 1011 T cell
+T11 Condition 9 15 cancer
+T12 Condition 439 447 mutation
+T13 Condition 834 841 cancers
+T14 Gene_or_gene_product 585 588 ∼16

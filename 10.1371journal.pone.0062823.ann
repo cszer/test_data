@@ -1,0 +1,48 @@
+T1 Protein 1439 1443 mTOR
+T2 Condition 54 74 genitourinary cancer
+T3 Level 845 856 simvastatin
+T4 Level 630 650 A498 and 786-O cells
+T5 Level 497 501 cell
+T6 Level 414 418 cell
+T7 Protein 1005 1008 RCC
+T8 Level 1009 1013 cell
+T10 Level 459 470 simvastatin
+T11 Level 615 619 cell
+T12 Level 1391 1400 RCC cells
+T13 Protein 1435 1438 AKT
+T14 Level 783 794 simvastatin
+T15 Level 1170 1181 simvastatin
+T16 Protein 1058 1062 mTOR
+T17 Gene 261 271  reductase
+T18 Level 6 10 cell
+T19 Organism 737 746 nude mice
+T20 Level 395 419 simvastatin on RCC cells
+T21 Level 395 406 simvastatin
+T22 Condition 1203 1208 tumor
+T23 Protein 1232 1244 IL-6-induced
+T24 Level 1492 1503 simvastatin
+T25 Protein 1363 1378 anti-metastasis
+T26 Intervention 513 519 colony
+T27 Protein 1562 1565 RCC
+T28 Level 1325 1336 simvastatin
+T29 Protein 1053 1056 AKT
+T30 Gene 213 252 3-hydroxy-3-methyl glutaryl coenzyme A 
+T31 Condition 708 717 xenograft
+T32 Level 944 955 simvastatin
+T33 Condition 765 770 tumor
+T34 Protein 1264 1268 JAK2
+T35 Level 1395 1399 cell
+T36 Condition 316 322 cancer
+T37 Protein 22 25 RCC
+T38 Level 645 649 cell
+T39 Level 583 594 simvastatin
+T40 Protein 1459 1464 STAT3
+T41 Protein 1325 1344 simvastatin-induced
+T42 Organism 1562 1574 RCC patients
+T43 Protein 1445 1448 ERK
+T44 Protein 1273 1278 STAT3
+T46 Protein 410 413 RCC
+T47 Level 1005 1014 RCC cells
+T48 Protein 1454 1458 JAK2
+T49 Protein 1068 1071 ERK
+T50 Protein 1391 1394 RCC

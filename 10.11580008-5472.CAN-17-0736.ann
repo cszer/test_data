@@ -1,0 +1,62 @@
+T2 Level 432 436 cell
+T3 Disease 233 247 aggressiveness
+T4 Protein 317 322 BUB1B
+T5 Condition 691 697 tumors
+T6 Protein 748 753 BUB1B
+T7 Condition 289 298 GBM tumor
+T8 Level 1120 1124 cell
+T9 Protein 1239 1245 BUB1BS
+T10 Protein 1342 1346 drug
+T11 Protein 1065 1071 BUB1BS
+T13 Protein 514 519 BUB1B
+T14 Protein 1065 1070 BUB1B
+T15 Protein 1239 1244 BUB1B
+T16 Protein 977 983 BUB1BR
+T17 Protein 977 982 BUB1B
+T18 Biomarker 1132 1143 microtubule
+T19 Protein 720 726 BUB1BS
+T21 Gene 1043 1047 gene
+T22 Protein 1316 1330 Raf inhibitors
+T23 Gene 1276 1314 type I and II topoisomerase inhibitors
+T24 Condition 1474 1483 GBM tumor
+T25 Protein 731 736 BUB1B
+T26 Level 455 478 neural progenitor cells
+T27 Condition 1474 1484 GBM tumors
+T28 Gene 703 718 BUB1B-sensitive
+T29 Protein 1532 1536 drug
+T30 Level 473 477 cell
+T31 Protein 703 708 BUB1B
+T32 Condition 868 873 tumor
+T33 Protein 165 198 spindle checkpoint molecule BUB1B
+T34 Protein 991 996 BUB1B
+T35 Level 418 437 GBM stem-like cells
+T36 Organism 801 816 BUB1BS patients
+T37 Condition 25 28 GBM
+T38 Condition 691 696 tumor
+T39 Protein 262 266 drug
+T40 Protein 720 725 BUB1B
+T41 Protein 1342 1347 drugs
+T42 Gene 392 396 gene
+T43 Protein 748 754 BUB1BR
+T44 Organism 667 675 patients
+T45 Gene 956 963 genomic
+T46 Gene 1043 1048 genes
+T47 Condition 640 645 tumor
+T48 Protein 1447 1452 BUB1B
+T49 Condition 289 292 GBM
+T50 Level 439 449 astrocytes
+T51 Protein 1447 1453 BUB1BR
+T53 Protein 1065 1082 BUB1BS classifier
+T54 Intervention 1162 1172 chromosome
+T56 Protein 991 997 BUB1BS
+T57 Protein 801 806 BUB1B
+T58 Protein 68 77 desperate
+T59 Protein 801 807 BUB1BS
+T60 Condition 418 421 GBM
+T62 Biomarker 342 365 kinetochore–microtubule
+T63 Protein 1199 1203 drug
+T64 Protein 731 746 BUB1B-resistant
+T65 Level 1239 1251 BUB1BS cells
+T66 Condition 1474 1477 GBM
+T67 Level 1246 1250 cell
+T68 Protein 595 600 BUB1B

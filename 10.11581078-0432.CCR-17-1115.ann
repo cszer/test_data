@@ -1,0 +1,68 @@
+T2 Biomarker 1611 1622 amino acids
+T3 Gene 1719 1726 genetic
+T4 Protein 1161 1163 CQ
+T6 Condition 432 438 tumors
+T7 Biomarker 2124 2134 phenformin
+T8 Condition 463 467 PDXs
+T9 Biomarker 1116 1121 BPTES
+T10 Biomarker 757 760 DCA
+T11 Condition 89 121 pancreatic ductal adenocarcinoma
+T12 Condition 1127 1131 PDXs
+T14 Condition 230 260 patient-derived PDAC xenograft
+T15 Condition 1831 1836 tumor
+T16 Gene 1195 1199 Gene
+T17 Biomarker 1423 1438 phenformin gene
+T18 Biomarker 1951 1961 Phenformin
+T19 Protein 1463 1466 NIH
+T21 Condition 427 437 PDAC tumor
+T22 Condition 1871 1876 tumor
+T23 Protein 1754 1759 SMAD4
+T24 Condition 246 250 PDAC
+T26 Gene 299 306 genomic
+T28 Condition 1871 1877 tumors
+T29 Organism 405 409 Mice
+T30 Condition 158 163 tumor
+T31 Condition 999 1003 PDXs
+T32 Condition 1536 1540 PDXs
+T33 Protein 796 798 CQ
+T34 Condition 322 327 tumor
+T35 Condition 427 438 PDAC tumors
+T36 Biomarker 1640 1660 oxidized glutathione
+T37 Condition 2161 2178 pancreatic cancer
+T38 Condition 322 328 tumors
+T39 Condition 1280 1297 pancreatic tumors
+T40 Level 1489 1511 Network-based Cellular
+T41 Biomarker 839 849 phenformin
+T42 Biomarker 1569 1579 phenformin
+T44 Condition 2002 2007 tumor
+T45 Condition 1866 1876 PDAC tumor
+T46 Condition 1997 2007 PDAC tumor
+T47 Condition 1291 1296 tumor
+T48 Biomarker 783 794 chloroquine
+T49 Condition 1827 1836 antitumor
+T50 Protein 541 544 PBS
+T51 Biomarker 1368 1378 phenformin
+T52 Biomarker 1719 1723 gene
+T53 Protein 805 828 mitochondrial complex I
+T54 Biomarker 1005 1014 Metformin
+T56 Condition 432 437 tumor
+T57 Protein 1764 1779 PTENConclusions
+T58 Condition 924 929 tumor
+T59 Condition 1997 2001 PDAC
+T60 Condition 154 163 antitumor
+T61 Biomarker 1423 1433 phenformin
+T62 Biomarker 1137 1140 DCA
+T63 Biomarker 646 651 BPTES
+T64 Protein 1742 1746 KRAS
+T65 Biomarker 1781 1791 Phenformin
+T66 Condition 427 431 PDAC
+T68 Condition 2034 2039 tumor
+T69 Condition 123 127 PDAC
+T70 Biomarker 1311 1315 gene
+T71 Protein 1748 1752 TP53
+T72 Condition 1866 1877 PDAC tumors
+R1 Relation Arg1:T34 Arg2:T29
+R2 Relation Arg1:T38 Arg2:T29
+R3 Relation Arg1:T69 Arg2:T29
+R4 Relation Arg1:T69 Arg2:T34
+R5 Relation Arg1:T69 Arg2:T38

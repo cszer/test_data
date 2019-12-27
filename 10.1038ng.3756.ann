@@ -1,0 +1,20 @@
+T1 Organism 359 366 patient
+T2 Organism 969 976 patient
+T3 Organism 221 228 patient
+T4 Condition 253 262 mutations
+T5 Organism 1116 1124 patients
+T6 Condition 309 315 cancer
+T7 Organism 969 977 patients
+T8 Organism 91 98 patient
+T9 Condition 101 107 cancer
+T11 Organism 1116 1123 patient
+T12 Condition 397 400 AML
+T13 Organism 353 367 1,540 patients
+T14 Condition 687 700 Cancer Genome
+T15 Organism 671 678 patient
+T16 CL 935 953 hematopoietic cell
+T17 Organism 671 679 patients
+T19 Condition 982 986  AML
+T20 Condition 373 396 acute myeloid leukemia 
+T21 Condition 76 85 mutations
+R1 Relation Arg1:T3 Arg2:T6

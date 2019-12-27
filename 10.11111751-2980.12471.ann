@@ -1,0 +1,37 @@
+T1 Condition 1270 1275 tumor
+T2 Protein 400 408 post‐RCT
+T3 Condition 883 888 tumor
+T4 Condition 821 826 tumor
+T6 Protein 450 460 E‐cadherin
+T7 Organism 222 230 patients
+T8 Intervention 487 502 solid glandular
+T9 Condition 1069 1074 tumor
+T10 Condition 236 249 rectal cancer
+T11 Condition 821 834 tumor samples
+T12 Intervention 859 875 primary biopsies
+T14 Protein 1125 1139 tumor‐specific
+T15 Protein 1325 1343 E‐cadherin protein
+T16 Condition 346 363 RCT and 213 tumor
+T17 Condition 465 470 tumor
+T18 Gene 1034 1054 Post‐RCT single‐cell
+T19 Condition 1125 1130 tumor
+T20 Intervention 1424 1434 metastases
+T21 Intervention 1375 1381 biopsy
+T22 Protein 1497 1505 post‐RCT
+T23 Intervention 925 931 biopsy
+T24 Condition 94 99 tumor
+T25 Protein 1270 1284 tumor‐specific
+T26 Intervention 164 193 neoadjuvant radiochemotherapy
+T27 Intervention 552 558 tissue
+T28 Condition 997 1002 tumor
+T29 Condition 1598 1603 tumor
+T30 Protein 45 55 E‐cadherin
+T31 Protein 428 435 Protein
+T32 Organism 1692 1710 high‐risk patients
+T33 Condition 1385 1398 rectal cancer
+T34 Protein 997 1011 tumor‐specific
+T35 Condition 130 143 rectal cancer
+T36 Cellular_component 1497 1524 post‐RCT resection specimen
+T37 Protein 703 713 E‐cadherin
+T38 Protein 1325 1335 E‐cadherin
+T39 Protein 896 906 E‐cadherin

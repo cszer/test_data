@@ -1,0 +1,24 @@
+T1 Condition 78 84 tumors
+T2 Condition 332 337 tumor
+T3 Condition 544 549 tumor
+T4 Condition 78 83 tumor
+T5 Level 272 284 immune cells
+T6 Protein 312 314 DA
+T7 Biomarker 823 831 dopamine
+T8 Gene 256 259 DRs
+T9 Level 528 534  cells
+T10 Gene 242 254 DA receptors
+T11 Biomarker 97 105 dopamine
+T13 Protein 242 244 DA
+T15 Condition 364 374 anticancer
+T16 Condition 368 374 cancer
+T17 CL 584 599 natural killer 
+T18 Protein 107 109 DA
+T19 Condition 154 159 tumor
+T20 Level 603 609  cells
+T21 Condition 695 712 pancreatic cancer
+T22 Organism 154 168 tumor patients
+T24 Condition 706 712 cancer
+T25 Level 456 477 immune effector cells
+T27 Protein 650 652 DA
+R1 Relation Arg1:T18 Arg2:T19

@@ -1,0 +1,46 @@
+T1 Biomarker 313 317 TCRs
+T2 Biomarker 29 32 MR1
+T3 Level 843 847 cell
+T4 Level 838 848 MR1T cells
+T5 Level 334 354 MR1-expressing cells
+T6 Intervention 198 213 T cell lineages
+T8 Biomarker 983 986 MR1
+T9 Biomarker 252 255 MR1
+T10 Gene 404 420 MR1T cell clones
+T11 Protein 704 722 chemokine receptor
+T12 Biomarker 282 285 MR1
+T13 Level 676 680 cell
+T14 Biomarker 671 674 MR1
+T15 Protein 975 986 surface MR1
+T16 Biomarker 152 155 MR1
+T17 Level 269 273 cell
+T18 Biomarker 1073 1076 MR1
+T19 Level 252 274 MR1-restricted T cells
+T20 Gene 671 687 MR1T cell clones
+T21 Level 88 124 mucosal-associated invariant T cells
+T22 Level 927 939 target cells
+T23 Biomarker 1018 1021 MR1
+T24 Level 349 353 cell
+T25 Level 287 291 cell
+T26 Level 1117 1121 cell
+T27 Biomarker 838 841 MR1
+T28 Level 1029 1083 microbial antigen presentation and indicate MR1T cells
+T29 Level 455 459 cell
+T30 Biomarker 334 337 MR1
+T31 Level 934 938 cell
+T32 Protein 768 786 effector molecules
+T33 Level 282 292 MR1T cells
+T34 Level 409 413 cell
+T35 Level 1109 1132 human T cell repertoire
+T36 Biomarker 404 407 MR1
+T37 Level 200 204 cell
+T38 Level 1078 1082 cell
+T39 Gene 868 881 T helper-like
+T40 Level 119 123 cell
+T42 Biomarker 898 911 MR1-dependent
+T43 Biomarker 898 901 MR1
+T44 Biomarker 58 84 folate-related metabolites
+R1 Relation Arg1:T9 Arg2:T1
+R2 Relation Arg1:T12 Arg2:T1
+R3 Relation Arg1:T12 Arg2:T30
+R4 Relation Arg1:T30 Arg2:T36

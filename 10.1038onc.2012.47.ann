@@ -1,0 +1,65 @@
+T1 Organism 1258 1269 AA-enhanced
+T2 Gene 855 863  mTORC1 
+T3 Protein 641 645 mTOR
+T4 Protein 35 39 mTOR
+T5 Condition 1311 1316 tumor
+T6 Protein 4 33 mammalian target of rapamycin
+T7 Protein 1360 1369 rapamycin
+T8 Gene 384 453  strongly correlated with the signaling activity of mTORC1 and mTORC2
+T9 Condition 574 587 breast cancer
+T11 Gene 989 1010 ras homolog enriched 
+T12 Biomarker 1232 1237 COX-2
+T14 Gene 1012 1016  bra
+T15 Protein 24 33 rapamycin
+T16 Gene 625 640 mTOR complex 1 
+T17 Organism 1284 1295 rat mammary
+T18 Protein 919 923 mTOR
+T19 Condition 1532 1545 breast cancer
+T20 Intervention 254 261 mammary
+T21 Organism 1243 1249 animal
+T22 Condition 547 552 tumor
+T23 Condition 102 109 cancers
+T24 Condition 534 560 human breast tumor tissues
+T25 Gene 648 659  and mTORC2
+T26 Protein 1072 1074 AA
+T27 Protein 1131 1135 mTOR
+T28 Protein 1258 1260 AA
+T29 Protein 625 629 mTOR
+T30 Protein 1442 1446 mTOR
+T31 Protein 676 678 AA
+T32 Condition 1296 1301 tumor
+T33 Gene 1456 1473 AA-activated mTOR
+T35 Protein 1469 1473 mTOR
+T36 Gene 740 769 phosphatidylinositol 3-kinase
+T37 Gene 350 377 cytosolic phospholipase A2 
+T38 Gene 918 926  mTORC1 
+T39 Gene 490 524 vascular epithelial growth factor 
+T40 Protein 343 345 AA
+T41 Protein 1456 1458 AA
+T42 Gene 962 973 mTOR-raptor
+T43 Protein 242 244 AA
+T44 Biomarker 771 776 PI3-K
+T45 Protein 436 440 mTOR
+T46 Level 565 593 cultured breast cancer cells
+T47 Protein 447 451 mTOR
+T48 Biomarker 727 738 amino acids
+T49 Protein 129 131 AA
+T50 Protein 653 657 mTOR
+T51 Protein 595 597 AA
+T52 Protein 1168 1170 AA
+T53 Condition 194 207 breast cancer
+T54 Protein 905 907 AA
+T55 Gene 435 443  mTORC1 
+T56 Gene 111 127 Arachidonic acid
+T57 Protein 690 694 mTOR
+T58 Protein 1201 1204 LOX
+T59 Intervention 1416 1429 intracellular
+T60 Condition 262 267 tumor
+T61 Protein 962 966 mTOR
+T62 Protein 1397 1399 AA
+T63 Protein 812 816 TSC2
+T64 Protein 1214 1230 cyclooxygenase-2
+T65 Condition 1515 1520 tumor
+T66 Protein 856 860 mTOR
+T68 Protein 1187 1199 lipoxygenase
+T69 Gene 782 810 tuberous sclerosis complex 2

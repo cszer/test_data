@@ -1,0 +1,74 @@
+T2 Biomarker 937 943  ara-C
+T3 Gene 841 847 SAMHD1
+T5 Biomarker 262 268  ara-C
+T6 Biomarker 1642 1648  ara-C
+T8 Gene 1541 1547 SAMHD1
+T9 Level 1481 1488 patient
+T11 Level 189 193  AML
+T12 Biomarker 146 160 anthracyclines
+T13 Level 1699 1706 patient
+T14 Biomarker 48 53 ara-C
+T15 Level 355 366  AML blasts
+T16 Biomarker 1510 1516  ara-C
+T17 Biomarker 423 428 ara-C
+T18 Gene 1778 1784 SAMHD1
+T20 Level 1458 1461 Vpx
+T21 Disease 1135 1161 ara-C-induced cytotoxicity
+T23 Organism 221 228 adults1
+T24 Level 355 359  AML
+T25 Level 1496 1500  AML
+T27 Biomarker 893 899  ara-C
+T28 Condition 98 125 acute myelogenous leukemia 
+T29 Condition 1871 1897 hematological malignancies
+T33 Level 625 632 patient
+T34 Biomarker 161 167  ara-C
+T35 Gene 654 663  ara-CTP 
+T36 Organism 1604 1612 patients
+T37 Gene 938 948 ara-CTPase
+T38 Protein 488 491 DNA
+T39 Biomarker 15 47 deoxycytidine analog cytarabine 
+T42 Level 1458 1507 Vpx sensitized primary patient-derived AML blasts
+T43 Gene 893 902  ara-CTP 
+T45 Level 1604 1611 patient
+T46 Biomarker 880 901 intracellular ara-CTP
+T47 Gene 1315 1325 wild-type 
+T48 Level 972 977 cells
+T49 Condition 126 129 AML
+T51 Protein 453 456 DNA
+T53 Organism 1366 1371 Mouse
+T54 Gene 403 422 ara-C triphosphate 
+T56 Level 1788 1791 Vpx
+T57 Biomarker 1423 1429  ara-C
+T58 Level 1625 1629  AML
+T59 Intervention 706 726 ara-C treatment7,8,9
+T60 Biomarker 1739 1755 proof-of-concept
+T61 Biomarker 654 660  ara-C
+T62 Gene 1202 1206 gene
+T63 Organism 208 216 children
+T66 Biomarker 1721 1727  ara-C
+T67 Gene 1216 1222 SAMHD1
+T68 Level 1216 1239 SAMHD1 sensitized cells
+T70 Biomarker 705 711  ara-C
+T72 Level 655 676 ara-CTP accumulation 
+T73 Biomarker 1134 1140  ara-C
+T75 Gene_or_gene_product 1163 1183 CRISPR–Cas9-mediated
+T76 Biomarker 792 839  triphosphohydrolase SAM domain and HD domain 1
+T77 Gene 1358 1364 SAMHD1
+T78 Level 678 689  AML blasts
+T79 Gene 987 993 SAMHD1
+T80 Condition 1086 1098  protein Vpx
+T84 Biomarker 402 408  ara-C
+T86 Gene 909 927 Recombinant SAMHD1
+T87 Biomarker 1242 1248  ara-C
+T88 Level 1381 1385  AML
+T89 Biomarker 1852 1858  ara-C
+T90 Biomarker 306 312  ara-C
+T93 Biomarker 757 786 deoxynucleoside triphosphate 
+T94 Level 678 682  AML
+T95 Condition 1051 1081 simian immunodeficiency virus 
+T97 Gene 1394 1400 SAMHD1
+T99 Biomarker 591 597  ara-C
+T101 Gene 1666 1672 SAMHD1
+T102 Level 232 236  AML
+R1 Relation Arg1:T34 Arg2:T11
+R2 Relation Arg1:T34 Arg2:T102

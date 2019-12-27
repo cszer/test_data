@@ -1,0 +1,40 @@
+T1 Level 1600 1606  PDAC 
+T2 Level 738 770 human peripheral blood monocytes
+T4 Level 1279 1283 TAMs
+T5 Protein 48 52 PDAC
+T6 Intervention 585 615 tumor-infiltrating macrophages
+T7 Protein 1353 1356 2DG
+T8 Condition 381 386 tumor
+T10 Condition 887 892 tumor
+T11 Condition 1567 1572 tumor
+T12 Protein 992 1008 vascular network
+T13 Condition 381 387 tumors
+T14 Intervention 1567 1597 tumor-infiltrating macrophages
+T15 Protein 1601 1605 PDAC
+T16 Condition 1047 1052 tumor
+T17 Level 917 921 TAMs
+T18 Biomarker 650 664 pro-metastatic
+T19 Gene 1316 1329 Hexokinase II
+T20 Condition 689 694 tumor
+T21 Intervention 1667 1681 pharmacologics
+T22 Protein 631 635 PDAC
+T23 Level 1047 1058 tumor cells
+T24 Condition 585 590 tumor
+T25 Biomarker 496 502 oxygen
+T26 Level 843 849  PDAC 
+T27 Level 823 859 normal pancreatic or PDAC cell lines
+T28 Protein 1303 1312 inhibitor
+T29 Intervention 1114 1119  TAMs
+T31 Intervention 1278 1283  TAMs
+T32 Protein 1331 1334 HK2
+T33 Intervention 977 982  TAMs
+T34 Biomarker 1390 1404 pro-metastatic
+T35 Intervention 952 976 steady-state macrophages
+T36 Condition 317 322 tumor
+T37 Gene 1230 1245 gene transcript
+T38 Intervention 870 916 steady-state and tumor-associated macrophages 
+T39 Protein 844 848 PDAC
+T40 Biomarker 1337 1351 2-deoxyglucose
+T41 Intervention 689 718 tumor-conditioned macrophages
+T42 Condition 262 267 tumor
+R1 Relation Arg1:T42 Arg2:T36

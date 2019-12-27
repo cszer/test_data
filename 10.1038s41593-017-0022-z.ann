@@ -1,0 +1,28 @@
+T1 Protein 69 89 RNA binding proteins
+T2 Gene 334 356 tau oligomers and RBPs
+T3 Intervention 629 652 neurofibrillary tangles
+T4 Level 679 687 neuronal
+T5 Protein 654 658 TIA1
+T6 Condition 914 931 neurodegeneration
+T7 Biomarker 880 895 tau aggregation
+T8 Protein 164 168 TIA1
+T9 Protein 396 400 TIA1
+T10 Biomarker 880 883 tau
+T11 Intervention 580 603 neurofibrillary tangles
+T12 Biomarker 537 540 tau
+T13 Protein 91 95 RBPs
+T14 Intervention 709 719 behavioral
+T15 Organism 360 385 transgenic P301S Tau mice
+T16 Biomarker 1019 1022 tau
+T17 Condition 195 212 neurodegeneration
+T18 Protein 784 788 TIA1
+T19 Biomarker 334 337 tau
+T20 Gene 128 162 RBP T-cell intracellular antigen 1
+T21 Intervention 434 456 granules co-localizing
+T22 Protein 497 501 TIA1
+T23 Biomarker 36 39 tau
+T24 Protein 297 310 co-enrichment
+T25 Organism 238 263 transgenic P301S Tau mice
+T27 Condition 462 484 stress granule markers
+T28 Disease 819 827 toxicity
+T29 Protein 853 857 RBPs

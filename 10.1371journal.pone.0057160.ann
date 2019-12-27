@@ -1,0 +1,45 @@
+T1 Condition 856 858 VM
+T2 Level 303 320 endothelial cells
+T3 Organism 946 957 Nicotimamid
+T4 Gene 644 648 gene
+T5 Intervention 1786 1796 neoplastic
+T6 Condition 1821 1833 malignancies
+T7 Condition 1000 1002 VM
+T8 Biomarker 1280 1301 biologically-relevant
+T9 Level 1461 1465 Cell
+T10 Organism 138 146 melanoma
+T11 Biomarker 1340 1352 nicotinamide
+T12 Biomarker 715 727 Nicotinamide
+T14 Condition 1624 1626 VM
+T15 Condition 711 713 VM
+T16 Condition 1180 1182 VM
+T17 Level 1377 1390 melanoma cell
+T18 Biomarker 578 583 amide
+T19 Organism 348 356 melanoma
+T20 Gene 1125 1136 VE-Cadherin
+T22 Organism 138 155 melanoma patients
+T23 Gene 1094 1123 vascular endothelial cadherin
+T24 Biomarker 1541 1553 nicotinamide
+T25 Biomarker 1056 1068 nicotinamide
+T26 Biomarker 1347 1352 amide
+T27 Level 47 93 vascular channels composed only of tumor cells
+T28 Condition 1624 1636 VM and tumor
+T29 Level 503 510 lesions
+T30 Biomarker 571 583 nicotinamide
+T31 Level 682 690 cellular
+T32 Biomarker 615 621 niacin
+T33 Condition 382 384 VM
+T34 Level 426 448 human melanoma lesions
+T35 Protein 1056 1075 nicotinamide-driven
+T38 Gene 1247 1252 genes
+T40 Level 470 483 cell cultures
+T41 Organism 1377 1385 melanoma
+T42 Intervention 516 521 tubes
+T43 Gene 1247 1251 gene
+T44 Condition 22 24 VM
+T45 Gene 603 613 vitamin B3
+T48 Biomarker 589 594 amide
+T49 Condition 1660 1662 VM
+T50 Organism 432 440 melanoma
+T51 Condition 767 769 VM
+T52 Biomarker 984 996 nicotinamide

@@ -1,0 +1,35 @@
+T2 Protein 913 918 NF-κB
+T4 Gene 1615 1619 gene
+T5 Condition 1549 1553 cell
+T6 Gene 1295 1299 gene
+T7 Condition 632 645 breast cancer
+T8 Gene 1136 1140 gene
+T9 Gene 129 133 gene
+T10 Intervention 1562 1568 tissue
+T12 Condition 46 51 tumor
+T13 Gene 585 589 gene
+T14 Intervention 1132 1141 metagenes
+T15 Gene 984 988 gene
+T16 Organism 1195 1202 patient
+T17 Gene 1514 1518 gene
+T18 Condition 73 77 cell
+T19 Condition 476 480 cell
+T20 Protein 1389 1394 NF-κB
+T21 Condition 1349 1362 breast cancer
+T22 Level 1549 1557 cellular
+T23 Protein 1022 1027 NF-κB
+T24 Protein 738 743 NF-κB
+T25 Gene 258 262 gene
+T26 Gene 997 1001 gene
+T27 Condition 164 170 cancer
+T28 Condition 632 650 breast cancer cell
+T29 Condition 321 325 cell
+T30 Condition 934 938 cell
+T31 Condition 1071 1075 cell
+T32 Condition 1273 1277 cell
+T33 Gene 495 499 gene
+T34 Condition 1597 1610 breast cancer
+T35 Gene_or_gene_product 516 531 protein–protein
+T36 Condition 1179 1184 tumor
+T38 Gene 886 890 gene
+T39 Protein 771 776 NF-κB

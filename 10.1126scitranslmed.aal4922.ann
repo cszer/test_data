@@ -1,0 +1,30 @@
+T1 Organism 1015 1035 Brca1-deficient mice
+T2 Biomarker 845 854 Cisplatin
+T4 Condition 333 339 tumors
+T5 Gene 1636 1657 BRCA1-associated TNBC
+T6 Gene 751 756 genes
+T7 Protein 767 772 PDCD1
+T8 CL 673 703 tumor-infiltrating lymphocytes
+T9 Condition 144 150 tumors
+T10 Gene 294 306 hypermutated
+T11 Condition 255 268 breast cancer
+T12 Condition 521 542 Brca1-deficient tumor
+T13 Condition 1484 1505 Brca1-deficient tumor
+T14 CL 1133 1147 dendritic cell
+T15 Protein 692 702 lymphocyte
+T16 Biomarker 774 778 PD-1
+T17 Protein 402 412 lymphocyte
+T18 Protein 784 789 CTLA4
+T20 Condition 807 813  TNBCs
+T21 Protein 884 960 anti-programmed death-1 and anti-cytotoxic T lymphocyte-associated antigen 4
+T22 Organism 808 843 TNBCs from BRCA1-wild-type patients
+T23 Condition 1071 1083 intratumoral
+T24 Condition 1484 1506 Brca1-deficient tumors
+T25 Intervention 1438 1447 cisplatin
+T26 Condition 316 339 BRCA1-associated tumors
+T27 Level 1354 1380 cytokine-producing T cells
+T28 Condition 550 595 BRCA1-mutated triple-negative breast cancers 
+T29 Protein 929 939 lymphocyte
+T30 Level 67 77 anticancer
+T31 Level 993 1002 antitumor
+T32 Condition 276 282 tumors

@@ -1,0 +1,39 @@
+T1 Gene 868 877 oncogenes
+T2 Intervention 507 516 chromatin
+T3 Condition 1183 1187 PTEN
+T4 Gene 72 81 deletions
+T5 Protein 14 17 GBM
+T6 Condition 420 424 PTEN
+T7 Condition 535 539 PTEN
+T8 Condition 998 1002 PTEN
+T9 Gene 444 452 oncogene
+T10 Gene 478 482 DAXX
+T11 Protein 535 549 PTEN enzymatic
+T12 Protein 761 773 H3.3 genomic
+T13 Condition 126 130 PTEN
+T14 Condition 707 711 PTEN
+T15 Condition 86 95 mutations
+T16 Gene 980 993 chromosome 10
+T17 Protein 1183 1196 PTEN deletion
+T18 Organism 945 964 GBM patient samples
+T19 Condition 822 828 tumour
+T20 Condition 46 64 human brain cancer
+T21 Condition 701 736 human PTEN-deficient glioma samples
+T22 Gene 889 893 DAXX
+T23 Gene 573 577 DAXX
+T24 Intervention 258 267 chromatin
+T25 Condition 382 386 PTEN
+T26 Condition 103 109 tumour
+T27 Gene 1073 1077 DAXX
+T28 Protein 945 948 GBM
+T29 Condition 1024 1030 cancer
+T30 Condition 926 930 PTEN
+T31 Gene 868 876 oncogene
+T32 Species 681 685 mice
+T33 Condition 822 845 tumour suppressor genes
+T34 Gene 402 406 DAXX
+T36 Gene 334 338 DAXX
+T37 Gene 316 338 histone chaperone DAXX
+T38 Gene 103 131 tumour suppressor gene PTEN 
+T39 Condition 291 295 PTEN
+T40 Condition 613 619 tumour

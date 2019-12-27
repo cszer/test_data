@@ -1,0 +1,21 @@
+T7 Condition 658 664 cancer
+T8 Condition 551 557 cancer
+T9 Organism 618 633 p53 mutant mice
+T10 Organism 243 254 mutant mice
+T11 Species 107 111 mice
+T12 Condition 399 427 mouse strain prone to cancer
+T13 Protein 189 198  mutation
+T14 Gene_or_gene_product 596 608 Cry mutation
+T17 Gene 362 367  Cry 
+T18 Species 629 633 mice
+T19 Protein 366 375  mutation
+T20 Condition 542 557 increase cancer
+T21 Level 728 744 p53 mutant cells
+T22 Protein 441 453 p53 mutation
+T24 Gene_or_gene_product 363 375 Cry mutation
+T27 Condition 215 230 increase cancer
+T28 Protein 444 453  mutation
+T30 Condition 76 82 cancer
+T32 Protein 599 608  mutation
+T33 Condition 224 230 cancer
+T36 Condition 865 871 cancer

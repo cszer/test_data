@@ -1,0 +1,38 @@
+T1 Biomarker 468 486 phosphatidylserine
+T2 Biomarker 706 710  dye
+T3 Level 1128 1145 human fibroblasts
+T4 Level 1329 1347 noncancerous cells
+T5 Intervention 1021 1028 extract
+T6 Protein 1429 1432 DRE
+T7 Cellular_component 567 589 mitochondrial membrane
+T8 Intervention 1016 1020 root
+T10 Biomarker 1101 1109 prodeath
+T11 Condition 1286 1292 cancer
+T12 Level 177 225 aggressive and resistant pancreatic cancer cells
+T13 Biomarker 428 435 Hoechst
+T14 Biomarker 623 628 JC-1 
+T15 Cellular_component 914 925 aqueous DRE
+T16 Level 1269 1298 human pancreatic cancer cells
+T17 Intervention 932 939 extract
+T18 Protein 1210 1213 DRE
+T19 Protein 133 136 DRE
+T21 Condition 1404 1410 cancer
+T22 Condition 11 28 Pancreatic cancer
+T23 Protein 836 852 light chain 3-II
+T24 Intervention 119 123 root
+T25 Intervention 109 131 dandelion root extract
+T26 Biomarker 760 780 monodansylcadaverine
+T27 Cellular_component 515 530 plasma membrane
+T28 Condition 1332 1338 cancer
+T29 Protein 248 251 DRE
+T31 Cellular_component 1056 1078 mitochondrial membrane
+T32 Condition 213 219 cancer
+T33 Intervention 494 507 outer leaflet
+T34 Biomarker 272 277 WST-1
+T35 Intervention 404 411 nuclear
+T36 Level 861 895 BxPC-3 and PANC-1 pancreatic cells
+T37 CL 366 380 Apoptotic cell
+R1 Relation Arg1:T24 Arg2:T19
+R2 Relation Arg1:T19 Arg2:T32
+R3 Relation Arg1:T24 Arg2:T29
+R4 Relation Arg1:T32 Arg2:T29

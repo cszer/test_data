@@ -1,0 +1,28 @@
+T1 Biomarker 987 1009 aldehyde dehydrogenase
+T2 Biomarker 483 495 temozolomide
+T3 Protein 1469 1474 CUSP9
+T4 Protein 694 699 CUSP9
+T5 Protein 966 969 AKT
+T6 Protein 137 142 CUSP9
+T7 Protein 129 135 CUSP9*
+T8 Gene 1099 1110 cathepsin B
+T9 Protein 137 143 CUSP9*
+T11 Protein 0 5 CUSP9
+T12 Biomarker 1220 1232 neurokinin-1
+T13 Protein 1469 1475 CUSP9*
+T14 Gene 1252 1273 thioredoxin reductase
+T15 Condition 39 51 glioblastoma
+T16 Protein 1234 1238 p-gp
+T17 Gene 1153 1187 matrix metalloproteinase -2 and -9
+T18 Protein 874 880 CUSP9*
+T19 Condition 541 561 primary glioblastoma
+T20 Condition 420 432 glioblastoma
+T21 Protein 755 772 compassionate-use
+T22 Condition 1431 1443 glioblastoma
+T23 Biomarker 1209 1218 rapamycin
+T24 Protein 129 134 CUSP9
+T25 Protein 1122 1135 interleukin-6
+T26 Protein 1137 1151 5-lipoxygenase
+T27 Protein 874 879 CUSP9
+T28 Protein 1112 1120 Hedgehog
+R1 Relation Arg1:T7 Arg2:T24

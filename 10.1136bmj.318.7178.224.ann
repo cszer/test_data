@@ -1,0 +1,35 @@
+T1 Condition 971 978 patient
+T2 Condition 1292 1307 advanced cancer
+T4 Condition 249 255 cancer
+T5 Biomarker 574 595 Di Bella multitherapy
+T6 Condition 302 308 cancer
+T7 Protein 552 557 drugs
+T8 Condition 1278 1285 patient
+T9 Condition 1019 1027 patients
+T10 Biomarker 627 659 Cyclophosphamide and hydroxyurea
+T11 Condition 333 340 patient
+T12 Biomarker 529 537 retinoid
+T13 Condition 971 979 patients
+T14 Disease 792 800 toxicity
+T15 Condition 1087 1093 cancer
+T16 Condition 1138 1145 patient
+T17 Condition 926 934 patients
+T18 Condition 1062 1070 patients
+T19 Condition 1019 1026 patient
+T20 Biomarker 513 523 octreotide
+T21 Biomarker 55 76 Di Bella multitherapy
+T23 Condition 885 892 patient
+T24 Condition 84 94 antitumour
+T25 Protein 497 509 somatostatin
+T26 Biomarker 475 488 bromocriptine
+T27 Condition 926 933 patient
+T28 Condition 1062 1069 patient
+T29 Biomarker 464 473 Melatonin
+T30 Condition 333 341 patients
+T31 Condition 1278 1286 patients
+T32 Condition 347 362 advanced cancer
+T33 Condition 1040 1046 cancer
+T34 Condition 1138 1146 patients
+T35 Condition 611 619 patients
+T36 Condition 611 618 patient
+T37 Biomarker 1220 1241 Di Bella multitherapy

@@ -1,0 +1,58 @@
+T1 Biomarker 206 217 invadopodia
+T2 Condition 1850 1866 β2-adrenoceptors
+T3 Biomarker 69 80 invadopodia
+T4 Condition 1991 2001 β-blockers
+T5 Level 411 421 tumor cell
+T6 Level 52 62 tumor cell
+T10 Level 1276 1286 tumor cell
+T12 Biomarker 495 507 β-adrenergic
+T13 Biomarker 886 900 β-adrenoceptor
+T14 Level 548 561 breast cancer
+T15 Intervention 1215 1229 focal adhesion
+T16 Condition 2012 2028 β2-adrenoceptors
+T17 Level 417 421 cell
+T18 Gene 1119 1122 Src
+T20 Level 1547 1557 tumor cell
+T21 Level 548 567 breast cancer cells
+T22 Biomarker 781 792 invadopodia
+T23 Level 1702 1712 tumor cell
+T24 Level 52 63 tumor cells
+T25 Species 827 832 mouse
+T26 Level 472 476 cell
+T27 Level 939 971 invadopodia-positive tumor cells
+T28 Level 854 867 breast cancer
+T29 Biomarker 372 383 invadopodia
+T30 Cellular_component 1304 1342 three-dimensional extracellular matrix
+T31 Biomarker 1176 1187 invadopodia
+T32 Level 966 970 cell
+T33 Level 305 309 cell
+T34 Cellular_component 132 140 cellular
+T35 Level 1459 1463 cell
+T36 Biomarker 1630 1641 invadopodia
+T37 Biomarker 1057 1080 β2-adrenoceptor subtype
+T38 Biomarker 1143 1154 invadopodia
+T39 Level 990 1010 invadopodia per cell
+T40 Level 305 310 cells
+T42 Cellular_component 127 147 extracellular matrix
+T44 Level 1797 1807 tumor cell
+T46 Level 2044 2048 cell
+T49 Biomarker 1885 1896 invadopodia
+T50 Level 1553 1557 cell
+T51 Cellular_component 1322 1342 extracellular matrix
+T52 Biomarker 616 627 invadopodia
+T56 Level 2038 2048 tumor cell
+T57 Level 562 567 cells
+T59 Cellular_component 109 147 three-dimensional extracellular matrix
+T60 Level 654 658 cell
+T62 Cellular_component 1327 1335 cellular
+T63 Cellular_component 588 596 cellular
+T64 Level 1006 1010 cell
+T65 Level 562 566 cell
+T66 Cellular_component 1454 1474 extracellular matrix
+T67 Level 1392 1403 tumor cells
+T68 Level 588 592 cell
+T69 Condition 1419 1433 primary tumors
+T70 Level 1327 1331 cell
+T73 Level 1398 1403 cells
+T74 Biomarker 939 950 invadopodia
+T76 Biomarker 990 1001 invadopodia

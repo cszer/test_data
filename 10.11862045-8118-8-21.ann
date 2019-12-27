@@ -1,0 +1,61 @@
+T1 Biomarker 1200 1202 Aβ
+T2 Biomarker 442 444 Aβ
+T3 Gene 1252 1258  RAGE 
+T4 Condition 48 74 neurodegenerative diseases
+T5 Biomarker 1287 1292 LRP-2
+T6 Protein 288 293 brain
+T7 Gene 1456 1470 Aβ transporter
+T8 Intervention 584 598 choroid plexus
+T9 Biomarker 815 829 P-glycoprotein
+T10 Intervention 603 614  epithelium
+T11 Protein 1234 1238 P-gp
+T12 Biomarker 1367 1369 Aβ
+T13 Intervention 312 345 blood-cerebrospinal fluid barrier
+T14 Protein 1527 1529 CP
+T15 Gene 1252 1257  RAGE
+T16 Biomarker 1739 1741 Aβ
+T17 Gene 1530 1544 Aβ transporter
+T18 Biomarker 734 736 Aβ
+T19 Biomarker 1580 1584 Aβ42
+T21 Gene 875 907 advanced glycation end-products 
+T22 Protein 179 187 AD brain
+T23 Protein 1527 1545 CP Aβ transporters
+T24 Immaterial_anatomical_entity 140 147 amyloid
+T25 Biomarker 838 843 LRP-2
+T26 Protein 347 352 BCSFB
+T27 Protein 1527 1530 CP 
+T28 Gene 561 575 Aβ transporter
+T29 Protein 1730 1735 BCSFB
+T30 Protein 921 926 BCSFB
+T31 Protein 209 214 brain
+T32 Biomarker 1530 1532 Aβ
+T33 Biomarker 398 400 Aβ
+T34 Immaterial_anatomical_entity 140 152 amyloid-beta
+T35 Biomarker 561 563 Aβ
+T36 Protein 600 602 CP
+T39 Protein 845 852 megalin
+T40 Protein 1339 1344 BCSFB
+T41 Gene 734 748 Aβ transporter
+T42 Protein 241 246 brain
+T43 Protein 1298 1300 CP
+T44 Protein 1605 1607 CP
+T45 Biomarker 1224 1229 LRP-1
+T46 Biomarker 807 812 LRP-1
+T47 Protein 1494 1507 Age-dependent
+T48 Intervention 1300 1311  epithelium
+T49 Condition 178 181  AD
+T50 Biomarker 1580 1582 Aβ
+T51 Biomarker 1367 1371 Aβ42
+T52 Gene 913 955  at the BCSFB in Brown-Norway/Fischer rats
+T53 Protein 1298 1301 CP 
+T54 Protein 831 835 P-gp
+T55 Immaterial_anatomical_entity 514 521 amyloid
+T56 Protein 536 541 brain
+T57 Biomarker 229 231 Aβ
+T58 Protein 1393 1395 CP
+T59 Biomarker 163 165 Aβ
+T60 Protein 1140 1142 CP
+T61 Biomarker 1456 1458 Aβ
+R1 Relation Arg1:T49 Arg2:T57
+R2 Relation Arg1:T59 Arg2:T49
+R3 Relation Arg1:T59 Arg2:T57

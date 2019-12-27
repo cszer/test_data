@@ -1,0 +1,41 @@
+T1 Biomarker 396 398 ER
+T2 Condition 395 399  ER 
+T3 Protein 666 669 AKT
+T4 Biomarker 635 637 ER
+T5 Biomarker 990 992 ER
+T6 Condition 492 496  ER 
+T7 Condition 990 1015 ER-positive breast cancer
+T8 Protein 160 165 PI3Kα
+T9 Gene 36 40 gene
+T10 Protein 24 30 PIK3CA
+T11 Gene 971 975 gene
+T12 Condition 145 158 breast cancer
+T13 Intervention 545 552 samples
+T14 Protein 554 559 KMT2D
+T15 Protein 436 441 PI3Kα
+T16 Protein 81 86 PI3Kα
+T17 Intervention 470 479 chromatin
+T18 Gene 493 507 ER target loci
+T19 Condition 511 524 breast cancer
+T20 Condition 11 20 mutations
+T22 Biomarker 493 495 ER
+T23 Protein 766 771 PI3Kα
+T24 Condition 744 748  ER 
+T25 Condition 113 131 estrogen receptor 
+T26 Protein 792 797 KMT2D
+T27 Biomarker 132 134 ER
+T28 Protein 695 700 KMT2D
+T29 Biomarker 259 271 ER-dependent
+T30 Biomarker 875 877 ER
+T31 Protein 563 600 histone H3 lysine 4 methyltransferase
+T32 Gene_or_gene_product 160 176 PI3Kα inhibitors
+T33 Intervention 340 349 chromatin
+T34 Biomarker 745 747 ER
+T35 Condition 634 638  ER 
+T36 Protein 625 629 PBX1
+T37 Protein 404 409 PI3Kα
+T38 Biomarker 259 261 ER
+T39 Gene 922 926 gene
+T40 Protein 618 623 FOXA1
+T41 Condition 874 878  ER 
+R1 Relation Arg1:T29 Arg2:T38

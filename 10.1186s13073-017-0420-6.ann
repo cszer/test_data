@@ -1,0 +1,91 @@
+T1 Gene 443 456 mitochondrial
+T2 Biomarker 475 479 gene
+T3 Condition 1891 1897 tumors
+T4 Biomarker 1340 1352 numtogenesis
+T5 Gene 268 275 nuclear
+T6 Gene 1860 1864 NUMT
+T7 Gene 2017 2022 human
+T9 Condition 1515 1521 tumors
+T10 Condition 1539 1546 mutated
+T11 Cellular_component 1252 1257 blood
+T13 Cellular_component 568 573 blood
+T15 Condition 2191 2194 men
+T16 Gene 1667 1674 nuclear
+T17 Condition 1159 1165 tumors
+T18 Gene 1430 1440 yeast YME1
+T20 Gene 1667 1681 nuclear genome
+T21 Condition 1214 1219 tumor
+T22 Cellular_component 1049 1056 genomes
+T23 Organism 983 992 organisms
+T26 Gene 512 516 NUMT
+T27 Cellular_component 589 596 genomes
+T28 Condition 1766 1772 tumors
+T29 Gene 67 84 mitochondrial DNA
+T30 Condition 1504 1521 colorectal tumors
+T31 Biomarker 961 973 numtogenesis
+T32 Gene 1883 1887 NUMT
+T33 Gene 1107 1112 NUMTs
+T34 Gene 421 428 nuclear
+T36 Intervention 1576 1583 tissues
+T37 Gene 1448 1461 mitochondrial
+T38 Biomarker 2140 2152 numtogenesis
+T39 Condition 1946 1951 tumor
+T40 Gene 109 116 genomic
+T41 Cellular_component 568 596 blood-derived normal genomes
+T42 Gene 358 365 genomic
+T43 Protein 1523 1529 YME1L1
+T44 Condition 1515 1520 tumor
+T45 Condition 726 745 Cancer Genome Atlas
+T46 Gene 853 857 NUMT
+T47 Gene 1993 2013 NUMT suppressor gene
+T48 Protein 1973 1979 YME1L1
+T49 Condition 1766 1771 tumor
+T50 Gene 283 287 NUMT
+T51 Protein 2060 2066 YME1L1
+T52 Condition 1493 1500 mutated
+T53 Protein 1301 1303 GC
+T54 Cellular_component 1868 1873 blood
+T55 Gene 1413 1426 human homolog
+T56 Condition 547 552 tumor
+T57 Biomarker 1345 1349 gene
+T58 Condition 412 415 men
+T59 Biomarker 2145 2149 gene
+T61 Condition 1891 1896 tumor
+T62 Biomarker 470 482 numtogenesis
+T63 Protein 1403 1409 YME1L1
+T64 Gene 184 198 nuclear genome
+T65 Condition 292 318 colorectal adenocarcinomas
+T66 Condition 1023 1056 colorectal adenocarcinoma genomes
+T67 Gene 1181 1185 NUMT
+T68 Condition 1159 1164 tumor
+T69 Gene 166 179 mitochondrial
+T70 Protein 136 145 molecular
+T71 Condition 1755 1772 colorectal tumors
+T72 Intervention 385 392 nucleus
+T73 Gene 1413 1418 human
+T74 Gene 1107 1111 NUMT
+T75 Protein 1614 1620 YME1L1
+T76 Condition 2199 2205 cancer
+T77 Gene 268 281 nuclear mtDNA
+T78 Condition 1550 1556 tumors
+T79 Biomarker 1952 1956 gene
+T81 Gene 2101 2108 nuclear
+T82 Biomarker 966 970 gene
+T83 Gene 1196 1200 NUMT
+T84 Biomarker 1316 1320 gene
+T85 Condition 726 732 Cancer
+T86 Condition 1144 1147 men
+T87 Condition 10 36 Colorectal adenocarcinomas
+T88 Condition 755 761 Cancer
+T89 Condition 1142 1165 Women colorectal tumors
+T90 Condition 1550 1555 tumor
+T91 Gene 1442 1465 yeast mitochondrial DNA
+T92 Gene 1993 1997 NUMT
+T93 Gene 912 916 NUMT
+T94 Gene 1910 1914 NUMT
+T95 Gene 67 80 mitochondrial
+T96 Condition 1191 1194 men
+T97 Gene 184 191 nuclear
+T98 Organism 649 704 colon adenocarcinoma and rectum adenocarcinoma patients
+T99 Gene 912 932 NUMT suppressor gene
+R1 Relation Arg1:T72 Arg2:T58

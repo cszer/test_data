@@ -1,0 +1,52 @@
+T1 Organism 120 128 patients
+T2 Gene 689 740 prostatic specific antigen and alkaline phosphatase
+T3 Biomarker 566 584 urinary creatinine
+T4 Biomarker 1442 1454 pyridinoline
+T5 Condition 1518 1540 metastatic bone tumors
+T7 Biomarker 455 467 pyridinoline
+T9 Biomarker 1166 1178 pyridinoline
+T10 Organism 120 127 patient
+T12 Biomarker 911 923 pyridinoline
+T13 Organism 945 952 patient
+T14 Biomarker 1442 1476 pyridinoline and deoxypyridinoline
+T15 Organism 193 200 patient
+T18 Condition 78 82 bone
+T19 Gene 1035 1061 prostatic-specific antigen
+T20 Intervention 1381 1397 bone scintigrams
+T21 Biomarker 262 274 pyridinoline
+T23 Biomarker 1343 1360 deoxypyridinoline
+T24 Biomarker 284 296 pyridinoline
+T25 Organism 945 953 patients
+T26 Intervention 1569 1585 bone scintigrams
+T28 Condition 1529 1533 bone
+T29 Protein 485 495 ion-paired
+T30 Biomarker 42 59 deoxypyridinoline
+T31 Intervention 773 789 bone scintigrams
+T32 Organism 354 361 patient
+T33 Condition 134 149 prostate cancer
+T34 Condition 1569 1573 bone
+T35 Condition 962 966 bone
+T36 Condition 1004 1008 bone
+T37 Condition 1518 1539 metastatic bone tumor
+T38 Biomarker 433 467 Pyridinoline and deoxypyridinoline
+T39 Biomarker 25 37 pyridinoline
+T40 Biomarker 626 660 pyridinoline and deoxypyridinoline
+T41 Intervention 837 848 bone lesion
+T42 Organism 990 998 patients
+T43 Biomarker 1326 1338 pyridinoline
+T44 Biomarker 1147 1159 pyridinoline
+T48 Organism 193 201 patients
+T49 Biomarker 889 901 pyridinoline
+T50 Condition 175 179 bone
+T54 Biomarker 1326 1360 pyridinoline and deoxypyridinoline
+T55 Organism 1593 1600 patient
+T56 Condition 245 249 bone
+T57 Biomarker 1161 1178 deoxypyridinoline
+T58 Condition 164 185 metastatic bone tumor
+T60 Organism 354 362 patients
+T61 Biomarker 262 296 pyridinoline and deoxypyridinoline
+T62 Condition 216 220 bone
+T63 Condition 1381 1385 bone
+R1 Relation Arg1:T56 Arg2:T24
+R2 Relation Arg1:T62 Arg2:T24
+R3 Relation Arg1:T62 Arg2:T56

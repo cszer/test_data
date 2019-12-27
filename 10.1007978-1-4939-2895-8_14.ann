@@ -1,0 +1,20 @@
+T1 Condition 899 906 cancers
+T2 Gene 13 38 steroid hormone receptors
+T3 Gene 126 143 estrogen receptor
+T4 Gene 44 67 glucocorticoid receptor
+T5 Gene 13 37 steroid hormone receptor
+T6 Condition 976 983 cancers
+T7 Protein 420 422 GR
+T8 Protein 227 229 AR
+T9 Gene 337 361 steroid hormone receptor
+T10 Level 464 479 lymphoid tissue
+T11 Condition 580 595 lymphoid cancer
+T12 Protein 145 147 ER
+T13 Organism 642 650 patients
+T14 Condition 255 270 prostate cancer
+T15 Gene 208 225 androgen receptor
+T16 Condition 107 120 breast cancer
+T17 Protein 69 71 GR
+T18 Gene 94 102 oncogene
+T19 Level 156 160 cell
+R1 Relation Arg1:T12 Arg2:T19

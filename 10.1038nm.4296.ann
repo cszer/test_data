@@ -1,0 +1,66 @@
+T1 Level 1396 1406 DIPG cells
+T2 Biomarker 822 827 H3K27
+T3 Gene 1381 1392 nucleosomes
+T4 Protein 284 287 2,3
+T6 Biomarker 416 421 H3K27
+T7 Organism 911 917 H3K27M
+T8 Protein 589 593 DIPG
+T9 Level 1216 1224 neuronal
+T10 Biomarker 438 443 H3K27
+T11 Gene 370 399 polycomb repressive complex 2
+T12 Protein 554 558 PRC2
+T13 Organism 277 283 H3K27M
+T14 Protein 499 503 DIPG
+T15 Organism 613 619 H3K27M
+T16 Protein 1607 1611 DIPG
+T17 Protein 401 405 PRC2
+T18 Protein 1396 1400 DIPG
+T19 Biomarker 242 262 lysine-to-methionine
+T20 Biomarker 438 446 H3K27me3
+T21 Condition 218 224 tumors
+T22 Organism 770 776 H3K27M
+T23 Gene 924 935 nucleosomes
+T24 Level 589 599 DIPG cells
+T25 Gene 1009 1014 genes
+T26 Biomarker 803 808 H3K27
+T27 Protein 1445 1460 BET bromodomain
+T28 Gene 174 184 histone H3
+T29 Protein 1332 1352 bromodomain proteins
+T30 Condition 218 223 tumor
+T31 Condition 73 88 brainstem tumor
+T32 Gene 692 697 genes
+T33 Protein 308 322 histone mutant
+T34 Biomarker 277 282 H3K27
+T35 Biomarker 613 618 H3K27
+T36 Biomarker 1080 1085 H3K27
+T37 Protein 952 972 bromodomain proteins
+T39 Organism 1368 1374 H3K27M
+T40 Protein 1172 1176 DIPG
+T41 Gene 980 984 loci
+T42 Protein 1134 1138 PRC2
+T43 Gene 508 513 genes
+T44 Biomarker 544 552 H3K27me3
+T45 Protein 674 678 PRC2
+T46 Level 730 754 H3K27M-mutant DIPG cells
+T47 Organism 613 622 H3K27M6,7
+T48 Protein 1106 1110 PRC2
+T49 Biomarker 1368 1373 H3K27
+T50 Protein 744 748 DIPG
+T51 Condition 18 32 pontine glioma
+T52 Organism 663 669 H3K27M
+T53 Organism 1080 1086 H3K27M
+T54 Intervention 1114 1123 chromatin
+T55 Protein 682 686 DIPG
+T56 Condition 162 170 mutation
+T57 Condition 1518 1523 tumor
+T58 Gene 1052 1059 regions
+T59 Protein 1024 1028 PRC2
+T60 Biomarker 544 549 H3K27
+T61 Biomarker 911 916 H3K27
+T62 Organism 730 736 H3K27M
+T63 Organism 822 829 H3K27ac
+T64 Protein 34 38 DIPG
+T65 Biomarker 663 668 H3K27
+T66 Biomarker 730 735 H3K27
+T67 Biomarker 770 775 H3K27
+T68 Organism 124 139 patient demise1

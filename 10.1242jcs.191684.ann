@@ -1,0 +1,42 @@
+T1 Biomarker 521 524 Met
+T3 Protein 428 431 RTK
+T4 Protein 254 259 SMPD1
+T5 Intervention 1198 1203 Golgi
+T6 Biomarker 1109 1113 STX6
+T7 Gene 323 327  RTK
+T8 Gene 296 312 ortholog IGF-1R 
+T9 Biomarker 1313 1316 Met
+T10 Condition 806 845 vesicular stomatitis virus glycoprotein
+T11 Gene 528 532  RTK
+T12 Level 135 139 cell
+T13 Protein 27 30 RTK
+T14 Protein 53 58 lipid
+T15 Biomarker 285 290 DAF-2
+T16 Gene 427 431  RTK
+T17 Biomarker 409 418 ceramides
+T18 Biomarker 715 718 Met
+T19 Cellular_component 74 89 plasma membrane
+T20 Protein 125 130 lipid
+T21 Cancer cells 1287 1317 plasma membrane levels of Met 
+T22 Cellular_component 642 657 plasma membrane
+T23 Level 1335 1339 cell
+T24 Cellular_component 1287 1302 plasma membrane
+T25 Biomarker 1007 1010 Met
+T27 Biomarker 1084 1093 ceramides
+T28 Biomarker 667 670 Met
+T29 Condition 577 584 cancers
+T30 Intervention 1014 1023 lysosomes
+T31 Intervention 925 930 Golgi
+T33 Biomarker 971 975 STX6
+T34 Biomarker 939 942 Met
+T35 Biomarker 902 906 STX6
+T36 Intervention 745 750 Golgi
+T37 Biomarker 1185 1188 Met
+T38 Gene 790 801 integrin β3
+T39 Gene 890 900 syntaxin 6
+T40 Protein 125 131 lipids
+T41 Biomarker 1109 1129 STX6 and cholesterol
+T42 Protein 847 851 VSVG
+T43 Gene 212 233 acid sphingomyelinase
+T44 Biomarker 629 632 Met
+T45 Level 1319 1340  various cancer cells

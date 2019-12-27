@@ -1,0 +1,48 @@
+T2 Gene 838 843  TFPI
+T3 Intervention 1327 1345 early-stage cancer
+T4 Condition 956 964 diabetes
+T5 Protein 1536 1537 P
+T6 Condition 58 90 pancreatic ductal adenocarcinoma
+T7 Protein 1756 1757 P
+T8 Protein 2046 2047 P
+T9 Protein 92 96 PDAC
+T11 Biomarker 2118 2125 CA 19‐9
+T12 Condition 1625 1633 diabetes
+T13 Condition 1071 1079 diabetes
+T14 Gene 457 467 tenascin C
+T15 Protein 2022 2023 P
+T17 Protein 576 580 PDAC
+T18 Gene 851 863 TNC-FN III-C
+T19 Protein 576 577 P
+T20 Gene 410 449 plasma tissue factor pathway inhibitor 
+T21 Protein 1589 1590 P
+T22 Condition 1084 1096 pancreatitis
+T23 Biomarker 488 495 CA 19‐9
+T24 Biomarker 869 876 CA 19‐9
+T25 Gene 2043 2048  TFPI
+T26 Biomarker 1195 1202 CA 19‐9
+T28 Intervention 1464 1470 cancer
+T30 Protein 2167 2171 PDAC
+T31 Protein 1179 1180 P
+T32 Disease 726 751 acute biliary obstruction
+T33 Protein 2247 2251 PDAC
+T34 Condition 1638 1650 pancreatitis
+T35 Intervention 564 587 early-stage PDAC plasma
+T36 Biomarker 1218 1225 CA 19‐9
+T37 Cellular_component 351 372 genomics-based plasma
+T38 Gene 2049 2061 TNC-FN III-C
+T39 Intervention 1744 1760 early-stage PDAC
+T40 Intervention 1452 1470 early-stage cancer
+T41 Protein 452 453 P
+T42 Protein 92 93 P
+T43 Biomarker 231 238 CA 19‐9
+T44 Protein 841 842 P
+T45 Intervention 2313 2319 cancer
+T46 Intervention 2002 2020 early-stage cancer
+T47 Protein 2167 2168 P
+T48 Intervention 564 580 early-stage PDAC
+T50 Organism 881 888 patient
+T51 Condition 709 721 pancreatitis
+T52 Protein 2247 2248 P
+T53 Gene 469 481 TNC-FN III-C
+T54 Gene 1182 1194 TNC-FN III-C

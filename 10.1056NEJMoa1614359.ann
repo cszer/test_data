@@ -1,0 +1,64 @@
+T1 Biomarker 762 773 midostaurin
+T2 Organism 2268 2276 patients
+T3 Condition 839 843 FLT3
+T6 Biomarker 2169 2180 midostaurin
+T7 Condition 2292 2305 FLT3 mutation
+T9 Intervention 1502 1507 blood
+T10 Organism 1364 1372 patients
+T13 Condition 2292 2296 FLT3
+T14 Protein 48 51 AML
+T15 Condition 246 259 FLT3 mutation
+T16 Protein 1378 1381 TKD
+T17 Condition 430 439  mutation
+T18 Condition 251 259 mutation
+T19 Condition 1466 1470 FLT3
+T20 Gene 2281 2286  AML 
+T25 Protein 418 421 AML
+T26 Condition 2028 2032 FLT3
+T27 Gene 937 940 ITD
+T28 Condition 250 259  mutation
+T29 Gene 1025 1043 wild-type alleles 
+T30 Condition 431 439 mutation
+T31 Gene 1319 1322 ITD
+T32 Condition 843 852  mutation
+T33 Protein 900 903 TKD
+T36 Biomarker 159 170 midostaurin
+T37 Biomarker 876 898 tyrosine kinase domain
+T39 Organism 1190 1198 patients
+T40 Gene 1058 1063  ITD 
+T41 Biomarker 1557 1568 midostaurin
+T43 Condition 246 250 FLT3
+T44 Gene 1318 1323  ITD 
+T46 Condition 63 72  mutation
+T47 Gene 2028 2040 FLT3 subtype
+T48 Condition 59 63 FLT3
+T49 Biomarker 531 558 daunorubicin and cytarabine
+T50 Gene 1302 1322 FLT3 subtype was ITD
+T52 Condition 64 72 mutation
+T53 Gene 1466 1478 FLT3 subtype
+T54 Condition 839 852 FLT3 mutation
+T55 Gene 1015 1021 mutant
+T56 Condition 1302 1306 FLT3
+T57 Gene 417 422  AML 
+T58 Gene 2285 2305  and a FLT3 mutation
+T59 Protein 2282 2285 AML
+T61 Condition 2296 2305  mutation
+T62 Organism 1337 1345 patients
+T63 Condition 426 440 FLT3 mutations
+T64 Organism 361 369 patients
+T65 Organism 230 238 patients
+T66 Organism 1389 1397 patients
+T67 Biomarker 1990 2001 midostaurin
+T68 Protein 1838 1855 one-sided P=0.002
+T69 Protein 176 211 oral multitargeted kinase inhibitor
+T70 Organism 1921 1929 patients
+T71 Gene 52 72  and a FLT3 mutation
+T72 Organism 10 18 Patients
+T73 Biomarker 1249 1260 midostaurin
+T74 Gene 1044 1047 ITD
+T75 Protein 2138 2168 multitargeted kinase inhibitor
+T77 Biomarker 624 635 midostaurin
+T78 Gene 1302 1314 FLT3 subtype
+T79 Gene 24 47 acute myeloid leukemia 
+T80 Gene 908 936 internal tandem duplication 
+T81 Organism 1611 1616 women

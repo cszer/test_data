@@ -1,0 +1,39 @@
+T1 Gene 673 678 IFN-γ
+T2 Level 319 324  TRM 
+T4 Level 323 329  cells
+T5 CL 769 773 cell
+T7 CL 721 725 cell
+T13 Intervention 811 819 vitiligo
+T14 Level 320 329 TRM cells
+T16 Protein 695 700 CD103
+T17 Level 534 544 lymphocyte
+T18 Level 720 726  cells
+T19 Level 768 774  cells
+T20 Protein 940 945 CD103
+T21 CL 782 786 skin
+T22 Level 848 853 cells
+T23 Protein 833 838 CD103
+T24 Level 30 36  cells
+T25 Intervention 284 292 vitiligo
+T26 Level 765 774 TRM cells
+T27 Level 940 965 CD103-dependent TRM cells
+T28 Level 764 769  TRM 
+T29 Biomarker 608 613 LAG-3
+T30 Condition 225 233 melanoma
+T31 Level 294 329 Melanoma antigen–specific TRM cells
+T32 Intervention 458 478 lymphoid compartment
+T33 CL 486 490 cell
+T35 Condition 998 1007 antitumor
+T36 Level 955 960  TRM 
+T38 Level 615 625 lymphocyte
+T39 CL 184 211 skin-resident memory T cell
+T40 Protein 502 507 CD103
+T42 CL 31 35 cell
+T44 Level 485 491  cells
+T46 CL 207 211 cell
+T47 CL 960 964 cell
+T49 Biomarker 680 692 interferon-γ
+T51 Biomarker 566 570 PD-1
+T52 CL 583 587 cell
+T53 Level 715 726 CD8 T cells
+T54 CL 324 328 cell

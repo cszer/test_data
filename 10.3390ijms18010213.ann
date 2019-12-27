@@ -1,0 +1,49 @@
+T1 Gene 344 353 enzymatic
+T3 Condition 506 513 cancers
+T4 Biomarker 1163 1167  MG 
+T5 Protein 656 659 CRC
+T6 Protein 617 627 MG protein
+T7 Protein 912 915 CRC
+T8 Biomarker 616 620  MG 
+T9 Protein 1220 1229 molecular
+T10 Biomarker 748 752  MG 
+T11 Organism 666 671 tumor
+T12 Protein 1134 1137 CRC
+T13 Biomarker 101 111 dicarbonyl
+T14 Organism 652 672 102 CRC human tumors
+T15 Biomarker 424 428  MG 
+T16 Organism 796 801 tumor
+T17 Organism 796 802 tumors
+T18 Protein 1279 1282 CRC
+T19 Biomarker 431 440 d-lactate
+T20 Biomarker 617 619 MG
+T21 Biomarker 988 997 carnosine
+T23 Organism 1138 1144 tumors
+T24 Biomarker 1071 1075  MG 
+T25 Organism 847 852 tumor
+T26 Condition 442 459 Colorectal cancer
+T27 Level 320 335 mammalian cells
+T28 Organism 1138 1143 tumor
+T29 Level 912 921 CRC cells
+T30 Gene 385 401 glyoxalases GLO1
+T31 Biomarker 862 872 dicarbonyl
+T32 Biomarker 1164 1166 MG
+T33 Gene 768 772 GLO1
+T34 Biomarker 425 427 MG
+T36 Gene 894 898 GLO1
+T37 Organism 931 936 tumor
+T38 Biomarker 370 372 MG
+T39 Biomarker 369 373  MG 
+T40 Protein 461 464 CRC
+T41 Biomarker 1072 1074 MG
+T43 Condition 308 314 cancer
+T44 Protein 406 410 GLO2
+T45 Biomarker 94 96 MG
+T46 Protein 232 241 glycation
+T47 Biomarker 1007 1011  MG 
+T48 Biomarker 1008 1010 MG
+T49 Biomarker 79 93 Methylglyoxal 
+T50 Intervention 1123 1144 high stage CRC tumors
+T51 Biomarker 749 751 MG
+R1 Relation Arg1:T13 Arg2:T43
+R2 Relation Arg1:T46 Arg2:T43

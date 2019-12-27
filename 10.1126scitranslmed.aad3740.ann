@@ -1,0 +1,30 @@
+T1 Biomarker 1280 1291 glutathione
+T2 Condition 204 210 cancer
+T3 Protein 1142 1146 RHOA
+T5 Level 924 939  melanoma cells
+T6 Condition 641 655 primary tumors
+T7 Species 563 568 mouse
+T8 Species 231 235 mice
+T9 Condition 422 428 cancer
+T10 Condition 440 458 malignant melanoma
+T11 Protein 509 512 NAC
+T12 Gene 688 697 vitamin E
+T13 Condition 1339 1357 malignant melanoma
+T14 Biomarker 491 507 N-acetylcysteine
+T15 Protein 1108 1133 guanosine triphosphatase 
+T16 Condition 778 796 malignant melanoma
+T17 Biomarker 1014 1025 glutathione
+T18 Level 889 922 reduced and oxidized glutathione 
+T19 Biomarker 1063 1069 Trolox
+T20 Protein 1197 1216 antioxidant-induced
+T21 Protein 1172 1176 RHOA
+T22 Biomarker 705 711 Trolox
+T23 Level 772 802 human malignant melanoma cells
+T24 Biomarker 910 921 glutathione
+T25 Condition 76 82 cancer
+T26 Protein 1055 1058 NAC
+T27 Protein 668 671 NAC
+T28 Condition 291 310 primary lung tumors
+T29 Condition 578 596 malignant melanoma
+T30 Intervention 524 545 lymph node metastases
+T31 Intervention 947 968 lymph node metastases

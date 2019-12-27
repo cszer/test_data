@@ -1,0 +1,65 @@
+T1 Condition 477 483 glioma
+T3 Level 2340 2344 cell
+T5 Biomarker 1220 1226 oxygen
+T6 Level 672 676 cell
+T7 Protein 1169 1177 electron
+T8 Level 320 324 cell
+T9 Intervention 1344 1355 vasculature
+T11 Level 378 382 cell
+T12 Protein 1433 1498 tricarboxylic acid cycle enzymes Isocitrate Dehydrogenase 1 and 2
+T13 Gene 1275 1301 Hypoxia Inducible Factors 
+T14 Level 210 222 cancer cells
+T16 Protein 2213 2217 mTOR
+T17 Biomarker 823 834 fatty acids
+T18 Protein 1941 1959 tricarboxylic acid
+T19 Biomarker 278 288 fatty acid
+T20 Protein 1264 1273 molecules
+T21 Condition 1632 1638 glioma
+T22 Biomarker 1987 1997 amino acid
+T23 Level 1063 1067 cell
+T24 Condition 1367 1372 tumor
+T25 Level 968 1011 pro-oncogenic signaling within glioma cells
+T26 Protein 798 811 nucleic acids
+T27 Level 1150 1154 cell
+T28 Biomarker 1914 1924 one-carbon
+T29 Level 378 386 cellular
+T30 Level 598 610 glioma cells
+T31 Biomarker 760 766 carbon
+T32 Level 672 680 cellular
+T34 Level 217 221 cell
+T36 Level 2127 2132 cells
+T37 Condition 1680 1685 tumor
+T39 Gene 1887 1904 pentose phosphate
+T40 Level 210 221 cancer cell
+T43 Level 1334 1338 cell
+T45 Condition 525 530 tumor
+T46 Level 1839 1850 glioma cell
+T47 Protein 1420 1423 p53
+T48 Level 999 1011 glioma cells
+T50 Protein 1203 1206 ATP
+T51 Condition 598 604 glioma
+T52 Condition 509 530 malignant brain tumor
+T53 Biomarker 823 833 fatty acid
+T54 Level 217 222 cells
+T55 Organism 161 165 Otto
+T56 Gene 1386 1395 Mutations
+T57 Level 598 609 glioma cell
+T58 Level 2333 2344 glioma cell
+T60 Biomarker 262 273 amino acids
+T61 Condition 1839 1845 glioma
+T62 Level 999 1010 glioma cell
+T63 Condition 5 12 cancers
+T64 Level 2127 2131 cell
+T65 Condition 1403 1408 tumor
+T67 Level 1829 1851 malignant glioma cells
+T69 Level 1839 1851 glioma cells
+T71 Condition 1591 1638 genetically-defined subsets of malignant glioma
+T72 Biomarker 2041 2051 fatty acid
+T73 Protein 1087 1091 mTOR
+T74 Protein 2358 2371 pro-malignant
+T75 Level 320 328 cellular
+T76 Biomarker 60 67 glucose
+T77 Level 1143 1154 cancer cell
+T79 Biomarker 2182 2188 Randle
+T81 Condition 999 1005 glioma
+T82 Level 2120 2132 glioma cells

@@ -1,0 +1,42 @@
+T1 Intervention 1121 1129 vascular
+T2 Condition 58 63 tumor
+T3 Condition 851 856 tumor
+T4 Intervention 444 472 tumor-associated macrophages
+T5 Level 851 862 tumor cells
+T6 Condition 544 549 tumor
+T7 Intervention 1446 1490 next-generation tumor-targeted nanomaterials
+T8 Condition 58 64 tumors
+T9 Biomarker 1095 1111 cyclophosphamide
+T10 Protein 1364 1367 TAM
+T11 Cellular_component 492 516 nanoparticle drug depots
+T12 Gene_or_gene_product 931 934 TNP
+T13 Condition 141 146 tumor
+T14 Condition 1462 1467 tumor
+T15 Condition 602 607 tumor
+T16 Condition 283 288 tumor
+T17 Condition 444 449 tumor
+T18 Gene_or_gene_product 1053 1056 TNP
+T19 Gene_or_gene_product 162 178 TNP modification
+T20 Protein 704 707 TAM
+T21 Gene_or_gene_product 402 405 TNP
+T22 Condition 1326 1332 tumors
+T23 Biomarker 980 994 unencapsulated
+T24 Condition 1241 1246 tumor
+T25 Biomarker 1053 1057 TNPs
+T26 Protein 474 477 TAM
+T27 Protein 586 589 TAM
+T28 Protein 864 867 TAM
+T29 Level 602 613 tumor cells
+T31 Protein 1143 1154 tumoral TNP
+T32 Gene_or_gene_product 625 628 TNP
+T33 Condition 1143 1148 tumor
+T34 Intervention 741 757 microvasculature
+T35 Gene_or_gene_product 49 52 TNP
+T36 Gene_or_gene_product 248 251 TNP
+T37 Biomarker 402 406 TNPs
+T38 Gene_or_gene_product 1217 1220 TNP
+T39 Condition 1326 1331 tumor
+T40 Gene_or_gene_product 1346 1349 TNP
+T41 Gene_or_gene_product 162 165 TNP
+T42 Intervention 1293 1299 tissue
+T43 Biomarker 49 53 TNPs

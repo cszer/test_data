@@ -1,0 +1,45 @@
+T1 Level 253 293 liver and red blood cell pyruvate kinase
+T2 Intervention 1002 1007 liver
+T3 Level 1061 1065 cell
+T4 Condition 1199 1231 multiple colon cancer cell lines
+T5 Biomarker 820 840 cellular glutathione
+T6 Intervention 1428 1433 niche
+T8 Level 608 612 cell
+T9 Biomarker 930 936 enzyme
+T10 Protein 1128 1141 RNAi-mediated
+T11 Intervention 380 385 liver
+T12 Intervention 36 41 liver
+T13 Biomarker 658 669 glutathione
+T14 Biomarker 940 951 glutathione
+T15 Gene 97 102 genes
+T16 Level 1221 1225 cell
+T17 Protein 707 711 PKLR
+T18 Organism 490 502 murine liver
+T19 Condition 1315 1348 primary patient-derived xenograft
+T20 Protein 347 351 PKLR
+T23 Biomarker 776 801 pyruvate kinase isoenzyme
+T24 Condition 430 435 tumor
+T26 Intervention 1002 1018 liver metastases
+T27 Biomarker 849 860 Glutathione
+T28 Protein 760 764 PKM2
+T29 Intervention 386 396 metastases
+T30 Intervention 380 396 liver metastases
+T31 Biomarker 625 631 oxygen
+T32 Level 820 824 cell
+T33 Level 1029 1033 cell
+T34 Protein 536 540 PKLR
+T35 Condition 1518 1535 colorectal cancer
+T36 Level 1097 1113 metastatic liver
+T37 Level 273 277 cell
+T38 Condition 571 576 tumor
+T39 Organism 994 1018 patient liver metastases
+T40 Biomarker 1061 1071 cell-dense
+T41 Protein 963 967 GCLC
+T43 Protein 295 299 PKLR
+T44 Level 316 332 metastatic liver
+T45 Condition 411 436 primary colorectal tumors
+T46 Level 550 554 cell
+T47 Organism 440 448 patients
+T48 Intervention 1437 1447 metastases
+T49 Intervention 253 258 liver
+T51 Intervention 454 472 metastatic disease

@@ -1,0 +1,44 @@
+T1 Level 321 323 e 
+T2 Level 2 4 e 
+T3 Level 55 60 e B16
+T4 Level 94 96 e 
+T5 Level 558 568 anticancer
+T6 Protein 353 357 PCNA
+T7 Level 242 244 e 
+T8 Level 413 415 e 
+T9 Protein 333 340 protein
+T10 Protein 271 275 MAPK
+T11 Biomarker 234 240 aconit
+T12 Biomarker 426 432 aconit
+T13 Level 520 522 e 
+T14 Biomarker 25 31 aconit
+T15 Level 579 581 e 
+T16 Protein 263 266 AKT
+T17 Level 107 116 B16 cells
+T18 Level 256 258 e 
+T19 Level 405 407 e 
+T20 Biomarker 532 538 aconit
+T21 Level 434 436 e 
+T23 Disease 482 487 tumor
+T24 Disease 4 14 anti-tumor
+T25 Biomarker 532 541 aconitine
+T26 Level 196 198 e 
+T27 Protein 362 399 apoptotic related signaling molecules
+T28 Level 205 207 e 
+T29 Biomarker 234 243 aconitine
+T30 Protein 258 262 PI3K
+T31 Biomarker 426 435 aconitine
+T32 Level 55 57 e 
+T33 Level 540 542 e 
+T34 Level 547 549 e 
+T35 Level 37 53  melanoma cell l
+T36 Biomarker 25 34 aconitine
+T37 Level 33 35 e 
+T38 Protein 345 349 mRNA
+T39 Biomarker 210 219 aconitine
+T40 Biomarker 210 216 aconit
+R1 Relation Arg1:T26 Arg2:T7
+R2 Relation Arg1:T28 Arg2:T7
+R3 Relation Arg1:T40 Arg2:T7
+R4 Relation Arg1:T26 Arg2:T28
+R5 Relation Arg1:T28 Arg2:T40

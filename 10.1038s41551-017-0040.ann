@@ -1,0 +1,23 @@
+T1 Condition 11 17 cancer
+T2 Condition 547 557 pancreatic
+T3 Condition 122 132 pancreatic
+T4 Condition 247 259 precancerous
+T5 Condition 173 185 precancerous
+T6 Intervention 457 471 fluid chemical
+T7 Intervention 884 889 cysts
+T8 Organism 866 874 patients
+T10 Condition 752 762 pancreatic
+T11 Intervention 416 426 cyst fluid
+T12 Intervention 1027 1032 cysts
+T15 Condition 140 147 lesions
+T16 Level 446 451 cells
+T18 Condition 752 777 pancreatic cystic lesions
+T19 Intervention 265 277 benign cysts
+T20 Biomarker 391 398 EUS-FNA
+T21 Condition 161 168 lesions
+T22 Condition 122 147 pancreatic cystic lesions
+T23 Condition 606 612 cancer
+T24 Condition 250 256 cancer
+T25 Condition 176 182 cancer
+T26 Intervention 570 582 benign cysts
+T27 Biomarker 804 811 EUS-FNA

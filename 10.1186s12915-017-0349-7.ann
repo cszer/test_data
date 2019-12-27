@@ -1,0 +1,47 @@
+T1 Biomarker 809 822 dexamethasone
+T2 Condition 1320 1326 cancer
+T3 Biomarker 487 496 forskolin
+T4 Level 1147 1152 tumor
+T5 Level 1028 1033 tumor
+T6 Level 594 599 cells
+T7 Level 35 39 cell
+T8 Level 171 175 cell
+T9 Level 1132 1136 cell
+T10 Condition 288 294 tumors
+T11 Level 542 546 cell
+T12 Gene 370 375 genes
+T13 Condition 975 985 B16 tumors
+T14 Level 677 682 tumor
+T16 Level 157 162 cells
+T17 Biomarker 472 485 dexamethasone
+T18 Gene 370 374 gene
+T20 Level 409 414 tumor
+T22 Gene 961 965 gene
+T23 Level 778 783 cells
+T24 Level 244 248 cell
+T25 Gene 553 557 gene
+T26 Biomarker 1115 1128 dexamethasone
+T27 Level 975 978 B16
+T29 Gene 945 971 essential clock gene Bmal1
+T30 Level 278 283 cells
+T31 Level 1180 1185 tumor
+T32 Level 157 161 cell
+T33 Level 778 782 cell
+T34 CL 889 900 immune cell
+T35 Level 395 404 B16 cells
+T36 Level 265 268 B16
+T37 Level 151 156 tumor
+T39 Level 979 984 tumor
+T40 Level 151 162 tumor cells
+T41 Level 395 398 B16
+T42 Condition 89 95 cancer
+T43 Level 399 403 cell
+T44 Level 288 293 tumor
+T45 Level 1045 1049 cell
+T46 Level 594 598 cell
+T47 Condition 409 415 tumors
+T49 Level 748 783 human colon carcinoma HCT-116 cells
+T50 Level 646 649 B16
+T51 Level 278 282 cell
+R1 Relation Arg1:T16 Arg2:T8
+R2 Relation Arg1:T32 Arg2:T8

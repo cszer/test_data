@@ -1,0 +1,30 @@
+T1 Condition 315 323 mutation
+T2 Gene 836 842 mutant
+T3 Condition 644 651 cancers
+T4 Gene 931 937 mutant
+T5 CL 781 811 tumor-infiltrating lymphocytes
+T6 Protein 395 413 ovary1,2,3,4,5,6,7
+T7 Condition 688 721 chemorefractory hormone receptor 
+T8 Condition 735 759 metastatic breast cancer
+T9 Condition 169 177 mutation
+T10 Condition 218 225 cancers
+T12 Organism 1204 1212 patients
+T13 Organism 1204 1211 patient
+T14 Level 813 817 TILs
+T15 Condition 1067 1091 metastatic breast cancer
+T16 Condition 746 752 breast
+T17 Condition 1078 1084 breast
+T18 Organism 589 597 patients
+T19 Level 436 458 autologous lymphocytes
+T20 Condition 273 298 common epithelial cancers
+T21 Condition 504 529 somatically mutated genes
+T22 Intervention 360 382 gastrointestinal tract
+T23 Gene 980 992 interleukin 
+T24 Condition 384 390 breast
+T25 Level 955 959 TILs
+T26 Protein 484 492 proteins
+T27 Condition 133 140 cancers
+T28 Protein 860 868 proteins
+T29 CL 75 96 antitumor lymphocytes
+T30 Organism 675 682 patient
+T31 Organism 589 596 patient

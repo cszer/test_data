@@ -1,0 +1,37 @@
+T1 Level 77 81 cell
+T2 Intervention 1385 1396 time-course
+T3 Biomarker 708 721 spring-loaded
+T4 Intervention 1146 1153 tissues
+T5 Level 1590 1594 cell
+T6 Gene 587 595 caspases
+T7 Level 1165 1189 Caspase-LOV–induced cell
+T8 Biomarker 777 804 light-sensitive LOV2 domain
+T9 Gene 279 289 transgenic
+T10 Level 1590 1595 cells
+T11 Gene 1014 1025 Caspase-LOV
+T13 Gene 875 886 Caspase-LOV
+T14 Intervention 304 318 ablate neurons
+T15 Protein 658 667 caspase-3
+T16 Gene 1456 1467 Caspase-LOV
+T17 Protein 266 274 chemical
+T18 Gene 1165 1176 Caspase-LOV
+T19 Gene 760 769 insertion
+T21 Intervention 21 26 brain
+T22 Level 77 85 cellular
+T23 Protein 636 667 light-activated human caspase-3
+T24 Level 495 500 Cells
+T25 Protein 1338 1347 caspase-3
+T26 Level 47 51 cell
+T28 CL 1411 1439 sensory versus motor neurons
+T30 Intervention 171 177 neural
+T31 Gene 887 945  to study neurodegeneration in larval and adult Drosophila
+T32 Gene 1013 1026  Caspase-LOV 
+T33 Gene 850 874 light-activated caspase 
+T34 Level 445 453 cellular
+T35 Biomarker 1517 1532 neurobiologists
+T36 Gene 669 680 Caspase-LOV
+T37 Organism 1607 1616 organisms
+T38 Level 445 449 cell
+T39 Gene 1455 1468  Caspase-LOV 
+T40 Level 1057 1061 cell
+R1 Relation Arg1:T30 Arg2:T17

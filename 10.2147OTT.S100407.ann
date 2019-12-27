@@ -1,0 +1,54 @@
+T1 Condition 1779 1784 tumor
+T2 Gene 1756 1764 cytokine
+T3 Biomarker 878 891 – minocycline
+T4 Biomarker 1198 1209 telmisartan
+T5 Biomarker 398 399 –
+T6 Biomarker 878 879 –
+T7 Level 674 704 attracts circulating monocytes
+T8 Level 1470 1498 malignant glioblastoma cells
+T9 Biomarker 954 955 –
+T10 Biomarker 1326 1338 temozolomide
+T11 Gene 1625 1630 MCP-1
+T12 Level 152 188 nonmalignant monocyte lineage cells 
+T13 Level 196 204 monocyte
+T14 Level 165 173 monocyte
+T15 Condition 457 462 tumor
+T17 Condition 1598 1610 glioblastoma
+T18 Intervention 1546 1570 nonmalignant macrophages
+T20 Level 695 704 monocytes
+T21 Gene 1002 1007 MCP-1
+T22 Protein 1857 1860 MTZ
+T23 Biomarker 918 919 –
+T24 Level 732 740 monocyte
+T26 Level 1559 1569 macrophage
+T27 Protein 364 368 MLCs
+T28 Biomarker 1249 1250 –
+T29 Gene 1700 1705 MCP-1
+T30 Level 695 703 monocyte
+T31 Condition 321 333 glioblastoma
+T32 Gene 1880 1885 MCP-1
+T33 Level 587 605 Glioblastoma cells
+T34 Biomarker 920 931 telmisartan
+T35 Protein 189 193 MLCs
+T36 Condition 270 275 tumor
+T37 Condition 345 350 tumor
+T38 Level 732 741 monocytes
+T39 Biomarker 1231 1232 –
+T40 Condition 406 418 glioblastoma
+T41 Protein 1237 1240 MTZ
+T42 Condition 573 578 tumor
+T43 Gene 800 805 MCP-1
+T44 Level 1598 1616 glioblastoma cells
+T45 Condition 1480 1492 glioblastoma
+T46 Condition 111 123 glioblastoma
+T47 Level 218 227 microglia
+T48 Intervention 1661 1666  MLCs
+T49 Condition 1836 1841 tumor
+T51 Gene 656 668 13 kDa MCP-1
+T52 Condition 1929 1941 glioblastoma
+T54 Level 288 306 nonmalignant cells
+T55 Condition 712 717 tumor
+T56 Intervention 363 368  MLCs
+T57 Level 1574 1583 microglia
+T58 Biomarker 939 971 bisphosphonate – zoledronic acid
+T59 Condition 28 40 glioblastoma

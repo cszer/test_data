@@ -1,0 +1,12 @@
+T1 Protein 615 621 tumour
+T2 Intervention 420 426 plasma
+T3 Condition 746 751 EphA2
+T4 Condition 893 898 EphA2
+T5 Biomarker 458 477 antibody-conjugated
+T6 Condition 793 798 EphA2
+T7 Organism 849 870 pancreatitis patients
+T8 Biomarker 527 549 EV-specific antibodies
+T9 Condition 793 843 EphA2-EVs distinguishes pancreatic cancer patients
+T10 Protein 375 393 tumour-derived EVs
+T11 Protein 936 942 tumour
+T12 Protein 375 381 tumour

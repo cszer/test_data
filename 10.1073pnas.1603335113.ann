@@ -1,0 +1,26 @@
+T1 Biomarker 215 222 patient
+T2 Condition 57 62 tumor
+T3 Protein 587 597 chemically
+T4 Condition 805 810 tumor
+T6 Condition 540 548 idiotype
+T7 Intervention 832 843 macrophages
+T8 Protein 655 677 premade IgG Fc protein
+T9 Condition 861 881 clear human lymphoma
+T10 Level 758 768 tumor cell
+T11 Biomarker 429 436 patient
+T12 Condition 534 548 tumor idiotype
+T13 Biomarker 226 233 patient
+T16 Condition 177 191 tumor idiotype
+T17 Condition 758 763 tumor
+T18 Condition 947 952 tumor
+T19 Gene 506 513 peptide
+T20 Condition 331 339 idiotype
+T21 Condition 163 171 idiotype
+T22 Biomarker 429 447 patient-by-patient
+T23 Level 703 769 resultant semisynthetic anti-idiotype peptibodies kill tumor cells
+T24 Protein 459 480 monoclonal antibodies
+T25 Biomarker 635 649 amino terminus
+T26 Condition 887 903 murine xenograft
+T27 Condition 177 182 tumor
+T28 Level 805 815 tumor cell
+T29 Condition 534 539 tumor

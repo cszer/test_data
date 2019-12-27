@@ -1,0 +1,22 @@
+T1 Gene 250 267 peptide fragments
+T2 Condition 870 884 ovarian cancer
+T3 Condition 674 680 tumour
+T5 Condition 90 97 tumours
+T7 Condition 775 782 tumours
+T8 Intervention 796 803 nodules
+T9 Condition 758 782 human epithelial tumours
+T10 Biomarker 462 480 on-target protease
+T11 Biomarker 166 184 tumour-penetrating
+T12 Protein 223 248 tumour-specific proteases
+T13 Condition 1085 1097 human tumour
+T14 Condition 223 229 tumour
+T15 Condition 1011 1038 colorectal liver metastases
+T16 Intervention 974 979 urine
+T17 Condition 775 781 tumour
+T18 Condition 166 172 tumour
+T19 Intervention 301 306 urine
+T20 Biomarker 503 513 off-target
+T22 Biomarker 577 595 tumour-penetrating
+T23 Condition 747 754 lesions
+T24 Condition 90 96 tumour
+T25 Condition 24 38 cancer lesions

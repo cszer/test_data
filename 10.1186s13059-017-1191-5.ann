@@ -1,0 +1,14 @@
+T3 Biomarker 177 190 CancerLocator
+T4 Organism 482 499 tumor-derived DNA
+T7 Gene_or_gene_product 309 324 genome-wide DNA
+T9 Gene 507 520 cell-free DNA
+T11 Gene 507 530 cell-free DNA scenarios
+T12 Gene 93 106 cell-free DNA
+T13 Gene 237 284 tissue-of-origin of tumor-derived cell-free DNA
+T14 Biomarker 343 356 CancerLocator
+T15 Biomarker 35 48 CancerLocator
+T16 Intervention 290 302 blood sample
+T17 Condition 169 175 tumors
+T18 Organism 581 603 patient plasma samples
+T19 Gene 613 616 DNA
+T20 Biomarker 532 545 CancerLocator

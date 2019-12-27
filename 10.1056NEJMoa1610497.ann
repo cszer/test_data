@@ -1,0 +1,16 @@
+T1 Protein 518 528 CAR T-cell
+T2 Level 777 782  CAR 
+T3 Condition 328 333 tumor
+T4 Protein 476 481 toxic
+T5 Level 651 677 cytokines and immune cells
+T6 Level 212 217  CAR 
+T7 Condition 558 588 intracranial and spinal tumors
+T8 Intervention 372 383 ventricular
+T9 Level 517 522  CAR 
+T10 Condition 123 128 tumor
+T11 Protein 685 704 cerebrospinal fluid
+T12 Level 434 439  CAR 
+T13 Protein 778 788 CAR T-cell
+T14 Condition 582 587 tumor
+T15 Intervention 392 404 Intracranial
+T16 Level 418 446 IL13Rα2-targeted CAR T cells

@@ -1,0 +1,56 @@
+T1 Condition 479 484 virus
+T2 Condition 1235 1240 tumor
+T3 Level 841 890 supernatants from ICOVIR-15K-cBiTE–infected cells
+T4 Intervention 519 525 T-cell
+T5 Level 1457 1464 T cells
+T7 Condition 197 202 virus
+T8 Level 402 409 T cells
+T10 Level 404 408 cell
+T11 Protein 794 799 cBiTE
+T12 Protein 1408 1413 cBiTE
+T13 Condition 1161 1188 cBiTE-expressing adenovirus
+T15 Condition 1587 1592 virus
+T17 Condition 1482 1487 tumor
+T18 Level 192 217 adenovirus-infected cells
+T19 Protein 1001 1006 cBiTE
+T20 Level 212 216 cell
+T21 Condition 91 96 virus
+T22 Condition 1352 1367 tumor xenograft
+T23 Condition 102 108 cancer
+T25 Protein 298 301 CTL
+T26 Protein 639 644 cBiTE
+T28 Protein 737 742 cBiTE
+T29 Gene 645 654  antibody
+T30 Protein 1161 1166 cBiTE
+T31 Condition 1135 1140 tumor
+T32 Level 1047 1051 cell
+T33 Level 1256 1260 cell
+T34 Protein 726 742 ICOVIR-15K-cBiTE
+T36 Condition 567 588 adenovirus ICOVIR-15K
+T38 Level 967 971 cell
+T39 Level 383 409 tumor-infiltrating T cells
+T40 Protein 859 875 ICOVIR-15K-cBiTE
+T41 Protein 1397 1413 ICOVIR-15K-cBiTE
+T42 Protein 990 1006 ICOVIR-15K-cBiTE
+T44 Gene 1599 1605  BiTE 
+T45 Condition 474 486 adenoviruses
+T46 Condition 1352 1357 tumor
+T47 Condition 1298 1303 virus
+T48 Condition 86 98 adenoviruses
+T49 Condition 1582 1594 adenoviruses
+T50 Gene 909 914 BiTEs
+T51 Level 885 889 cell
+T52 Level 1093 1097 cell
+T53 Condition 383 388 tumor
+T54 Level 260 296 infiltrating cytotoxic T lymphocytes
+T55 Level 1235 1261 tumor-infiltrating T cells
+T56 Intervention 1130 1142 intratumoral
+T57 Gene 793 800  cBiTE 
+T58 Level 1448 1452 cell
+T60 Level 1397 1453 ICOVIR-15K-cBiTE with peripheral blood mononuclear cells
+T62 Gene 680 699 major late promoter
+T63 Intervention 1045 1051 T-cell
+T64 Level 1478 1487 antitumor
+T65 Intervention 508 534 bispecific T-cell–engager 
+T66 Gene 540 551  antibodies
+R1 Relation Arg1:T21 Arg2:T48

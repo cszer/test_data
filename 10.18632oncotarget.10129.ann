@@ -1,0 +1,35 @@
+T1 Protein 551 555 NRF2
+T2 Condition 1051 1059 melanoma
+T3 Condition 1269 1275 glioma
+T4 Biomarker 194 207 temozolomide 
+T5 Protein 945 948 BSO
+T6 Biomarker 1118 1121 TMZ
+T7 Level 715 726 tumor cells
+T8 Biomarker 1196 1201  TMZ 
+T9 Protein 885 888 DNA
+T10 Biomarker 462 467  TMZ 
+T11 Protein 786 790 NFR2
+T12 Biomarker 1117 1122  TMZ 
+T13 Biomarker 830 835  TMZ 
+T14 Protein 345 348 DNA
+T15 Condition 1153 1159 tumors
+T16 Protein 1189 1192 BSO
+T17 Protein 588 618 transcription factor regulator
+T18 Biomarker 208 211 TMZ
+T19 Protein 1091 1094 GSH
+T20 Biomarker 463 466 TMZ
+T21 Biomarker 1197 1200 TMZ
+T22 Condition 1280 1288 melanoma
+T23 Condition 130 136 cancer
+T24 Protein 953 956 GSH
+T25 Condition 186 192 glioma
+T26 Protein 689 692 GSH
+T27 Level 628 632 cell
+T28 Biomarker 831 834 TMZ
+T29 Level 908 912 cell
+T30 Biomarker 676 687 glutathione
+T31 Biomarker 974 977 TMZ
+T32 Level 721 725 cell
+T33 Level 815 819 cell
+T34 Level 622 633 human cells
+T35 Gene 506 549 nuclear factor erythroid 2-related factor 2

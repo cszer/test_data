@@ -1,0 +1,45 @@
+T1 Level 109 115  cells
+T3 Level 125 131  cells
+T4 Protein 192 197 FOXG1
+T5 Protein 933 938 FOXG1
+T7 Gene 855 863 promoter
+T8 Level 877 907 patient-derived GBM stem cells
+T9 Level 1312 1318  cells
+T11 CL 353 360 NS cell
+T12 Protein 580 584 SOX2
+T13 Level 1028 1034  cells
+T14 Level 781 790 astrocyte
+T15 Biomarker 683 696 5-azacytidine
+T16 Gene 916 929 Cas9 deletion
+T17 Level 47 74 brain tumor driven by cells
+T18 Level 1018 1034 FOXG1-null cells
+T19 Gene 580 613 SOX2-bound cis-regulatory element
+T20 Protein 1095 1100 FOXO3
+T21 Protein 867 872 Foxo3
+T22 Level 1053 1062 astrocyte
+T24 Protein 489 494 Foxo3
+T26 Level 901 907  cells
+T27 Level 274 283 astrocyte
+T28 Level 893 907 GBM stem cells
+T29 Protein 1304 1307 GBM
+T30 Protein 615 620 Foxo3
+T31 Protein 1207 1212 FOXG1
+T32 Protein 202 206 SOX2
+T34 Level 765 791 differentiating astrocytes
+T37 Gene 368 437 Transcriptional targets include cell cycle and epigenetic regulators 
+T38 Protein 1217 1221 SOX2
+T39 Gene 564 579 conserved FOXG1
+T40 Protein 444 449 Foxo3
+T41 Protein 25 28 GBM
+T42 CL 352 356  NS 
+T43 Level 117 131 GBM stem cells
+T44 Level 707 716 astrocyte
+T45 Intervention 1274 1287 unconstrained
+T46 Level 1159 1171 mutant cells
+T47 CL 1350 1359 core cell
+T48 Protein 1115 1119 SOX2
+T49 Protein 893 896 GBM
+T50 Protein 1018 1023 FOXG1
+T51 Protein 909 915 CRISPR
+T52 Protein 117 120 GBM
+R1 Relation Arg1:T4 Arg2:T32

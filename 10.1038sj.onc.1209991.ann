@@ -1,0 +1,57 @@
+T1 Condition 304 306 PC
+T2 Protein 1428 1430 GR
+T3 Biomarker 1401 1403 TF
+T4 Protein 504 506 GR
+T5 Protein 244 246 GR
+T6 Protein 1173 1178 STAT1
+T7 Biomarker 1100 1102 TF
+T8 Protein 790 792 GR
+T9 Condition 1466 1474 prostate
+T10 Protein 1166 1171 Elk-1
+T11 Protein 377 379 GR
+T12 Protein 736 741 c-Myc
+T13 Protein 1148 1157 CEBPalpha
+T14 Condition 1330 1332 PC
+T15 Condition 77 92 prostate cancer
+T16 Gene 687 690 p27
+T17 Protein 1136 1139 p53
+T18 Condition 830 832 PC
+T19 Protein 1043 1045 GR
+T20 Gene 711 720 cyclin D1
+T21 Organism 464 474 lentiviral
+T22 Condition 578 630 monolayer cultures and blocked anchorage-independent
+T23 Protein 174 176 GR
+T24 Condition 322 327 tumor
+T25 Level 446 451 LNCaP
+T26 Protein 1120 1123 SRF
+T27 Protein 1125 1134 NF-kappaB
+T28 Level 446 457 LNCaP cells
+T29 Protein 959 963 MAPK
+T30 Protein 1521 1544 transcriptional factors
+T31 Condition 335 337 PC
+T32 Biomarker 1114 1118 AP-1
+T33 Gene 679 682 p21
+T34 Level 498 503 LNCaP
+T35 Condition 77 85 prostate
+T36 Intervention 207 223 prostate samples
+T37 Protein 1077 1098 transcription factors
+T38 Biomarker 1142 1144 TF
+T39 Level 498 512 LNCaP-GR cells
+T40 Biomarker 1141 1146 ATF-2
+T41 Condition 207 215 prostate
+T42 Condition 181 183 PC
+T43 Level 335 348 PC cell lines
+T44 Protein 407 409 GR
+T45 Level 1401 1404 TFs
+T46 Condition 319 328 PC tumors
+T47 Gene 149 172 glucocorticoid receptor
+T48 Condition 94 96 PC
+T49 Condition 1446 1451 tumor
+T50 Condition 319 321 PC
+T51 Protein 892 894 GR
+T52 Gene 946 958 MAP-kinases 
+T53 Protein 1159 1164 Ets-1
+T54 Protein 1223 1227 MAPK
+T55 Level 360 365 LNCaP
+T56 Gene 1264 1290 hepsin and AMACR promoters
+R1 Relation Arg1:T23 Arg2:T42

@@ -1,0 +1,27 @@
+T1 Protein 518 539 bone marrow specimens
+T2 Organism 1287 1295 children
+T3 Protein 472 478 virome
+T4 Protein 1085 1098 CI=1.89-25.96
+T5 Level 1108 1127 non-Hispanic whites
+T6 Condition 548 552  ALL
+T7 Level 1129 1150 OR=2.10 CI= 0.69-7.13
+T8 Condition 646 661 cytomegalovirus
+T9 Condition 1248 1252  ALL
+T10 Protein 663 666 CMV
+T11 Condition 134 137 ALL
+T12 Level 752 768  leukemia blasts
+T13 Condition 156 172 childhood cancer
+T14 Protein 1204 1207 CMV
+T16 Protein 1322 1325 CMV
+T18 Condition 342 346  ALL
+T19 Organism 329 337 children
+T20 Level 730 750 viral transcription 
+T24 Condition 1351 1355  ALL
+T25 Intervention 826 839 blood samples
+T26 Disease 1193 1217 congenital CMV infection
+T27 Condition 104 133 acute lymphoblastic leukemia 
+T29 Protein 895 898 CMV
+T30 Condition 703 707  ALL
+T31 Condition 575 597 acute myeloid leukemia
+T32 Condition 911 915  ALL
+T33 Intervention 798 803 serum

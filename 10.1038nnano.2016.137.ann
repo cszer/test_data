@@ -1,0 +1,22 @@
+T1 Biomarker 932 957 drug-loaded nanoliposomes
+T2 Condition 1167 1173 tumour
+T3 Condition 1167 1189 tumour hypoxic regions
+T4 Condition 395 401 tumour
+T5 Biomarker 341 366 drug-loaded nanoliposomes
+T6 Level 307 310 ref
+T7 Biomarker 932 943 drug-loaded
+T8 Level 839 849 MC-1 cells
+T9 Biomarker 569 591 oxygen concentrations6
+T10 Level 659 669 MC-1 cells
+T11 Biomarker 695 724 drug-containing nanoliposomes
+T12 Biomarker 341 352 drug-loaded
+T13 Organism 774 800 immunodeficient beige mice
+T14 Level 433 442 MC-1 cell
+T15 Level 980 989 MC-1 cell
+T16 Biomarker 73 83 therapies1
+T17 Condition 748 754 tumour
+T18 Condition 39 45 tumour
+T19 Level 433 443 MC-1 cells
+T20 Level 839 848 MC-1 cell
+T21 Condition 885 913 HCT116 colorectal xenografts
+T22 Level 659 668 MC-1 cell

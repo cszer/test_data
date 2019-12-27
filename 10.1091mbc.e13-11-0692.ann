@@ -1,0 +1,22 @@
+T2 Protein 237 240 PML
+T3 Protein 598 602  PML
+T4 Biomarker 482 495 sulforaphane 
+T6 Protein 279 283  PML
+T7 Biomarker 968 972  SFN
+T10 Protein 932 936  PML
+T11 Intervention 571 582 subcellular
+T12 Biomarker 696 709 antimigration
+T14 Biomarker 633 649 SFN-mediated ROS
+T15 Protein 304 328 mitochondrial complex II
+T16 Protein 660 664 Nrf2
+T17 Protein 528 532 Nrf2
+T18 Protein 188 236 tumor suppressor promyelocytic leukemia protein 
+T19 Protein 820 824  PML
+T20 Protein 428 432 Nrf2
+T24 Protein 904 908 Nrf2
+T25 Biomarker 496 499 SFN
+T26 Intervention 835 843 cellular
+T27 Protein 611 615  PML
+T28 Gene 383 426 nuclear factor erythroid 2–related factor 2
+T29 Biomarker 67 81 oxygen species
+T30 Biomarker 632 636  SFN

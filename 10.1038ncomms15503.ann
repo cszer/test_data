@@ -1,0 +1,25 @@
+T1 Biomarker 567 574 glucose
+T3 Gene 657 667  lung SqCC
+T5 Condition 1090 1096 cancer
+T6 Condition 112 118 cancer
+T7 Biomarker 853 860 18F-FDG
+T8 Condition 92 119 non-small cell lung cancer 
+T9 Level 337 343  NSCLC
+T10 Gene 540 550  lung SqCC
+T11 Level 942 948  NSCLC
+T12 Biomarker 518 525 glucose
+T13 Level 403 409  NSCLC
+T15 Level 256 262  NSCLC
+T16 Gene 1076 1086  lung SqCC
+T17 Condition 120 125 NSCLC
+T19 Protein 711 719 lung ADC
+T20 Condition 20 48  and squamous cell carcinoma
+T22 Biomarker 741 748 glucose
+T23 Condition 436 455 Cancer Genome Atlas
+T25 Protein 457 461 TCGA
+T27 Gene 812 822  lung SqCC
+T29 Condition 715 720  ADC 
+T30 Gene 512 538 GLUT1 glucose transporter 
+T31 Level 410 416  NSCLC
+T33 Level 332 358 human NSCLC tumour samples
+T34 Protein 167 176 molecular

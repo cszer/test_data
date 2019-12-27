@@ -1,0 +1,61 @@
+T1 Gene 4 45 gastrointestinal peptide cholecystokinin 
+T2 Protein 1466 1469 CCK
+T3 Organism 530 544 human pancreas
+T4 Protein 307 310 CCK
+T6 Condition 1367 1373 cancer
+T7 Level 1620 1623 egg
+T8 Level 621 644 pancreatic cancer cells
+T9 Condition 73 83 pancreatic
+T10 Gene 233 241 promoter
+T11 Condition 1490 1500 pancreatic
+T12 Condition 1490 1507 pancreatic cancer
+T13 Condition 649 655 tumors
+T14 Gene 1192 1205 CCK receptors
+T17 Gene 1395 1403 promoter
+T18 Condition 826 844 established cancer
+T19 Condition 632 638 cancer
+T20 Gene 1381 1403 early driving promoter
+T21 Protein 1333 1336 CCK
+T22 Organism 1605 1612 chicken
+T23 Organism 331 345 human pancreas
+T24 Condition 1637 1643 cancer
+T25 Protein 568 571 CCK
+T26 Disease 206 218 pancreatitis
+T27 Gene 870 875  CCK 
+T28 Organism 183 189 animal
+T29 Gene 1191 1196  CCK 
+T30 Disease 1111 1123 inflammation
+T31 Condition 621 631 pancreatic
+T32 Protein 1626 1629 CCK
+T33 Condition 1222 1232 pancreatic
+T34 Condition 621 638 pancreatic cancer
+T35 Protein 1644 1645 ”
+T36 Condition 245 296 carcinogen-induced or Kras-driven pancreatic cancer
+T37 Protein 147 150 CCK
+T38 Condition 1407 1413 cancer
+T40 Protein 552 555 CCK
+T41 Gene 50 135  causes the release of pancreatic digestive enzymes and growth of the normal pancreas
+T42 Gene 1048 1053  CCK 
+T43 Protein 882 889 gastrin
+T44 Gene 306 311  CCK 
+T45 Gene 668 673  CCK 
+T46 Level 746 758 cancer cells
+T48 Protein 871 874 CCK
+T49 Condition 279 289 pancreatic
+T51 Protein 1049 1052 CCK
+T52 Level 1259 1289  lesions and on stellate cells
+T53 Organism 601 616 rodent pancreas
+T54 Gene 146 151  CCK 
+T55 Condition 431 441 pancreatic
+T56 Condition 1131 1141 pancreatic
+T58 Level 1192 1221 CCK receptors on early PanIN 
+T59 Gene 1332 1337  CCK 
+T60 Gene 307 320 CCK receptors
+T61 Protein 669 672 CCK
+T62 Protein 46 49 CCK
+R1 Relation Arg1:T10 Arg2:T4
+R2 Relation Arg1:T4 Arg2:T44
+R3 Relation Arg1:T49 Arg2:T4
+R4 Relation Arg1:T10 Arg2:T44
+R5 Relation Arg1:T10 Arg2:T49
+R6 Relation Arg1:T49 Arg2:T44

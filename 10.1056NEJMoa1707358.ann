@@ -1,0 +1,29 @@
+T1 Biomarker 2111 2120 lomustine
+T2 Organism 1764 1772 patients
+T3 Protein 732 736 MGMT
+T4 Organism 586 594 patients
+T6 Condition 81 93 glioblastoma
+T7 Condition 2144 2168 progressive glioblastoma
+T9 Biomarker 201 210 lomustine
+T10 Biomarker 535 544 lomustine
+T11 Biomarker 2028 2037 lomustine
+T12 Gene 680 688 promoter
+T13 Biomarker 2043 2054 bevacizumab
+T14 Biomarker 599 608 lomustine
+T15 Organism 462 470 patients
+T17 Organism 936 944 patients
+T18 Biomarker 366 375 lomustine
+T19 Biomarker 10 21 Bevacizumab
+T20 Biomarker 494 508 chemoradiation
+T21 Organism 388 396 patients
+T22 Protein 692 731 O6-methylguanine–DNA methyltransferase 
+T23 Biomarker 1830 1839 lomustine
+T24 Organism 639 647 patients
+T25 Organism 1713 1721 patients
+T26 Organism 55 63 patients
+T27 Organism 2130 2138 patients
+T28 Condition 421 433 glioblastoma
+T29 Condition 69 93 progressive glioblastoma
+T30 Biomarker 550 561 bevacizumab
+T31 Biomarker 1815 1826 bevacizumab
+T32 Protein 1920 1925  MGMT

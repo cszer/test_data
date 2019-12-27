@@ -1,0 +1,41 @@
+T1 Condition 879 885 tumors
+T2 Gene 111 137 site of metastatic disease
+T4 Condition 620 626 tumors
+T6 Condition 222 228 tumors
+T7 Organism 139 147 Patients
+T8 Condition 826 831 liver
+T10 Condition 216 228 colon tumors
+T11 Condition 911 916 liver
+T13 Condition 208 228 primary colon tumors
+T14 Condition 233 249 liver metastases
+T15 Condition 1153 1159 tumors
+T16 Condition 1508 1520 colon cancer
+T17 Condition 1424 1470 primary tumors and colorectal liver metastases
+T18 Protein 447 454 TNFSF14
+T19 Condition 1142 1159 metastatic tumors
+T20 Level 1298 1304 T-cell
+T21 Condition 233 238 liver
+T22 Condition 83 88 liver
+T23 Condition 808 822 primary tumors
+T24 CL 1069 1079 lymphocyte
+T25 CL 1050 1080 tumor-infiltrating lymphocytes
+T26 CL 1109 1119 lymphocyte
+T27 Condition 324 333 antitumor
+T29 Condition 483 506 colon cancer metastases
+T30 Protein 287 304 molecular factors
+T31 Organism 596 602 murine
+T32 Condition 1432 1438 tumors
+T34 Condition 1424 1438 primary tumors
+T35 CL 654 664 lymphocyte
+T36 Condition 683 712 tumor cell–specific antitumor
+T37 Condition 826 842 liver metastases
+T38 Condition 1225 1234 antitumor
+T39 Condition 939 980 cytotoxic T-lymphocyte–mediated antitumor
+T40 Organism 16 24 patients
+T41 CL 174 204 tumor-infiltrating lymphocytes
+T42 Organism 16 23 patient
+T43 Organism 532 539 patient
+T44 Condition 483 495 colon cancer
+T45 CL 951 961 lymphocyte
+T49 Condition 614 626 colon tumors
+T50 CL 193 203 lymphocyte

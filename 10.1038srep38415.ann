@@ -1,0 +1,24 @@
+T1 Gene 318 327 oncogenes
+T2 Protein 905 910 GLUD1
+T3 Condition 871 888 colorectal cancer
+T4 Protein 796 804 SLC25A13
+T6 Protein 754 762 SLC25A13
+T7 Protein 915 923 SLC25A13
+T8 Protein 786 791 GLUD1
+T10 Biomarker 624 642 tricarboxylic acid
+T11 Gene 541 554 KRAS mutation
+T12 Level 607 612 cells
+T13 Condition 331 348 colorectal cancer
+T14 Condition 972 989 colorectal cancer
+T15 Level 379 402 colorectal cancer cells
+T16 Disease 65 72 hypoxia
+T18 Gene 506 525 genomic alterations
+T19 Biomarker 435 442 glucose
+T20 Protein 744 749 GLUD1
+T21 Protein 1007 1021 malnutritional
+T22 Condition 826 846 tumor aggressiveness
+T23 Protein 662 665 ATP
+T25 Level 6 11 cells
+T26 Condition 379 396 colorectal cancer
+T27 Gene 144 153 oncogenes
+T29 Condition 174 180 cancer

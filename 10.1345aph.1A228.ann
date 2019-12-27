@@ -1,0 +1,23 @@
+T1 Organism 301 304 men
+T2 Protein 651 654 BPH
+T3 Protein 696 699 BPH
+T4 Organism 100 103 men
+T5 Condition 621 637 benign prostatic
+T6 Condition 621 649 benign prostatic hyperplasia
+T8 Organism 837 840 men
+T9 Protein 975 978 BPH
+T10 Protein 845 848 BPH
+T11 Intervention 1156 1164 extracts
+T12 Protein 137 141 DATA
+T13 Level 760 783 Cucurbita peponis semen
+T14 Condition 108 136 benign prostatic hyperplasia
+T15 Organism 1306 1309 men
+T16 Protein 524 528 DATA
+T17 Organism 561 564 men
+T18 Organism 1363 1371 patients
+T19 Protein 383 387 DATA
+T20 Organism 688 691 men
+T21 Protein 373 382 SELECTION
+T22 Condition 108 124 benign prostatic
+T23 Protein 1377 1380 BPH
+T24 Organism 967 970 men

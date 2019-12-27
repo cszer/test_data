@@ -1,0 +1,15 @@
+T1 Protein 9 20 anti-CTLA-4
+T2 Condition 22 32 ipilimumab
+T3 Organism 317 325 patients
+T5 Condition 568 574 tumors
+T6 Condition 152 167 prostate cancer
+T7 Condition 559 574 prostate tumors
+T8 Condition 286 311 ipilimumab-treated tumors
+T9 Gene 499 504 VISTA
+T10 Condition 286 296 ipilimumab
+T11 Condition 469 475 tumors
+T12 Organism 37 47 anti-PD-1 
+T13 Intervention 446 457 macrophages
+T14 Condition 581 591 ipilimumab
+T15 Gene 383 388 VISTA
+T16 Gene 373 409 PD-L1 and VISTA inhibitory molecules

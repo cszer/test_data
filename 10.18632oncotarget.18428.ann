@@ -1,0 +1,37 @@
+T1 Biomarker 875 883 Doxycycl
+T2 Biomarker 1250 1262 Doxycycline 
+T3 Protein 168 180 FDA-approved
+T5 Protein 343 351 proteins
+T6 Biomarker 1164 1172 Doxycycl
+T7 Biomarker 192 203 Doxycycline
+T8 Biomarker 192 200 Doxycycl
+T9 Level 875 911 Doxycycline-resistant CSC population
+T10 Protein 631 650 Doxycycline-induced
+T11 Gene 816 841 clinically-approved drugs
+T12 Level 224 232 cellular
+T13 Gene 765 781 natural products
+T14 Level 93 110 cancer stem cells
+T15 Biomarker 369 376 MT-ATP6
+T16 Biomarker 1301 1311  Vitamin C
+T17 Biomarker 353 359 MT-ND3
+T18 Biomarker 1250 1258 Doxycycl
+T19 Protein 259 280 mitochondrial protein
+T20 Biomarker 875 886 Doxycycline
+T21 Biomarker 1079 1090 Doxycycline
+T22 Biomarker 381 388 MT-ATP8
+T23 Biomarker 631 639 Doxycycl
+T24 Biomarker 1164 1175 Doxycycline
+T25 Level 1189 1202  cancer cells
+T26 Condition 493 519 cancer cell sub-population
+T27 Level 112 116 CSCs
+T28 Level 1418 1422 CSCs
+T29 Biomarker 1079 1087 Doxycycl
+T30 Biomarker 797 806 Berberine
+T31 Gene 317 334 mitochondrial DNA
+T32 Biomarker 361 367 MT-CO2
+T33 Biomarker 783 792 Vitamin C
+T34 Biomarker 1250 1261 Doxycycline
+T35 Biomarker 192 204 Doxycycline 
+T36 Biomarker 631 642 Doxycycline
+T37 Level 1069 1073 CSCs
+T38 Cancer cells 1174 1187 e-resistance 

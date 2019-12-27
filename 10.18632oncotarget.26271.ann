@@ -1,0 +1,38 @@
+T2 Protein 758 783 cancer-associated antigen
+T4 Level 758 764 cancer
+T5 Protein 1052 1077 cancer-associated antigen
+T6 Protein 106 114 membrane
+T9 Level 391 398 cancer 
+T11 Level 872 878  cells
+T12 Level 758 805 cancer-associated antigen along with antibodies
+T14 Level 677 683  cells
+T15 Level 391 397 cancer
+T16 Protein 339 354 testis antigens
+T18 Level 552 570 immune-driven cell
+T19 Level 1088 1094  cells
+T21 Level 296 302 cancer
+T22 Level 1347 1353  cells
+T23 Protein 1101 1120 co-express antigens
+T24 Protein 442 450 membrane
+T25 Protein 296 321 cancer-associated antigen
+T26 Level 1079 1094 Malignant cells
+T27 Protein 106 134 membrane-associated antigens
+T28 Level 947 957 antibodies
+T29 Level 332 338 cancer
+T30 Level 1052 1058 cancer
+T31 Level 1531 1538 cancer 
+T32 Level 1341 1353 tumour cells
+T33 Level 1537 1543  cells
+T34 Level 1027 1039 normal cells
+T35 Level 1531 1537 cancer
+T36 Protein 697 707 stipulates
+T37 Level 178 225 immune complexes on the surface of cancer cells
+T38 Protein 628 636 membrane
+T40 Level 866 878 normal cells
+T41 Level 628 683 membrane-associated immune complexes on malignant cells
+T42 Protein 296 322 cancer-associated antigens
+T43 Level 213 219 cancer
+T44 Condition 847 852 tumor
+T45 Level 732 742 antibodies
+T46 Level 1149 1161 normal cells
+T47 Level 1531 1575 cancer cells without destroying normal cells

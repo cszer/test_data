@@ -1,0 +1,43 @@
+T2 Condition 1282 1284 AR
+T3 Protein 789 805 CYP17 inhibitors
+T4 Condition 1145 1161 tumor xenografts
+T5 Intervention 1029 1036 nuclear
+T7 Protein 1009 1015 apo-AR
+T8 Biomarker 129 138 androgens
+T9 Condition 868 870 AR
+T10 Condition 1395 1397 AR
+T11 Protein 829 838 orteronel
+T12 Condition 370 372 AR
+T13 Protein 1054 1057 DNA
+T14 Biomarker 641 652 seviteronel
+T15 Protein 1351 1367 CYP17 inhibitors
+T16 Gene 1350 1357  CYP17 
+T17 Protein 429 460 CYP17 lyase–selective inhibitor
+T18 Biomarker 736 744 androgen
+T19 Gene 35 56 cytochrome P450 17A1 
+T20 Protein 251 255 CRPC
+T21 Gene 927 951 CYP17 inhibitor–bound AR
+T22 Gene 501 526 prostate-specific antigen
+T23 Gene 428 435  CYP17 
+T24 Protein 1443 1447 CRPC
+T25 Biomarker 351 359 androgen
+T26 Condition 1197 1214 mutation AR-F876L
+T27 Protein 545 549 CRPC
+T28 Biomarker 576 587 seviteronel
+T29 Gene 788 795  CYP17 
+T30 Biomarker 414 425 seviteronel
+T31 Biomarker 129 137 androgen
+T32 Protein 868 882 AR antagonists
+T33 Protein 303 319 CYP17 inhibitors
+T34 Condition 1005 1007 AR
+T35 Biomarker 180 191 abiraterone
+T36 Organism 532 539 patient
+T37 Gene 351 368 androgen receptor
+T38 Gene 302 309  CYP17 
+T39 Condition 608 610 AR
+T40 Condition 1206 1208 AR
+T41 Biomarker 1109 1120 abiraterone
+T42 Gene 926 933  CYP17 
+T43 Biomarker 1093 1104 seviteronel
+T44 Condition 213 249 castration-resistant prostate cancer
+R1 Relation Arg1:T25 Arg2:T12

@@ -1,0 +1,21 @@
+T1 Condition 283 286 CRC
+T2 Gene 882 889 alleles
+T4 Gene 418 422 SNPs
+T5 Condition 19 22 CRC
+T6 Intervention 546 555 vegetable
+T7 Cellular_component 533 541 red meat
+T8 Protein 230 233 SNP
+T9 Condition 388 402 Twenty-one CRC
+T10 Organism 1218 1226 patients
+T11 Protein 785 788 SNP
+T12 Condition 629 632 CRC
+T13 Biomarker 484 491 alcohol
+T14 Gene 980 990 19 alleles
+T15 Condition 505 512 obesity
+T17 Protein 418 421 SNP
+T18 Gene 992 1004 1st quintile
+T19 Condition 153 156 CRC
+T20 Biomarker 204 214 nucleotide
+T21 Gene 1163 1170 genetic
+T22 Condition 712 715 CRC
+R1 Relation Arg1:T19 Arg2:T8

@@ -1,0 +1,47 @@
+T1 Biomarker 593 598 PARPi
+T2 Biomarker 1257 1272 ERCC1-deficient
+T3 Level 1024 1030  TNBC 
+T4 Biomarker 28 38 stimulator
+T6 Protein 58 63 STING
+T7 Cancer cells 701 708  NSCLC 
+T8 Level 204 210  cells
+T9 Level 1029 1035  cells
+T10 Protein 42 51 IFN genes
+T11 Level 304 323 isogenic cell lines
+T12 Biomarker 1334 1339 PARPi
+T14 Biomarker 4 27 cyclic GMP-AMP synthase
+T15 Level 1221 1227  cells
+T17 Biomarker 1085 1094 on-target
+T18 Level 764 770  cells
+T19 Biomarker 1105 1110 PARPi
+T20 Protein 952 956 CCL5
+T21 Level 1114 1119 PARP1
+T22 Level 1014 1019 PARP1
+T23 Cancer cells 712 758 BRCA1-defective triple-negative breast cancer 
+T24 Condition 283 288 ERCC1
+T25 Level 1178 1194 NSCLC cell lines
+T26 Condition 1257 1262 ERCC1
+T27 Biomarker 789 794 PARPi
+T28 Protein 908 913 STING
+T29 Biomarker 1121 1126 PARPi
+T30 Cellular_component 805 836 cytoplasmic chromatin fragments
+T31 Cancer cells 1177 1184  NSCLC 
+T32 Level 198 210 cancer cells
+T33 Level 418 424  cells
+T34 Gene 91 94 DNA
+T35 Condition 368 373 ERCC1
+T36 Condition 264 279 BRCA1 mutations
+T37 Level 537 548 lymphocytic
+T38 Protein 1384 1395 molecularly
+T39 Protein 445 480 type I IFN transcriptomic signature
+T41 Level 1208 1227 patient tumor cells
+T42 Condition 494 499 ERCC1
+T43 Condition 686 691 ERCC1
+T44 Gene 53 57 cGAS
+T45 Intervention 861 872 micronuclei
+T46 Protein 148 171  polymerase inhibitors 
+T47 Gene 1144 1163 IFN-γ–induced PD-L1
+T48 Cancer cells 368 411 ERCC1-defective non–small cell lung cancer 
+T49 Condition 686 707 ERCC1-defective NSCLC
+T50 Biomarker 172 177 PARPi
+T51 Level 328 351 patient-derived samples

@@ -1,0 +1,41 @@
+T5 Biomarker 1257 1262 GAPDH
+T6 Gene 1136 1145 acetyl SA
+T7 Biomarker 1255 1262 HsGAPDH
+T8 Biomarker 181 183 SA
+T10 Biomarker 657 662 GAPDH
+T11 Protein 261 276 high-throughput
+T12 Biomarker 1305 1307 SA
+T14 Gene 642 653 human GAPDH
+T15 Biomarker 1507 1512 GAPDH
+T17 Protein 312 332 SA-binding proteins 
+T18 CL 823 827 cell
+T19 Biomarker 675 677 SA
+T20 Biomarker 383 388 GAPDH
+T21 Intervention 897 904 nuclear
+T22 CL 1267 1271 cell
+T23 Organism 1381 1400 Glycyrrhiza foetida
+T24 Biomarker 1127 1134 aspirin
+T25 CL 948 952 cell
+T26 Biomarker 1531 1533 SA
+T27 Intervention 1230 1237 nuclear
+T28 Biomarker 312 314 SA
+T29 Gene 341 381 Glyceraldehyde 3-Phosphate Dehydrogenase
+T30 Biomarker 1088 1090 SA
+T31 Biomarker 1413 1425 glycyrrhizin
+T32 Biomarker 4 32 plant hormone salicylic acid
+T33 Biomarker 124 129 plant
+T35 Biomarker 1505 1512 HsGAPDH
+T36 Biomarker 1599 1606 HsGAPDH
+T37 Biomarker 333 335 SA
+T38 Biomarker 1434 1460 SA-derivatives amorfrutins
+T39 Biomarker 655 662 HsGAPDH
+T40 CL 814 827 neuronal cell
+T41 Biomarker 726 733 HsGAPDH
+T42 Biomarker 4 9 plant
+T44 Protein 1003 1006 DNA
+T45 Organism 403 423 Arabidopsis thaliana
+T46 Biomarker 504 506 SA
+T47 Biomarker 922 929 HsGAPDH
+T48 Intervention 1614 1621 nucleus
+T49 Biomarker 34 36 SA
+R1 Relation Arg1:T28 Arg2:T37

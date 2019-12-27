@@ -1,0 +1,59 @@
+T1 Species 868 873 mouse
+T2 Biomarker 1907 1916 Metformin
+T3 Intervention 1849 1854  TAMs
+T4 Condition 925 951 tumor extracellular matrix
+T5 Protein 953 956 ECM
+T6 Disease 776 788 inflammation
+T7 Condition 1546 1557 desmoplasia
+T8 Protein 384 405 glucose-lowering drug
+T10 Disease 137 149 inflammation
+T11 Condition 1300 1305 tumor
+T12 Disease 1171 1183 inflammation
+T13 Intervention 1317 1328 macrophages
+T14 Intervention 1081 1099 HA and collagen-I 
+T17 Condition 173 184 desmoplasia
+T18 Biomarker 1710 1719 Metformin
+T19 Level 1330 1334 TAMs
+T20 Protein 1606 1609 ECM
+T21 Condition 1111 1114 PSC
+T22 Condition 792 796 PDAC
+T23 Gene_or_gene_product 798 805 Methods
+T25 Condition 443 478 diabetic pancreatic cancer patients
+T26 Intervention 1025 1034 metformin
+T28 Protein 1450 1455 STAT3
+T29 Condition 2005 2013 patients
+T30 Intervention 1144 1153 metformin
+T31 Condition 837 841 PDAC
+T32 Condition 470 478 patients
+T33 Protein 1247 1252 IL-1β
+T34 Condition 1806 1845 pancreatic cancer by reprogramming PSCs
+T35 Condition 792 797 PDACs
+T36 Protein 1445 1449 AMPK
+T37 Protein 1043 1048 TGF-ß
+T38 Intervention 897 906 metformin
+T39 Condition 279 283 PSCs
+T40 Condition 1980 2013 overweight diabetic PDAC patients
+T41 Level 252 277 pancreatic stellate cells
+T42 Condition 279 282 PSC
+T43 Level 1101 1115  cultured PSCs
+T44 Disease 763 771 fibrosis
+T45 Condition 167 172 tumor
+T47 Level 263 277 stellate cells
+T49 Condition 351 355 PDAC
+T50 Condition 301 312 desmoplasia
+T52 Intervention 1561 1570 metformin
+T54 Protein 1214 1236 inflammatory cytokines
+T55 Condition 1165 1170 tumor
+T56 Condition 749 752 PSC
+T57 Biomarker 601 610 Metformin
+T58 Intervention 1467 1476 metformin
+T60 Biomarker 357 366 Metformin
+T61 Condition 167 184 tumor desmoplasia
+T62 Intervention 736 745 metformin
+T63 Condition 2000 2004 PDAC
+T64 Level 654 668 stellate cells
+T65 Condition 1841 1844 PSC
+T66 Condition 44 48 PDAC
+T67 Condition 828 850 diabetic PDAC patients
+T68 Condition 925 930 tumor
+T69 Condition 62 80 desmoplastic tumor

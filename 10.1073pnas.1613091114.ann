@@ -1,0 +1,18 @@
+T1 Gene 564 567 MYC
+T2 Condition 643 654 cancer cell
+T3 Gene 492 495 MYC
+T5 Gene 431 435 PI3K
+T6 Gene 346 350 BRD4
+T7 Gene 0 3 MYC
+T8 Gene 604 607 MYC
+T9 Protein 401 422 dual-action inhibitor
+T10 Gene 552 556 BRD4
+T11 Gene 277 280 MYC
+T12 Gene 436 440 BRD4
+T13 Condition 819 829 anticancer
+T14 Condition 9 21 major cancer
+T15 Protein 199 222 multitargeted compounds
+T16 Protein 722 745 dual-activity inhibitor
+T17 Gene 277 382 MYC-mediating factors through inhibiting the acetyllysine binding of BRD4 and the kinase activity of PI3K
+T18 Gene 543 547 PI3K
+R1 Relation Arg1:T11 Arg2:T6

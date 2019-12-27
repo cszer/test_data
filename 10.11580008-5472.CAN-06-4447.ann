@@ -1,0 +1,58 @@
+T2 Condition 237 241 p53−
+T3 Condition 230 241 HCT116 p53−
+T4 Condition 501 509 diabetes
+T5 Gene 615 629 AMPK activator
+T6 Condition 1054 1055 −
+T7 Condition 1049 1053 p53−
+T8 Condition 214 219 tumor
+T9 Condition 1624 1629 tumor
+T10 Protein 972 977 AICAR
+T11 Condition 105 140 colon cancer cell lines HCT116 p53+
+T12 Condition 327 331 p53−
+T13 Intervention 177 186 metformin
+T14 Condition 332 348 − tumor sections
+T17 Level 388 395 − cells
+T18 Condition 49 54 tumor
+T19 Level 1469 1476 − cells
+T20 Protein 614 619  AMPK
+T21 Level 1531 1559 toxic to p53-deficient cells
+T23 Biomarker 464 473 Metformin
+T24 Condition 240 241 −
+T25 Condition 786 787 −
+T26 Biomarker 1223 1232 Metformin
+T27 Intervention 1189 1211 mitochondrial electron
+T28 Condition 242 243 −
+T29 Intervention 1409 1418 metformin
+T30 Level 1125 1148 metformin-treated cells
+T31 Condition 677 678 −
+T32 Level 1353 1357 p53-
+T33 Level 1223 1246 Metformin-treated cells
+T34 Condition 1464 1468 p53−
+T35 Protein 548 577 AMP-activated protein kinase 
+T36 Intervention 1125 1134 metformin
+T38 Condition 679 680 −
+T40 Condition 681 686 tumor
+T43 Organism 1643 1651 patients
+T44 Condition 157 158 −
+T45 Condition 1052 1053 −
+T47 Intervention 36 45 metformin
+T48 Condition 242 254 − xenografts
+T50 Condition 679 686 − tumor
+T51 Intervention 1506 1515 metformin
+T52 Condition 783 787 p53−
+T53 Intervention 1153 1162 metformin
+T54 Condition 1025 1029 p53+
+T55 Condition 776 787 HCT116 p53−
+T56 Biomarker 999 1021 fatty acid β-oxidation
+T57 Condition 159 160 −
+T58 Condition 674 678 p53−
+T59 Protein 600 605 AICAR
+T60 Level 1540 1544 p53-
+T62 Condition 388 389 −
+T63 Organism 883 922 nontransformed mouse embryo fibroblasts
+T64 Condition 330 331 −
+T66 Intervention 281 290 metformin
+T68 Level 1054 1060 − MEFs
+T69 Condition 332 333 −
+T70 Condition 147 158 HCT116 p53−
+T71 Level 788 795 − cells

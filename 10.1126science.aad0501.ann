@@ -1,0 +1,42 @@
+T1 Level 243 247 cell
+T2 Protein 115 118 RNA
+T3 Condition 410 415 tumor
+T5 Condition 59 74 melanoma tumors
+T6 Condition 499 504 tumor
+T7 Organism 162 170 patients
+T8 Gene 542 567 MITF transcription factor
+T10 Level 955 963 cellular
+T11 Level 999 1003 cell
+T12 Level 845 849 cell
+T13 Level 127 144 4645 single cells
+T14 CL 460 480 transcriptional cell
+T15 Level 583 588 cells
+T16 Condition 766 771 tumor
+T17 Organism 912 920 patients
+T18 Gene 542 546 MITF
+T21 Condition 977 982 tumor
+T22 Level 476 480 cell
+T23 Level 139 144 cells
+T24 Gene 24 33 genotypic
+T25 Condition 68 73 tumor
+T26 Level 727 731 cell
+T27 Level 226 231 cells
+T29 Level 436 440 cell
+T30 Level 735 739 cell
+T31 Condition 68 74 tumors
+T32 Level 785 791 T cell
+T33 Condition 499 505 tumors
+T34 Condition 265 270 tumor
+T36 Level 436 441 cells
+T38 Level 426 441 malignant cells
+T39 Level 226 230 cell
+T41 Level 843 849 T cell
+T42 Level 766 792 tumor-infiltrating T cells
+T43 Level 331 335 cell
+T44 Condition 682 687 tumor
+T45 Level 94 98 cell
+T46 Protein 99 102 RNA
+T47 Level 955 959 cell
+T48 Level 649 653 cell
+T49 Level 583 587 cell
+T50 Level 233 248 Malignant cells

@@ -1,0 +1,62 @@
+T1 Biomarker 1121 1125  EPI
+T2 Condition 1059 1072 breast cancer
+T3 Level 906 917 MCF-7 cells
+T4 Biomarker 1019 1031 epinephrine 
+T5 Gene 194 226 human exercise–conditioned serum
+T6 Condition 1130 1132 NE
+T7 Organism 467 472 women
+T8 Condition 1100 1105 tumor
+T9 Condition 807 811 cell
+T10 Organism_substance 430 456 Exercise-conditioned serum
+T13 Condition 1749 1753 cell
+T14 Gene_or_gene_product 880 892 β-adrenergic
+T16 Condition 1576 1581 tumor
+T17 Condition 1550 1556 tumors
+T18 Organism 1435 1439 mice
+T20 Condition 600 618 breast cancer cell
+T21 Condition 600 613 breast cancer
+T22 Condition 723 727 cell
+T23 Organism 750 767 NMRI-Foxn1nu mice
+T24 Protein 381 399 exercise-dependent
+T25 Condition 1611 1616 Hippo
+T26 Level 703 709 MCF-7 
+T27 Condition 1735 1748 breast cancer
+T28 Biomarker 774 791 exercise-mediated
+T29 Organism 513 518 women
+T30 Organism 273 279 murine
+T31 Level 703 708 MCF-7
+T32 Protein 1402 1406 CTGF
+T33 Level 906 911 MCF-7
+T34 Condition 1059 1077 breast cancer cell
+T35 Level 537 543 MCF-7 
+T36 Condition 1421 1426 tumor
+T37 Biomarker 1016 1030 norepinephrine
+T38 Condition 231 249 breast cancer cell
+T39 Condition 1522 1532 MDA-MB-231
+T40 Condition 1032 1034 NE
+T41 Condition 1550 1555 tumor
+T42 Condition 231 244 breast cancer
+T44 Condition 1146 1151 tumor
+T45 Protein 1701 1719 exercise-dependent
+T46 Gene 1353 1376 downstream target genes
+T47 Level 1495 1500 MCF-7
+T48 Condition 709 722 breast cancer
+T49 Biomarker 935 949 catecholamines
+T51 Level 1570 1575 MCF-7
+T52 Condition 1570 1581 MCF-7 tumor
+T54 Level 1495 1501 MCF-7 
+T55 Level 1570 1576 MCF-7 
+T56 Level 690 728 preincubated MCF-7 breast cancer cells
+T57 Condition 415 428 breast cancer
+T58 Condition 562 578  and MDA-MB-231 
+T59 Level 906 912 MCF-7 
+T60 Condition 709 727 breast cancer cell
+T61 Condition 1163 1168 Hippo
+T62 Condition 664 669 tumor
+T63 Condition 478 491 breast cancer
+T64 Protein 1391 1397 ANKRD1
+T65 Condition 1517 1533  and MDA-MB-231 
+T66 Condition 1735 1753 breast cancer cell
+T67 Condition 826 831 tumor
+T68 Level 537 542 MCF-7
+T69 Condition 86 99 breast cancer

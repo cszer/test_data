@@ -1,0 +1,51 @@
+T1 Biomarker 1116 1140 small-molecule inhibitor
+T2 Condition 1424 1436 glioblastoma
+T3 Organism 883 893 Drosophila
+T4 Protein 393 398 FOXD1
+T5 Gene 862 879 orthologous genes
+T6 Condition 1283 1295 glioblastoma
+T7 Protein 34 50 tumor-initiating
+T8 Condition 172 175 GSC
+T9 CL 201 213 mesenchymal 
+T10 Condition 914 926 brain tumors
+T12 Protein 1032 1037 FOXD1
+T13 Protein 302 309 ALDH1A3
+T14 Protein 627 632 FOXD1
+T15 Protein 772 779 ALDH1A3
+T16 Intervention 967 976 specimens
+T17 Protein 1413 1420 MES GSC
+T18 Condition 24 27 GSC
+T19 Protein 349 356 MES GSC
+T20 Protein 721 728 MES GSC
+T22 CL 218 263  GSC population as the more malignant subtype
+T23 CL 348 353  MES 
+T24 CL 1412 1417  MES 
+T25 Condition 725 728 GSC
+T26 Protein 513 527 shRNA-mediated
+T27 Protein 552 555 MES
+T28 Protein 1042 1049 ALDH1A3
+T29 Protein 552 559 MES GSC
+T30 Level 429 436 patient
+T31 Level 1080 1087 patient
+T32 Protein 214 217 MES
+T34 Condition 219 222 GSC
+T35 Condition 980 997 high-grade glioma
+T36 Condition 1424 1443 glioblastoma tumors
+T37 Level 76 84 cellular
+T38 Protein 296 301 FOXD1
+T39 CL 551 556  MES 
+T41 CL 720 725  MES 
+T42 Protein 721 724 MES
+T43 Protein 1333 1346 FOXD1–ALDH1A3
+T44 Protein 1413 1416 MES
+T45 Protein 543 548 FOXD1
+T46 Condition 98 110 glioblastoma
+T47 Protein 1333 1338 FOXD1
+T48 Protein 1358 1372 controling the
+T49 Protein 675 682 ALDH1A3
+T50 Protein 349 352 MES
+T51 Protein 468 471 MES
+T52 Condition 500 503 GSC
+T53 Condition 1245 1273 murine GSC-derived xenograft
+T54 Protein 296 309 FOXD1–ALDH1A3
+T57 Protein 762 767 FOXD1

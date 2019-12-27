@@ -1,0 +1,33 @@
+T1 Biomarker 1340 1351 Telotristat
+T2 Biomarker 1027 1056 temozolomide and capecitabine
+T3 Organism 1435 1443 patients
+T5 Condition 15 21 tumors
+T6 Protein 376 385 molecular
+T7 Protein 184 205 bronchopulmonary tree
+T8 Gene 169 175  tract
+T9 Gene 141 164 gastroenteropancreatic 
+T10 Protein 85 106 neuroendocrine system
+T11 Biomarker 752 773 lutetium‐177 dotatate
+T12 Intervention 689 698 antitumor
+T13 Biomarker 775 789 177Lu‐DOTATATE
+T14 Disease 1449 1467 carcinoid syndrome
+T15 Organism 1268 1287 palliating symptoms
+T16 Cellular_component 1356 1370 oral inhibitor
+T17 Condition 15 20 tumor
+T18 Biomarker 1234 1248 liver‐directed
+T19 Organism 569 577 patients
+T20 Gene 1374 1396 tryptophan hydroxylase
+T21 Condition 822 830 GEP‐NETs
+T22 Condition 47 59 malignancies
+T23 Biomarker 952 961 sunitinib
+T25 Biomarker 671 684 antisecretory
+T26 Condition 530 536 tumors
+T27 Intervention 153 163 pancreatic
+T28 Biomarker 858 868 everolimus
+T29 Biomarker 627 639 Somatostatin
+T30 Disease 1423 1431 diarrhea
+T31 Condition 530 535 tumor
+T32 Intervention 984 994 pancreatic
+T33 Intervention 836 845 antitumor
+T34 Condition 1326 1331 tumor
+T35 Gene 447 460 primary sites

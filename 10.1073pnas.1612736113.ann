@@ -1,0 +1,53 @@
+T3 Level 1004 1012 cellular
+T6 Biomarker 940 958 mitochondrial iron
+T9 Condition 1471 1477  NAF-1
+T10 Protein 205 219 2Fe-2S protein
+T11 Condition 815 820 NAF-1
+T12 Protein 296 302  Fe-S 
+T13 Condition 856 861 tumor
+T14 Protein 446 467 apo-acceptor proteins
+T15 Condition 193 198 NAF-1
+T21 Level 1073 1085 cancer cells
+T22 Level 671 684  cancer cells
+T23 Protein 458 467  proteins
+T24 Protein 301 310  proteins
+T25 Condition 800 805 NAF-1
+T26 Level 1066 1085 breast cancer cells
+T27 Condition 814 820  NAF-1
+T28 Condition 1353 1358 tumor
+T29 Biomarker 1091 1103 pioglitazone
+T30 Protein 109 112 DNA
+T31 Biomarker 1124 1141 3Cys-1His cluster
+T32 Condition 1625 1631  NAF-1
+T33 Intervention 130 138 telomere
+T34 Condition 831 862  xenograft breast cancer tumors
+T35 Level 68 81  cancer cells
+T36 Condition 516 547  xenograft breast cancer tumors
+T37 Condition 897 902 tumor
+T38 Protein 297 310 Fe-S proteins
+T40 Condition 832 862 xenograft breast cancer tumors
+T42 Condition 1472 1477 NAF-1
+T43 Gene 765 779 point mutation
+T44 Level 1374 1382 cellular
+T45 Level 1551 1564  cancer cells
+T46 Condition 799 805  NAF-1
+T47 Biomarker 326 343 3Cys-1His cluster
+T48 Condition 541 546 tumor
+T49 Biomarker 1214 1220 oxygen
+T51 Condition 1716 1721 NAF-1
+T53 Condition 738 743 NAF-1
+T54 Condition 1583 1588 tumor
+T55 Protein 18 27  proteins
+T56 Biomarker 1124 1133 3Cys-1His
+T57 Biomarker 972 978 oxygen
+T59 Condition 508 513 NAF-1
+T60 Condition 255 270 multiple cancer
+T62 Condition 625 630 NAF-1
+T64 Condition 1328 1333 NAF-1
+T65 Disease 601 615 aggressiveness
+T66 Condition 1715 1721  NAF-1
+T67 Biomarker 1182 1200 mitochondrial iron
+T68 Condition 586 591 tumor
+T69 Gene 152 192 Nutrient-deprivation autophagy factor-1 
+T70 Condition 624 630  NAF-1
+T71 Biomarker 326 335 3Cys-1His

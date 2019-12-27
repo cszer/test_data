@@ -1,0 +1,68 @@
+T1 Biomarker 86 93 statins
+T5 Biomarker 902 908 statin
+T6 Level 630 642 enters cells
+T7 Biomarker 356 367 cholesterol
+T8 Cellular_component 1470 1492 mitochondrial networks
+T9 Protein 320 325 HMGCR
+T10 Condition 107 113 cancer
+T11 Biomarker 86 92 statin
+T13 Level 1050 1054 cell
+T14 Condition 843 874 growth of most tumor cell lines
+T15 Condition 1043 1049 cancer
+T16 Protein 1751 1759 chemical
+T17 Biomarker 1646 1657 simvastatin
+T18 Biomarker 1896 1903 statins
+T19 Biomarker 449 455 statin
+T20 Biomarker 1140 1146 statin
+T22 Level 1384 1395 hepatocytes
+T23 Level 637 641 cell
+T24 Condition 664 727 Poorly-differentiated and well-differentiated cancer cell lines
+T25 Level 717 721 cell
+T26 Biomarker 190 201 cholesterol
+T27 Protein 548 555 OATP1B1
+T28 Protein 535 542 protein
+T29 Biomarker 1163 1169 statin
+T30 Protein 49 54 HMGCR
+T31 Biomarker 1795 1802 statins
+T32 Biomarker 589 600 Simvastatin
+T33 Biomarker 817 828 Simvastatin
+T34 Biomarker 808 815 statins
+T35 Biomarker 1896 1902 statin
+T36 Biomarker 897 908 pravastatin
+T37 Protein 1336 1343 protein
+T38 Level 1043 1055 cancer cells
+T40 Level 1517 1525 cellular
+T41 Protein 1319 1326 OATP1B1
+T42 Protein 1319 1331 OATP1B1 mRNA
+T43 Biomarker 1795 1801 statin
+T44 Protein 1548 1555 cofilin
+T46 Protein 410 417 protein
+T47 Level 966 970 cell
+T48 Biomarker 425 431 statin
+T49 Protein 400 418 signaling proteins
+T50 Level 1415 1419 cell
+T51 Level 1266 1308 prostate PC3 and colon Caco-2 cancer cells
+T52 Gene 490 547 sodium-independent organic anion transporter protein-1B1 
+T53 Biomarker 1006 1017 simvastatin
+T55 Protein 1075 1080 HMGCR
+T57 Disease 258 280 cardiovascular disease
+T58 Biomarker 1011 1017 statin
+T59 Biomarker 618 624 statin
+T61 Intervention 755 762 tissues
+T62 Gene 1682 1690  OATP1B1
+T63 Biomarker 1596 1603 statins
+T64 Biomarker 594 600 statin
+T65 Level 1517 1521 cell
+T67 Biomarker 153 160 Statins
+T68 Biomarker 1633 1657 hypdrophobic simvastatin
+T69 Level 937 971 Poorly-differentiated cancer cells
+T70 Condition 959 965 cancer
+T71 Level 1303 1307 cell
+T73 Level 864 868 cell
+T75 Cellular_component 1704 1721 perinuclear sites
+T76 Intervention 1374 1379 liver
+T77 Biomarker 420 431 Pravastatin
+T78 Protein 1579 1589 p-caveolin
+T79 Biomarker 1596 1602 statin
+T80 Protein 1695 1700 HMGCR
+T81 Biomarker 1158 1169 Pravastatin

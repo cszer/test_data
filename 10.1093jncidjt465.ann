@@ -1,0 +1,20 @@
+T1 Organism 473 484 participant
+T2 Disease 1562 1573 infertility
+T3 Condition 1413 1427 cryptorchidism
+T4 Biomarker 585 597 case–control
+T5 Biomarker 1879 1891 case–control
+T6 Protein 2130 2138 hormones
+T7 Biomarker 387 399 case–control
+T8 Condition 26 44 male breast cancer
+T9 Disease 1075 1095 Klinefelter syndrome
+T10 Condition 246 264 Male Breast Cancer
+T11 Organism 363 371 patients
+T12 Condition 2042 2060 male breast cancer
+T13 Intervention 939 943 body
+T14 Disease 1756 1765 fractures
+T15 Biomarker 301 313 case–control
+T16 Organism 1615 1623 children
+T17 Disease 1283 1291 Diabetes
+T18 Biomarker 1467 1475 orchitis
+T19 Condition 1135 1147 gynecomastia
+T20 Protein 115 130 genetic factors

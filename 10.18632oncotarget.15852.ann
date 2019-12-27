@@ -1,0 +1,36 @@
+T1 Condition 1410 1433  breast cancer patients
+T2 Condition 815 822 patient
+T3 Intervention 1152 1161 endocrine
+T4 Condition 1425 1432 patient
+T5 Level 1470 1479 tamoxifen
+T6 Level 777 786 tamoxifen
+T7 Level 109 118 tamoxifen
+T8 Intervention 568 581 mitochondrial
+T10 Biomarker 640 651 glutathione
+T11 Protein 179 191 ~20 proteins
+T13 Condition 801 823 breast cancer patients
+T14 Condition 1376 1383 patient
+T15 Gene 424 437 NQO1 and GCLC
+T16 Intervention 1444 1453 endocrine
+T17 Level 965 974 tamoxifen
+T18 Protein 28 37 molecular
+T19 Gene 1349 1358 NQO1 mRNA
+T20 Protein 902 916 NQO1 inhibitor
+T21 Level 282 291 tamoxifen
+T22 Level 143 168 human breast cancer cells
+T23 Gene 1349 1353 NQO1
+T25 Gene 433 437 GCLC
+T26 Condition 1116 1131  breast cancers
+T27 Condition 1295 1300 tumor
+T28 Gene 424 428 NQO1
+T29 Protein 608 611 ATP
+T30 Condition 800 823  breast cancer patients
+T31 Level 399 410 MCF-7 cells
+T32 Level 282 312 tamoxifen-resistant cell lines
+T33 Gene 324 329 cDNAs
+T35 Gene 714 718 NQO1
+T36 Level 497 506 tamoxifen
+T37 Biomarker 918 928 dicoumarol
+T38 Gene 1220 1224 NQO1
+T39 Gene 714 727 NQO1 and GCLC
+T40 Gene 902 906 NQO1

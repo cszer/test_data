@@ -1,0 +1,27 @@
+T1 Disease 208 220 inflammation
+T2 Level 517 526 platelets
+T3 Gene 1083 1093 anti-PDL1 
+T4 Level 181 185 CTCs
+T5 Level 1124 1128 CTCs
+T6 Level 125 179 wound sites and interact with circulating tumour cells
+T7 CL 94 103 Platelets
+T8 Condition 944 950 cancer
+T9 Intervention 1136 1147 bloodstream
+T10 Species 891 896 mouse
+T11 Level 1009 1029 engineered platelets
+T12 Protein 1100 1112 surgical bed
+T13 Gene 623 641 primary melanomas 
+T14 Gene 849 859 anti-PDL1 
+T15 Condition 78 84 cancer
+T16 Gene 650 688  or triple-negative breast carcinomas 
+T18 Protein 770 786 platelet-derived
+T19 Gene 420 430 anti-PDL1 
+T20 Level 322 331 platelets
+T21 Level 167 173 tumour
+T22 Species 592 596 mice
+T23 Gene 709 719 anti-PDL1 
+T24 Condition 538 558 post-surgical tumour
+T25 Level 259 265 tumour
+T26 Gene 834 858 platelet-bound anti-PDL1
+R1 Relation Arg1:T21 Arg2:T4
+R2 Relation Arg1:T21 Arg2:T25

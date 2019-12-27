@@ -1,0 +1,66 @@
+T1 Biomarker 470 478 h-iNSCTE
+T2 Condition 30 34 NSCs
+T3 Level 866 885 human GBM spheroids
+T4 Level 639 644 human
+T5 Biomarker 767 777 Time-lapse
+T6 Level 232 250  human fibroblasts
+T7 Condition 1702 1708 cancer
+T8 Condition 30 33 NSC
+T9 Biomarker 1197 1222 h-iNSCTE thymidine kinase
+T10 Protein 1059 1064 TRAIL
+T11 Level 1292 1307 patient-derived
+T12 Biomarker 667 675 h-iNSCTE
+T13 Protein 1259 1270 h-iNSCTE–TK
+T14 Level 835 850 human GBM cells
+T15 Biomarker 1223 1241 ganciclovir enzyme
+T16 Biomarker 806 814 h-iNSCTE
+T17 Biomarker 1197 1205 h-iNSCTE
+T18 Condition 1102 1112 xenografts
+T19 Disease 525 544 nonsurgical disease
+T20 Condition 1408 1411 NSC
+T21 Level 1601 1605  TD 
+T22 Condition 289 293 NSCs
+T23 Protein 922 927 CXCR4
+T24 Condition 1392 1395 NSC
+T25 Level 1292 1311 patient-derived GBM
+T26 Protein 1660 1672 tumor-homing
+T27 Condition 103 106 NSC
+T28 Level 233 238 human
+T29 Condition 298 301 NSC
+T30 Condition 670 673 NSC
+T31 Condition 1200 1203 NSC
+T32 Condition 1262 1265 NSC
+T33 Level 835 840 human
+T34 Level 1092 1097 human
+T35 Condition 1000 1057 tumor necrosis factor–α–related apoptosis-inducing ligand
+T36 Condition 289 292 NSC
+T37 Level 482 497 patient-derived
+T38 Level 616 620  TD 
+T39 Biomarker 295 303 h-iNSCTE
+T40 Biomarker 956 964 h-iNSCTE
+T41 Condition 473 476 NSC
+T42 Condition 1627 1630 NSC
+T43 Condition 1312 1322 xenografts
+T44 Biomarker 1242 1257 prodrug therapy
+T45 Condition 809 812 NSC
+T46 Level 612 661 SOX2 TD strategy converted human skin fibroblasts
+T47 Protein 409 421 tumor-homing
+T48 Protein 256 268 tumor-homing
+T49 Biomarker 1405 1413 h-iNSCTE
+T50 Condition 959 962 NSC
+T51 Protein 733 745 tumor-homing
+T52 CL 1673 1687 cytotoxic cell
+T53 Level 1608 1613 human
+T54 Level 866 871 human
+T55 Biomarker 1259 1267 h-iNSCTE
+T56 Protein 1517 1521 GBMs
+T57 Gene 377 381 gene
+T58 Level 639 649 human skin
+T59 Protein 1405 1416 h-iNSCTE–TK
+T60 Condition 73 85 glioblastoma
+T61 Level 1796 1801 human
+T62 Level 1608 1618 human skin
+T63 Level 208 228 transdifferentiated 
+T64 Biomarker 1624 1632 h-iNSCTE
+T65 Protein 546 555 Molecular
+T66 Level 482 501 patient-derived GBM

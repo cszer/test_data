@@ -1,0 +1,24 @@
+T1 Gene 1263 1271 PON3 DNA
+T2 Condition 697 708 benign nevi
+T4 Condition 144 160 primary melanoma
+T5 Condition 1855 1863 melanoma
+T6 Condition 336 341 tumor
+T7 Condition 1730 1735 tumor
+T8 Condition 722 740 malignant melanoma
+T9 Protein 1083 1092 HOXA9 DNA
+T10 Protein 560 563 DNA
+T11 Protein 499 502 DNA
+T12 Organism 130 138 patients
+T13 Condition 46 57 skin cancer
+T14 Gene_or_gene_product 1135 1146 TBC1D16 DNA
+T15 Condition 1110 1115 tumor
+T16 Level 792 797 sites
+T18 Condition 10 28 Cutaneous melanoma
+T19 Condition 1370 1375 tumor
+T20 Gene 834 838 gene
+T21 Condition 1055 1063 melanoma
+T23 Protein 815 818 DNA
+T25 Condition 618 626 melanoma
+T26 Protein 1288 1301 OVOL1 protein
+T28 Condition 212 217 tumor
+T30 Condition 1797 1802 tumor

@@ -1,0 +1,33 @@
+T2 Protein 1397 1403 metals
+T3 Biomarker 1075 1081 8-OHdG
+T4 Condition 508 515 cancers
+T5 Protein 677 679 EC
+T6 Biomarker 1085 1092 8-oxodG
+T7 Gene 1459 1467  8-OHdG 
+T8 Biomarker 247 254 8-oxodG
+T9 Gene 1047 1059 DNA products
+T10 Protein 1047 1050 DNA
+T11 Cellular_component 95 113 cellular membranes
+T12 Condition 520 541 degenerative diseases
+T13 Gene 449 457  8-OHdG 
+T14 Protein 1289 1292 DNA
+T15 Organism 1359 1366 tobacco
+T16 Protein 129 132 DNA
+T17 Intervention 322 329 lesions
+T18 Gene 1074 1082  8-OHdG 
+T19 Intervention 1328 1349 cancer-causing agents
+T20 Protein 163 166 DNA
+T21 Protein 1572 1575 DNA
+T22 Organism_subdivision 296 311 radical-induced
+T23 Biomarker 1409 1441 polycyclic aromatic hydrocarbons
+T24 Biomarker 198 204 8-OHdG
+T25 Protein 115 123 proteins
+T26 Biomarker 1460 1466 8-OHdG
+T27 Cellular_component 1374 1389 asbestos fibers
+T28 Biomarker 851 857 8-OHdG
+T29 Biomarker 442 456 urinary 8-OHdG
+T30 Protein 1178 1181 DNA
+T31 Species 1303 1309 humans
+T32 Protein 906 909 DNA
+R1 Relation Arg1:T8 Arg2:T17
+R2 Relation Arg1:T20 Arg2:T24

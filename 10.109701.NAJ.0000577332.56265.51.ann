@@ -1,0 +1,25 @@
+T1 Organism 307 314 patient
+T2 Condition 548 555 obesity
+T3 Condition 32 39 obesity
+T4 Organism 697 704 patient
+T5 Condition 472 478 cancer
+T6 Condition 234 240 cancer
+T7 Level 681 687 weight
+T8 Organism 833 840 patient
+T9 Condition 71 77 cancer
+T10 Condition 254 260 cancer
+T11 Condition 807 814 obesity
+T12 Condition 593 599 cancer
+T13 Organism 438 445 patient
+T14 Condition 123 130 obesity
+T15 Condition 139 145 cancer
+T16 Organism 691 705 obese patients
+T17 Organism 363 368 women
+T18 Level 620 626 weight
+T19 Organism 174 179 women
+T20 Organism 603 608 women
+T21 Level 796 802 weight
+T22 Organism 833 841 patients
+T23 Condition 123 146 obesity-related cancers
+T24 Disease 181 188 Obesity
+T26 Condition 662 668 cancer

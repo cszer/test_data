@@ -1,0 +1,16 @@
+T1 Protein 403 406 PSA
+T2 Protein 327 330 PHI
+T3 Condition 555 570 prostate cancer
+T4 Protein 202 205 PSA
+T5 Intervention 887 902 decision-making
+T6 Gene 175 200 prostate-specific antigen
+T7 Protein 387 390 PSA
+T8 Condition 544 580 high-grade prostate cancer on biopsy
+T9 Protein 244 247 PHI
+T10 Protein 582 585 PHI
+T11 Condition 105 143 clinically-significant prostate cancer
+T12 Protein 377 380 PSA
+T13 Organism 736 743 patient
+T14 Condition 847 862 prostate cancer
+T16 Protein 468 471 PHI
+T17 Intervention 802 807 blood

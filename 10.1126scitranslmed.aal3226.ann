@@ -1,0 +1,20 @@
+T1 Intervention 125 140 tissue biopsies
+T2 Protein 1002 1004 CA
+T3 Protein 784 788 PDAC
+T4 Protein 373 389 EV-based protein
+T5 Protein 677 681 GPC1
+T6 Biomarker 284 320 tumor-derived extracellular vesicles
+T7 Protein 34 38 PDAC
+T9 Gene 537 553 PDACEV signature
+T10 Protein 1014 1024 single–tEV
+T11 Protein 891 895 PDAC
+T12 Level 322 326 tEVs
+T13 Protein 537 541 PDAC
+T14 Intervention 988 993 serum
+T15 Gene 891 915 PDACEV signature of tEVs
+T16 Condition 1088 1105 pancreatic cancer
+T17 Protein 451 455 PDAC
+T18 Protein 473 477 PDAC
+T19 Gene 451 467 PDACEV signature
+T20 Gene 784 800 PDACEV signature
+T21 Gene 891 907 PDACEV signature

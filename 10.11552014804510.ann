@@ -1,0 +1,47 @@
+T2 Gene 694 699 miRNA
+T3 Protein 39 42 RNA
+T4 Gene 1131 1136 miRNA
+T5 Condition 1388 1394 cancer
+T6 Gene 77 90 messenger RNA
+T7 Level 657 665 cellular
+T8 Condition 519 525 cancer
+T10 Condition 1388 1403 cancer patients
+T11 Gene 546 551 miRNA
+T12 Gene 600 604 gene
+T13 Protein 92 96 mRNA
+T16 Level 657 661 cell
+T17 Condition 519 526 cancers
+T18 Gene 292 296 gene
+T19 Level 312 316 cell
+T20 Gene 278 282 gene
+T21 Gene 292 297 genes
+T22 Gene 11 16 miRNA
+T25 Gene 1069 1074 miRNA
+T26 Gene 278 283 genes
+T27 Gene 58 62 gene
+T28 Gene 419 427 oncogene
+T29 Protein 5 8 RNA
+T31 Gene 600 605 genes
+T33 Condition 1319 1325 cancer
+T34 Condition 749 755 cancer
+T35 Level 324 328 cell
+T36 Condition 398 404 tumour
+R1 Relation Arg1:T8 Arg2:T17
+R2 Relation Arg1:T18 Arg2:T8
+R3 Relation Arg1:T19 Arg2:T8
+R4 Relation Arg1:T21 Arg2:T8
+R5 Relation Arg1:T35 Arg2:T8
+R6 Relation Arg1:T36 Arg2:T8
+R7 Relation Arg1:T18 Arg2:T17
+R8 Relation Arg1:T19 Arg2:T17
+R9 Relation Arg1:T21 Arg2:T17
+R10 Relation Arg1:T35 Arg2:T17
+R11 Relation Arg1:T36 Arg2:T17
+R12 Relation Arg1:T18 Arg2:T19
+R13 Relation Arg1:T18 Arg2:T21
+R14 Relation Arg1:T18 Arg2:T35
+R15 Relation Arg1:T21 Arg2:T19
+R16 Relation Arg1:T19 Arg2:T35
+R17 Relation Arg1:T19 Arg2:T36
+R18 Relation Arg1:T21 Arg2:T35
+R19 Relation Arg1:T35 Arg2:T36

@@ -1,0 +1,22 @@
+T1 Protein 374 380 COMBAT
+T2 Gene 1166 1174 toxicity
+T3 Condition 1356 1365 relapsing
+T4 Organism 27 35 children
+T5 Organism 228 236 children
+T6 Biomarker 407 425 Biodifferentiating
+T7 Organism 906 914 patients
+T8 Intervention 391 395 Oral
+T9 Gene 1440 1448 toxicity
+T10 Condition 1366 1376 refractory
+T11 Organism 1265 1273 children
+T12 Protein 1286 1292 COMBAT
+T13 Organism 1228 1236 children
+T14 Condition 1366 1389 refractory malignancies
+T15 Organism 576 584 children
+T16 Condition 251 263 solid tumors
+T17 Organism 712 720 patients
+T18 Organism 1342 1350 patients
+T19 Condition 41 51 refractory
+T20 Gene 1194 1202 toxicity
+T21 Condition 52 73 relapsed malignancies
+T22 Organism 699 707 patients

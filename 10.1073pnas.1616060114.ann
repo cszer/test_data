@@ -1,0 +1,67 @@
+T1 Intervention 1027 1053 pancreatic intraepithelial
+T2 Protein 1608 1611 ADM
+T3 Condition 202 207 HSPA5
+T4 Protein 1308 1313 Grp78
+T5 Protein 1125 1128 ADM
+T6 Protein 479 483 PDAC
+T7 Protein 34 38 PDAC
+T8 Condition 1391 1396 GRP78
+T9 Level 663 669 PKC78f
+T11 Gene 1480 1512 epidermal growth factor receptor
+T12 Condition 145 195 stress-inducible 78-kDa glucose-regulated protein 
+T13 Gene 803 806 AKT
+T14 Condition 902 907 tumor
+T16 Protein 1012 1015 ADM
+T17 Protein 961 964 PKC
+T18 Level 961 967 PKC78f
+T19 Protein 622 625 PKC
+T20 Condition 702 707 GRP78
+T21 Protein 501 504 PKC
+T22 Protein 321 325 PDAC
+T23 Intervention 1354 1362 collagen
+T24 Organism 671 676  mice
+T25 Level 839 866 Acinar-to-ductal metaplasia
+T26 Protein 267 271 PI3K
+T27 Protein 646 651 Grp78
+T28 Organism 500 505  PKC 
+T29 Protein 932 936 PDAC
+T30 Gene 501 514 PKC pancreata
+T31 Protein 1616 1620 PDAC
+T32 Level 442 454 acinar cells
+T33 Biomarker 1171 1172 α
+T34 Protein 557 561 PDAC
+T35 Organism 361 366  mice
+T36 Protein 357 360 PKC
+T37 Protein 1119 1123 PDAC
+T38 Organism 1251 1265 mouse pancreas
+T39 Organism 621 626  PKC 
+T40 Level 1428 1434 PKC78f
+T41 Condition 196 201 GRP78
+T42 Condition 591 596 tumor
+T43 Protein 1428 1431 PKC
+T44 Protein 868 871 ADM
+T45 Gene 646 652 Grp78f
+T46 Level 1216 1227 acinar cell
+T47 Gene 272 275 AKT
+T48 Protein 1536 1539 ADM
+T49 Condition 1599 1604 GRP78
+T50 Gene 622 635 PKC pancreata
+T51 Protein 663 666 PKC
+T52 Condition 401 406 GRP78
+T53 Protein 533 538 Grp78
+T54 Level 442 453 acinar cell
+T55 Protein 952 955 PKC
+R1 Relation Arg1:T3 Arg2:T6
+R2 Relation Arg1:T3 Arg2:T22
+R3 Relation Arg1:T3 Arg2:T26
+R4 Relation Arg1:T3 Arg2:T36
+R5 Relation Arg1:T3 Arg2:T41
+R6 Relation Arg1:T3 Arg2:T47
+R7 Relation Arg1:T22 Arg2:T6
+R8 Relation Arg1:T36 Arg2:T6
+R9 Relation Arg1:T41 Arg2:T6
+R10 Relation Arg1:T26 Arg2:T22
+R11 Relation Arg1:T41 Arg2:T22
+R12 Relation Arg1:T41 Arg2:T26
+R13 Relation Arg1:T41 Arg2:T36
+R14 Relation Arg1:T41 Arg2:T47

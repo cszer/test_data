@@ -1,0 +1,33 @@
+T1 Condition 354 361 alcohol
+T2 Condition 2348 2355 alcohol
+T3 Condition 2433 2440 alcohol
+T4 Condition 2396 2402 cancer
+T5 Condition 859 866 alcohol
+T6 Condition 787 793 cancer
+T7 Condition 2202 2230 alcohol-attributable cancers
+T8 Gene 2132 2138 sites 
+T9 Level 2132 2137 sites
+T10 Condition 2202 2209 alcohol
+T11 Condition 247 253 cancer
+T12 Condition 83 90 alcohol
+T13 Condition 1103 1110 alcohol
+T14 Disease 872 894 cardiovascular disease
+T15 Condition 225 232 alcohol
+T16 Condition 1399 1405 cancer
+T17 Intervention 1631 1641 pharyngeal
+T18 Condition 2266 2272 cancer
+T19 Condition 1652 1658 cancer
+T20 Intervention 1620 1629 laryngeal
+T21 Condition 366 372 cancer
+T22 Disease 1938 1960 cardiovascular disease
+T23 Condition 2223 2229 cancer
+T24 Condition 2116 2122 cancer
+T25 Condition 94 100 cancer
+T26 Condition 772 779 alcohol
+T27 Condition 2101 2108 alcohol
+T28 Gene 2240 2246 sites 
+T29 Gene 2140 2149  the body
+T30 Condition 537 543 Cancer
+T31 Level 2240 2245 sites
+T32 Condition 1646 1659 liver cancers
+T33 Condition 1384 1391 alcohol

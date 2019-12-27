@@ -1,0 +1,55 @@
+T1 Biomarker 2025 2033 avelumab
+T2 Level 675 690 death ligand 1 
+T3 Organism 650 658 patients
+T4 Biomarker 1798 1806 axitinib
+T5 Gene 721 740 secondary end point
+T6 Condition 1005 1026 PD-L1–positive tumors
+T7 Organism 251 274 avelumab plus axitinib 
+T8 Biomarker 1784 1792 avelumab
+T9 Biomarker 924 932 axitinib
+T10 Organism 938 946 patients
+T11 Condition 1455 1476 PD-L1–positive tumors
+T12 Biomarker 1521 1529 avelumab
+T13 Organism 1924 1932 patients
+T15 Biomarker 489 498 sunitinib
+T16 Biomarker 2112 2122 first-line
+T17 Biomarker 1559 1568 sunitinib
+T18 Biomarker 1535 1543 axitinib
+T19 Biomarker 1969 1985 Progression-free
+T20 Organism 1441 1449 patients
+T21 Organism 2074 2082 patients
+T22 Biomarker 1108 1116 axitinib
+T23 Biomarker 2039 2047 axitinib
+T24 Organism 1829 1837 patients
+T25 Intervention 507 513 orally
+T26 Organism 1521 1544 avelumab plus axitinib 
+T27 Organism 1768 1776 patients
+T28 Organism 910 933 avelumab plus axitinib 
+T29 Biomarker 265 273 axitinib
+T30 Organism 1666 1674 patients
+T31 Biomarker 283 309 standard-of-care sunitinib
+T32 Condition 126 146 renal-cell carcinoma
+T33 Condition 2146 2166 renal-cell carcinoma
+T34 Biomarker 1845 1854 sunitinib
+T35 Organism 876 884 patients
+T36 Organism 966 974 patients
+T37 Condition 221 241 renal-cell carcinoma
+T38 Biomarker 451 459 axitinib
+T39 Organism 2025 2048 avelumab plus axitinib 
+T40 Organism 198 206 patients
+T41 Organism 103 111 patients
+T42 Biomarker 910 918 avelumab
+T43 Biomarker 373 381 avelumab
+T44 Biomarker 59 67 axitinib
+T45 Organism 45 68 avelumab plus axitinib 
+T46 Organism 338 346 patients
+T47 Biomarker 1094 1102 avelumab
+T48 Biomarker 2058 2067 sunitinib
+T49 Intervention 467 473 orally
+T50 Biomarker 951 960 sunitinib
+T51 Biomarker 251 259 avelumab
+T52 Organism_substance 417 431  intravenously
+T53 Organism 1682 1690 patients
+T54 Organism 991 999 patients
+T55 Biomarker 45 53 avelumab
+T56 Biomarker 1151 1160 sunitinib

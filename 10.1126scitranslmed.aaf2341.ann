@@ -1,0 +1,57 @@
+T1 Organism 1425 1433 patients
+T2 CL 152 159 NK cell
+T3 Level 556 575 memory-like NK cell
+T4 Level 640 648 leukemia
+T7 Condition 83 106 acute myeloid leukemia 
+T8 Level 805 809  AML
+T9 Level 463 482 memory-like NK cell
+T11 Level 1003 1007  NK 
+T14 Level 1057 1061  NK 
+T16 Level 745 749  NK 
+T17 Level 463 483 memory-like NK cells
+T18 Gene 832 872 killer cell immunoglobulin-like receptor
+T19 Organism 69 77 patients
+T20 Level 1243 1262 memory-like NK cell
+T21 Protein 591 603 interferon-γ
+T22 Organism 1599 1607 patients
+T24 Level 992 1012 memory-like NK cells
+T26 Level 567 571  NK 
+T28 Protein 874 877 KIR
+T29 Level 474 478  NK 
+T30 Protein 367 386 activating receptor
+T31 Level 1505 1524 memory-like NK cell
+T33 Level 164 172 leukemia
+T34 Level 619 659 cytotoxicity against leukemia cell lines
+T35 Level 107 110 AML
+T36 Level 550 576 human memory-like NK cells
+T37 Biomarker 315 320 IL-18
+T38 Level 992 1011 memory-like NK cell
+T39 Level 212 232 memory-like NK cells
+T41 Biomarker 304 309 IL-15
+T43 Level 1612 1616  AML
+T44 Gene_or_gene_product 882 892 KIR-ligand
+T47 Level 505 513 leukemia
+T48 Level 19 25  cells
+T49 Level 1040 1066 Human memory-like NK cells
+T50 Level 1254 1258  NK 
+T51 Level 223 227  NK 
+T53 Level 1516 1520  NK 
+T55 Protein 280 294 interleukin-12
+T56 Species 1084 1088 mice
+T57 Organism 1293 1305 AML patients
+T58 Level 212 231 memory-like NK cell
+T59 Level 734 753 memory-like NK cell
+T60 Level 1292 1296  AML
+T61 Level 676 680  AML
+T64 Level 1046 1065 memory-like NK cell
+T66 Level 1220 1263 adoptively transferred memory-like NK cells
+T67 Protein 882 885 KIR
+T68 Level 97 105 leukemia
+T71 Level 1110 1114  AML
+T73 Level 663 687 primary human AML blasts
+T74 Level 151 155  NK 
+T75 Level 798 816 primary AML blasts
+T77 Level 1348 1356 leukemia
+T78 Biomarker 296 301 IL-12
+R1 Relation Arg1:T51 Arg2:T37
+R2 Relation Arg1:T51 Arg2:T78

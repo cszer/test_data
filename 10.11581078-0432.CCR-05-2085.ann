@@ -1,0 +1,60 @@
+T1 Protein 367 371 HRPC
+T2 Gene 1392 1397  VEGF
+T3 Biomarker 1440 1453 dexamethasone
+T4 Level 1636 1641 cells
+T5 Gene 724 747 glucocorticoid receptor
+T7 Protein 1393 1397 VEGF
+T8 Condition 781 797 DU145 xenografts
+T9 Condition 883 888 tumor
+T11 Protein 1199 1203 VEGF
+T13 Protein 947 951 VEGF
+T14 Biomarker 904 917 Dexamethasone
+T15 Gene 826 831  VEGF
+T16 Gene 1044 1049  VEGF
+T17 Protein 560 573 interleukin-8
+T18 Biomarker 1811 1815 IL-8
+T19 Gene 1198 1203  VEGF
+T21 Condition 141 175 hormone-refractory prostate cancer
+T22 Biomarker 764 777 dexamethasone
+T23 Intervention 1495 1506 microvessel
+T24 Protein 1045 1049 VEGF
+T25 Gene 1291 1314 glucocorticoid receptor
+T26 Gene 632 637  VEGF
+T27 Intervention 858 869 microvessel
+T28 Biomarker 575 579 IL-8
+T29 Gene 1533 1538  VEGF
+T30 Biomarker 1054 1058 IL-8
+T31 Gene 441 464 glucocorticoid receptor
+T32 Biomarker 45 59 hydrocortisone
+T33 Condition 1422 1427 DU145
+T34 Gene 1844 1867 glucocorticoid receptor
+T35 Protein 1543 1552 IL-8 gene
+T36 Biomarker 642 646 IL-8
+T38 Biomarker 616 629 dexamethasone
+T39 Protein 1344 1356 hypoxia-like
+T40 Protein 251 255 HRPC
+T41 Protein 550 554 VEGF
+T42 Protein 1054 1066 IL-8 protein
+T43 Biomarker 836 840 IL-8
+T44 Condition 1758 1763 tumor
+T45 Biomarker 1245 1258 dexamethasone
+T46 Biomarker 956 960 IL-8
+T47 Organism 127 135 patients
+T48 Gene 946 951  VEGF
+T50 Protein 1326 1331 RU486
+T51 Level 1636 1640 cell
+T52 Level 662 666 cell
+T53 Condition 1680 1716 androgen-independent prostate cancer
+T55 Protein 1534 1538 VEGF
+T57 Condition 781 786 DU145
+T58 Condition 1478 1483 tumor
+T59 Biomarker 65 78 dexamethasone
+T60 Biomarker 1208 1212 IL-8
+T61 Gene 514 549 vascular endothelial growth factor 
+T62 Protein 177 181 HRPC
+T63 Condition 701 706 DU145
+T64 Biomarker 1169 1183 hydrocortisone
+T65 Gene 1801 1806  VEGF
+T66 Protein 836 845 IL-8 gene
+T67 Condition 1422 1438 DU145 xenografts
+T68 Biomarker 1573 1586 dexamethasone

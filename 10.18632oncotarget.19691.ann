@@ -1,0 +1,46 @@
+T1 Intervention 1685 1697 mitochondria
+T2 Biomarker 1249 1257 dopamine
+T4 Biomarker 1447 1455 dopamine
+T5 Gene 822 834 cytochrome c
+T6 Level 1568 1580  tumor cells
+T7 Biomarker 1338 1346 dopamine
+T8 Protein 869 872 p50
+T9 Condition 94 110 malignant glioma
+T10 Cancer cells 1531 1566 p50/p65 NF-κB nuclear localization 
+T11 Condition 435 440 tumor
+T12 Condition 606 611 tumor
+T13 Biomarker 530 538 dopamine
+T14 Condition 654 660 glioma
+T15 Biomarker 335 343 Dopamine
+T16 Biomarker 1763 1771 dopamine
+T18 Level 1535 1580 p65 NF-κB nuclear localization in tumor cells
+T20 Intervention 1685 1698 mitochondrial
+T21 Biomarker 635 643 dopamine
+T22 Condition 1231 1236 tumor
+T23 Condition 1614 1619 tumor
+T24 Level 1165 1185 U87MG and U251 cells
+T25 Biomarker 725 733 dopamine
+T26 Gene 1073 1077 gene
+T27 Condition 542 548 glioma
+T28 Level 790 802 glioma cells
+T29 Gene 1383 1395 cytochrome c
+T31 Intervention 749 755 colony
+T32 Intervention 852 864 mitochondria
+T33 Condition 790 796 glioma
+T34 Biomarker 453 461 dopamine
+T35 Organism 1639 1653 xenograft mice
+T36 Protein 1480 1508 inflammation-related protein
+T37 Protein 635 665 dopamine inhibited glioma cell
+T38 Level 877 892 p65 subcellular
+T39 Condition 1569 1574 tumor
+T40 Organism 1279 1293 xenograft mice
+T41 Condition 1811 1823 human glioma
+T42 Condition 321 326 tumor
+T43 Gene 1121 1132 p65 nuclear
+T44 Protein 1117 1120 p50
+T45 Protein 1531 1534 p50
+T46 Condition 36 42 cancer
+T47 Protein 1041 1068 inflammatory marker protein
+T48 Biomarker 1204 1212 dopamine
+T49 Biomarker 205 213 Dopamine
+T50 Biomarker 217 257 monoamine catecholamine neurotransmitter

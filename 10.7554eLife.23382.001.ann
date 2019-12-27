@@ -1,0 +1,31 @@
+T2 Protein 471 474 Myc
+T4 Level 252 263 tumor cells
+T5 Gene 371 379 deletion
+T6 Gene 49 93 chromosome 8q24 contains susceptibility loci
+T7 Protein 710 713 MYC
+T8 Condition 765 774 mutations
+T9 Organism 431 436  mice
+T11 Species 188 193 mouse
+T12 Gene 5 25 gene desert upstream
+T13 Organism 394 429 MYC upstream super-enhancer region 
+T14 Protein 216 219 MYC
+T15 Gene 866 873 element
+T16 Organism 510 515  mice
+T18 Condition 121 133 human cancer
+T19 Gene 422 428 region
+T20 Gene 291 297 region
+T21 Protein 216 229 MYC enhancers
+T22 Condition 121 126 human
+T23 Condition 178 183 human
+T24 Intervention 489 505 multiple tissues
+T25 Condition 901 907 cancer
+T26 Gene 789 815 8q24 super-enhancer region
+T28 Protein 33 45 MYC oncogene
+T30 Protein 394 397 MYC
+T31 Intervention 739 744 serum
+T32 Gene 157 169 conservation
+T33 Gene 139 145 region
+T34 Gene 106 117 major forms
+T35 Protein 33 36 MYC
+T36 Level 698 703 cells
+T37 Level 611 623 normal cells

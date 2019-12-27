@@ -1,0 +1,34 @@
+T1 Intervention 970 978 Prostate
+T2 Biomarker 27 30 PSA
+T4 Biomarker 341 344 PSA
+T5 Organism 1339 1342 men
+T7 Organism 758 761 men
+T8 Disease 222 233 prostatitis
+T10 Biomarker 599 604 p2PSA
+T12 Biomarker 963 968 p2PSA
+T13 Biomarker 588 591 PSA
+T14 Biomarker 346 351 p2PSA
+T15 Organism 1659 1662 men
+T16 Biomarker 559 564 p2PSA
+T17 Biomarker 958 961 PSA
+T19 Biomarker 1309 1314 p2PSA
+T20 Biomarker 601 604 PSA
+T21 Gene 746 763 PRISMA statement 
+T23 Disease 189 210 prostatic hyperplasia
+T25 Intervention 0 8 Prostate
+T26 Biomarker 561 564 PSA
+T27 Biomarker 946 949 PSA
+T28 Biomarker 369 372 PSA
+T30 Biomarker 938 941 PSA
+T31 Biomarker 348 351 PSA
+T32 Biomarker 1173 1176 PSA
+T33 Biomarker 1131 1136 p2PSA
+T34 Organism 1272 1275 men
+T35 Intervention 614 622 Prostate
+T36 Biomarker 586 591 p2PSA
+T37 Organism 787 790 men
+T38 Biomarker 1539 1544 p2PSA
+T40 Condition 114 144 discriminating prostate cancer
+T41 Biomarker 1393 1396 PSA
+T43 Intervention 1263 1268 serum
+R1 Relation Arg1:T14 Arg2:T31

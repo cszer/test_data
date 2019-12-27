@@ -1,0 +1,38 @@
+T1 Protein 1444 1457 GERD symptoms
+T2 Intervention 71 83 oesophageal 
+T3 Condition 452 454 OA
+T4 Condition 87 133  and oesophagogastric junction adenocarcinomas
+T5 Protein 1186 1199 GERD symptoms
+T6 Condition 1055 1057 OA
+T7 Condition 1374 1378  OA 
+T8 Condition 700 704  OA 
+T9 Biomarker 714 742 Random-effects meta-analysis
+T10 Protein 708 712 OGJA
+T11 Organism 339 350 participant
+T12 Condition 451 455  OA 
+T13 Condition 1570 1572 OA
+T14 Organism 1400 1403 men
+T15 Protein 1382 1386 OGJA
+T16 Condition 701 703 OA
+T17 Condition 1569 1573  OA 
+T18 Condition 59 66 obesity
+T19 Protein 855 868 GERD symptoms
+T20 Condition 1293 1295 OA
+T21 Condition 233 240 obesity
+T22 Protein 1090 1094 OGJA
+T23 Protein 1264 1277 GERD symptoms
+T24 Condition 84 86 OA
+T25 Protein 135 139 OGJA
+T27 Condition 1375 1377 OA
+T28 Protein 914 918 OGJA
+T29 Protein 1577 1581 OGJA
+T30 Intervention 656 660 body
+T31 Condition 906 910  OA 
+T32 Condition 907 909 OA
+T33 Condition 1054 1058  OA 
+T34 Intervention 285 297 oesophageal 
+T35 Protein 1296 1300 OGJA
+T36 Organism 1408 1413 women
+T37 Protein 467 471 OGJA
+R1 Relation Arg1:T3 Arg2:T37
+R2 Relation Arg1:T12 Arg2:T37

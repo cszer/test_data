@@ -1,0 +1,26 @@
+T1 Level 91 128 brain tumors because the cancer cells
+T2 Protein 522 531 molecular
+T3 Level 718 730 cancer cells
+T4 Cancer cells 366 370 ity 
+T5 Biomarker 184 191 Taurine
+T7 Biomarker 279 286 taurine
+T8 Level 717 730  cancer cells
+T9 Level 771 776 brain
+T10 Intervention 410 419 lysosomes
+T11 Protein 271 274 CNS
+T12 Biomarker 207 217 amino acid
+T13 Biomarker 477 484 taurine
+T14 Level 91 96 brain
+T15 Biomarker 632 639 taurine
+T16 Level 372 385  cancer cells
+T17 Cancer cells 349 364 tracellular aff
+T18 Biomarker 279 295 taurine-modified
+T19 Biomarker 632 648 taurine-modified
+T21 Level 115 128  cancer cells
+T22 Biomarker 577 583 oxygen
+T23 Biomarker 279 318 taurine-modified polypyridyl Ru-complex
+T24 Level 225 230 brain
+T26 Intervention 159 182 delicate nervous system
+T27 Level 761 782 cancerous brain cells
+T28 Level 116 128 cancer cells
+R1 Relation Arg1:T24 Arg2:T11

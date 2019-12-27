@@ -1,0 +1,31 @@
+T2 Condition 594 599  T2DM
+T4 Condition 309 321 Liver Cancer
+T6 Condition 150 175 type 2 diabetes mellitus 
+T7 Condition 1088 1100 liver cancer
+T8 Disease 1392 1401 hepatitis
+T9 Condition 643 659 BMI-liver cancer
+T11 Condition 1173 1178  T2DM
+T12 Condition 1214 1226 liver cancer
+T13 Protein 1038 1040 WC
+T14 Organism 935 938 men
+T15 Condition 272 277  T2DM
+T17 Condition 291 303 liver cancer
+T18 Condition 1330 1342 liver cancer
+T19 Disease 685 694 hepatitis
+T20 Organism 794 797 men
+T21 Protein 264 266 WC
+T22 Disease 1554 1579 viral hepatitis infection
+T23 Condition 800 827 2,162 incident liver cancer
+T24 Protein 1443 1445 WC
+T26 Condition 176 180 T2DM
+T27 Intervention 220 224 body
+T28 Organism 1352 1364 participants
+T29 Condition 1450 1455  T2DM
+T31 Disease 1560 1569 hepatitis
+T32 Organism 977 982 women
+T33 Condition 20 32 liver cancer
+T34 Condition 138 145 obesity
+T35 Protein 551 558 alcohol
+T36 Protein 588 590 WC
+T37 Condition 1492 1504 liver cancer
+T38 Condition 909 921 liver cancer

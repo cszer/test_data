@@ -1,0 +1,30 @@
+T1 Condition 431 437 cancer
+T3 Condition 847 853 cancer
+T4 Intervention 374 397 repair-type macrophages
+T5 Organism 488 497 kill-type
+T6 Protein 260 269 molecules
+T7 Level 557 583 Th1-type cytotoxic T cells
+T8 Protein 706 708 M2
+T10 Protein 371 373 M2
+T11 Condition 934 940 cancer
+T12 Condition 28 34 cancer
+T13 Organism 695 697 M1
+T14 Condition 294 299 tumor
+T15 Condition 153 159 tumors
+T16 Condition 217 230 human cancers
+T17 Condition 648 654 cancer
+T18 Biomarker 755 761 innate
+T20 Intervention 532 543 macrophages
+T21 Condition 153 158 tumor
+T22 Intervention 87 98 macrophages
+T23 Intervention 338 344 wounds
+T24 Organism 485 487 M1
+T25 Organism 401 403 M1
+T26 Intervention 178 201 repair-type macrophages
+T27 Organism 524 526 M1
+T28 Condition 223 229 cancer
+T29 Intervention 524 543 M1-type macrophages
+T30 Intervention 743 754 macrophages
+T31 Level 610 620 Macrophage
+T32 Organism 404 413 kill-type
+T34 Organism 485 497 M1 kill-type

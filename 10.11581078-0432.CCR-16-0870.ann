@@ -1,0 +1,50 @@
+T1 Level 407 422 PDAC cell lines
+T2 Condition 1310 1315 tumor
+T3 Gene 1467 1483 Genetic deletion
+T4 Organism 620 626 Animal
+T5 Condition 455 460 tumor
+T6 Protein 1061 1065 PDAC
+T7 Protein 1830 1834 PDAC
+T8 Protein 1487 1491 CCL2
+T9 Protein 1495 1499 PDAC
+T10 Intervention 1383 1392 antitumor
+T11 Condition 889 894 tumor
+T12 Level 720 729 monocytes
+T13 Level 702 709 T cells
+T14 Gene 519 524 Pdx-1
+T15 Protein 203 207 PDAC
+T16 Level 865 874 leukocyte
+T17 Gene_or_gene_product 972 981 cytokines
+T18 Organism 557 561 gene
+T20 Condition 1387 1392 tumor
+T21 Condition 797 803 Tumors
+T22 Intervention 1286 1297 macrophages
+T23 Condition 15 20 tumor
+T24 Protein 756 770 chemokine CCL2
+T25 Level 1495 1505 PDAC cells
+T26 Condition 948 953 tumor
+T27 Protein 407 411 PDAC
+T28 Condition 103 135 pancreatic ductal adenocarcinoma
+T29 Condition 1651 1656 tumor
+T30 Condition 1430 1435 tumor
+T31 Condition 948 961 tumor tissues
+T32 Protein 1598 1602 CCL2
+T33 Protein 1555 1559 PDAC
+T34 Organism 986 990 gene
+T35 Condition 573 578 tumor
+T36 Protein 137 141 PDAC
+T37 Level 1276 1285 monocytes
+T38 Protein 1729 1733 CCL2
+T39 Condition 436 461 primary pancreatic tumors
+T40 Organism 554 579 syngeneic mice and tumors
+T41 Gene 1197 1215 anti-CCL2 antibody
+T42 Protein 381 385 PDAC
+T44 Gene 1729 1738 CCL2–CCR2
+T45 Level 1171 1180 monocytes
+T46 Species 529 533 mice
+T47 Species 564 568 mice
+T48 Protein 1110 1114 CCL2
+T49 Organism 89 97 patients
+T50 Protein 1202 1206 CCL2
+T51 Level 1630 1639 monocytes
+T52 Condition 1129 1134 tumor

@@ -1,0 +1,18 @@
+T1 Condition 398 408 metastases
+T2 Gene 230 241 genetically
+T3 Condition 171 197 metastatic prostate cancer
+T4 Organism 847 863 mouse allografts
+T5 Species 253 258 mouse
+T6 Condition 1050 1065 prostate cancer
+T7 Species 519 524 mouse
+T8 Condition 300 321 human prostate cancer
+T9 Condition 777 792 prostate cancer
+T10 Gene 553 568 human signature
+T12 Level 347 367 lineage-marked cells
+T13 Species 796 802 humans
+T14 Protein 267 271 GEMM
+T15 Organism 373 393 mouse primary tumors
+T16 Species 847 852 mouse
+T17 Protein 692 737 nuclear receptor binding SET Domain Protein 2
+T18 Protein 739 743 NSD2
+T19 Species 373 378 mouse

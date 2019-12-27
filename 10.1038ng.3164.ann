@@ -1,0 +1,33 @@
+T1 Condition 688 698 pancreatic
+T2 Protein 205 235 oncogenic transcription factor
+T4 Condition 248 265 pancreatic cancer
+T5 Condition 699 705 cancer
+T6 Species 64 68 mice
+T7 Condition 368 385 pancreatic cancer
+T8 Gene 744 751 genetic
+T9 Gene 1054 1061 genetic
+T10 Condition 248 258 pancreatic
+T11 Condition 472 478 cancer
+T12 Condition 115 127 cancer genes
+T13 Condition 843 849 cancer
+T14 Organism 348 362 human patients
+T15 Level 405 432 piggyBac for open chromatin
+T16 Condition 1076 1082 cancer
+T17 Protein 31 39 piggyBac
+T18 Protein 193 198 Foxp1
+T19 Condition 138 148 pancreatic
+T21 Condition 115 121 cancer
+T22 Condition 897 932 commonly mutated human cancer genes
+T23 Condition 379 385 cancer
+T24 Gene 522 550 Cdkn2a cis-regulatory region
+T25 Condition 843 856 cancer genome
+T26 Condition 590 595 tumor
+T27 Condition 679 705 hepatoid pancreatic cancer
+T28 Condition 774 780 cancer
+T29 Species 291 296 mouse
+T30 Protein 940 948 piggyBac
+T31 Protein 405 413 piggyBac
+T32 Protein 498 501 DNA
+T34 Protein 660 675 Fign insertions
+T36 Protein 323 333 lymph node
+T38 Condition 368 378 pancreatic

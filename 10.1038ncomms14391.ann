@@ -1,0 +1,30 @@
+T1 Gene 172 183 interferons
+T2 Protein 595 600 IFI16
+T3 Protein 987 990 DNA
+T4 Gene 872 885 STING complex
+T5 Protein 363 368 IFI16
+T6 Protein 687 692 IFI16
+T7 Intervention 603 615  macrophages
+T8 Gene 1027 1038 interferons
+T10 Gene 464 468 cGAS
+T11 Intervention 138 149 macrophages
+T13 Intervention 96 105 Cytosolic
+T14 Intervention 1004 1015 macrophages
+T15 Intervention 27 39  macrophages
+T16 Gene 539 543 cGAS
+T17 Gene 250 285  and stimulator of interferon genes
+T19 Level 121 135 microbial DNA 
+T20 Gene 847 868 TANK-binding kinase 1
+T21 Biomarker 624 629 cGAMP
+T22 Protein 644 647 DNA
+T23 Protein 516 521 IFI16
+T24 Protein 738 743 IFI16
+T25 Gene 539 549 cGAS-STING
+T26 Gene 464 474 cGAS-STING
+T28 Intervention 1003 1015  macrophages
+T29 Intervention 137 149  macrophages
+T30 Protein 926 931 IFI16
+T31 Protein 131 134 DNA
+T32 Biomarker 797 802 cGAMP
+T33 Gene 245 249 cGAS
+T34 Protein 428 431 DNA

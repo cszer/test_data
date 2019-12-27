@@ -1,0 +1,59 @@
+T1 Condition 1168 1171 TIM
+T2 Species 580 584 mice
+T3 Condition 593 613 intracranial gliomas
+T4 Condition 1133 1136 TIM
+T5 Condition 634 673 ± murine anti–PD-1 monoclonal antibody 
+T6 Condition 45 50 tumor
+T7 Protein 268 270 DC
+T8 Condition 888 893 tumor
+T9 Protein 1593 1596 TIL
+T10 Level 1019 1050 TIMs rather than by tumor cells
+T11 Condition 1294 1299  mAb 
+T12 Condition 421 426 tumor
+T13 Protein 138 141 GBM
+T14 Protein 619 621 DC
+T15 Protein 985 988 GBM
+T16 Gene 1492 1500 PD-1 mAb
+T17 Condition 1986 1990 PD-1
+T18 Protein 1246 1249 TIL
+T19 Gene 1290 1298 PD-1 mAb
+T20 Condition 1974 1981 CSF-1Ri
+T21 Protein 1584 1588 TILs
+T22 Protein 497 501 TILs
+T23 Condition 741 748 CSF-1Ri
+T24 Condition 1152 1159 CSF-1Ri
+T25 Protein 1584 1587 TIL
+T26 Condition 1303 1310 CSF-1Ri
+T27 Condition 465 470 tumor
+T28 Condition 1492 1496 PD-1
+T29 Gene 1986 1994 PD-1 mAb
+T30 Condition 838 841 TIM
+T31 Condition 421 495 tumor-cytolytic function of vaccine-induced tumor-infiltrating lymphocytes
+T32 Condition 1039 1044 tumor
+T33 Level 1133 1137 TIMs
+T34 Protein 1106 1109 TIL
+T35 Condition 175 180 tumor
+T36 Biomarker 367 372 PD-L1
+T37 Condition 1069 1073 PD-1
+T38 Protein 1480 1482 DC
+T39 Condition 1667 1670 TIM
+T40 Biomarker 831 836 PD-L1
+T41 Protein 1380 1382 DC
+T42 Condition 648 652 PD-1
+T43 Level 1019 1023 TIMs
+T44 CL 252 266 dendritic cell
+T45 CL 175 206 tumor-infiltrating myeloid cell
+T46 Condition 208 211 TIM
+T47 Condition 1290 1294 PD-1
+T48 Protein 751 758 PLX3397
+T49 Biomarker 961 966 PD-L1
+T50 Protein 1502 1509 PLX3397
+T51 Level 1667 1671 TIMs
+T52 Protein 1926 1929 GBM
+T53 Protein 869 872 TIL
+T54 Protein 1724 1727 GBM
+T55 Condition 678 740  blockade or a colony stimulating factor 1 receptor inhibitor 
+T56 Condition 124 136 glioblastoma
+T57 Protein 497 500 TIL
+T58 Condition 1019 1022 TIM
+R1 Relation Arg1:T6 Arg2:T13

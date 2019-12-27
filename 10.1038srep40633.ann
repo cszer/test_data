@@ -1,0 +1,25 @@
+T1 Condition 408 423 prostate cancer
+T2 Intervention 993 1012 stem cell phenotype
+T3 Intervention 179 188 embryonic
+T4 Level 515 533 cancer stem cells 
+T5 Gene 574 585 epithelial 
+T7 Gene 1042 1048 clones
+T8 Level 1292 1297 cells
+T9 Condition 1244 1259 prostate cancer
+T10 Level 812 817 cells
+T11 Condition 543 558 prostate cancer
+T12 Gene 676 682 clones
+T14 CL 1333 1347 stem cell-like
+T15 CL 865 924 EMT-positive clones exhibited aggressive and stem cell-like
+T16 Level 1029 1048 EMT-negative clones
+T17 Level 527 532 cells
+T18 Condition 379 433 primary tumour-derived human prostate cancer cell line
+T19 Gene 878 884 clones
+T20 Gene 597 622  and mesenchymal markers 
+T21 Gene 1147 1153 clones
+T22 CL 1070 1084 stem cell-like
+T23 Biomarker 435 441 OPCT-1
+T24 Gene 357 363 clones
+T25 Level 1220 1240 CSC-like populations
+T26 Intervention 135 153 metastatic disease
+R1 Relation Arg1:T24 Arg2:T23

@@ -1,0 +1,45 @@
+T2 Protein 1017 1020 DNA
+T3 Gene 787 795 promoter
+T4 Level 1085 1091 genome
+T5 Protein 412 415 MYC
+T6 Level 170 174 cell
+T7 Gene 1046 1056 MYC 3′‐UTR
+T8 Protein 26 29 MYC
+T9 Gene 949 955 R‐loop
+T10 Protein 215 218 WNT
+T11 Biomarker 312 321 glutamine
+T12 Protein 906 912 RNAPII
+T13 Biomarker 245 254 glutamine
+T14 Protein 438 446 MYC mRNA
+T15 Level 73 77 cell
+T16 Protein 438 441 MYC
+T17 Biomarker 353 362 glutamine
+T18 Gene 424 430 3′‐UTR
+T19 Level 289 293 cell
+T20 Gene 990 996 R‐loop
+T21 Protein 665 671 RNAPII
+T22 Protein 204 207 MYC
+T23 Gene 622 630 promoter
+T24 Protein 511 530 glutamine‐dependent
+T25 Biomarker 121 130 glutamine
+T26 Biomarker 511 520 glutamine
+T27 Protein 755 758 MYC
+T28 Protein 1046 1049 MYC
+T29 Biomarker 542 562 adenosine‐nucleotide
+T30 Biomarker 1107 1121 ribonucleotide
+T31 Condition 227 236 mutations
+T32 Level 157 175 colon cancer cells
+T33 Protein 763 769 RNAPII
+T34 Gene 925 930 genes
+T35 Gene 787 796 promoters
+T36 Biomarker 571 580 Glutamine
+T37 Protein 979 985 RNAPII
+T38 Gene 646 663 RNA polymerase II
+T39 Protein 245 263 glutamine‐addicted
+T40 Protein 731 734 MYC
+T41 Biomarker 100 109 glutamine
+T42 Protein 855 858 MYC
+T43 Biomarker 877 886 glutamine
+T44 Biomarker 39 48 glutamine
+R1 Relation Arg1:T6 Arg2:T10
+R2 Relation Arg1:T6 Arg2:T22

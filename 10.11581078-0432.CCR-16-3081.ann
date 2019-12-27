@@ -1,0 +1,62 @@
+T2 Level 97 102 cells
+T5 Gene 1128 1131 PSA
+T6 Condition 678 692 cancer patient
+T7 Organism 339 346 patient
+T8 Level 119 123 cell
+T9 Condition 1171 1175 CTCs
+T11 Level 1690 1704 megakaryocytes
+T12 Condition 224 227 CTC
+T13 Organism 339 347 patients
+T14 Condition 1710 1716 cancer
+T15 Condition 328 331 CTC
+T17 Condition 1778 1784 cancer
+T19 Condition 1635 1638 CTC
+T20 Gene 562 571 serum PSA
+T21 Level 659 673 megakaryocytes
+T22 Gene 849 864 genomic regions
+T23 Condition 1041 1051 metastases
+T24 Gene_or_gene_product 1611 1615 ≥2.0
+T25 Condition 1210 1220 metastases
+T26 Level 119 124 cells
+T27 Condition 353 368 prostate cancer
+T28 Condition 1394 1400 cancer
+T29 Condition 1811 1818 predict
+T30 Condition 1203 1209 cancer
+T31 Condition 104 107 CTC
+T32 Level 97 101 cell
+T33 Gene 1000 1003 CK+
+T34 Gene 1004 1008 VIM+
+T37 Condition 909 913 CTCs
+T38 Condition 173 188 prostate cancer
+T39 Gene 1165 1175 CD45− CTCs
+T40 Level 79 102 circulating tumor cells
+T42 Gene 1156 1159 CK+
+T43 Level 1516 1530 megakaryocytes
+T44 Condition 543 550 predict
+T46 Condition 1203 1220 cancer metastases
+T47 Gene 903 913 CD45− CTCs
+T48 Condition 1819 1833 monitor cancer
+T49 Condition 362 368 cancer
+T51 Gene 1160 1164 VIM+
+T52 Gene 621 624 PSA
+T53 Condition 1082 1085 CTC
+T55 Condition 1082 1086 CTCs
+T56 Condition 441 463 disease aggressiveness
+T57 Intervention 1104 1111 samples
+T58 Condition 1015 1019 CTCs
+T59 Level 1495 1511 mesenchymal CTCs
+T60 Gene 1009 1019 CD45− CTCs
+T61 Condition 1507 1510 CTC
+T62 Gene 880 892 cytokeratin 
+T63 Condition 1015 1018 CTC
+T64 Protein 734 737 Cox
+T66 Level 785 796 CD45− cells
+T68 Level 1304 1318 megakaryocytes
+T69 Level 1292 1318 circulating megakaryocytes
+T71 Gene 629 639 EMTing CTC
+T72 Condition 1189 1196 predict
+T74 Condition 1376 1400 advanced prostate cancer
+T75 Condition 1171 1174 CTC
+T76 Intervention 769 778 vimentin 
+T77 Gene 898 902 VIM+
+R1 Relation Arg1:T2 Arg2:T32

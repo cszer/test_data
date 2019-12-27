@@ -1,0 +1,42 @@
+T1 Intervention 1610 1614 root
+T2 Biomarker 686 690 cell
+T3 Biomarker 952 956 cell
+T5 Biomarker 1372 1380 cellular
+T6 Protein 761 767 erbB-2
+T7 Biomarker 229 239 oleic acid
+T8 Condition 1622 1633 antitumoral
+T10 Biomarker 656 666 oleic acid
+T11 Biomarker 1527 1531 cell
+T12 Biomarker 961 968 calcium
+T14 Condition 507 513 cancer
+T15 Biomarker 706 716 oleic acid
+T16 Biomarker 1164 1174 oleic acid
+T17 Biomarker 1215 1223 cellular
+T18 Biomarker 1033 1037 cell
+T19 Biomarker 89 96 doubted
+T20 Protein 755 759 HER2
+T21 Biomarker 947 960 intracellular
+T22 Condition 887 900 human cancers
+T23 Biomarker 1045 1055 oleic acid
+T24 Biomarker 1354 1361 calcium
+T25 Level 1094 1109 carcinoma cells
+T26 Biomarker 1367 1380 intracellular
+T27 Biomarker 1215 1219 cell
+T28 Biomarker 1522 1535 intracellular
+T29 Biomarker 41 51 oleic acid
+T30 Level 1094 1108 carcinoma cell
+T31 Condition 55 61 cancer
+T32 Biomarker 467 475 cellular
+T34 Biomarker 947 968 intracellular calcium
+T35 Level 1557 1571 carcinoma cell
+T36 Biomarker 1432 1442 oleic acid
+T37 Biomarker 1372 1376 cell
+T38 Condition 893 899 cancer
+T39 Biomarker 1210 1223 intracellular
+T40 Biomarker 1467 1477 Oleic acid
+T43 Biomarker 545 549 cell
+T44 Gene 791 799 oncogene
+T45 Gene 1242 1251 caspase 3
+T47 Biomarker 915 925 oleic acid
+T48 Biomarker 467 471 cell
+T49 Biomarker 626 630 cell

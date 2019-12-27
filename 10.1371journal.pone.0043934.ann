@@ -1,0 +1,23 @@
+T1 Biomarker 575 579 VEGF
+T2 Condition 447 453 cancer
+T3 Condition 489 494 tumor
+T4 Biomarker 751 758 VEGFR-2
+T5 Condition 205 221 malignant tumors
+T6 Biomarker 751 755 VEGF
+T7 Gene 337 373 vascular endothelial growth factor-A
+T8 Biomarker 734 738 VEGF
+T9 Condition 215 220 tumor
+T10 Protein 179 182 THL
+T11 Protein 517 520 THL
+T12 Biomarker 935 939 VEGF
+T13 Biomarker 619 629 chebulinic
+T14 Gene 734 749 VEGF receptor-2
+T15 Biomarker 375 379 VEGF
+T16 Protein 17 20 THL
+T17 Biomarker 693 697 VEGF
+T18 Protein 611 614 THL
+T19 Protein 267 270 THL
+T20 Protein 646 649 THL
+T21 Protein 284 294 anti-tumor
+T22 Intervention 48 54 fruits
+R1 Relation Arg1:T10 Arg2:T9

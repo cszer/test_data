@@ -1,0 +1,20 @@
+T1 Cellular_component 278 300 extracellular vesicles
+T2 Protein 13 20 protein
+T3 Organism 483 489 plasma
+T4 Organism_substance 483 497 plasma samples
+T5 Organism 312 324 human plasma
+T6 Biomarker 415 421 10,000
+T7 Level 283 291 cellular
+T8 Protein 573 580 protein
+T9 Organism 629 637 patients
+T10 Organism 747 755 patients
+T11 Level 65 73 cellular
+T12 Protein 143 150 protein
+T13 Condition 653 666 breast cancer
+T14 Protein 875 882 protein
+T15 Organism 887 893 plasma
+T16 Intervention 155 164 biofluids
+T17 Intervention 956 962 cancer
+T19 Intervention 93 111 early-stage cancer
+T20 Protein 266 273 protein
+T23 Organism 585 591 plasma

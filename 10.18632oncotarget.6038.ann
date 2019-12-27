@@ -1,0 +1,55 @@
+T1 Species 857 860 rat
+T2 Gene 484 530 cell adhesion molecules ICAM-1 and α4-integrin
+T3 Level 568 603 activated platelets on cancer cells
+T4 Disease 1161 1169 toxicity
+T5 Condition 966 972 cancer
+T6 Condition 918 924 cancer
+T7 Level 406 410 cell
+T8 Species 897 901 mice
+T9 Disease 1044 1049 toxic
+T10 Disease 1161 1166 toxic
+T12 Level 1441 1445 cell
+T13 Level 434 438 cell
+T14 Condition 168 174 cancer
+T15 Condition 67 73 cancer
+T16 Biomarker 229 234 HAMPT
+T17 Level 484 488 cell
+T18 Level 598 602 cell
+T20 Disease 1510 1518 toxicity
+T21 Level 735 747 cancer cells
+T22 Condition 650 656 cancer
+T23 Level 448 452 cell
+T24 Biomarker 1064 1069 HAMPT
+T25 Level 721 747 HAMPT induced cancer cells
+T26 Level 1405 1446 drugs to restrain circulating tumor cells
+T27 Disease 1510 1515 toxic
+T28 Condition 1345 1351 cancer
+T29 Level 650 687 cancer cells to the underlying stroma
+T30 Level 422 439 endothelial cells
+T31 Level 742 746 cell
+T32 Species 203 206 rat
+T33 Species 713 716 rat
+T34 Condition 320 326 cancer
+T36 Biomarker 721 726 HAMPT
+T38 Level 657 661 cell
+T39 Biomarker 886 888 kg
+T40 Condition 591 597 cancer
+T41 Level 918 930 cancer cells
+T42 Disease 1044 1052 toxicity
+T43 Biomarker 1092 1094 kg
+T44 Level 399 411 cancer cells
+T45 Biomarker 532 537 HAMPT
+T46 Disease 1196 1201 toxic
+T47 Condition 399 405 cancer
+T48 Level 650 662 cancer cells
+T49 Level 787 791 cell
+T50 Cellular_component 443 463 extracellular matrix
+T51 Biomarker 1089 1091 mg
+T52 Biomarker 803 811 Four-day
+T53 Biomarker 867 872 HAMPT
+T54 Level 837 848 30-day oral
+T55 Biomarker 874 885 33.5-134 mg
+T56 Biomarker 1268 1270 kg
+T57 Level 925 929 cell
+T58 Condition 735 741 cancer
+T59 Biomarker 343 376 pharmaceutically-formulated HAMPT

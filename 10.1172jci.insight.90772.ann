@@ -1,0 +1,49 @@
+T3 Level 463 467 cell
+T4 Level 850 854 cell
+T6 Level 635 646  Th17 cells
+T8 Level 791 796 cells
+T9 Condition 966 971 tumor
+T11 Level 641 645 cell
+T12 Level 76 83 T cells
+T14 Organism 129 137 patients
+T15 Level 1173 1178 cells
+T16 Level 367 377 Th17 cells
+T18 Level 1173 1177 cell
+T19 Level 358 365 T cells
+T23 Level 277 281 cell
+T24 Level 592 596 cell
+T25 Species 956 960 mice
+T27 Level 225 229 cell
+T28 Level 451 455 cell
+T29 Level 360 364 cell
+T30 Level 1234 1238 cell
+T31 Level 1257 1261 cell
+T32 Condition 755 760 tumor
+T33 Level 791 795 cell
+T37 Condition 1138 1156 human mesothelioma
+T39 Level 1214 1239 tumor-reactive Th17 cells
+T40 Level 567 597 Three-week-expanded Th17 cells
+T41 Condition 106 115 antitumor
+T43 Condition 1274 1280 cancer
+T44 Condition 742 761 recalcitrant tumors
+T45 Level 457 468  Th17 cells
+T47 Condition 27 39 solid tumors
+T48 Level 451 456 cells
+T49 Level 1087 1098  Th17 cells
+T51 Condition 609 617 melanoma
+T53 Level 223 230 T cells
+T54 Condition 1214 1219 tumor
+T55 Level 1093 1097 cell
+T57 Condition 539 548 antitumor
+T58 Level 78 82 cell
+T60 Level 1024 1081 2-week-expanded human chimeric antigen receptor–positive 
+T61 Level 372 376 cell
+T62 Species 702 706 mice
+T63 Condition 33 38 tumor
+T64 Level 935 939 cell
+T65 Intervention 994 998 lung
+T66 Level 911 940 Long-term-expanded Th17 cells
+T67 Species 726 730 mice
+R1 Relation Arg1:T27 Arg2:T23
+R2 Relation Arg1:T53 Arg2:T23
+R3 Relation Arg1:T27 Arg2:T53

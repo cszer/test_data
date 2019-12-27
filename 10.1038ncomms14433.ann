@@ -1,0 +1,24 @@
+T1 Condition 682 693 meningiomas
+T2 Condition 288 299 meningiomas
+T3 Gene 128 135 genomic
+T4 Condition 382 399 SMARCB1 mutations
+T5 Gene 1037 1045 primary 
+T6 Condition 859 870 meningiomas
+T7 Gene 278 319  atypical meningiomas display loss of NF2
+T8 Gene 349 356 genomic
+T9 Gene 539 553  binding sites
+T10 Condition 189 224 benign meningiomas to atypical ones
+T11 Condition 407 414 tumours
+T12 Gene 261 269 primary 
+T13 Level 623 631 cellular
+T14 Gene 1016 1023 genomic
+T15 Gene 752 758  PRC2 
+T16 Condition 23 43 benign brain tumours
+T17 Gene 842 850 primary 
+T18 Condition 891 909 promoter mutations
+T19 Gene 159 166 genomic
+T20 Cellular_component 977 988 benign ones
+T22 Condition 1054 1065 meningiomas
+T23 Condition 196 207 meningiomas
+T24 Gene 782 821 E2F2 and FOXM1 transcriptional networks
+T25 Condition 948 955 tumours

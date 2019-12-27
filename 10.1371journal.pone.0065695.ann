@@ -1,0 +1,63 @@
+T1 Biomarker 167 183 glucose-deprived
+T2 Protein 340 345 GRP78
+T3 Protein 1027 1032 GRP78
+T4 Protein 1186 1191 GRP78
+T5 Condition 526 577 Triple-negative breast cancer cell lines MDA-MB-231
+T6 Protein 1572 1575 VCD
+T7 Protein 14 17 VCD
+T8 Protein 869 872 VCD
+T9 Protein 1441 1448 protein
+T10 Biomarker 997 1011 2-deoxyglucose
+T11 Protein 388 398 inhibitors
+T13 Protein 881 887 GRP78 
+T14 Biomarker 167 174 glucose
+T15 Protein 41 59 fungal metabolites
+T16 Protein 754 757 VCD
+T17 Intervention 1213 1226 mitochondrial
+T18 Biomarker 1319 1331 cellular ATP
+T19 Protein 1280 1304 electron transport chain
+T20 Protein 1110 1111 ’
+T21 Level 148 160 cancer cells
+T22 Biomarker 1319 1327 cellular
+T23 Protein 288 295 protein
+T24 Intervention 1213 1225 mitochondria
+T25 Level 155 159 cell
+T26 Protein 113 122 molecules
+T27 Level 556 560 cell
+T28 Protein 1614 1630 GRP78 inhibitors
+T29 Intervention 1534 1546 mitochondria
+T30 Protein 407 410 VCD
+T31 Protein 1107 1110 VCD
+T32 Condition 496 506 anticancer
+T33 Biomarker 1403 1411 cellular
+T34 Protein 1263 1272 complex I
+T35 Disease 1122 1152 hypoglycemia-specific toxicity
+T36 Level 707 711 cell
+T37 Level 1403 1407 cell
+T38 Protein 611 614 VCD
+T39 Protein 1793 1810 GRP78-independent
+T40 Protein 340 346 GRP78 
+T41 Biomarker 849 856 glucose
+T42 Biomarker 270 277 glucose
+T43 Protein 493 494 ’
+T44 Level 148 154 cancer
+T46 Biomarker 582 592 MDA-MB-468
+T47 Level 1489 1493 cell
+T48 Protein 683 688 GRP78
+T49 Protein 1614 1620 GRP78 
+T50 Disease 1061 1068 hypoxia
+T51 Level 1319 1323 cell
+T52 Level 424 430 cancer
+T53 Protein 881 886 GRP78
+T55 Protein 1201 1204 VCD
+T56 Protein 1614 1619 GRP78
+T57 Biomarker 707 715 cellular
+T58 Protein 490 493 VCD
+T59 Protein 263 269 GRP78 
+T60 Protein 263 268 GRP78
+T61 Protein 1793 1798 GRP78
+T62 Protein 1027 1033 GRP78 
+T63 Level 549 555 cancer
+R1 Relation Arg1:T42 Arg2:T2
+R2 Relation Arg1:T42 Arg2:T40
+R3 Relation Arg1:T60 Arg2:T42

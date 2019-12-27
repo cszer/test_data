@@ -1,0 +1,62 @@
+T1 Gene 1111 1123  DR4 and DR5
+T2 Condition 700 703 HuR
+T3 Condition 515 518 HuR
+T4 Level 580 584  PDA
+T5 Protein 1451 1456 TRAIL
+T6 Protein 1628 1633 TRAIL
+T7 Intervention 876 885 cytoplasm
+T8 Gene 204 233 cell surface Death Receptors 
+T9 Biomarker 1519 1531 HuR-mediated
+T10 Level 706 732  TRAIL-resistant PDA cells
+T11 Protein 1291 1296 TRAIL
+T12 Level 1715 1719  PDA
+T14 Condition 1083 1086 HuR
+T15 Condition 1333 1336 HuR
+T16 Condition 1588 1591 HuR
+T17 Level 1005 1009  PDA
+T18 Condition 530 553 stress-response protein
+T19 Intervention 861 868 nucleus
+T20 Level 1305 1313 PDA cell
+T21 Condition 296 302 cancer
+T22 Level 690 696 silenc
+T23 Condition 1418 1421 HuR
+T24 Level 624 654 TRAIL-sensitive PDA cell lines
+T25 Protein 462 467 TRAIL
+T26 Level 581 589 PDA cell
+T27 Condition 602 605 HuR
+T28 Organism 1716 1728 PDA patients
+T29 Gene 1021 1028 MS-444 
+T30 Condition 834 837 HuR
+T31 Protein 347 352 TRAIL
+T32 Intervention 357 376 DR-targeting agents
+T33 Level 790 794  PDA
+T34 Protein 275 284 molecular
+T35 Protein 149 154 TRAIL
+T36 Gene 1573 1591 tumor-targeted HuR
+T37 Protein 1219 1224 TRAIL
+T38 Level 581 590 PDA cells
+T39 Level 640 648 PDA cell
+T40 Level 1304 1308  PDA
+T41 Condition 924 927 HuR
+T42 Condition 65 71 cancer
+T43 Level 791 799 PDA cell
+T45 Level 1006 1015 PDA cells
+T46 Level 1305 1314 PDA cells
+T47 Protein 1157 1162 TRAIL
+T48 Biomarker 1333 1345 HuR-mediated
+T49 Level 1006 1014 PDA cell
+T50 Gene 1451 1464 TRAIL-induced
+T51 Protein 773 778 TRAIL
+T52 Protein 820 825 TRAIL
+T53 Protein 665 670 TRAIL
+T54 Protein 624 629 TRAIL
+T55 Level 723 731 PDA cell
+T56 Level 1291 1314 TRAIL-exposed PDA cells
+T57 Level 698 704 g HuR 
+T59 Level 723 732 PDA cells
+T60 Level 639 643  PDA
+T61 Protein 1532 1537 TRAIL
+T62 Condition 1184 1198 validating HuR
+T63 Level 722 726  PDA
+T64 Protein 501 514 Hu antigen R 
+T66 Protein 707 712 TRAIL

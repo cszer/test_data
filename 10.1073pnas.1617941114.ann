@@ -1,0 +1,41 @@
+T1 Protein 769 773 mAbs
+T2 Protein 207 228 monoclonal antibodies
+T3 Gene 1081 1093 human CTLA-4
+T4 Protein 1171 1178 CTLA-4 
+T5 Protein 1499 1506 CTLA-4 
+T6 Protein 1130 1140 ipilimumab
+T7 Biomarker 607 613 CTLA-4
+T8 Biomarker 280 284 PD-1
+T9 Protein 714 722 chemical
+T10 Protein 1531 1539 chemical
+T11 Gene 409 419 Ipilimumab
+T12 Biomarker 1659 1665 CTLA-4
+T13 Protein 355 360 human
+T14 Protein 431 436 human
+T15 Cellular_component 897 909 cell surface
+T16 Protein 1641 1651 ipilimumab
+T17 Biomarker 269 275 CTLA-4
+T18 Protein 1081 1086 human
+T19 Biomarker 456 462 CTLA-4
+T20 Biomarker 1171 1177 CTLA-4
+T21 Protein 1061 1071 ipilimumab
+T22 Protein 607 614 CTLA-4 
+T23 Protein 1279 1289 ipilimumab
+T24 Gene 863 889 antigen–antibody complexes
+T25 Condition 511 530 metastatic melanoma
+T26 Biomarker 1202 1208 CTLA-4
+T27 Protein 1718 1722 CD28
+T29 Condition 675 694 metastatic melanoma
+T30 Protein 1087 1094 CTLA-4 
+T31 Protein 1347 1357 ipilimumab
+T32 Protein 456 463 CTLA-4 
+T33 Organism 661 669 patients
+T34 Condition 400 407 cancers
+T35 Gene 540 550 Ipilimumab
+T36 Protein 1659 1666 CTLA-4 
+T37 Biomarker 1499 1505 CTLA-4
+T38 Protein 431 445 human antibody
+T39 Protein 269 276 CTLA-4 
+T40 Protein 999 1000 Å
+T41 Protein 1499 1513 CTLA-4 mutants
+R1 Relation Arg1:T8 Arg2:T13

@@ -1,0 +1,48 @@
+T1 Protein 125 139 angiopoietin-2
+T2 Protein 733 746 blood vessels
+T4 Condition 546 551 tumor
+T5 Condition 1244 1250 cancer
+T7 Condition 243 248 tumor
+T8 Protein 333 336 A2V
+T10 Intervention 974 982 vascular
+T11 Protein 1131 1135 IFNγ
+T12 Condition 482 507 metastatic breast cancer 
+T13 Condition 43 49 cancer
+T14 Protein 929 932 A2V
+T15 Protein 596 599 A2V
+T16 Gene 825 838 interferon-γ 
+T17 Condition 1210 1215 tumor
+T18 Protein 163 167 ANG2
+T19 Protein 281 287 ANGPT2
+T20 Biomarker 1096 1101 PD-L1
+T21 Intervention 970 982 perivascular
+T22 Protein 839 843 IFNγ
+T23 Gene_or_gene_product 1039 1094 immune checkpoint ligand programmed cell death ligand 1
+T24 Intervention 785 797 perivascular
+T25 Level 1106 1129 tumor endothelial cells
+T26 Gene 420 431 genetically
+T27 Level 1265 1295 findings position immune cells
+T28 Condition 500 506 cancer
+T29 Condition 679 684 tumor
+T30 Protein 292 297 VEGFA
+T31 Condition 210 215 tumor
+T32 Protein 141 147 ANGPT2
+T33 Protein 1227 1230 A2V
+T34 CL 674 697 intratumoral phagocytes
+T35 Condition 905 916 antitumoral
+T36 Condition 239 248 antitumor
+T37 Condition 1106 1111 tumor
+T39 Protein 1303 1312 effectors
+T40 Condition 630 635 tumor
+T41 Biomarker 1187 1191 PD-1
+T42 Protein 114 119 VEGFA
+T43 Condition 630 644 tumor necrosis
+T44 Condition 1420 1426 cancer
+T45 Gene 312 331 bispecific antibody
+T46 Condition 447 463 transplant tumor
+T47 Intervention 609 617 vascular
+T49 Gene 76 112 Vascular endothelial growth factor A
+T50 Condition 905 914 antitumor
+R1 Relation Arg1:T18 Arg2:T31
+R2 Relation Arg1:T42 Arg2:T18
+R3 Relation Arg1:T42 Arg2:T31

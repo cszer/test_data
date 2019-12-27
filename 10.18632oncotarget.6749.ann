@@ -1,0 +1,74 @@
+T2 Biomarker 224 234 sildenafil
+T3 Level 286 290 cell
+T4 Biomarker 1133 1136 DOX
+T5 Biomarker 1109 1119 sildenafil
+T6 Protein 534 543 inhibitor
+T8 Biomarker 601 604 DOX
+T9 Organism 773 790 adenoviral vector
+T10 Biomarker 1545 1549 CD95
+T12 Protein 676 681 FLIP 
+T13 Cancer cells 264 280 prostate cancer 
+T14 Biomarker 1080 1084 CD95
+T15 Biomarker 847 857 sildenafil
+T16 Level 575 580 cells
+T17 Protein 319 322 Fas
+T18 Biomarker 333 337 CD95
+T19 Level 1012 1018  cells
+T21 Condition 1623 1638 prostate cancer
+T22 Intervention 62 71 antitumor
+T24 Biomarker 1587 1590 DOX
+T25 Biomarker 97 100 DOX
+T26 Level 1149 1155  cells
+T27 Biomarker 600 605  DOX 
+T28 Protein 448 453 FLIP 
+T29 Level 1609 1613 cell
+T30 Biomarker 1586 1591  DOX 
+T31 Organism_substance 1337 1344 nuclear
+T32 Protein 1458 1467 inhibitor
+T33 Protein 415 439 anti-apoptotic molecules
+T34 Gene 1271 1288 DOX-induced NF-κB
+T35 Gene 1329 1332 IκB
+T36 Intervention 859 865 Colony
+T37 Biomarker 1256 1261  DOX 
+T38 Protein 723 727 drug
+T39 Level 1150 1154 cell
+T40 Level 374 380  cells
+T41 Protein 293 298 DU145
+T42 Disease 124 135 cardiotoxic
+T43 Biomarker 948 958 sildenafil
+T44 Biomarker 1228 1238 Sildenafil
+T46 Level 375 380 cells
+T48 Level 1013 1018 cells
+T49 Protein 758 764 FLIP-s
+T50 Biomarker 586 596 sildenafil
+T51 Biomarker 939 944  DOX 
+T52 Biomarker 1572 1582 sildenafil
+T53 Biomarker 839 842 DOX
+T54 Protein 454 457 Fas
+T55 Gene 1420 1448 Fas associated phosphatase-1
+T56 Protein 1420 1423 Fas
+T57 Biomarker 1271 1274 DOX
+T58 Level 1178 1182 cell
+T59 Biomarker 940 943 DOX
+T61 Level 365 380 carcinoma cells
+T62 Gene 667 681 forms of FLIP 
+T63 Level 375 379 cell
+T64 Biomarker 28 38 Sildenafil
+T65 Protein 948 966 sildenafil-induced
+T66 Level 286 291 cells
+T67 Biomarker 838 843  DOX 
+T68 Organism 1042 1048 vector
+T69 Level 575 579 cell
+T70 Biomarker 1257 1260 DOX
+T71 Level 1150 1155 cells
+T72 Biomarker 84 96 doxorubicin 
+T74 Biomarker 324 329 APO-1
+T75 Biomarker 1413 1418 FAP-1
+T76 Biomarker 1132 1137  DOX 
+T77 Gene 1366 1377 p65 subunit
+T78 Biomarker 246 249 DOX
+T79 Level 1013 1017 cell
+T80 Level 816 820 cell
+T81 Biomarker 903 909 FLIP-S
+T82 Biomarker 1471 1475 CD95
+R1 Relation Arg1:T41 Arg2:T17

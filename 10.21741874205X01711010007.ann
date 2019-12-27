@@ -1,0 +1,26 @@
+T1 Disease 1012 1042 memory impairment and dementia
+T3 Protein 240 260  receptor antagonist
+T4 Biomarker 393 405 leukotrienes
+T5 Biomarker 484 495 Montelukast
+T6 Condition 22 30 dementia
+T7 Condition 1097 1105 dementia
+T8 Organism 697 705 Patients
+T9 Organism 603 630 2013-2014 used Montelukast 
+T10 Organism 545 554  patients
+T11 Condition 869 877 dementia
+T12 Protein 229 260 leukotriene receptor antagonist
+T14 Condition 1034 1042 dementia
+T15 Protein 349 369  receptor antagonist
+T16 Biomarker 146 164 Neuro-inflammation
+T21 Condition 687 695 dementia
+T22 Gene 319 341 cysteinyl leukotriene 
+T23 Organism 632 641  patients
+T24 Intervention 836 853 memory and recall
+T25 Condition 198 206 dementia
+T26 Organism 855 863 Patients
+T27 Biomarker 977 988 Montelukast
+T28 Disease 298 304 asthma
+T29 Organism 777 801 Memory impaired patients
+T30 Disease 665 695 memory impairment and dementia
+T31 Organism 439 445 Animal
+T32 Biomarker 212 223 Montelukast

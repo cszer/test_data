@@ -1,0 +1,35 @@
+T1 Protein 650 653 TfR
+T2 Protein 953 962 molecular
+T3 Protein 1470 1475 brain
+T4 Protein 1083 1088 brain
+T5 Level 474 482 antibody
+T6 Level 427 435 antibody
+T8 Protein 422 425 TfR
+T9 Organism 1117 1131 wild type mice
+T10 Protein 159 164 brain
+T11 Protein 865 870 brain
+T12 Protein 926 931 brain
+T13 Level 128 136 antibody
+T14 Protein 824 831 protein
+T15 Gene 392 421  of the transferrin receptor 
+T16 Level 49 57 antibody
+T17 Protein 607 610 TfR
+T18 Protein 10 15 brain
+T19 Gene 354 386 single-chain variable fragments 
+T20 Protein 1400 1402 AD
+T21 Protein 1037 1044 protein
+T22 Protein 739 742 TfR
+T23 Intervention 303 315 transcytosis
+T24 Protein 75 80 brain
+T25 Protein 586 588 AD
+T26 Organism 1066 1082 transgenic mouse
+T27 Protein 1232 1244 mAb158 brain
+T28 Protein 25 28 BBB
+T29 Protein 1063 1065 AD
+T30 Disease 159 174 brain disorders
+T31 Protein 278 281 BBB
+T32 Gene 739 748 TfR dimer
+T33 Level 256 266 antibodies
+T34 Protein 797 802 brain
+T35 Protein 218 223 brain
+R1 Relation Arg1:T31 Arg2:T23

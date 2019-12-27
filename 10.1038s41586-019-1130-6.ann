@@ -1,0 +1,50 @@
+T1 Intervention 1498 1506 pancreas
+T2 Biomarker 356 360 PCCs
+T3 Protein 1007 1016 molecular
+T4 Biomarker 588 610 PDAC tumorigenesis8-10
+T5 Level 1119 1146 PSCs acting on cancer cells
+T6 Biomarker 174 177 PSC
+T7 Level 210 222 dense stroma
+T8 Condition 1220 1226 tumour
+T9 Biomarker 1303 1307 PDAC
+T10 Gene 1184 1205 genetic Lifr deletion
+T11 Biomarker 34 38 PDAC
+T12 Biomarker 805 809 PCCs
+T13 Level 342 348 cancer
+T14 Biomarker 626 630 PSCs
+T15 Biomarker 588 592 PDAC
+T16 Protein 1487 1490 LIF
+T17 Protein 1073 1076 LIF
+T18 Biomarker 548 551 PSC
+T19 Condition 1945 1951 tumour
+T20 Biomarker 1737 1741 PDAC
+T21 Level 1343 1349 cancer
+T22 Level 1134 1140 cancer
+T23 Biomarker 1568 1572 PDAC
+T25 Species 1308 1313 mouse
+T26 Protein 1628 1631 LIF
+T27 Level 1452 1462 human PDAC
+T28 Protein 1167 1170 LIF
+T29 Biomarker 1119 1122 PSC
+T30 Level 1343 1354 cancer cell
+T31 Biomarker 1119 1123 PSCs
+T32 Species 1435 1440 mouse
+T33 Condition 1044 1071 leukaemia inhibitory factor
+T34 Condition 380 386 tumour
+T35 Condition 670 676 tumour
+T36 Biomarker 174 178 PSCs
+T37 Condition 277 287 biology1,2
+T38 Biomarker 322 326 PSCs
+T39 Level 147 172 pancreatic stellate cells
+T40 Level 342 353 cancer cell
+T41 Biomarker 796 800 PSCs
+T42 Biomarker 626 629 PSC
+T43 Biomarker 877 881 PDAC
+T44 Protein 1730 1733 LIF
+T45 Level 2002 2008 cancer
+T46 Biomarker 322 325 PSC
+T47 Level 322 354 PSCs and pancreatic cancer cells
+T48 Biomarker 796 799 PSC
+T49 Condition 1652 1658 tumour
+T50 Level 1134 1145 cancer cell
+R1 Relation Arg1:T6 Arg2:T36

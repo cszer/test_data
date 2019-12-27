@@ -1,0 +1,47 @@
+T1 Gene 1056 1067 genetically
+T2 Condition 1076 1092 tumor xenografts
+T4 Protein 925 929 PARP
+T5 Level 648 654  cells
+T6 Biomarker 1400 1415 oncometabolites
+T7 Level 1004 1040 primary patient-derived glioma cells
+T8 Biomarker 20 23 2HG
+T9 Level 852 858  cells
+T11 Level 903 909 mutant
+T12 Level 733 739 mutant
+T13 Level 642 648 mutant
+T14 Protein 578 590  polymerase 
+T15 Condition 312 316 IDH1
+T16 Protein 1425 1428 DNA
+T17 Level 834 850 2HG enantiomers 
+T18 Condition 740 744 IDH1
+T19 Gene 1213 1223 mutant IDH
+T20 Protein 700 725 small-molecule inhibitors
+T21 Protein 150 166 α-ketoglutarate 
+T22 Gene 733 743 mutant IDH
+T23 Condition 428 432 IDH1
+T24 Protein 876 886 2 proteins
+T25 Condition 322 336 IDH2 mutations
+T26 Gene 284 310 isocitrate dehydrogenase 1
+T27 Condition 433 444 2 mutations
+T28 Protein 591 595 PARP
+T29 Gene 1056 1063 genetic
+T31 Level 1034 1040  cells
+T32 Gene 903 913 mutant IDH
+T33 Protein 1323 1327 PARP
+T34 Condition 1076 1081 tumor
+T35 Biomarker 1290 1293 2HG
+T36 Biomarker 1257 1260 2HG
+T38 Gene 733 751 mutant IDH1 enzyme
+T39 Level 638 654 IDH mutant cells
+T40 Biomarker 1400 1414 oncometabolite
+T41 Biomarker 834 837 2HG
+T42 Disease 404 411 hypoxia
+T43 Biomarker 56 59 2HG
+T44 Condition 504 509 tumor
+T45 Condition 910 914 IDH1
+T46 Condition 871 875 IDH1
+T47 Condition 100 105 tumor
+T48 Gene 1441 1448 genetic
+T49 Level 1213 1219 mutant
+T50 Biomarker 1290 1317 2HG-dependent HR deficiency
+T51 Biomarker 213 227 oncometabolite

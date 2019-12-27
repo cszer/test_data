@@ -1,0 +1,62 @@
+T1 Protein 1141 1146 Mcl-1
+T2 Protein 601 605 drug
+T3 Level 141 158 pancreatic cancer
+T4 Biomarker 243 250 aspirin
+T6 Intervention 1338 1347 metformin
+T7 Level 672 676 cell
+T8 Protein 1419 1426 protein
+T9 Level 1549 1571 pancreatic cancer cell
+T10 Biomarker 0 21 Metformin and aspirin
+T11 Biomarker 741 750 Metformin
+T13 Biomarker 443 450 aspirin
+T14 Level 280 284 cell
+T15 Level 1782 1799 pancreatic cancer
+T16 Intervention 914 923 metformin
+T17 Biomarker 1517 1524 aspirin
+T18 Intervention 1503 1512 metformin
+T19 Biomarker 1268 1274 PANC-1
+T20 Biomarker 938 945 aspirin
+T21 Protein 1012 1017 Bcl-2
+T22 Gene 873 882 caspase-3
+T23 Level 141 163 pancreatic cancer cell
+T24 Level 422 426 cell
+T25 Protein 1176 1180 AMPK
+T28 Level 1549 1566 pancreatic cancer
+T29 Condition 1560 1566 cancer
+T30 Biomarker 14 21 aspirin
+T31 Intervention 229 238 metformin
+T32 Level 537 541 cell
+T33 Intervention 626 635 metformin
+T34 Protein 357 361 mTOR
+T35 Biomarker 716 722 PANC-1
+T36 Level 716 739 PANC-1 and BxPC-3 cells
+T37 Condition 1460 1465 tumor
+T38 Protein 820 824 mTOR
+T39 Protein 336 345 molecular
+T40 Protein 1441 1446 Mcl-1
+T42 Protein 1053 1060 protein
+T43 Gene 1618 1662 pro- and anti-apoptotic Bcl-2 family members
+T44 Protein 1184 1189 STAT3
+T45 Protein 829 834 STAT3
+T46 Biomarker 405 411 PANC-1
+T47 Biomarker 429 450 Metformin and aspirin
+T48 Protein 363 368 STAT3
+T49 Biomarker 640 647 aspirin
+T50 Protein 1002 1007 Mcl-1
+T51 Condition 55 61 cancer
+T52 Intervention 691 697 colony
+T55 Level 141 164 pancreatic cancer cells
+T56 Biomarker 429 438 Metformin
+T57 Condition 1384 1389 tumor
+T58 Biomarker 1352 1359 aspirin
+T59 Protein 1642 1647 Bcl-2
+T60 Protein 1715 1719 drug
+T61 Protein 1220 1224 mTOR
+T62 Level 416 427 BxPC3 cells
+T63 Biomarker 765 772 aspirin
+T64 Organism 1268 1290 PANC-1 xenograft mouse
+T65 Biomarker 0 9 Metformin
+T66 Protein 1151 1156 Bcl-2
+T67 Protein 993 1000 protein
+T68 Protein 887 891 PARP
+T69 Level 734 738 cell

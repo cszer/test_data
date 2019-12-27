@@ -1,0 +1,38 @@
+T1 Biomarker 972 983 propranolol
+T2 Intervention 1264 1290 sympathetic nervous system
+T3 Level 201 215 neuroendocrine
+T4 Protein 862 877 beta-adrenergic
+T5 Condition 357 370 breast cancer
+T6 Condition 1322 1335 breast cancer
+T8 Intervention 1302 1308 neural
+T9 Condition 1495 1501 cancer
+T10 Condition 1488 1501 breast cancer
+T11 Species 342 347 mouse
+T12 Condition 1488 1494 breast
+T13 Condition 1046 1051 tumor
+T14 Protein 1214 1220 GW2580
+T15 Gene 732 751 pro-metastatic gene
+T16 Level 387 401 neuroendocrine
+T17 Gene 1446 1465 pro-metastatic gene
+T19 Condition 1480 1502 primary breast cancers
+T20 Protein 596 611 beta-adrenergic
+T22 Level 668 678 macrophage
+T24 Condition 693 698 tumor
+T26 Gene 747 751 gene
+T27 Level 806 816 macrophage
+T28 Condition 364 370 cancer
+T29 Level 1008 1018 macrophage
+T30 Protein 543 554 lymph nodes
+T31 Intervention 22 29 tissues
+T32 Condition 454 467 primary tumor
+T33 Condition 53 59 breast
+T34 Condition 685 698 primary tumor
+T35 Gene 1183 1203 CSF1 receptor kinase
+T36 Protein 1379 1394 anti-metastatic
+T39 Intervention 559 563 lung
+T40 Intervention 1070 1077 tissues
+T41 Condition 357 363 breast
+T42 Protein 1417 1432 beta-adrenergic
+T43 Condition 230 236 cancer
+T44 Level 1150 1160 macrophage
+R1 Relation Arg1:T31 Arg2:T33

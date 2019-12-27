@@ -1,0 +1,34 @@
+T1 Condition 1862 1865 CRC
+T2 Condition 1268 1280 rectal tumor
+T3 Condition 398 404 Cancer
+T4 Condition 19 22 CRC
+T5 Condition 1736 1739 CRC
+T6 Organism 639 642 men
+T7 Organism 1137 1140 ≥50
+T8 Organism 795 798 ≥50
+T9 Intervention 1470 1475 colon
+T11 Condition 984 997 rectal tumors
+T12 Condition 855 861 tumors
+T13 Protein 1027 1030 IRR
+T14 Condition 1376 1379 CRC
+T15 Condition 150 153 CRC
+T16 Condition 848 861 distal tumors
+T17 Organism 1637 1640 ≥50
+T18 Condition 333 339 Cancer
+T19 Organism 865 871 people
+T20 Condition 1866 1883 advanced adenomas
+T21 Organism 651 656 women
+T22 Condition 984 996 rectal tumor
+T23 Condition 2007 2010 CRC
+T24 Organism 1934 1937 men
+T25 Protein 1477 1480 IRR
+T27 Condition 991 997 tumors
+T28 Condition 1103 1106 CRC
+T29 Intervention 1511 1517 rectum
+T30 Condition 1449 1455 tumors
+T31 Protein 1064 1067 IRR
+T32 Protein 1519 1522 IRR
+T33 Condition 505 508 CRC
+T35 Protein 1916 1928 high‐quality
+T36 Protein 910 913 IRR
+T37 Condition 1581 1584 CRC

@@ -1,0 +1,137 @@
+T1 Biomarker 166 170 cGMP
+T4 Condition 1232 1242 cell lines
+T5 Condition 1460 1465 colon
+T6 Condition 938 943 tumor
+T7 Protein 251 254 PDE
+T8 Protein 1101 1104 PDE
+T10 Intervention 149 151 es
+T11 Biomarker 25 43 intracellular cGMP
+T12 Protein 1157 1162 PDE10
+T14 Condition 1414 1419 tumor
+T15 Protein 416 419 PDE
+T16 Condition 1209 1242  and elevated in tumor cell lines
+T17 Protein 329 345 PDE10 inhibitors
+T18 Protein 1893 1911 colon tumorgenesis
+T19 Level 463 468 human
+T20 Condition 306 311 colon
+T21 Condition 1772 1777 colon
+T22 Biomarker 1820 1824 cAMP
+T23 Condition 1182 1201 normal colonocytes 
+T24 Protein 620 625 PDE10
+T25 Condition 937 950  tumor cell l
+T27 Protein 138 141 PDE
+T28 Condition 944 954 cell lines
+T29 Condition 517 536 normal colonocytes 
+T30 Level 1053 1060 lysates
+T31 Protein 1654 1657 PDE
+T32 Gene 142 151  isozymes
+T33 Organism 1315 1321  mouse
+T34 Level 546 551 human
+T35 Intervention 916 918 es
+T36 Gene 987 998 PDE10 siRNA
+T38 Protein 434 438 mRNA
+T39 Condition 475 480 tumor
+T40 Intervention 952 954 es
+T42 Condition 1225 1238  tumor cell l
+T43 Biomarker 1568 1574 NCI-60
+T44 Intervention 533 535 es
+T46 Biomarker 648 653 PQ-10
+T47 Condition 1846 1856 cell lines
+T49 Protein 251 256 PDE10
+T50 Biomarker 1120 1124 cGMP
+T51 Biomarker 39 43 cGMP
+T53 Condition 272 277 colon
+T54 Protein 1157 1160 PDE
+T55 Condition 1722 1732 cell lines
+T56 Protein 1871 1876 PDE10
+T57 Level 732 742 tumor cell
+T58 Condition 732 737 tumor
+T59 Intervention 873 875 es
+T60 Condition 469 474 colon
+T61 Condition 731 744  tumor cell l
+T62 Level 181 191 tumor cell
+T63 Biomarker 2063 2067 cGMP
+T65 Condition 2109 2119 anticancer
+T67 Intervention 1198 1200 es
+T68 Condition 1546 1556 cell lines
+T69 Condition 738 748 cell lines
+T70 Biomarker 1012 1029 cyclic nucleotide
+T71 Level 475 485 tumor cell
+T72 Condition 1772 1783 colonocytes
+T73 Condition 1893 1898 colon
+T74 Level 1042 1083 whole cell lysates from transfected cells
+T75 Intervention 2094 2096 es
+T76 Condition 2162 2174 colon cancer
+T77 Protein 1871 1874 PDE
+T78 Protein 1998 2001 PDE
+T79 Intervention 561 568 samples
+T80 Intervention 320 322 es
+T81 Intervention 1907 1909 es
+T82 Level 1956 1966 tumor cell
+T83 Condition 864 869 tumor
+T84 Condition 922 954 colonocytes and tumor cell lines
+T85 Intervention 1460 1466 colony
+T86 Condition 524 529 colon
+T87 Biomarker 1674 1678 cGMP
+T88 Condition 922 927 colon
+T89 Intervention 817 819 es
+T90 Organism 1307 1314 ApcMin+
+T92 Level 181 192 tumor cells
+T93 Level 1706 1732 HCT116 and HT29 cell lines
+T94 Intervention 702 704 es
+T95 Condition 524 535 colonocytes
+T96 Organism 574 580 ApcMin
+T97 Protein 620 623 PDE
+T98 Level 1274 1279 human
+T99 Intervention 676 678 es
+T100 Condition 922 933 colonocytes
+T101 Intervention 1952 1954 es
+T102 Level 726 731 human
+T103 Condition 1189 1200 colonocytes
+T104 Protein 1357 1360 PDE
+T105 Intervention 128 130 es
+T106 Protein 416 421 PDE10
+T107 Protein 1255 1260 PDE10
+T111 Intervention 746 748 es
+T113 Intervention 1730 1732 es
+T114 Organism 1307 1313 ApcMin
+T115 Intervention 1058 1060 es
+T116 Protein 1357 1362 PDE10
+T117 Condition 726 748 human tumor cell lines
+T118 Protein 1357 1373 PDE10 inhibitors
+T119 Condition 1189 1194 colon
+T120 Condition 272 284 colon tumors
+T121 Condition 694 704 cell lines
+T124 Intervention 1149 1151 es
+T125 Intervention 1554 1556 es
+T126 Level 475 486 tumor cells
+T127 Protein 2084 2087 PDE
+T128 Biomarker 1753 1757 cGMP
+T129 Protein 329 334 PDE10
+T131 Intervention 1526 1528 es
+T132 Biomarker 2135 2143 treament
+T133 Gene 1100 1105  PDE 
+T134 Protein 2084 2089 PDE10
+T135 Protein 1654 1659 PDE10
+T136 Organism 582 588  mouse
+T137 Condition 1956 1961 tumor
+T138 Condition 537 543 NCM460
+T139 Level 1342 1355 normal mucosa
+T140 Condition 1226 1231 tumor
+T141 Level 938 948 tumor cell
+T142 Protein 329 332 PDE
+T143 Protein 987 992 PDE10
+T144 Protein 1998 2003 PDE10
+T145 Protein 1255 1258 PDE
+T146 Protein 2068 2071 PKG
+T147 Condition 1899 1904 tumor
+T148 Gene 119 137 phosphodiesterase 
+T149 Gene 1654 1665 PDE10 siRNA
+T150 Condition 64 69 tumor
+T151 Protein 1522 1531 supressed
+T152 Condition 1406 1419 colonic tumor
+T154 Level 463 486 human colon tumor cells
+T155 Biomarker 1506 1516 Pf-2545920
+T156 Intervention 1289 1298 specimens
+T158 Biomarker 775 785 Pf-2545920
+R1 Relation Arg1:T53 Arg2:T80

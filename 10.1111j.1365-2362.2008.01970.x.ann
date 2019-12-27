@@ -1,0 +1,403 @@
+T1 Condition 716 717  
+T2 Condition 159 160  
+T3 Condition 680 681  
+T4 Condition 226 227  
+T5 Condition 308 309  
+T6 Gene 923 949 SMAD transcription factors
+T7 Condition 419 420  
+T8 Condition 729 730  
+T9 Condition 949 950  
+T10 Condition 627 628  
+T12 Biomarker 317 323 muscle
+T13 Condition 1160 1161  
+T14 Condition 1772 1773  
+T15 Condition 281 282  
+T16 Condition 1211 1212  
+T17 Condition 1775 1776  
+T18 Biomarker 804 811 myostat
+T19 Gene 1022 1028 tumour
+T20 Condition 1449 1450  
+T21 Condition 1459 1460  
+T22 Condition 178 179  
+T23 Condition 1556 1557  
+T24 Gene 751 757 tumour
+T25 Condition 706 707  
+T26 Condition 918 919  
+T27 Condition 1214 1215  
+T28 Condition 773 774  
+T29 Gene 813 827  and follistat
+T30 Protein 818 829 follistatin
+T31 Condition 181 182  
+T32 Condition 1464 1465  
+T33 Condition 992 993  
+T34 Gene 136 144 deletion
+T35 Gene 1121 1125 SMAD
+T36 Condition 346 347  
+T37 Condition 688 689  
+T38 Condition 697 698  
+T39 Condition 839 840  
+T40 Condition 381 382  
+T41 Condition 263 264  
+T42 Biomarker 1702 1711 myostatin
+T43 Condition 1077 1078  
+T44 Condition 1341 1342  
+T45 Condition 1711 1712  
+T46 Condition 375 390 cancer cachexia
+T47 Condition 894 895  
+T48 Condition 1375 1376  
+T49 Condition 214 215  
+T50 Condition 1137 1138  
+T51 Condition 1170 1171  
+T52 Condition 1729 1730  
+T53 Condition 33 34  
+T54 Condition 726 727  
+T55 Condition 1417 1418  
+T56 Gene 1185 1199  and follistat
+T57 Condition 1230 1231  
+T58 Condition 1189 1190  
+T59 Protein 628 639 follistatin
+T60 Condition 1546 1547  
+T61 Condition 118 119  
+T62 Condition 941 942  
+T63 Condition 291 292  
+T64 Biomarker 617 626 myostatin
+T65 Condition 40 41  
+T66 Condition 915 916  
+T67 Condition 1266 1267  
+T68 Condition 1146 1147  
+T69 Condition 1606 1607  
+T70 Gene 1092 1104 follistatin 
+T71 Condition 144 145  
+T72 Gene 681 706 activin receptor type IIB
+T73 Condition 1241 1242  
+T74 Condition 1613 1614  
+T75 Condition 1051 1052  
+T76 Biomarker 248 254 muscle
+T77 Condition 781 782  
+T78 Gene 1637 1649 follistatin 
+T79 Condition 661 662  
+T80 Condition 1150 1151  
+T81 Protein 1092 1103 follistatin
+T82 Condition 1474 1475  
+T83 Condition 1503 1504  
+T84 Condition 1604 1605  
+T85 Condition 1518 1519  
+T86 Condition 1743 1744  
+T87 Condition 1407 1408  
+T88 Gene 508 545 cytokine tumour necrosis factor-alpha
+T89 Condition 1307 1308  
+T90 Condition 491 492  
+T91 Condition 1741 1742  
+T92 Species 766 769 rat
+T93 Condition 439 440  
+T94 Condition 711 712  
+T95 Condition 53 54  
+T96 Condition 770 771  
+T97 Condition 1163 1164  
+T98 Condition 1619 1620  
+T99 Condition 467 468  
+T100 Condition 349 350  
+T101 Condition 1600 1601  
+T102 Condition 1125 1126  
+T104 Condition 1201 1202  
+T105 Condition 88 89  
+T106 Condition 1041 1042  
+T107 Condition 1280 1281  
+T108 Biomarker 1702 1709 myostat
+T109 Protein 1637 1648 follistatin
+T110 Condition 561 562  
+T111 Condition 1370 1371  
+T112 Condition 1719 1720  
+T113 Condition 1420 1421  
+T114 Condition 650 651  
+T115 Condition 1528 1529  
+T116 Gene 1607 1613 tumour
+T117 Level 1504 1523 tumour-bearing rats
+T118 Condition 545 546  
+T119 Condition 1701 1702  
+T120 Condition 1427 1428  
+T121 Condition 791 792  
+T122 Condition 1091 1092  
+T123 Condition 1404 1405  
+T124 Condition 1490 1491  
+T125 Condition 72 73  
+T126 Condition 1236 1237  
+T127 Condition 1436 1437  
+T128 Condition 1533 1534  
+T129 Level 1366 1370 rats
+T130 Condition 1292 1293  
+T131 Condition 185 186  
+T132 Condition 217 218  
+T133 Condition 374 375  
+T134 Condition 1300 1301  
+T135 Condition 1765 1766  
+T136 Condition 507 508  
+T137 Condition 750 751  
+T138 Condition 316 317  
+T140 Gene 517 545 tumour necrosis factor-alpha
+T141 Condition 1576 1577  
+T142 Condition 1588 1589  
+T143 Protein 599 606 Protein
+T144 Biomarker 1042 1049 myostat
+T145 Condition 813 814  
+T146 Condition 733 734  
+T147 Biomarker 471 478 myostat
+T148 Gene 833 839 tumour
+T149 Condition 549 550  
+T150 Condition 1571 1572  
+T151 Species 1366 1369 rat
+T152 Condition 1597 1598  
+T153 Condition 586 587  
+T154 Species 1519 1522 rat
+T155 Biomarker 804 813 myostatin
+T156 Condition 333 334  
+T157 Condition 702 703  
+T158 Gene 1190 1202 follistatin 
+T159 Condition 863 864  
+T160 Condition 323 324  
+T161 Condition 1726 1727  
+T162 Condition 747 748  
+T163 Condition 199 200  
+T164 Condition 1063 1064  
+T165 Biomarker 119 125 muscle
+T166 Condition 294 295  
+T167 Condition 426 427  
+T168 Condition 564 565  
+T169 Condition 247 248  
+T170 Condition 60 61  
+T171 Biomarker 1035 1041 muscle
+T173 Biomarker 471 480 myostatin
+T174 Condition 411 412  
+T175 Condition 829 830  
+T176 Condition 832 833  
+T177 Condition 152 153  
+T178 Condition 254 255  
+T179 Condition 672 673  
+T180 Condition 1651 1652  
+T181 Level 751 770 tumour-bearing rats
+T182 Condition 1262 1263  
+T183 Condition 1623 1624  
+T184 Condition 125 126  
+T185 Condition 195 196  
+T186 Condition 552 553  
+T187 Gene 1214 1229  tumour bearers
+T188 Condition 371 372  
+T189 Condition 1028 1029  
+T190 Condition 1365 1366  
+T191 Condition 1253 1254  
+T192 Condition 1567 1568  
+T193 Condition 84 85  
+T194 Species 396 399 rat
+T195 Gene 1421 1427 tumour
+T196 Biomarker 641 650 myostatin
+T197 Condition 817 818  
+T198 Condition 36 37  
+T199 Condition 131 132  
+T200 Gene 1237 1241 SMAD
+T201 Condition 135 136  
+T202 Condition 365 366  
+T203 Condition 470 471  
+T204 Condition 495 496  
+T205 Condition 1221 1222  
+T206 Condition 1329 1330  
+T207 Condition 1483 1484  
+T208 Condition 420 435 AH-130 hepatoma
+T209 Condition 450 451  
+T210 Condition 1034 1035  
+T212 Species 235 238 rat
+T213 Condition 1541 1542  
+T214 Biomarker 1042 1051 myostatin
+T215 Condition 352 353  
+T216 Biomarker 1176 1183 myostat
+T217 Condition 1116 1117  
+T218 Condition 455 456  
+T220 Condition 1500 1501  
+T221 Condition 1738 1739  
+T222 Condition 1636 1637  
+T223 Condition 639 640  
+T224 Biomarker 641 648 myostat
+T225 Condition 1021 1022  
+T226 Condition 1074 1075  
+T227 Biomarker 1547 1556 myostatin
+T228 Condition 1388 1389  
+T229 Biomarker 153 159 muscle
+T230 Condition 676 677  
+T231 Condition 1776 1791 cancer cachexia
+T232 Condition 765 766  
+T233 Condition 267 268  
+T234 Biomarker 617 624 myostat
+T235 Condition 884 885  
+T236 Condition 998 999  
+T239 Condition 1103 1104  
+T240 Protein 1190 1201 follistatin
+T241 Condition 850 851  
+T242 Condition 399 400  
+T243 Condition 613 614  
+T244 Biomarker 1484 1490 muscle
+T245 Condition 964 965  
+T247 Level 1519 1523 rats
+T248 Condition 1675 1676  
+T249 Condition 1015 1016  
+T250 Condition 1696 1697  
+T251 Gene 517 523 tumour
+T252 Condition 391 392  
+T253 Condition 99 100  
+T254 Condition 845 846  
+T255 Condition 1087 1088  
+T256 Gene 1421 1449 tumour necrosis factor-alpha
+T257 Gene 818 830 follistatin 
+T259 Condition 1655 1656  
+T260 Condition 275 276  
+T261 Condition 503 504  
+T262 Condition 1356 1357  
+T263 Biomarker 1176 1185 myostatin
+T264 Condition 241 242  
+T265 Gene 628 640 follistatin 
+T266 Condition 436 437  
+T267 Condition 1120 1121  
+T268 Gene 1204 1212 creased 
+T269 Condition 480 481  
+T270 Condition 890 891  
+T271 Gene 923 927 SMAD
+T272 Gene 1301 1329 tumour necrosis factor-alpha
+T273 Condition 803 804  
+T274 Condition 1167 1168  
+T275 Condition 1316 1317  
+T276 Condition 1175 1176  
+T277 Condition 285 286  
+T278 Condition 953 954  
+T279 Condition 1688 1689  
+T280 Biomarker 1547 1554 myostat
+T281 Condition 1058 1059  
+T282 Condition 1344 1345  
+T283 Condition 1753 1754  
+T284 Gene 1301 1307 tumour
+T285 Condition 395 396  
+T286 Condition 616 617  
+T287 Condition 171 172  
+T288 Condition 532 533  
+T289 Condition 569 570  
+T290 Condition 860 861  
+T291 Condition 927 928  
+T292 Condition 590 591  
+T293 Condition 922 923  
+T294 Gene 1572 1576 SMAD
+T295 Condition 109 110  
+T296 Biomarker 1035 1051 muscle myostatin
+T297 Condition 1782 1783  
+T298 Condition 407 408  
+T299 Condition 1019 1020  
+T300 Condition 906 907  
+T301 Condition 967 968  
+T302 Condition 1524 1525  
+T303 Condition 516 517  
+T304 Condition 1277 1278  
+T305 Condition 523 524  
+T306 Condition 336 337  
+R1 Relation Arg1:T31 Arg2:T4
+R2 Relation Arg1:T4 Arg2:T41
+R3 Relation Arg1:T131 Arg2:T4
+R4 Relation Arg1:T163 Arg2:T4
+R5 Relation Arg1:T4 Arg2:T169
+R6 Relation Arg1:T185 Arg2:T4
+R7 Relation Arg1:T4 Arg2:T212
+R8 Relation Arg1:T4 Arg2:T233
+R9 Relation Arg1:T4 Arg2:T264
+R10 Relation Arg1:T4 Arg2:T277
+R11 Relation Arg1:T287 Arg2:T4
+R12 Relation Arg1:T31 Arg2:T41
+R13 Relation Arg1:T31 Arg2:T49
+R14 Relation Arg1:T31 Arg2:T63
+R15 Relation Arg1:T31 Arg2:T131
+R16 Relation Arg1:T31 Arg2:T132
+R17 Relation Arg1:T31 Arg2:T163
+R18 Relation Arg1:T31 Arg2:T166
+R19 Relation Arg1:T31 Arg2:T169
+R20 Relation Arg1:T31 Arg2:T178
+R21 Relation Arg1:T31 Arg2:T185
+R22 Relation Arg1:T31 Arg2:T212
+R23 Relation Arg1:T31 Arg2:T233
+R24 Relation Arg1:T31 Arg2:T264
+R25 Relation Arg1:T31 Arg2:T277
+R26 Relation Arg1:T287 Arg2:T31
+R27 Relation Arg1:T49 Arg2:T41
+R28 Relation Arg1:T41 Arg2:T63
+R29 Relation Arg1:T131 Arg2:T41
+R30 Relation Arg1:T163 Arg2:T41
+R31 Relation Arg1:T41 Arg2:T166
+R32 Relation Arg1:T169 Arg2:T41
+R33 Relation Arg1:T178 Arg2:T41
+R34 Relation Arg1:T185 Arg2:T41
+R35 Relation Arg1:T212 Arg2:T41
+R36 Relation Arg1:T264 Arg2:T41
+R37 Relation Arg1:T41 Arg2:T277
+R38 Relation Arg1:T131 Arg2:T49
+R39 Relation Arg1:T163 Arg2:T49
+R40 Relation Arg1:T131 Arg2:T63
+R41 Relation Arg1:T163 Arg2:T63
+R42 Relation Arg1:T63 Arg2:T166
+R43 Relation Arg1:T169 Arg2:T63
+R44 Relation Arg1:T178 Arg2:T63
+R45 Relation Arg1:T185 Arg2:T63
+R46 Relation Arg1:T212 Arg2:T63
+R47 Relation Arg1:T233 Arg2:T63
+R48 Relation Arg1:T264 Arg2:T63
+R49 Relation Arg1:T277 Arg2:T63
+R50 Relation Arg1:T287 Arg2:T63
+R51 Relation Arg1:T131 Arg2:T132
+R52 Relation Arg1:T131 Arg2:T163
+R53 Relation Arg1:T131 Arg2:T166
+R54 Relation Arg1:T131 Arg2:T169
+R55 Relation Arg1:T131 Arg2:T178
+R56 Relation Arg1:T131 Arg2:T185
+R57 Relation Arg1:T131 Arg2:T212
+R58 Relation Arg1:T131 Arg2:T233
+R59 Relation Arg1:T131 Arg2:T264
+R60 Relation Arg1:T131 Arg2:T277
+R61 Relation Arg1:T287 Arg2:T131
+R62 Relation Arg1:T163 Arg2:T132
+R63 Relation Arg1:T132 Arg2:T178
+R64 Relation Arg1:T185 Arg2:T132
+R65 Relation Arg1:T287 Arg2:T132
+R66 Relation Arg1:T163 Arg2:T166
+R67 Relation Arg1:T163 Arg2:T169
+R68 Relation Arg1:T163 Arg2:T178
+R69 Relation Arg1:T163 Arg2:T185
+R70 Relation Arg1:T163 Arg2:T212
+R71 Relation Arg1:T163 Arg2:T233
+R72 Relation Arg1:T163 Arg2:T264
+R73 Relation Arg1:T163 Arg2:T277
+R74 Relation Arg1:T287 Arg2:T163
+R75 Relation Arg1:T169 Arg2:T166
+R76 Relation Arg1:T178 Arg2:T166
+R77 Relation Arg1:T185 Arg2:T166
+R78 Relation Arg1:T212 Arg2:T166
+R79 Relation Arg1:T233 Arg2:T166
+R80 Relation Arg1:T264 Arg2:T166
+R81 Relation Arg1:T277 Arg2:T166
+R82 Relation Arg1:T169 Arg2:T178
+R83 Relation Arg1:T185 Arg2:T169
+R84 Relation Arg1:T169 Arg2:T212
+R85 Relation Arg1:T169 Arg2:T233
+R86 Relation Arg1:T169 Arg2:T264
+R87 Relation Arg1:T169 Arg2:T277
+R88 Relation Arg1:T287 Arg2:T169
+R89 Relation Arg1:T185 Arg2:T178
+R90 Relation Arg1:T212 Arg2:T178
+R91 Relation Arg1:T178 Arg2:T233
+R92 Relation Arg1:T264 Arg2:T178
+R93 Relation Arg1:T178 Arg2:T277
+R94 Relation Arg1:T287 Arg2:T178
+R95 Relation Arg1:T185 Arg2:T212
+R96 Relation Arg1:T185 Arg2:T233
+R97 Relation Arg1:T185 Arg2:T264
+R98 Relation Arg1:T185 Arg2:T277
+R99 Relation Arg1:T287 Arg2:T185
+R100 Relation Arg1:T212 Arg2:T233
+R101 Relation Arg1:T212 Arg2:T264
+R102 Relation Arg1:T212 Arg2:T277
+R103 Relation Arg1:T287 Arg2:T212
+R104 Relation Arg1:T264 Arg2:T233
+R105 Relation Arg1:T233 Arg2:T277
+R106 Relation Arg1:T264 Arg2:T277
+R107 Relation Arg1:T287 Arg2:T264

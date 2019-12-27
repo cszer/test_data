@@ -1,0 +1,73 @@
+T1 Protein 173 177 TNBC
+T2 Level 1111 1121  LM2 cells
+T5 Protein 972 974 LU
+T6 Protein 780 782 LU
+T7 Level 1338 1342 cell
+T8 Level 1408 1412 cell
+T10 Condition 106 112 cancer
+T11 Protein 584 586 LU
+T12 Protein 1604 1606 LU
+T13 Biomarker 890 900 MDA-MB-435
+T15 Level 1386 1397 MDA-MB-231 
+T16 Biomarker 1017 1027 MDA-MB-435
+T17 Cancer cells 366 372  TNBC 
+T18 Level 1094 1105 MDA-MB-231 
+T19 Condition 690 696 cancer
+T20 Cancer cells 39 69 triple-negative breast cancer 
+T21 Organism 1833 1838 women
+T22 Condition 62 68 cancer
+T23 Protein 1844 1848 TNBC
+T24 Level 1116 1120 cell
+T25 Level 884 916 human MDA-MB-435 and MDA-MB-231 
+T26 Level 1255 1265  LM2 cells
+T27 Gene 148 163 secondary sites
+T28 Level 985 989 cell
+T29 Level 451 455 cell
+T30 Level 75 118  occur following metastasis of cancer cells
+T31 Gene 1468 1473  VEGF
+T32 Condition 12 18 cancer
+T33 Condition 138 144 tumors
+T34 Protein 1522 1530 antibody
+T35 Gene 1651 1656  VEGF
+T36 Gene 1183 1218 vascular endothelial growth factor 
+T37 Intervention 5 11 breast
+T38 Biomarker 574 582 Luteolin
+T39 Protein 1070 1072 LU
+T40 Level 1032 1043 MDA-MB-231 
+T41 Level 113 117 cell
+T42 Protein 1448 1456 antibody
+T43 Protein 1763 1765 LU
+T44 Protein 1156 1158 LU
+T45 Level 932 936 cell
+T46 Level 1720 1724 cell
+T47 Protein 70 74 TNBC
+T48 Protein 367 371 TNBC
+T49 Organism 356 361 Women
+T50 Protein 856 858 LU
+T51 Gene 624 638 plant compound
+T52 Gene 1514 1518 VEGF
+T53 Level 922 937  LM2 TNBC cells
+T54 Level 1238 1249 MDA-MB-231 
+T55 Species 832 837 mouse
+T56 Gene 1219 1223 VEGF
+T57 Protein 173 178 TNBCs
+T59 Protein 927 931 TNBC
+T60 Level 1403 1413  LM2 cells
+T61 Protein 1672 1684 KDR-mediated
+T62 Protein 812 816 TNBC
+T63 Level 1054 1058 cell
+T64 Intervention 391 409 metastatic lesions
+T65 Intervention 945 950 lungs
+T66 Cancer cells 926 932  TNBC 
+T67 Level 1260 1264 cell
+T68 Level 427 456 drug-resistant residual cells
+T69 Intervention 55 61 breast
+T70 Level 1049 1059  LM2 cells
+R1 Relation Arg1:T22 Arg2:T1
+R2 Relation Arg1:T41 Arg2:T1
+R3 Relation Arg1:T22 Arg2:T10
+R4 Relation Arg1:T47 Arg2:T10
+R5 Relation Arg1:T22 Arg2:T41
+R6 Relation Arg1:T22 Arg2:T47
+R7 Relation Arg1:T47 Arg2:T41
+R8 Relation Arg1:T47 Arg2:T57

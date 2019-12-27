@@ -1,0 +1,61 @@
+T1 Protein 446 453 protein
+T2 Protein 289 307 CYP27A1 transcript
+T3 Condition 108 123 prostate cancer
+T4 Condition 836 851 prostate cancer
+T5 Gene 576 580 gene
+T6 Condition 102 124 human prostate cancers
+T7 Condition 706 721 prostate cancer
+T9 Gene 63 65 es
+T10 Gene 249 251 es
+T11 Gene 817 819 es
+T12 Protein 482 489 CYP27A1
+T13 Protein 1127 1134 CYP27A1
+T14 Condition 835 858  prostate cancer cell l
+T15 Condition 236 256 cellular cholesterol
+T16 Condition 409 424 prostate cancer
+T17 Condition 804 833 cellular cholesterol content 
+T18 Gene 169 174 genes
+T19 Level 560 565 cells
+T20 Gene 206 212 enzyme
+T21 Gene 733 755 27-hydroxycholesterol 
+T22 Gene 191 193 es
+T23 Gene 1020 1022 es
+T25 Gene 1195 1200 genes
+T26 Level 722 727 cells
+T27 Level 1082 1096 prostate cells
+T29 Protein 974 981 protein
+T30 Gene 172 174 es
+T31 Condition 634 650 tumor xenografts
+T32 Gene 860 862 es
+T33 Protein 1029 1036 CYP27A1
+T34 Condition 1174 1189 prostate cancer
+T35 Protein 895 938 sterol regulatory-element binding protein 2
+T36 Gene 657 659 es
+T38 Gene 1064 1066 es
+T39 Gene 169 173 gene
+T40 Protein 289 296 CYP27A1
+T41 Protein 929 936 protein
+T42 Protein 398 405 CYP27A1
+T44 Gene 60 64 gene
+T45 Gene 1135 1144 27HC axis
+T46 Gene 550 552 es
+T47 Gene 747 749 es
+T48 Gene 76 78 es
+T49 Gene 995 997 es
+T50 Gene 958 990 low-density lipoprotein receptor
+T51 Condition 377 382 tumor
+T52 Protein 538 545 CYP27A1
+T53 Condition 1051 1071 cellular cholesterol
+T54 Gene 1195 1199 gene
+T55 Protein 194 201 CYP27A1
+T56 Protein 787 794 CYP27A1
+T57 Gene 1154 1156 es
+T58 Gene 60 65 genes
+T59 Condition 634 639 tumor
+T60 Intervention 503 509 tissue
+R1 Relation Arg1:T9 Arg2:T44
+R2 Relation Arg1:T9 Arg2:T48
+R3 Relation Arg1:T9 Arg2:T58
+R4 Relation Arg1:T44 Arg2:T48
+R5 Relation Arg1:T44 Arg2:T58
+R6 Relation Arg1:T58 Arg2:T48

@@ -1,0 +1,41 @@
+T1 Species 177 182 mouse
+T2 Biomarker 291 296  HCCs
+T3 Protein 430 435 c-Fos
+T4 Condition 1239 1251 liver cancer
+T5 Biomarker 972 980 sulindac
+T6 Biomarker 841 866 oxysterols and bile acids
+T7 Level 1103 1123 human HCC cell lines
+T8 Protein 236 241 c-Fos
+T9 Biomarker 515 525 hepatocyte
+T10 Protein 899 904 c-Fos
+T13 Biomarker 292 296 HCCs
+T14 Biomarker 371 381 hepatocyte
+T15 Biomarker 1006 1012 statin
+T16 Protein 613 616 DNA
+T17 Disease 96 108 inflammation
+T19 Gene 768 772 LXRα
+T20 Biomarker 204 214 hepatocyte
+T21 Intervention 358 381 premalignant hepatocyte
+T22 Disease 1190 1202 inflammation
+T23 Protein 321 326 c-Fos
+T24 Biomarker 410 428 DEN-carcinogenesis
+T26 Biomarker 204 232 hepatocyte-specific deletion
+T27 Protein 1055 1060 c-FOS
+T28 Biomarker 259 278 diethylnitrosamine 
+T29 Biomarker 421 425 gene
+T30 Gene 751 772 nuclear receptor LXRα
+T31 Gene 144 169 AP-1 transcription factor
+T32 Protein 704 709 c-Fos
+T33 Disease 462 470 necrotic
+T34 Gene 1069 1073 LXRα
+T35 CL 477 488 immune cell
+T36 Level 430 453 c-Fos–expressing livers
+T37 Biomarker 638 642 gene
+T38 Biomarker 33 37 HCCs
+R1 Relation Arg1:T2 Arg2:T3
+R2 Relation Arg1:T8 Arg2:T2
+R3 Relation Arg1:T2 Arg2:T23
+R4 Relation Arg1:T13 Arg2:T3
+R5 Relation Arg1:T8 Arg2:T13
+R6 Relation Arg1:T8 Arg2:T23
+R7 Relation Arg1:T13 Arg2:T23

@@ -1,0 +1,31 @@
+T1 Biomarker 272 289 polyethyleneimine
+T2 Level 455 461 T-cell
+T3 Protein 750 756 B16F10
+T5 Protein 577 580 PEI
+T6 Protein 760 764 CT26
+T7 Biomarker 312 327 silica microrod
+T8 Protein 573 576 MSR
+T9 Condition 849 855 tumour
+T10 CL 425 439 dendritic cell
+T11 Gene 165 172 peptide
+T12 Condition 1083 1089 cancer
+T13 Protein 782 785 MSR
+T15 Condition 939 945 tumour
+T16 Protein 786 789 PEI
+T17 Protein 489 492 MSR
+T18 Protein 970 973 MSR
+T19 Condition 650 662 TC-1 tumours
+T20 Protein 329 332 MSR
+T21 Gene 31 38 peptide
+T22 Species 679 683 mice
+T24 Gene 601 608 peptide
+T25 Protein 381 384 MSR
+T26 Protein 291 294 PEI
+T27 Gene 782 789 MSR–PEI
+T28 Protein 974 977 PEI
+T29 Gene 381 388 MSR–PEI
+T30 Biomarker 883 893 anti-CTLA4
+T31 Gene 598 608 E7 peptide
+T32 Intervention 821 836 lung metastases
+T34 Condition 58 64 cancer
+R1 Relation Arg1:T20 Arg2:T25

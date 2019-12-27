@@ -1,0 +1,23 @@
+T1 Biomarker 262 284 pyrimidine nucleotides
+T2 Biomarker 737 747 pyrimidine
+T3 Protein 615 618 DNA
+T4 Level 205 215 TNBC cells
+T5 Condition 204 209  TNBC
+T6 Biomarker 262 283 pyrimidine nucleotide
+T7 Biomarker 457 467 pyrimidine
+T8 Biomarker 262 272 pyrimidine
+T9 Biomarker 661 672 doxorubicin
+T10 Condition 1017 1022  TNBC
+T11 Level 555 565 TNBC cells
+T12 Biomarker 677 688 leflunomide
+T13 Condition 788 793  TNBC
+T14 Biomarker 360 370 pyrimidine
+T15 Biomarker 828 838 pyrimidine
+T16 Biomarker 523 533 pyrimidine
+T18 Condition 554 559  TNBC
+T20 Biomarker 360 381 pyrimidine nucleotide
+T21 Level 94 98 TNBC
+T22 Biomarker 360 382 pyrimidine nucleotides
+T25 Condition 63 93 triple-negative breast cancer 
+T26 Biomarker 828 849 pyrimidine nucleotide
+T27 Condition 789 804 TNBC xenografts

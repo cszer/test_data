@@ -1,0 +1,356 @@
+T1 Gene 846 868 adenosine triphosphate
+T2 Protein 133 134  
+T3 Protein 263 264  
+T5 Protein 1318 1319  
+T6 Protein 1154 1155  
+T7 Protein 1418 1419  
+T8 Biomarker 571 581 FA-M-β-CyD
+T9 Protein 190 191  
+T10 Protein 1171 1172  
+T11 Protein 147 148  
+T12 Protein 1400 1401  
+T13 Protein 589 590  
+T14 Protein 1269 1270  
+T15 Protein 1045 1046  
+T16 Protein 1472 1473  
+T17 Protein 1449 1450  
+T18 Protein 339 340  
+T19 Protein 1475 1476  
+T20 Condition 636 654 cervical carcinoma
+T21 Protein 1105 1106  
+T23 Protein 1182 1183  
+T24 Protein 266 267  
+T25 Protein 416 417  
+T26 Protein 1057 1058  
+T27 Protein 1062 1063  
+T28 Protein 444 445  
+T29 Protein 78 79  
+T30 Protein 1227 1228  
+T31 Protein 1103 1104  
+T32 Intervention 1488 1500 mitochondria
+T33 Protein 1385 1395 autophagic
+T34 Protein 535 536  
+T35 Protein 325 326  
+T36 Protein 1195 1196  
+T37 Level 656 661 FR-α 
+T38 Protein 1142 1143  
+T39 Level 1218 1227 antitumor
+T40 Protein 357 358  
+T41 Protein 813 814  
+T42 Protein 16 17  
+T43 Protein 55 56  
+T44 Level 488 515 FR-α-expressing tumor cells
+T45 Protein 718 719  
+T46 Biomarker 775 785 FA-M-β-CyD
+T47 Protein 981 982  
+T48 Protein 273 274  
+T49 Protein 1252 1253  
+T50 Protein 440 441  
+T51 Protein 379 380  
+T52 Protein 174 175  
+T53 Protein 570 571  
+T54 Level 303 307 cell
+T55 Protein 454 455  
+T56 Protein 474 475  
+T57 Protein 544 545  
+T59 Protein 1236 1237  
+T60 Protein 1042 1043  
+T61 Protein 769 770  
+T62 Protein 660 661  
+T63 Protein 581 582  
+T64 Protein 704 705  
+T65 Protein 532 533  
+T66 Level 1396 1400 cell
+T67 Protein 1210 1211  
+T68 Protein 370 371  
+T70 Protein 1021 1022  
+T71 Protein 1010 1011  
+T72 Protein 740 741  
+T73 Protein 1087 1088  
+T74 Protein 503 504  
+T75 Protein 1384 1385  
+T76 Protein 1277 1278  
+T77 Protein 362 363  
+T78 Biomarker 971 981 FA-M-β-CyD
+T79 Protein 1323 1324  
+T80 Protein 1151 1152  
+T81 Protein 605 606  
+T82 Biomarker 214 224 FA-M-β-CyD
+T83 Protein 520 521  
+T84 Protein 467 468  
+T85 Protein 933 934  
+T86 Protein 1395 1396  
+T87 Protein 547 548  
+T88 Protein 700 701  
+T89 Protein 1348 1349  
+T90 Protein 599 600  
+T91 Protein 125 126  
+T92 Protein 1257 1258  
+T93 Protein 1363 1364  
+T94 Protein 484 485  
+T95 Level 590 598 KB cells
+T96 Biomarker 521 531 FA-M-β-CyD
+T97 Level 89 97 cellular
+T98 Protein 1274 1275  
+T99 Level 940 944 cell
+T100 Protein 1002 1003  
+T101 Protein 1051 1052  
+T102 Protein 1438 1439  
+T103 Protein 48 49  
+T104 Protein 654 655  
+T105 Protein 592 593  
+T106 Protein 845 846  
+T107 Biomarker 1196 1206 FA-M-β-CyD
+T108 Protein 898 899  
+T109 Protein 1306 1307  
+T110 Protein 1294 1295  
+T111 Protein 375 376  
+T112 Level 937 945 KB cells
+T113 Protein 789 790  
+T114 Protein 874 875  
+T115 Protein 1031 1032  
+T116 Protein 1246 1247  
+T117 Protein 731 732  
+T118 Protein 889 890  
+T119 Protein 1113 1114  
+T120 Protein 342 343  
+T121 Protein 803 804  
+T122 Protein 1302 1303  
+T123 Protein 1354 1355  
+T124 Protein 308 309  
+T125 Level 1275 1283 KB cells
+T126 Protein 970 971  
+T127 Protein 1380 1381  
+T128 Protein 855 856  
+T129 Protein 996 997  
+T130 Protein 97 98  
+T131 Protein 990 991  
+T132 Protein 157 158  
+T133 Level 89 93 cell
+T134 Protein 36 37  
+T135 Protein 487 488  
+T136 Protein 406 407  
+T138 Organism 1245 1249 c nu
+T139 Protein 951 952  
+T140 Protein 1158 1159  
+T141 Level 245 254 antitumor
+T142 Protein 234 235  
+T143 Biomarker 1419 1429 FA-M-β-CyD
+T144 Protein 1283 1284  
+T145 Biomarker 908 914 oxygen
+T146 Protein 1454 1455  
+T147 Protein 122 123  
+T148 Protein 1338 1339  
+T149 Intervention 741 753 mitochondria
+T150 Protein 426 427  
+T151 Protein 774 775  
+T152 Protein 622 623  
+T153 Level 593 597 cell
+T154 Protein 429 430  
+T155 Protein 457 458  
+T156 Protein 939 940  
+T157 Intervention 705 718 transmembrane
+T158 Intervention 134 146 mitochondria
+T159 Protein 175 212 folate-appended methyl-β-cyclodextrin
+T160 Protein 1121 1122  
+T161 Protein 907 908  
+T162 Protein 110 111  
+T163 Protein 212 213  
+T164 Protein 837 838  
+T165 Protein 58 59  
+T166 Protein 1239 1240  
+T167 Protein 254 255  
+T168 Protein 114 115  
+T170 Protein 1289 1290  
+T171 Intervention 1488 1501 mitochondrial
+T172 Protein 347 348  
+T173 Protein 12 13  
+T174 Protein 1464 1465  
+T175 Protein 1332 1333  
+T176 Protein 515 516  
+T177 Protein 9 10  
+T178 Level 267 285 folate receptor-α 
+T179 Protein 870 873 ATP
+T180 Protein 26 36 autophagic
+T181 Protein 106 107  
+T182 Protein 957 958  
+T183 Protein 936 937  
+T184 Protein 470 471  
+T185 Protein 1240 1244 BALB
+T186 Protein 302 303  
+T187 Protein 673 674  
+T188 Level 1043 1051 KB cells
+T189 Protein 644 645  
+T190 Protein 687 688  
+T191 Protein 868 869  
+T192 Protein 88 89  
+T193 Protein 160 161  
+T194 Level 1285 1290 FR-α 
+T195 Protein 1217 1218  
+T196 Protein 1114 1121 protein
+T197 Intervention 59 71 mitochondria
+T198 Protein 629 630  
+T199 Protein 945 946  
+T200 Protein 1028 1029  
+T201 Protein 311 312  
+T202 Protein 354 355  
+T203 Protein 1133 1134  
+T204 Protein 1375 1376  
+T205 Protein 401 402  
+T206 Protein 1039 1040  
+T207 Level 1278 1282 cell
+T208 Level 600 622 human epithelial cells
+T209 Level 1053 1058 FR-α 
+T210 Protein 437 438  
+T211 Level 617 621 cell
+T212 Protein 728 729  
+T213 Gene 971 1005 FA-M-β-CyD enhanced light chain 3 
+T214 Protein 914 915  
+T215 Protein 759 760  
+T216 Protein 885 886  
+T217 Protein 509 510  
+T218 Protein 1107 1112 PINK1
+T219 Protein 25 26  
+T220 Protein 1406 1407  
+T221 Organism 1250 1257 nu mice
+T222 Protein 753 754  
+T223 Protein 1139 1140  
+T224 Protein 398 399  
+T225 Protein 1478 1479  
+T226 Protein 315 316  
+T227 Protein 627 628  
+T229 Protein 1415 1416  
+T230 Protein 244 245  
+T231 Protein 665 666  
+T232 Protein 635 636  
+T233 Level 510 514 cell
+T234 Protein 72 73  
+T235 Protein 388 389  
+T236 Protein 816 817  
+T237 Protein 1096 1097  
+T238 Protein 1487 1488  
+T239 Protein 1501 1502  
+T240 Biomarker 674 687 FR-α-mediated
+T241 Protein 1168 1169  
+T242 Protein 616 617  
+T243 Level 1046 1050 cell
+T244 Protein 328 329  
+T245 Protein 1206 1207  
+T246 Protein 1066 1067  
+T247 Gene 1075 1105 PTEN-induced putative kinase 1
+T248 Protein 1435 1436  
+T249 Protein 1429 1430  
+T250 Protein 1074 1075  
+T251 Gene 1010 1022  conversion 
+T252 Biomarker 827 837 FA-M-β-CyD
+T253 Protein 225 226  
+T254 Protein 922 923  
+R1 Relation Arg1:T2 Arg2:T11
+R2 Relation Arg1:T43 Arg2:T2
+R3 Relation Arg1:T103 Arg2:T2
+R4 Relation Arg1:T162 Arg2:T2
+R5 Relation Arg1:T165 Arg2:T2
+R6 Relation Arg1:T168 Arg2:T2
+R7 Relation Arg1:T181 Arg2:T2
+R8 Relation Arg1:T192 Arg2:T2
+R9 Relation Arg1:T2 Arg2:T193
+R10 Relation Arg1:T43 Arg2:T11
+R11 Relation Arg1:T91 Arg2:T11
+R12 Relation Arg1:T103 Arg2:T11
+R13 Relation Arg1:T130 Arg2:T11
+R14 Relation Arg1:T147 Arg2:T11
+R15 Relation Arg1:T162 Arg2:T11
+R16 Relation Arg1:T168 Arg2:T11
+R17 Relation Arg1:T181 Arg2:T11
+R18 Relation Arg1:T192 Arg2:T11
+R19 Relation Arg1:T11 Arg2:T193
+R20 Relation Arg1:T234 Arg2:T11
+R21 Relation Arg1:T42 Arg2:T43
+R22 Relation Arg1:T42 Arg2:T91
+R23 Relation Arg1:T42 Arg2:T103
+R24 Relation Arg1:T42 Arg2:T130
+R25 Relation Arg1:T42 Arg2:T147
+R26 Relation Arg1:T42 Arg2:T165
+R27 Relation Arg1:T42 Arg2:T181
+R28 Relation Arg1:T42 Arg2:T192
+R29 Relation Arg1:T42 Arg2:T193
+R30 Relation Arg1:T42 Arg2:T219
+R31 Relation Arg1:T42 Arg2:T234
+R32 Relation Arg1:T43 Arg2:T91
+R33 Relation Arg1:T43 Arg2:T103
+R34 Relation Arg1:T43 Arg2:T130
+R35 Relation Arg1:T43 Arg2:T162
+R36 Relation Arg1:T43 Arg2:T165
+R37 Relation Arg1:T43 Arg2:T168
+R38 Relation Arg1:T173 Arg2:T43
+R39 Relation Arg1:T43 Arg2:T181
+R40 Relation Arg1:T43 Arg2:T192
+R41 Relation Arg1:T43 Arg2:T234
+R42 Relation Arg1:T103 Arg2:T91
+R43 Relation Arg1:T130 Arg2:T91
+R44 Relation Arg1:T91 Arg2:T132
+R45 Relation Arg1:T162 Arg2:T91
+R46 Relation Arg1:T168 Arg2:T91
+R47 Relation Arg1:T173 Arg2:T91
+R48 Relation Arg1:T181 Arg2:T91
+R49 Relation Arg1:T192 Arg2:T91
+R50 Relation Arg1:T91 Arg2:T193
+R51 Relation Arg1:T219 Arg2:T91
+R52 Relation Arg1:T103 Arg2:T130
+R53 Relation Arg1:T103 Arg2:T147
+R54 Relation Arg1:T103 Arg2:T162
+R55 Relation Arg1:T103 Arg2:T165
+R56 Relation Arg1:T103 Arg2:T168
+R57 Relation Arg1:T173 Arg2:T103
+R58 Relation Arg1:T103 Arg2:T181
+R59 Relation Arg1:T103 Arg2:T192
+R60 Relation Arg1:T219 Arg2:T103
+R61 Relation Arg1:T103 Arg2:T234
+R62 Relation Arg1:T130 Arg2:T147
+R63 Relation Arg1:T165 Arg2:T130
+R64 Relation Arg1:T173 Arg2:T130
+R65 Relation Arg1:T219 Arg2:T130
+R66 Relation Arg1:T234 Arg2:T130
+R67 Relation Arg1:T147 Arg2:T132
+R68 Relation Arg1:T162 Arg2:T132
+R69 Relation Arg1:T168 Arg2:T132
+R70 Relation Arg1:T181 Arg2:T132
+R71 Relation Arg1:T192 Arg2:T132
+R72 Relation Arg1:T165 Arg2:T147
+R73 Relation Arg1:T168 Arg2:T147
+R74 Relation Arg1:T173 Arg2:T147
+R75 Relation Arg1:T181 Arg2:T147
+R76 Relation Arg1:T192 Arg2:T147
+R77 Relation Arg1:T147 Arg2:T193
+R78 Relation Arg1:T165 Arg2:T162
+R79 Relation Arg1:T173 Arg2:T162
+R80 Relation Arg1:T181 Arg2:T162
+R81 Relation Arg1:T192 Arg2:T162
+R82 Relation Arg1:T162 Arg2:T193
+R83 Relation Arg1:T219 Arg2:T162
+R84 Relation Arg1:T234 Arg2:T162
+R85 Relation Arg1:T165 Arg2:T168
+R86 Relation Arg1:T173 Arg2:T165
+R87 Relation Arg1:T165 Arg2:T181
+R88 Relation Arg1:T165 Arg2:T192
+R89 Relation Arg1:T165 Arg2:T193
+R90 Relation Arg1:T219 Arg2:T165
+R91 Relation Arg1:T165 Arg2:T234
+R92 Relation Arg1:T181 Arg2:T168
+R93 Relation Arg1:T192 Arg2:T168
+R94 Relation Arg1:T168 Arg2:T193
+R95 Relation Arg1:T219 Arg2:T168
+R96 Relation Arg1:T234 Arg2:T168
+R97 Relation Arg1:T173 Arg2:T192
+R98 Relation Arg1:T173 Arg2:T193
+R99 Relation Arg1:T173 Arg2:T219
+R100 Relation Arg1:T173 Arg2:T234
+R101 Relation Arg1:T192 Arg2:T181
+R102 Relation Arg1:T181 Arg2:T193
+R103 Relation Arg1:T219 Arg2:T181
+R104 Relation Arg1:T234 Arg2:T181
+R105 Relation Arg1:T192 Arg2:T193
+R106 Relation Arg1:T219 Arg2:T192
+R107 Relation Arg1:T234 Arg2:T192
+R108 Relation Arg1:T219 Arg2:T193
+R109 Relation Arg1:T219 Arg2:T234

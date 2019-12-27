@@ -1,0 +1,50 @@
+T1 Level 1262 1282 benign Rama 37 cells
+T2 Intervention 818 830 cellular OPN
+T3 Protein 1559 1562 OPN
+T4 Level 1216 1225 malignant
+T5 Biomarker 1055 1065 MDA-MB-231
+T6 Intervention 185 194 antitumor
+T7 Intervention 51 61 neoplastic
+T8 Condition 1102 1106 cell
+T9 CL 1581 1608 OPN-mediated malignant cell
+T10 Level 987 1020 R37 OPN pBK-CMV and C9 cell lines
+T11 Protein 1167 1170 RNA
+T12 Level 1740 1753 causing cells
+T13 Protein 1203 1206 RNA
+T14 Intervention 538 542 skin
+T15 Protein 1226 1234 invasive
+T16 Protein 890 907 β-catenin protein
+T17 Condition 468 472 cell
+T18 Intervention 240 249 cisplatin
+T20 Protein 827 830 OPN
+T21 Condition 544 549 colon
+T22 Condition 339 361 human tumor cell lines
+T23 Condition 1010 1014 cell
+T24 Biomarker 842 847 Tcf-4
+T25 Condition 1277 1281 cell
+T26 Protein 10 20 inhibitors
+T27 Protein 646 649 OPN
+T28 Protein 1445 1454 β-catenin
+T29 Level 646 719 OPN-mediated malignant transformation using mammary epithelial cell lines
+T30 Condition 818 822 cell
+T31 Protein 890 899 β-catenin
+T32 Intervention 444 453 cisplatin
+T33 Condition 1748 1752 cell
+T34 Protein 1581 1584 OPN
+T35 Protein 24 35 osteopontin
+T36 Biomarker 154 170 oroidin alkaloid
+T37 Biomarker 1158 1163 Tcf-4
+T38 Level 1594 1603 malignant
+T39 Intervention 1633 1639 colony
+T40 Condition 351 355 cell
+T42 Condition 1633 1638 colon
+T43 Condition 1070 1112 MDA-MB-435s human breast cancer cell lines
+T44 Condition 1787 1791 cell
+T45 Condition 1718 1722 cell
+T46 Protein 764 767 OPN
+T47 Level 659 668 malignant
+T48 Biomarker 1501 1506 Tcf-4
+T49 Condition 709 713 cell
+T50 Protein 991 994 OPN
+T51 Protein 37 40 OPN
+T52 Condition 555 572 breast carcinomas

@@ -1,0 +1,38 @@
+T1 Protein 667 680 STAT5 nuclear
+T2 Protein 458 462 DKK2
+T3 Level 863 868 tumor
+T4 Condition 107 113 cancer
+T5 Condition 863 869 tumors
+T6 Condition 1099 1108 melanomas
+T8 Biomarker 738 751 Wnt–β-catenin
+T9 Level 546 551 tumor
+T10 Level 393 399  cells
+T11 Protein 667 672 STAT5
+T13 Level 836 842  cells
+T14 Level 343 349  cells
+T15 Level 853 859  cells
+T16 Gene 761 768 Genetic
+T17 Protein 725 729 LRP6
+T18 Level 585 590 tumor
+T19 Protein 802 806 DKK2
+T20 Level 338 343 tumor
+T21 Condition 82 88 cancer
+T22 CL 817 832 natural killer 
+T23 Protein 639 644 STAT5
+T24 Protein 698 702 LRP5
+T25 Condition 1078 1082 CRCs
+T27 Condition 96 114 Colorectal cancers
+T28 CL 605 626 cytotoxic lymphocytes
+T30 Condition 116 120 CRCs
+T31 Protein 568 572 DKK2
+T32 Protein 430 456 Dickkopf-related protein 2
+T33 Level 585 596 tumor cells
+T34 Gene 290 317 adenomatosis polyposis coli
+T35 Biomarker 926 930 PD-1
+T36 Level 385 399 melanoma cells
+T37 Level 360 365 tumor
+T38 Level 879 884 tumor
+T39 Condition 37 43 cancer
+T40 Protein 319 322 APC
+T41 Level 987 992 tumor
+T42 Protein 499 503 LRP5

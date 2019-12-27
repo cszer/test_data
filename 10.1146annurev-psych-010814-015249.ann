@@ -1,0 +1,15 @@
+T1 Gene 865 872 genetic
+T2 Protein 340 342 PA
+T3 Intervention 600 617 prefrontal cortex
+T4 Protein 73 75 PA
+T5 Intervention 98 104 neural
+T6 Gene 162 169 genetic
+T7 Disease 300 317 cognitive decline
+T8 Gene 340 352 PA-cognition
+T9 Intervention 626 637 hippocampus
+T10 Protein 236 238 PA
+T11 Protein 421 423 PA
+T12 Intervention 495 501 neural
+T13 Organism 657 665 children
+T14 Gene 880 887 genetic
+R1 Relation Arg1:T10 Arg2:T2

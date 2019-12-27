@@ -1,0 +1,40 @@
+T1 Condition 1209 1215 tumors
+T2 Biomarker 399 416 N-acetylcysteine 
+T3 Condition 455 460 tumor
+T4 Condition 1142 1147 tumor
+T5 Biomarker 579 584  NAC 
+T6 Disease 1307 1336 obstructive pulmonary disease
+T7 Condition 1209 1214 tumor
+T8 Condition 1349 1352 NAC
+T9 Condition 580 583 NAC
+T10 Protein 919 922 p53
+T11 Condition 583 597  and vitamin E
+T12 Condition 933 938 tumor
+T13 Condition 421 435  and vitamin E
+T15 Level 40 45 cells
+T16 Condition 671 676 tumor
+T17 Protein 1085 1088 p53
+T18 Gene 759 764 genes
+T19 Biomarker 78 84 oxygen
+T20 Condition 769 783  and vitamin E
+T21 Protein 851 854 p53
+T23 Condition 417 420 NAC
+T25 Condition 588 597 vitamin E
+T26 Protein 551 554 RNA
+T27 Condition 426 435 vitamin E
+T28 Condition 766 769 NAC
+T29 Biomarker 1348 1353  NAC 
+T30 Condition 890 895 tumor
+T31 Level 869 901 mouse and human lung tumor cells
+T32 Protein 835 838 DNA
+T33 Species 869 874 mouse
+T34 Condition 793 798 tumor
+T35 Condition 1219 1239 precancerous lesions
+T36 Condition 1111 1120 mutations
+T38 Organism 1285 1293 patients
+T39 Protein 1124 1127 p53
+T40 Condition 766 803 NAC and vitamin E increase tumor cell
+T43 Condition 513 549 B-RAF- and K-RAS-induced lung cancer
+T44 Biomarker 765 770  NAC 
+T45 Species 497 502 mouse
+T46 Gene 1081 1088 ROS-p53

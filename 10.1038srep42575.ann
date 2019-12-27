@@ -1,0 +1,37 @@
+T1 Gene 715 718 HGF
+T2 Gene 275 293 HGF-mediated c-Met
+T4 Condition 436 458 pancreatic cancer cell
+T5 Gene 883 887 p85α
+T6 Protein 1136 1140 PDAC
+T7 Protein 363 367 PAK4
+T8 Protein 1037 1041 PAK4
+T9 Gene_or_gene_product 143 160 threonine kinases
+T10 Gene 26 48 p21-activated kinase 4
+T11 Protein 310 314 PI3K
+T12 Protein 519 523 PAK4
+T13 Gene 275 278 HGF
+T14 Level 654 677 pancreatic cancer cells
+T15 Gene 203 210 GTPases
+T16 Condition 436 453 pancreatic cancer
+T17 Gene 980 983 HGF
+T18 Condition 654 676 pancreatic cancer cell
+T19 Level 902 922 PAK4 deficient cells
+T20 Protein 50 54 PAK4
+T21 Protein 727 762 2D and 3D physiomimetic organotypic
+T22 Protein 175 184 effectors
+T23 Protein 98 102 PAK4
+T24 Protein 1053 1057 PI3K
+T25 Condition 654 671 pancreatic cancer
+T26 Protein 902 906 PAK4
+T27 Gene 585 619 c-Met and the p85α subunit of PI3K
+T28 Gene 599 603 p85α
+T29 Gene 1087 1091 p85α
+T30 Gene 418 421 HGF
+T31 Condition 72 89 pancreatic cancer
+T32 Protein 1099 1103 PAK4
+T33 Condition 72 96 pancreatic cancer tissue
+T34 Protein 812 816 PI3K
+T35 Gene 946 949 Akt
+T36 Condition 371 388 pancreatic cancer
+T37 Protein 874 878 PAK4
+T38 Gene_or_gene_product 122 142 PAK family of serine

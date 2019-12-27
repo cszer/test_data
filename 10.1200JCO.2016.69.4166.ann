@@ -1,0 +1,27 @@
+T1 Organism 335 348 2000 and 2011
+T2 Biomarker 897 906 erlotinib
+T3 Biomarker 669 680 bevacizumab
+T5 Biomarker 911 921 pemetrexed
+T6 Biomarker 1182 1190 spending
+T7 Intervention 1396 1416 advanced-stage NSCLC
+T8 Biomarker 626 636 pemetrexed
+T9 Organism 862 870 Patients
+T10 Organism 229 237 patients
+T11 Intervention 1087 1101 antineoplastic
+T12 Biomarker 161 169 spending
+T13 Organism 1069 1077 patients
+T15 Intervention 1594 1600  NSCLC
+T16 Protein 1276 1282 37,931
+T17 Intervention 262 282 advanced-stage NSCLC
+T18 Biomarker 706 716 paclitaxel
+T19 Biomarker 1246 1254 spending
+T20 Protein 1207 1213 29,376
+T21 Biomarker 726 737 gemcitabine
+T22 Intervention 305 319 antineoplastic
+T23 Biomarker 476 484 spending
+T24 Organism 403 411 patients
+T25 Biomarker 646 655 erlotinib
+T26 Biomarker 884 895 bevacizumab
+T27 Intervention 1580 1600 advanced-stage NSCLC
+T28 Biomarker 1481 1489 spending
+T30 Condition 36 63 non–small-cell lung cancer 

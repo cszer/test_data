@@ -1,0 +1,55 @@
+T1 Gene 1510 1515  mTOR
+T3 Condition 789 795 cancer
+T5 Condition 878 884 cancer
+T6 Condition 758 764 cancer
+T7 Biomarker 945 955 quetiapine
+T8 Gene 1701 1727 MT2 melatonergic receptors
+T9 Condition 420 424 bone
+T10 Protein 188 192 ABC7
+T11 Protein 1015 1019 drug
+T12 Protein 1150 1154 drug
+T14 Gene 1029 1037 TGF-beta
+T15 Protein 1937 1941 ABC7
+T16 Protein 1431 1436 eIF4E
+T17 Condition 1903 1916 breast cancer
+T18 Condition 403 416 breast cancer
+T19 Biomarker 1294 1305 agomelatine
+T20 Protein 1415 1419 drug
+T22 Protein 1563 1568 eIF4E
+T23 Biomarker 330 355 epithelial-to-mesenchymal
+T25 Biomarker 525 541 already-marketed
+T26 Protein 1322 1336 antidepressant
+T27 Condition 1766 1772 cancer
+T28 Condition 7 13 cancer
+T29 Gene 1501 1509 TGF-beta
+T30 Condition 291 297 cancer
+T31 Protein 1001 1014 anti-fibrosis
+T32 Protein 485 489 ABC7
+T33 Biomarker 1126 1136 first-line
+T34 Condition 871 884 breast cancer
+T35 Protein 810 814 ABC7
+T36 Protein 1168 1172 AMPK
+T37 Condition 1892 1916 metastatic breast cancer
+T38 Protein 905 909 ABC7
+T40 Condition 410 416 cancer
+T41 Condition 122 126 bone
+T42 Protein 1350 1382 M1 and M2 melatonergic receptors
+T43 Protein 299 303 ABC7
+T44 Intervention 1113 1122 metformin
+T47 Condition 284 297 breast cancer
+T48 Biomarker 1052 1061 rifabutin
+T49 Condition 1619 1632 breast cancer
+T50 Condition 1759 1772 breast cancer
+T52 Condition 624 630 cancer
+T53 Protein 562 566 drug
+T54 Biomarker 1391 1400 ribavirin
+T55 Condition 1242 1254 beta-blocker
+T56 Condition 131 144 breast cancer
+T57 Protein 939 943 drug
+T58 Protein 1693 1696 MT1
+T59 Condition 28 32 bone
+T60 Condition 215 228 Breast Cancer
+T62 Condition 138 144 cancer
+T63 Condition 545 551 cancer
+T64 Biomarker 1227 1238 propranolol
+T65 Biomarker 985 996 pirfenidone

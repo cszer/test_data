@@ -1,0 +1,138 @@
+T1 Protein 1654 1660 PPP1R1
+T2 Protein 1973 1980 hypoxia
+T3 Protein 1626 1629 PP1
+T4 Protein 2510 2516 MIR34A
+T5 Condition 351 355 TP53
+T6 Level 1569 1578 CRC cells
+T7 Level 2520 2523 CRC
+T8 Level 1354 1357 CRC
+T9 Biomarker 2033 2047 5-fluorouracil
+T10 Condition 31 36 tumor
+T11 Protein 597 604 PPP1R11
+T12 Level 1569 1572 CRC
+T13 Protein 1922 1925 PP1
+T14 Level 1823 1832 CRC cells
+T15 Protein 1703 1708 STAT3
+T16 Organism 1165 1188 immune-compromised mice
+T17 Organism 1056 1060 mice
+T18 Protein 2481 2484 p53
+T19 Condition 324 335  cell lines
+T20 Level 2698 2703  CRC 
+T21 Protein 597 603 PPP1R1
+T23 Protein 1765 1768 p53
+T24 Protein 39 46 hypoxia
+T25 Level 1424 1433 CRC cells
+T26 Condition 675 694 human colon cancers
+T27 Protein 1325 1336 MIR34A gene
+T28 Protein 2293 2296 PP1
+T29 Protein 1387 1393 MIR34A
+T30 Gene_or_gene_product 2176 2182 Mir34a
+T31 Protein 2196 2202 Mir34c
+T32 Protein 872 875 p53
+T33 Level 481 486  CRC 
+T34 Organism 2143 2149 ApcMin
+T35 Gene 1112 1116 RNAs
+T36 Level 1423 1428  CRC 
+T37 Protein 1025 1031 Mir34b
+T38 Protein 1595 1598 PP1
+T39 Organism 1046 1051  ApcM
+T40 Protein 1756 1761 STAT3
+T41 Protein 221 228 hypoxia
+T42 Protein 819 826 PPP1R11
+T43 Protein 398 405 hypoxia
+T44 Level 1779 1782 CRC
+T45 Protein 1727 1733 MIR34A
+T46 Protein 1253 1260 hypoxia
+T47 Protein 2765 2772 hypoxia
+T48 Condition 20 37 colorectal tumors
+T49 Protein 2227 2234 PPP1R11
+T50 Protein 2228 2231 PP1
+T51 Protein 1812 1818 PPP1R1
+T52 Level 1409 1433 p53-proficient CRC cells
+T53 Level 482 485 CRC
+T54 Condition 716 743 human colorectal carcinomas
+T55 Protein 1409 1412 p53
+T56 Protein 2456 2461 HIF1A
+T57 Organism 2142 2147  ApcM
+T58 Level 2520 2529 CRC cells
+T59 Protein 598 601 PP1
+T60 Protein 1125 1131 PPP1R1
+T61 Protein 2560 2567 PPP1R11
+T62 Protein 457 469 microRNA-34a
+T63 Level 1932 1955 p53-deficient CRC cells
+T64 Condition 2109 2117 Adenomas
+T65 Protein 2378 2384 PPP1R1
+T66 Protein 1325 1331 MIR34A
+T67 Protein 1594 1601 PPP1R11
+T68 Protein 471 477 MIR34A
+T69 Protein 1560 1565 STAT3
+T70 Level 1822 1827  CRC 
+T71 Protein 2292 2299 PPP1R11
+T72 Cellular_component 1151 1161 tail veins
+T73 Condition 2355 2360 tumor
+T74 Protein 1295 1300 HIF1A
+T76 Condition 2130 2135 tumor
+T77 Protein 1126 1129 PP1
+T78 Condition 2402 2406 TP53
+T79 Level 2699 2702 CRC
+T80 Condition 2084 2089 tumor
+T81 Intervention 2439 2444 liver
+T82 Level 1340 1363 p53-defective CRC cells
+T83 Gene 1609 1616 product
+T84 Protein 2379 2382 PP1
+T85 Protein 130 133 p53
+T86 Level 2519 2524  CRC 
+T88 Protein 1037 1043 Mir34c
+T89 Level 1354 1363 CRC cells
+T90 Condition 146 150 TP53
+T91 Protein 1890 1895 STAT3
+T92 Protein 542 596 protein phosphatase 1 regulatory inhibitor subunit 11 
+T93 Protein 2292 2298 PPP1R1
+T94 Protein 1655 1658 PP1
+T95 Level 1765 1788 p53-deficient CRC cells
+T96 Level 1353 1358  CRC 
+T97 Protein 2378 2385 PPP1R11
+T98 Condition 2074 2090 xenograft tumors
+T99 Protein 1253 1294 hypoxia inducible factor 1 alpha subunit 
+T100 Gene_or_gene_product 1017 1023 Mir34a
+T101 Protein 2593 2598 STAT3
+T102 Condition 301 319 colorectal cancer 
+T103 Level 482 491 CRC cells
+T104 Condition 2402 2416 TP53 mutations
+T105 Organism 2103 2107 mice
+T106 Protein 935 941 MIR34A
+T107 Level 1778 1783  CRC 
+T108 Protein 819 825 PPP1R1
+T110 Level 1946 1949 CRC
+T111 Condition 753 772 Cancer Genome Atlas
+T112 Level 161 173 cancer cells
+T113 Level 1424 1427 CRC
+T114 Protein 2227 2233 PPP1R1
+T115 Condition 2247 2252 tumor
+T116 Condition 113 118 tumor
+T117 Level 1568 1573  CRC 
+T119 Organism 2152 2156 mice
+T120 Condition 2236 2253 Colorectal tumors
+T121 Level 1823 1826 CRC
+T122 Protein 1921 1928 PPP1R11
+T123 Organism 1047 1053 ApcMin
+T124 Protein 2184 2190 Mir34b
+T125 Protein 1473 1479 MIR34A
+T126 Gene 351 365 TP53 genotypes
+T127 Protein 820 823 PP1
+T128 Protein 1654 1661 PPP1R11
+T129 Protein 1497 1504 hypoxia
+T130 Protein 1812 1819 PPP1R11
+T131 Protein 1813 1816 PP1
+T132 Intervention 2094 2099 lungs
+T133 Protein 1340 1343 p53
+T134 Protein 1921 1927 PPP1R1
+T135 Protein 1932 1935 p53
+T136 Protein 1646 1652 MIR34A
+T137 Level 1945 1950  CRC 
+T138 Protein 2561 2564 PP1
+T139 Organism 2259 2267 patients
+T140 Protein 1594 1600 PPP1R1
+T141 Gene 2614 2619  EMT 
+T142 Protein 1445 1452 hypoxia
+T143 Protein 2531 2537 MIR34A

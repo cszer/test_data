@@ -1,0 +1,48 @@
+T1 Protein 483 488 IFN-γ
+T2 Level 588 592  NK 
+T3 Protein 641 645  CIS
+T4 Condition 524 530 tumors
+T5 Biomarker 666 686 tyrosine kinase JAK1
+T6 Biomarker 293 298 IL-15
+T7 Protein 251 255 Cish
+T8 Biomarker 567 575 JAK-STAT
+T9 Level 589 596 NK cell
+T10 Protein 769 773 Cish
+T12 Level 314 320  cells
+T13 Level 311 315  NK 
+T14 Gene 703 712 enzymatic
+T16 Protein 1065 1068 CIS
+T17 Organism 775 781 − mice
+T18 Condition 830 836 cancer
+T19 Level 25 31  cells
+T22 Level 591 597  cells
+T23 Biomarker 362 367 IL-15
+T24 Protein 153 162 cytokines
+T25 Level 589 597 NK cells
+T26 Intervention 744 755 proteasomal
+T27 Level 954 958  NK 
+T28 Protein 235 238 CIS
+T29 Level 54 60  cells
+T30 Biomarker 426 431 IL-15
+T31 Level 398 402  NK 
+T32 Protein 192 234 cytokine-inducible SH2-containing protein 
+T33 Protein 607 611 Cish
+T34 Level 312 320 NK cells
+T35 Protein 322 326 Cish
+T36 Intervention 927 940 intracellular
+T38 Protein 1064 1068  CIS
+T39 Level 312 319 NK cell
+T40 Gene 373 381 deletion
+T41 Gene 616 623 deleted
+T42 Biomarker 682 685 JAK
+T43 Biomarker 736 739 JAK
+T44 Level 399 406 NK cell
+T45 Condition 1021 1027 cancer
+T46 Protein 385 389 Cish
+T47 Level 17 50 aberrant cells by natural killer 
+T48 Level 883 890 NK cell
+T49 Condition 955 977 NK cell–mediated tumor
+T50 Biomarker 567 570 JAK
+T51 Level 882 886  NK 
+T52 Biomarker 171 176 IL-15
+R1 Relation Arg1:T28 Arg2:T13

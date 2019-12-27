@@ -1,0 +1,18 @@
+T1 Gene 905 914 haplotype
+T2 Biomarker 514 523 bisulfite
+T3 Gene 694 703 haplotype
+T4 Biomarker 398 405 147,888
+T5 Gene 1018 1031 cell-free DNA
+T6 Biomarker 592 601 bisulfite
+T7 Gene 90 108 methyltransferases
+T8 Organism 1038 1046 patients
+T9 Gene 22 39 mammalian genomes
+T10 Condition 959 964 tumor
+T11 Gene 332 344 human genome
+T12 Biomarker 974 990 tissue-of-origin
+T13 Condition 1052 1077 lung or colorectal cancer
+T14 Biomarker 9 18 CpG sites
+T15 Biomarker 432 441 CpG sites
+T16 Gene 462 471 haplotype
+T17 Gene 312 319 regions
+T18 Gene 112 124 demethylases

@@ -1,0 +1,9 @@
+T1 Condition 486 490 cell
+T2 Gene 79 86 genetic
+T3 Intervention 631 643 ground truth
+T4 Intervention 280 287 samples
+T5 Condition 539 543 cell
+T6 Condition 473 506 human cancer cell line MDA-MB-231
+T7 Organism 310 317 patient
+T8 Condition 180 185 tumor
+T9 Gene 64 71 genetic

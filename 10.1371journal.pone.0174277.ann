@@ -1,0 +1,23 @@
+T1 Protein 1118 1121 RCI
+T2 Organism 1816 1828 participants
+T3 Protein 1242 1245 RCI
+T4 Disease 1921 1928 hypoxia
+T5 Protein 1048 1051 EHH
+T6 Disease 86 93 hypoxia
+T7 Organism 362 374 participants
+T8 Protein 929 932 EHH
+T9 Disease 1856 1863 hypoxia
+T10 Protein 820 823 RCI
+T11 Protein 486 493 Everest
+T12 Biomarker 215 219 camp
+T13 Protein 202 209 Everest
+T14 Disease 1798 1805 hypoxia
+T15 Protein 1700 1703 EHH
+T16 Organism 1438 1444 people
+T17 Gene 777 783 repeat
+T18 Gene 452 460 3,500 m 
+T19 Intervention 1770 1775 brain
+T20 Protein 95 98 EHH
+T21 Protein 522 529 1,300 m
+T22 Protein 185 192 trekked
+T23 Biomarker 499 503 Camp

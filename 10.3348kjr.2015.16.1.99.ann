@@ -1,0 +1,11 @@
+T1 Condition 287 290 RCC
+T2 Condition 291 306  and benign SRM
+T3 Condition 142 146 SRMs
+T4 Intervention 600 612 percutaneous
+T5 Intervention 18 36 small renal masses
+T6 Condition 399 410 benign SRMs
+T7 Condition 485 495 oncocytoma
+T9 Condition 466 480 angiomyolipoma
+T10 Condition 746 750 SRMs
+T11 Condition 259 286 early renal cell carcinoma 
+T12 Condition 570 573 RCC

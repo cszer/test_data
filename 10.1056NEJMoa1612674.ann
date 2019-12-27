@@ -1,0 +1,57 @@
+T1 Organism 1531 1539 patients
+T3 Biomarker 1982 1993 Osimertinib
+T4 Biomarker 2211 2221 first-line
+T5 Biomarker 633 655 intravenous pemetrexed
+T6 Organism 314 322 patients
+T7 Biomarker 267 281 platinum-based
+T8 Biomarker 939 949 first-line
+T9 Biomarker 267 275 platinum
+T10 Protein 1016 1032 progression-free
+T11 Condition 2084 2134 T790M-positive advanced non–small-cell lung cancer
+T13 Biomarker 1954 1964 pemetrexed
+T14 Condition 167 176 mutations
+T15 Biomarker 125 133 EGFR-TKI
+T16 Biomarker 2056 2066 pemetrexed
+T18 Biomarker 1678 1689 osimertinib
+T19 Protein 1072 1088 progression-free
+T20 Biomarker 2034 2042 platinum
+T22 Organism_substance 581 597 oral osimertinib
+T24 Organism 1659 1667 patients
+T25 Biomarker 586 597 osimertinib
+T27 Biomarker 529 538  EGFR-TKI
+T28 Biomarker 519 529 first-line
+T29 Biomarker 1172 1182 pemetrexed
+T30 Biomarker 10 21 Osimertinib
+T31 Intervention 1563 1585 central nervous system
+T32 Biomarker 949 958  EGFR-TKI
+T33 Biomarker 715 726 carboplatin
+T34 Biomarker 1932 1940 platinum
+T35 Condition 194 220 non–small-cell lung cancer
+T36 Organism 2070 2078 patients
+T37 Organism 419 427 patients
+T40 Biomarker 2221 2230  EGFR-TKI
+T41 Condition 2084 2089 T790M
+T42 Biomarker 939 958 first-line EGFR-TKI
+T43 Biomarker 1344 1355 osimertinib
+T44 Biomarker 238 249 osimertinib
+T45 Biomarker 1717 1725 platinum
+T47 Biomarker 530 538 EGFR-TKI
+T48 Protein 1587 1590 CNS
+T49 Biomarker 519 538 first-line EGFR-TKI
+T50 Intervention 2157 2171 CNS metastases
+T51 Biomarker 124 133  EGFR-TKI
+T52 Biomarker 853 863 pemetrexed
+T53 Biomarker 1904 1915 osimertinib
+T54 Biomarker 1739 1749 pemetrexed
+T55 Condition 433 438 T790M
+T56 Biomarker 1150 1158 platinum
+T57 Organism 180 188 patients
+T58 Biomarker 1128 1139 osimertinib
+T59 Biomarker 2211 2230 first-line EGFR-TKI
+T60 Biomarker 295 305 pemetrexed
+T63 Condition 2108 2134 non–small-cell lung cancer
+T64 Biomarker 1390 1398 platinum
+T65 Intervention 1545 1555 metastases
+T66 Intervention 770 779 cisplatin
+T67 Biomarker 88 96 EGFR-TKI
+T69 Protein 2157 2160 CNS

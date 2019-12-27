@@ -1,0 +1,46 @@
+T1 CL 1017 1034 CXCL10 and T cell
+T2 Gene 499 505 CXCL10
+T3 Organism 1270 1285 IDH-MUT gliomas
+T4 Gene 82 89 genetic
+T5 Organism 1098 1108 mutant IDH
+T6 Condition 137 155 lower-grade glioma
+T7 Organism 1194 1203  IDH-MUT 
+T8 Organism 726 748 syngeneic mouse glioma
+T9 Condition 163 166 LGG
+T10 Condition 990 1001 tumor sites
+T11 Organism 777 787 mutant IDH
+T12 Condition 531 566  tumors compared with IDH-WT tumors
+T14 Gene 829 835 CXCL10
+T15 Organism 1396 1411 IDH-MUT gliomas
+T16 Gene 909 915 CXCL10
+T17 Gene 1017 1023 CXCL10
+T18 Organism 931 942 mutant IDH1
+T19 Protein 57 61 IDH2
+T20 Biomarker 239 254 α-ketoglutarate
+T21 Gene 262 297 oncometabolite R-2-hydroxyglutarate
+T22 Level 979 986 T cells
+T23 Gene 42 46 gene
+T24 Gene 82 86 gene
+T25 Level 698 714 human astrocytes
+T26 Gene 326 330 gene
+T27 Protein 299 302 2HG
+T28 Condition 356 375 Cancer Genome Atlas
+T31 Gene 451 455 gene
+T32 Gene 17 52 isocitrate dehydrogenase genes IDH1
+T33 Condition 670 673 LGG
+T34 Gene 729 733 gene
+T35 Organism 1182 1210 mice bearing IDH-MUT gliomas
+T36 Organism 1395 1404  IDH-MUT 
+T37 Organism 777 788 mutant IDH1
+T38 Protein 807 810 2HG
+T39 Condition 163 191 LGG-associated IDH mutations
+T40 Organism 1326 1336 mutant IDH
+T41 Protein 1312 1322 inhibitors
+T42 Level 716 720 NHAs
+T43 Condition 157 160 LGG
+T44 Condition 625 638 IDH mutations
+T45 Organism 1269 1278  IDH-MUT 
+T46 Organism 931 941 mutant IDH
+T47 Organism 1098 1109 mutant IDH1
+T48 Protein 887 892 STAT1
+T49 Organism 1382 1411 patients with IDH-MUT gliomas

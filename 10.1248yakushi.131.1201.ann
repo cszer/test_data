@@ -1,0 +1,51 @@
+T1 CL 1165 1188 retinal vascular plexus
+T2 Species 1268 1272 mice
+T6 Condition 1649 1656 retinal
+T8 Protein 673 679 vessel
+T9 Protein 794 800 vessel
+T10 Intervention 903 914 age-matched
+T11 Condition 50 70 diabetic retinopathy
+T13 Protein 703 706 OIR
+T14 Gene 1342 1355 wild-type OIR
+T15 Disease 1747 1767 ischemic retinopathy
+T16 Protein 1313 1318  VEGF
+T17 Gene 1043 1046 APJ
+T18 Gene 1105 1108 APJ
+T19 Protein 658 679 Oxygen-induced vessel
+T21 Gene 1351 1355  OIR
+T22 Level 1126 1157 proliferating endothelial cells
+T23 Gene 1217 1221  OIR
+T24 Intervention 752 761 capillary
+T25 Gene 224 244 anti-VEGF antibodies
+T27 Protein 1352 1355 OIR
+T28 Protein 652 655 OIR
+T29 Intervention 1403 1411 vitreous
+T30 Gene 1251 1257 apelin
+T31 Gene 937 943 apelin
+T32 Protein 151 186 vascular endothelial growth factor 
+T33 Gene 624 651 oxygen-induced retinopathy 
+T34 Condition 112 119 retinal
+T35 Condition 15 40 ischemic retinal diseases
+T36 Intervention 1190 1197 Retinal
+T37 Species 883 887 mice
+T38 Gene 187 191 VEGF
+T40 Condition 820 829 aneurysms
+T41 Species 609 614 mouse
+T42 Protein 435 444 molecules
+T43 Condition 1068 1075 retinal
+T44 Condition 580 587 retinal
+T45 Condition 989 996 retinal
+T46 Protein 194 209 Anti-angiogenic
+T47 Gene 702 706  OIR
+T48 Gene 1080 1084  OIR
+T49 Gene 1048 1054 apelin
+T50 Condition 1484 1504 diabetic retinopathy
+T51 Gene 229 233 VEGF
+T52 Gene 502 508 apelin
+T53 Condition 24 31 retinal
+T54 Condition 1165 1172 retinal
+T55 Gene 1597 1600 APJ
+T56 Condition 270 290 diabetic retinopathy
+T57 Gene 1012 1016  OIR
+T58 Gene 1590 1596 apelin
+T59 Gene 509 512 APJ

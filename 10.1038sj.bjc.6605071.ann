@@ -1,0 +1,31 @@
+T1 Level 60 64 cell
+T2 Level 1046 1050 cell
+T4 Condition 1066 1072 tumour
+T5 Level 1233 1238 cells
+T6 Level 293 297 cell
+T7 Level 73 83 stem cells
+T8 Level 868 873 sites
+T9 Level 293 298 cells
+T10 Level 1233 1237 cell
+T11 Condition 1372 1378 tumour
+T12 Intervention 903 909 clones
+T13 Condition 563 569 tumour
+T15 Level 316 347 fate of individual cancer cells
+T16 Level 410 414 cell
+T17 Intervention 858 864 clones
+T18 Condition 216 224 neoplasm
+T19 Level 1536 1540 cell
+T20 Level 1416 1420 cell
+T21 Condition 1255 1261 tumour
+T22 Level 143 147 cell
+T23 Level 342 346 cell
+T24 Condition 931 937 tumour
+T25 Level 1190 1194 cell
+T26 Level 60 65 cells
+T27 Condition 645 668 single cancer stem cell
+T28 Level 78 82 cell
+T29 Condition 589 595 tumour
+T30 Level 444 448 cell
+T33 Level 128 148 differentiated cells
+T34 Condition 1322 1328 tumour
+R1 Relation Arg1:T6 Arg2:T9

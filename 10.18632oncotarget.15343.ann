@@ -1,0 +1,81 @@
+T1 Condition 685 690 tumor
+T2 Intervention 417 424 spindle
+T3 Protein 295 301 kif18A
+T4 Level 92 110 human cancer cells
+T5 Biomarker 210 212 es
+T6 Biomarker 153 155 es
+T7 Gene 754 756 s 
+T8 Biomarker 633 637 PJ34
+T9 Biomarker 368 370 es
+T10 Gene 189 191 s 
+T11 Gene 690 692 s 
+T13 Gene 278 280 s 
+T14 Level 376 395  human cancer cells
+T16 Level 178 184 cancer
+T17 Biomarker 662 664 es
+T19 Level 172 190 human cancer cells
+T21 Biomarker 262 266 NuMA
+T22 Cancer cells 343 358 NuMA to α-tubul
+T24 Biomarker 598 600 es
+T25 Gene 221 223 s 
+T26 Biomarker 614 616 es
+T27 Cancer cells 266 272  and k
+T28 Gene 372 374 s 
+T29 Gene 28 30 s 
+T30 Level 98 104 cancer
+T31 Biomarker 343 347 NuMA
+T32 Gene 538 540 s 
+T33 Cancer cells 360 366  and k
+T34 Gene 567 569 s 
+T35 Biomarker 487 491 PJ34
+T36 Gene 599 601 s 
+T37 Biomarker 42 55 phenanthrenes
+T38 Level 383 389 cancer
+T42 Gene 271 284 kinesins HSET
+T43 Gene 154 156 s 
+T44 Intervention 555 562 spindle
+T45 Intervention 605 616 chromosomes
+T46 Gene 285 290 kifC1
+T47 Gene 54 56 s 
+T48 Gene 257 259 s 
+T49 Level 769 775 cancer
+T50 Biomarker 274 276 es
+T51 Protein 21 29 proteins
+T52 Condition 669 691 human malignant tumors
+T53 Organism 705 722 athymic nude mice
+T54 Biomarker 566 568 es
+T55 Intervention 531 538 spindle
+T56 Cancer cells 290 296  and k
+T57 Biomarker 537 539 es
+T58 Condition 646 651 tumor
+R1 Relation Arg1:T6 Arg2:T5
+R2 Relation Arg1:T10 Arg2:T5
+R3 Relation Arg1:T5 Arg2:T13
+R4 Relation Arg1:T5 Arg2:T21
+R5 Relation Arg1:T5 Arg2:T25
+R6 Relation Arg1:T5 Arg2:T42
+R7 Relation Arg1:T43 Arg2:T5
+R8 Relation Arg1:T5 Arg2:T48
+R9 Relation Arg1:T5 Arg2:T50
+R10 Relation Arg1:T6 Arg2:T10
+R11 Relation Arg1:T6 Arg2:T21
+R12 Relation Arg1:T6 Arg2:T25
+R13 Relation Arg1:T6 Arg2:T43
+R14 Relation Arg1:T6 Arg2:T48
+R15 Relation Arg1:T10 Arg2:T21
+R16 Relation Arg1:T10 Arg2:T25
+R17 Relation Arg1:T43 Arg2:T10
+R18 Relation Arg1:T10 Arg2:T48
+R19 Relation Arg1:T25 Arg2:T13
+R20 Relation Arg1:T48 Arg2:T13
+R21 Relation Arg1:T25 Arg2:T21
+R22 Relation Arg1:T21 Arg2:T42
+R23 Relation Arg1:T43 Arg2:T21
+R24 Relation Arg1:T25 Arg2:T42
+R25 Relation Arg1:T43 Arg2:T25
+R26 Relation Arg1:T25 Arg2:T48
+R27 Relation Arg1:T25 Arg2:T50
+R28 Relation Arg1:T48 Arg2:T42
+R29 Relation Arg1:T42 Arg2:T50
+R30 Relation Arg1:T43 Arg2:T48
+R31 Relation Arg1:T48 Arg2:T50

@@ -1,0 +1,63 @@
+T1 Level 1235 1249 PCa cell lines
+T2 Protein 585 596 lower-grade
+T3 Condition 755 759 PSMA
+T4 Organism 1481 1489 patients
+T5 Gene 387 397 transgenic
+T6 Condition 146 149 PCa
+T7 Condition 1463 1467 PSMA
+T9 Condition 1604 1610 tumors
+T10 Condition 700 704 PSMA
+T11 Condition 362 366 PSMA
+T12 Condition 118 144 metastatic prostate cancer
+T13 Condition 448 451 PCa
+T14 Biomarker 1180 1183 AKT
+T15 Condition 740 746 tumors
+T16 Gene 1538 1547 human PCa
+T17 Intervention 72 91 prostate epithelium
+T19 Condition 1695 1698 PCa
+T20 Condition 542 548 tumors
+T21 Protein 978 982 MAPK
+T22 Condition 755 760 PSMA 
+T23 Condition 1217 1222 PSMA 
+T24 Biomarker 1342 1348 IGF-1R
+T25 Condition 256 259 PCa
+T27 Protein 628 641 blood vessels
+T28 Condition 564 570 tumors
+T29 Condition 332 336 PSMA
+T30 Protein 1041 1066 scaffolding protein RACK1
+T31 Condition 346 349 PCa
+T32 Biomarker 840 846 IGF-1R
+T34 Condition 223 228 PSMA 
+T35 Condition 1016 1021 PSMA 
+T36 Species 377 381 mice
+T37 Condition 1587 1591 PSMA
+T38 Condition 550 570 PSMA-negative tumors
+T39 Condition 63 67 PSMA
+T40 Condition 1594 1610  prostate tumors
+T41 Gene 1101 1112 β1 integrin
+T42 Condition 1235 1238 PCa
+T43 Condition 398 401 PCa
+T44 Gene 1398 1409 transcripts
+T45 Gene 1117 1131 IGF-1R complex
+T46 Condition 1016 1020 PSMA
+T47 Gene 27 61 prostate-specific membrane antigen
+T48 Gene 796 838 type 1 insulin-like growth factor receptor
+T50 Condition 718 738 PSMA-positive tumors
+T51 Biomarker 1117 1123 IGF-1R
+T52 Level 1360 1364 cell
+T53 Gene 1758 1769 β1 integrin
+T54 Condition 1463 1468 PSMA 
+T55 Condition 315 319 PSMA
+T56 Biomarker 1751 1757 IGF-1R
+T57 Biomarker 899 907 PI3K-AKT
+T58 Condition 1217 1221 PSMA
+T59 Level 1239 1243 cell
+T60 Condition 223 227 PSMA
+T61 Condition 550 554 PSMA
+T62 Protein 403 408 TRAMP
+T64 Condition 1794 1800 tumors
+T65 Condition 1587 1592 PSMA 
+T66 Species 302 306 mice
+T67 Protein 1139 1143 MAPK
+T68 Condition 508 512 PSMA
+R1 Relation Arg1:T25 Arg2:T66
