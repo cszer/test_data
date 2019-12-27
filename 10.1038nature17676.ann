@@ -1,0 +1,34 @@
+T1 Condition 1015 1025 mutational
+T2 Gene 714 748 homologous-recombination-based DNA
+T3 Condition 312 320 mutation
+T4 Condition 12 56 whole-genome sequences of 560 breast cancers
+T6 Condition 1126 1139 breast cancer
+T7 Condition 1015 1023 mutation
+T8 Gene 458 468 Mutational
+T9 Condition 182 191 mutations
+T10 Condition 262 271 mutations
+T11 Condition 406 414 mutation
+T12 Gene 654 666 duplications
+T14 Condition 447 456 mutations
+T15 Gene 938 945 introns
+T16 Condition 18 24 genome
+T17 Gene 1109 1116 genetic
+T18 Gene 278 296 non-coding regions
+T19 Condition 262 270 mutation
+T20 Condition 504 510 genome
+T21 Gene 670 679 deletions
+T22 Protein 824 829 BRCA2
+T23 Condition 182 190 mutation
+T24 Condition 42 55 breast cancer
+T25 Condition 142 152 mutational
+T26 Condition 142 150 mutation
+T27 Protein 815 820 BRCA1
+T28 Condition 998 1010 cancer genes
+T29 Gene 961 968 regions
+T30 Condition 915 923 mutation
+T31 Condition 96 104 mutation
+T32 Condition 207 237 93 protein-coding cancer genes
+T33 Condition 447 455 mutation
+T34 Protein 776 781 BRCA1
+T35 Condition 96 105 mutations
+T36 Gene 931 936 exons

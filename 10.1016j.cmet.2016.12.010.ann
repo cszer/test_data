@@ -1,0 +1,31 @@
+T1 Biomarker 672 684 acetoacetate
+T2 Condition 733 737 BRAF
+T3 Biomarker 445 457 acetoacetate
+T4 Protein 341 345 MEK1
+T5 Condition 77 92 cancer patients
+T6 Condition 763 767 BRAF
+T7 Biomarker 267 273 ketone
+T8 Condition 1066 1074 mutation
+T9 Level 505 547 BRAF V600E-expressing human melanoma cells
+T10 Biomarker 279 291 acetoacetate
+T11 Condition 875 879 BRAF
+T12 Condition 313 317 BRAF
+T13 Condition 194 202 mutation
+T14 Biomarker 686 704 dehydroacetic acid
+T15 Condition 505 509 BRAF
+T16 Level 533 541 melanoma
+T17 Biomarker 720 732 acetoacetate
+T18 Intervention 429 434 serum
+T19 Protein 860 871 dietary fat
+T20 Gene 961 970 precision
+T21 Condition 360 373 human cancers
+T22 Organism 551 565 xenograft mice
+T23 Level 897 905 melanoma
+T24 Biomarker 624 636 acetoacetate
+T25 Condition 207 220 human cancers
+T27 Condition 194 203 mutations
+T28 Protein 720 743 acetoacetate-BRAF V600E
+T29 Protein 107 116 molecular
+T30 Condition 1004 1009 tumor
+T31 Condition 479 484 tumor
+T32 Condition 763 779 BRAF V600E tumor

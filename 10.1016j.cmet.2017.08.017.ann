@@ -1,0 +1,21 @@
+T1 Protein 847 849 WE
+T2 Protein 470 475 GAPDH
+T3 Condition 101 106 tumor
+T4 Protein 868 877 molecular
+T5 Condition 296 307 cancer cell
+T6 Condition 296 302 cancer
+T7 Protein 769 771 WE
+T8 Condition 9 15 cancer
+T9 Gene 225 231 enzyme
+T10 Gene 724 729 genes
+T11 Protein 570 572 WE
+T12 Protein 419 432 koningic acid
+T13 Protein 434 436 KA
+T14 Gene 480 486 enzyme
+T15 Protein 260 262 WE
+T16 Gene 402 417 natural product
+T17 Biomarker 367 374 glucose
+T18 Protein 457 466 inhibitor
+T19 Protein 666 668 KA
+T20 Gene 933 938 genes
+T21 Gene 208 232 rate-controlling enzymes

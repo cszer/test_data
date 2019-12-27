@@ -1,0 +1,32 @@
+T1 Gene 690 695 NR2F1
+T2 Level 30 54 disseminated tumor cells
+T3 Gene 522 536 CDK inhibitors
+T4 Gene 318 323 NR2F1
+T5 Intervention 0 10 Metastases
+T6 Gene 513 517 RARβ
+T7 Gene 466 471 NR2F1
+T8 Protein 213 218 HNSCC
+T9 Biomarker 660 664 DTCs
+T11 Biomarker 56 60 DTCs
+T12 Gene 811 816 NR2F1
+T13 Gene 137 166 orphan nuclear receptor NR2F1
+T14 Biomarker 939 943 DTCs
+T15 Biomarker 411 436 5-Aza-C and retinoic acid
+T16 Biomarker 318 333 NR2F1-dependent
+T17 Gene 602 625 pluripotency gene NANOG
+T18 Condition 745 752 dormant
+T19 Protein 387 390 DNA
+T21 Gene 552 557 NR2F1
+T22 Condition 76 83 dormant
+T23 Condition 252 310 prostate cancer patients carrying dormant disease for 7–18
+T24 Biomarker 242 246 DTCs
+T25 Protein 672 683 bone marrow
+T26 Condition 286 293 dormant
+T27 Protein 507 511 SOX9
+T28 Intervention 831 835 node
+T29 Intervention 573 582 chromatin
+T30 Condition 261 267 cancer
+T31 Cellular_component 745 757 dormant DTCs
+T32 Condition 452 458 cancer
+T33 Intervention 786 792 organs
+R1 Relation Arg1:T24 Arg2:T26

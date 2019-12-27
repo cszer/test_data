@@ -1,0 +1,52 @@
+T1 Disease 2053 2076 hand–foot skin reaction
+T2 Disease 2110 2117 fatigue
+T3 Biomarker 251 260 sorafenib
+T4 Condition 1698 1709 regorafenib
+T5 Biomarker 812 825 α-fetoprotein
+T6 Condition 2888 2899 regorafenib
+T7 Biomarker 2791 2801 third-line
+T8 Organism 2504 2512 patients
+T9 Biomarker 407 416 sorafenib
+T10 Condition 1358 1369 regorafenib
+T11 Protein 87 90 HCC
+T12 Organism 2122 2130 patients
+T13 Protein 979 985 funder
+T14 Biomarker 2682 2691 sorafenib
+T15 Condition 2748 2759 regorafenib
+T16 Condition 1787 1798 regorafenib
+T17 Condition 866 877 regorafenib
+T18 Condition 1467 1478 regorafenib
+T19 Biomarker 2874 2883 sorafenib
+T20 Protein 2654 2657 HCC
+T21 Disease 1951 1963 hypertension
+T22 Organism 2178 2186 patients
+T23 Organism 2144 2152 patients
+T24 Organism 2081 2089 patients
+T25 Organism 545 557 Participants
+T26 Disease 2523 2538 hepatic failure
+T27 Biomarker 483 492 sorafenib
+T28 Condition 2437 2448 regorafenib
+T29 Condition 1990 2001 regorafenib
+T30 Intervention 762 775 macrovascular
+T31 Organism 47 55 patients
+T32 Condition 191 202 regorafenib
+T33 Condition 2308 2319 regorafenib
+T34 Biomarker 418 422 ≥400
+T35 Protein 1221 1232 NCT01774344
+T36 Intervention 786 798 extrahepatic
+T37 Protein 389 392 HCC
+T38 Organism 206 214 patients
+T39 Organism 2016 2024 patients
+T40 Intervention 861 865 oral
+T42 Organism 1285 1293 patients
+T43 Organism 2817 2825 patients
+T44 Biomarker 502 520 Child-Pugh A liver
+T45 Organism 1968 1976 patients
+T46 Organism 2654 2666 HCC patients
+T47 Organism 961 969 patients
+T48 Organism 2198 2206 patients
+T49 Condition 61 85 hepatocellular carcinoma
+T50 Protein 220 223 HCC
+T51 Organism 2281 2289 patients
+T52 Condition 2164 2173 diarrhoea
+T53 Biomarker 124 133 sorafenib

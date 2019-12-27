@@ -1,0 +1,61 @@
+T2 Protein 1109 1114 brain
+T3 Protein 145 150 brain
+T4 Protein 124 128  Aβ 
+T5 Protein 579 584 brain
+T6 Intervention 171 183 brain tissue
+T7 Protein 647 651  Aβ 
+T8 Protein 438 459 wild-type littermates
+T9 Condition 1330 1332 Aβ
+T10 Condition 275 277 Aβ
+T12 Protein 299 301 AD
+T13 Protein 171 176 brain
+T15 Protein 860 865 brain
+T16 Protein 1091 1095  Aβ 
+T17 Condition 1092 1094 Aβ
+T18 CL 225 253 brain and peripheral tissues
+T19 Condition 1125 1127 Aβ
+T20 Condition 648 658 Aβ plaques
+T22 Organism 409 422 transgenic AD
+T24 Protein 487 491  Aβ 
+T25 Species 895 899 mice
+T26 Protein 13 21  protein
+T27 Species 527 531 mice
+T28 Species 599 603 mice
+T29 Protein 293 306 brain AD-type
+T30 Protein 293 298 brain
+T31 Intervention 919 930 hippocampal
+T32 Protein 759 762 tau
+T33 Condition 23 25 Aβ
+T34 Protein 698 705 AD-type
+T35 Protein 274 278  Aβ 
+T36 Organism 507 520 transgenic AD
+T37 Protein 225 230 brain
+T38 Organism 589 603 wild-type mice
+T39 Organism 395 401 APPswe
+T40 Protein 26 34  protein
+T41 Condition 125 127 Aβ
+T42 Level 1182 1189 neurons
+T43 Protein 4 22 amyloid-β protein 
+T44 Protein 826 841 microhemorrhage
+T45 Gene 1125 1135 Aβ-related
+T47 Protein 100 102 AD
+T48 Condition 482 490 human Aβ
+T49 Condition 488 490 Aβ
+T50 Condition 648 650 Aβ
+T51 Condition 201 203 Aβ
+T52 Protein 1314 1316 AD
+T53 Protein 1356 1361 brain
+T55 Intervention 579 585 brains
+T56 Organism 402 427 PS1dE9 transgenic AD mice
+T57 Species 1004 1008 mice
+T59 Protein 1229 1231 AD
+T60 Protein 732 736  Aβ 
+T61 Protein 299 306 AD-type
+T62 Gene 1078 1094 blood-derived Aβ
+T63 Protein 200 204  Aβ 
+T64 Protein 1329 1333  Aβ 
+T66 Intervention 860 866 brains
+T67 Disease 804 821 neuroinflammation
+T69 Intervention 1370 1379 periphery
+R1 Relation Arg1:T13 Arg2:T51
+R2 Relation Arg1:T13 Arg2:T63

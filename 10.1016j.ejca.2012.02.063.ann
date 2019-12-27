@@ -1,0 +1,35 @@
+T1 Gene 1125 1137 hepatitis B 
+T3 Protein 806 809 PLC
+T4 Protein 1510 1513 PLC
+T5 Condition 739 746 obesity
+T7 Level 683 687 body
+T8 Gene 1142 1167  and/or hepatitis C virus
+T9 Level 676 687 excess body
+T10 Protein 88 91 EBW
+T11 Protein 696 699 EBW
+T12 Protein 1455 1458 EBW
+T13 Protein 161 174 meta-analysis
+T15 Protein 131 134 PLC
+T16 Condition 1097 1105 diabetes
+T17 Condition 109 129 primary liver cancer
+T19 Protein 1267 1270 PLC
+T20 Condition 1462 1469 obesity
+T21 Level 701 705 body
+T22 Level 264 268 body
+T23 Protein 1311 1314 HCV
+T24 Disease 1175 1180 Obese
+T25 Level 68 79 excess body
+T26 Protein 1138 1141 HBV
+T27 Protein 1419 1432 meta-analysis
+T28 Protein 1324 1327 HBV
+T29 Organism 1297 1305 patients
+T30 Disease 1342 1351 cirrhosis
+T31 Protein 1169 1172 HCV
+T32 Protein 1208 1211 PLC
+T33 Protein 296 299 PLC
+T34 Disease 901 908 Obesity
+T35 Disease 1217 1222 obese
+T36 Protein 1276 1279 EBW
+T37 Protein 843 846 EBW
+T38 Biomarker 1065 1072 alcohol
+R1 Relation Arg1:T22 Arg2:T33

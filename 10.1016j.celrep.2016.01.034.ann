@@ -1,0 +1,41 @@
+T2 Level 669 677 cellular
+T3 Condition 10 19 mutations
+T4 Level 457 468 mutant KRAS
+T6 Biomarker 23 26 RAS
+T7 Biomarker 381 384 GTP
+T9 Protein 649 653 KRAS
+T10 Biomarker 285 289 AGO2
+T11 Biomarker 377 380 GDP
+T12 Biomarker 218 222 AGO2
+T13 Gene 337 343 region
+T14 Gene 737 755 AGO2-mediated gene
+T16 Biomarker 822 825 RAS
+T17 Gene 711 725 oncogenic KRAS
+T20 Biomarker 601 605 AGO2
+T21 Biomarker 409 413 AGO2
+T22 Gene 285 307 AGO2 N-terminal domain
+T23 Biomarker 808 812 AGO2
+T25 Biomarker 722 725 RAS
+T27 Biomarker 465 468 RAS
+T28 Protein 518 522 KRAS
+T29 Biomarker 189 193 AGO2
+T30 Level 566 570 cell
+T32 Protein 464 468 KRAS
+T33 Biomarker 365 375 nucleotide
+T34 Biomarker 597 605 RAS-AGO2
+T35 Level 642 653 mutant KRAS
+T36 Cellular_component 258 279 endoplasmic reticulum
+T38 Biomarker 737 741 AGO2
+T39 Level 558 563 AGO2−
+T40 Biomarker 210 213 RAS
+T41 Biomarker 489 493 AGO2
+T42 Biomarker 239 250 co-localize
+T43 Level 564 571 − cells
+T44 Protein 821 825 KRAS
+T45 Biomarker 558 562 AGO2
+T46 Level 479 483 cell
+T47 Biomarker 168 171 RAS
+R1 Relation Arg1:T40 Arg2:T12
+R2 Relation Arg1:T29 Arg2:T40
+R3 Relation Arg1:T47 Arg2:T29
+R4 Relation Arg1:T47 Arg2:T40

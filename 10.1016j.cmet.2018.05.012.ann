@@ -1,0 +1,44 @@
+T1 Condition 1034 1040 T cell
+T2 Cancer cells 810 812 g 
+T3 Level 555 560 tumor
+T4 Level 499 504 tumor
+T5 Level 127 137 tumor cell
+T6 Level 831 841 tumor cell
+T7 Biomarker 680 686 NADPH 
+T8 Level 1089 1094 tumor
+T9 Level 827 842  in tumor cells
+T10 Species 254 258 mice
+T11 Level 498 510  tumor cells
+T12 Cancer cells 1087 1089 g 
+T13 Cancer cells 1155 1157 g 
+T14 Condition 330 336 tumors
+T15 Protein 741 758 oxidase-dependent
+T16 Condition 36 42 T cell
+T17 Level 499 510 tumor cells
+T18 Cancer cells 419 421 g 
+T19 Condition 540 546 T cell
+T21 Level 330 335 tumor
+T22 Level 495 510  in tumor cells
+T23 Level 657 667 tumor cell
+T25 Condition 285 291 tumors
+T26 Level 831 842 tumor cells
+T28 Condition 187 193 T cell
+T29 Level 127 138 tumor cells
+T30 Condition 26 32 cancer
+T31 Cancer cells 812 824 TNF-α-signal
+T32 Protein 950 962 pro-oxidants
+T34 Level 1017 1022 tumor
+T35 Protein 812 817 TNF-α
+T36 Level 499 509 tumor cell
+T37 Level 393 398 tumor
+T38 Level 126 138  tumor cells
+T40 Level 127 132 tumor
+T41 Level 831 836 tumor
+T42 Biomarker 466 489 reactive oxygen species
+T43 Level 1013 1022 antitumor
+T44 Cancer cells 325 327 g 
+T45 Cancer cells 826 828 g 
+T46 Biomarker 424 435 glutathione
+T47 Cancer cells 305 307 g 
+T48 Protein 584 589 TNF-α
+R1 Relation Arg1:T10 Arg2:T25

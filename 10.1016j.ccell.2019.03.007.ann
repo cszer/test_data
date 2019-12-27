@@ -1,0 +1,26 @@
+T1 Intervention 474 483 metformin
+T3 Biomarker 232 239 glucose
+T4 Protein 781 785 PP2A
+T5 Protein 621 647 pro-survival protein MCL-1
+T6 Condition 358 363 tumor
+T7 Level 6 10 cell
+T8 Intervention 280 289 metformin
+T9 Protein 555 560 GSK3β
+T10 Gene 825 853 PP2A regulatory subunit B56δ
+T11 Protein 709 713 PP2A
+T12 Biomarker 861 868 glucose
+T13 Protein 891 895 PP2A
+T14 Biomarker 417 429 hypoglycemia
+T15 Protein 935 940 GSK3β
+T16 Level 653 657 cell
+T17 Protein 772 777 CIP2A
+T18 Protein 526 553 glycogen synthase kinase 3β
+T19 Intervention 339 348 metformin
+T20 Intervention 740 757 metformin-induced
+T21 Protein 825 829 PP2A
+T22 Biomarker 484 496 hypoglycemia
+T23 Intervention 740 749 metformin
+T24 Protein 587 591 PP2A
+T25 Gene 891 908 PP2A-B56δ complex
+T26 Species 294 298 mice
+T27 Gene 709 719 PP2A-GSK3β

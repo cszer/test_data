@@ -1,0 +1,22 @@
+T1 Protein 496 505 molecular
+T2 Gene 652 670 molecular networks
+T3 Condition 1028 1033 tumor
+T4 Protein 652 661 molecular
+T5 Condition 373 382 mutations
+T6 Condition 68 74 cancer
+T7 Condition 68 82 cancer genomes
+T8 Condition 865 877 cancer genes
+T9 Condition 127 136 mutations
+T10 Condition 993 999 cancer
+T11 Condition 763 774 Cancer Cell
+T12 Condition 593 607 cancer genomes
+T13 Condition 449 458 mutations
+T14 Condition 593 599 cancer
+T15 Condition 306 311 tumor
+T16 Condition 191 200 mutations
+T17 Condition 993 1004 cancer cell
+T18 Protein 12 15 DNA
+T19 Condition 228 234 cancer
+T20 Organism 1108 1116 patients
+T21 Condition 306 312 tumors
+T22 Condition 865 871 cancer

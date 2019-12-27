@@ -1,0 +1,32 @@
+T1 Organism 1022 1030 patients
+T3 Biomarker 1040 1063 5-hydroxymethylcytosine
+T4 Protein 216 219 DNA
+T5 Level 940 948 cellular
+T6 Protein 821 824 RNA
+T7 Biomarker 334 357 5-hydroxymethylcytosine
+T8 Biomarker 562 585 5-hydroxymethylcytosine
+T9 Condition 172 184 glioblastoma
+T10 Condition 1233 1255 disease-critical genes
+T11 Biomarker 112 140 genome-wide 5-methylcytosine
+T12 Protein 708 723 super-enhancers
+T13 Biomarker 739 762 5-hydroxymethylcytosine
+T14 Condition 468 480 glioblastoma
+T15 Condition 589 601 glioblastoma
+T16 Biomarker 1036 1063 low-5-hydroxymethylcytosine
+T17 Intervention 495 519 prefrontal cortex tissue
+T18 Protein 33 42 molecular
+T19 Organism 1280 1287 patient
+T20 Biomarker 316 332 5-methylcytosine
+T22 Biomarker 763 770 genomic
+T23 Biomarker 225 234 bisulfite
+T24 Intervention 74 93 distorted epigenome
+T26 Protein 641 654 cell-identity
+T27 Organism 1022 1029 patient
+T28 Protein 907 928 transcription factors
+T29 Biomarker 249 258 bisulfite
+T30 Biomarker 538 545 genomic
+T31 CL 864 873 stem cell
+T32 Protein 977 988 model-based
+T33 Biomarker 1146 1169 5-hydroxymethylcytosine
+T34 Biomarker 429 452 5-hydroxymethylcytosine
+R1 Relation Arg1:T9 Arg2:T4

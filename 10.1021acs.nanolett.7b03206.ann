@@ -1,0 +1,62 @@
+T1 Gene 1129 1148 over-expressed EGFR
+T2 Protein 710 712 s 
+T3 Biomarker 724 737 more-specific
+T4 Protein 276 278 s 
+T5 Protein 678 692 membrane prote
+T6 Condition 226 236 malignancy
+T7 Protein 865 876 molecularly
+T8 Protein 262 266 EGFR
+T9 Protein 1426 1428 s 
+T10 Protein 452 454 s 
+T11 Gene 503 513 antibodies
+T12 Protein 1030 1048 doxorubicin-loaded
+T13 Level 1118 1123 cells
+T14 Protein 543 545 s 
+T15 Condition 313 320 cancers
+T16 Protein 619 621 s 
+T17 Level 698 711  cancer cells
+T19 Biomarker 1030 1041 doxorubicin
+T20 Protein 1462 1479 membrane proteins
+T21 Condition 151 158 cancers
+T22 Condition 128 158 triple-negative breast cancers
+T23 Protein 910 918 nanoMIPs
+T24 Protein 517 541 target membrane proteins
+T25 Protein 512 514 s 
+T26 Protein 1304 1306 s 
+T27 Protein 1376 1378 s 
+T28 Protein 1460 1462 s 
+T29 Protein 70 72 s 
+T30 Protein 540 542 s 
+T31 Protein 1066 1068 s 
+T32 Gene 257 277 anti-EGFR antibodies
+T33 Protein 319 321 s 
+T34 Protein 1240 1242 s 
+T35 Protein 596 598 s 
+T36 Protein 887 894 polymer
+T37 Protein 1298 1300 s 
+T38 Gene 1222 1232 antibodies
+T39 Protein 1231 1233 s 
+T40 Protein 1317 1319 s 
+T42 Condition 95 101 tumors
+T43 Protein 524 538 membrane prote
+T44 Protein 1452 1454 s 
+T45 Protein 418 420 s 
+T47 Protein 678 695 membrane proteins
+T48 Protein 327 329 s 
+T49 Gene 985 992 epitope
+T50 Level 706 710 cell
+T51 Protein 1462 1476 membrane prote
+T53 Protein 34 38 EGFR
+T54 Protein 1102 1104 s 
+T56 Protein 1159 1161 s 
+T57 Protein 1054 1058 EGFR
+T58 Biomarker 944 955 doxorubicin
+T59 Protein 1059 1067 nanoMIPs
+T60 Level 1409 1413 cell
+T61 Level 1118 1122 cell
+T62 Protein 1369 1377 nanoMIPs
+T63 Protein 694 696 s 
+T64 Protein 1122 1124 s 
+T65 Protein 907 909 s 
+T66 Protein 996 1000 EGFR
+T67 Biomarker 43 67 tyrosine kinase receptor

@@ -1,0 +1,19 @@
+T1 Gene 377 385 excision
+T2 Protein 169 171 EC
+T4 Protein 235 237 EC
+T5 Organism 124 132 patients
+T6 Condition 193 199 Cancer
+T7 Organism 417 424 Patient
+T8 Condition 426 431 tumor
+T9 Organism 277 285 Patients
+T10 Organism 884 891 Patient
+T11 Organism 1642 1650 patients
+T12 Intervention 396 409 esophagectomy
+T13 Organism 741 749 Patients
+T14 Organism 601 609 patients
+T15 Intervention 1656 1666 stage I EC
+T16 Organism 741 748 Patient
+T17 Organism 241 249 patients
+T18 Level 226 237 cT1-2 N0 EC
+T19 Intervention 138 167 early-stage esophageal cancer
+T21 Organism 884 892 Patients

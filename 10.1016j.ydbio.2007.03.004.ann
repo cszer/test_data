@@ -1,0 +1,35 @@
+T1 Condition 1176 1181 tumor
+T2 Condition 412 417 tumor
+T3 Protein 473 483 apelin-APJ
+T4 Organism 801 816 Xenopus embryos
+T7 Condition 1008 1025 malignant gliomas
+T8 Gene 837 840 APJ
+T9 Intervention 70 75 blood
+T10 Gene 915 918 APJ
+T11 Intervention 97 107 body fluid
+T13 Level 705 754 non-mitogenic for primary human endothelial cells
+T14 Condition 987 999 brain tumors
+T15 Gene 286 291 genes
+T16 Gene 423 428 genes
+T17 Condition 993 998 tumor
+T18 Protein 875 880 VEGFA
+T19 Condition 275 280 tumor
+T20 Protein 510 529 intersomitic vessel
+T21 Gene 1063 1066 APJ
+T22 Gene 15 45 G protein-coupled receptor APJ
+T23 Gene 676 681 genes
+T24 Protein 629 634 VEGFA
+T25 Protein 1171 1198 anti-tumor angiogenic drugs
+T26 Protein 801 808 Xenopus
+T27 Protein 191 201 apelin-APJ
+T28 Protein 830 840 apelin-APJ
+T29 Intervention 955 983 microvascular proliferations
+T30 Gene 535 540 genes
+T32 Gene 591 627 vascular endothelial growth factor A
+T33 Protein 453 460 Xenopus
+T34 Condition 229 238 embryonic
+T35 Condition 398 407 embryonic
+T36 Gene 1070 1075 genes
+R1 Relation Arg1:T19 Arg2:T15
+R2 Relation Arg1:T34 Arg2:T15
+R3 Relation Arg1:T34 Arg2:T19

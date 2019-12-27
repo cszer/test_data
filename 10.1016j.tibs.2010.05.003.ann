@@ -1,0 +1,21 @@
+T1 Level 596 608 cancer cells
+T2 Condition 118 135 cancer cell lines
+T3 Cellular_component 687 709 mitochondrial membrane
+T4 Intervention 687 700 mitochondrial
+T5 Biomarker 262 269 glucose
+T6 Protein 760 765 NADPH
+T7 Biomarker 522 532 amino acid
+T8 Intervention 635 648 mitochondrial
+T9 Biomarker 222 232 amino acid
+T10 Biomarker 162 171 glutamine
+T11 Biomarker 463 472 glutamine
+T12 Gene 566 576 TOR kinase
+T13 Condition 5 12 cancers
+T14 Biomarker 318 327 glutamine
+T15 Biomarker 288 297 glutamine
+T16 Biomarker 414 424 nucleotide
+T17 Biomarker 194 203 glutamine
+T18 Biomarker 396 404 nitrogen
+T19 Biomarker 610 619 glutamine
+T20 Biomarker 429 439 amino acid
+T21 Level 318 343 glutamine-dependent cells

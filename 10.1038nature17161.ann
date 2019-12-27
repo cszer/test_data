@@ -1,0 +1,28 @@
+T1 Cellular_component 24 44 chromosome 3p13–3p14
+T3 Condition 1188 1195 SAMMSON
+T4 Condition 556 571 human melanomas
+T5 Level 754 758 cell
+T7 Condition 1161 1195 lineage addiction oncogene SAMMSON
+T8 Protein 150 154 MITF
+T9 Organism 188 197 amplicon1
+T11 Condition 644 651 SAMMSON
+T12 Intervention 1008 1021 mitochondrial
+T13 Protein 497 502 SOX10
+T14 Condition 591 598 SAMMSON
+T15 Level 710 714 cell
+T16 Intervention 1211 1224 mitochondrial
+T17 Gene 368 381  gene SAMMSON
+T18 Level 1247 1251 cell
+T19 Gene 340 360 long non-coding RNA 
+T20 Condition 958 965 SAMMSON
+T21 Gene_or_gene_product 1094 1107 pro-oncogenic
+T22 Condition 907 932 patient-derived xenograft
+T23 Condition 67 76 melanomas
+T24 Gene 222 226 loci
+T25 Condition 432 439 SAMMSON
+T26 Condition 817 824 SAMMSON
+T27 Level 701 715 melanoma cells
+T28 Protein 1338 1369 tissue-restricted anti-melanoma
+T29 Intervention 1066 1079 mitochondrial
+T31 Protein 981 984 p32
+T32 Protein 123 154 melanoma-specific oncogene MITF

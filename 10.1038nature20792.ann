@@ -1,0 +1,37 @@
+T1 Protein 1161 1166 Spns2
+T2 Level 1117 1127 lymphocyte
+T4 Level 292 305 stromal cells
+T5 Intervention 1354 1358 lung
+T6 Intervention 1192 1201 lymphatic
+T7 Level 1292 1308 effector T cells
+T8 Level 767 773 tumour
+T9 Organism 577 599 810 mutant mouse lines
+T11 Level 228 234 tumour
+T12 Gene 1149 1157 deletion
+T13 Organism 738 743 mouse
+T15 Level 767 779 tumour cells
+T16 Level 1383 1389 tumour
+T17 Protein 998 1031  transporter spinster homologue 2
+T18 Intervention 518 537 metastatic outcome2
+T19 Condition 45 60 cancer patients
+T20 Level 67 108 multi-stage process requires tumour cells
+T21 Level 228 239 tumour cell
+T22 Gene 827 832 genes
+T23 Level 96 102 tumour
+T24 Intervention 793 808 metastatic foci
+T25 Level 457 463 tumour
+T28 CL 1313 1328 natural killer 
+T29 Gene 708 713 genes
+T30 Organism 588 593 mouse
+T31 Level 96 107 tumour cell
+T32 Intervention 932 941 pulmonary
+T33 Level 1332 1338  cells
+T34 Protein 1033 1038 Spns2
+T35 Species 1050 1054 mice
+T36 Level 163 168 sites
+T37 Level 1383 1394 tumour cell
+T38 Intervention 668 691 metastatic colonization
+T39 Level 767 778 tumour cell
+T40 Level 244 250 tumour
+T41 Protein 969 993 sphingosine-1-phosphate 
+R1 Relation Arg1:T36 Arg2:T11

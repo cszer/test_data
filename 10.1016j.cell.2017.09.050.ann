@@ -1,0 +1,40 @@
+T1 Condition 326 334 mutation
+T2 Condition 626 634 mutation
+T4 Condition 503 511 patients
+T5 Condition 570 577 patient
+T6 Condition 626 635 mutations
+T7 Gene 157 162 MHC-I
+T8 Condition 865 870 tumor
+T9 Condition 105 132 foreign or mutated peptides
+T10 Condition 545 554 mutations
+T11 Protein 818 832 MHC-I genotype
+T12 Protein 578 592 MHC-I genotype
+T13 Gene 351 355 gaps
+T14 Condition 915 924 mutations
+T15 Condition 283 295 human cancer
+T16 Condition 672 677 tumor
+T17 Condition 545 553 mutation
+T18 Protein 1049 1063 MHC-I genotype
+T19 Protein 27 48 intracellular protein
+T20 Gene 157 170 MHC-I alleles
+T21 Gene 0 5 MHC-I
+T22 Condition 958 963 tumor
+T23 Condition 503 510 patient
+T24 Condition 715 723 mutation
+T25 Condition 731 739 patients
+T26 Cellular_component 64 76 cell surface
+T27 Gene 368 373 MHC-I
+T28 Condition 490 511 9,176 cancer patients
+T29 Condition 783 789 tumors
+T30 Level 87 94 T cells
+T31 Condition 783 788 tumor
+T32 Condition 460 467 patient
+T33 Gene 818 823 MHC-I
+T34 Condition 915 923 mutation
+T35 Condition 326 335 mutations
+T37 Condition 496 502 cancer
+T38 Condition 1007 1013 cancer
+T39 Gene 578 583 MHC-I
+T40 Gene 519 524 1,018
+T41 Gene 1049 1054 MHC-I
+T42 Condition 731 738 patient

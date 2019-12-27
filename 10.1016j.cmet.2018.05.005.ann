@@ -1,0 +1,38 @@
+T1 Condition 551 554 AAD
+T2 Protein 1036 1040 drug
+T3 Protein 210 215 lipid
+T4 Condition 281 284 AAD
+T5 Condition 139 142 AAD
+T6 Protein 37 41 drug
+T7 Condition 681 709  that stimulates cancer cell
+T8 Condition 43 46 AAD
+T9 Condition 421 426 tumor
+T10 Condition 311 316 tumor
+T11 Condition 86 101 cancer patients
+T12 Biomarker 665 675 fatty acid
+T13 Intervention 520 532 microvessels
+T14 Biomarker 591 601 fatty acid
+T15 Condition 409 427 AAD-treated tumors
+T16 Level 811 827 FFA-induced cell
+T17 Condition 904 907 AAD
+T18 Condition 86 92 cancer
+T19 Condition 394 397 AAD
+T20 Condition 195 198 AAD
+T21 Protein 775 779 CPT1
+T22 Protein 879 883 CPT1
+T23 Protein 349 356 adipose
+T24 Protein 333 369 adipose and non-adipose environments
+T25 Gene 739 773 carnitine palmitoyl transferase 1A
+T26 Gene 843 850 Genetic
+T27 Condition 698 704 cancer
+T29 Protein 431 438 adipose
+T30 Intervention 236 249 reprogramming
+T31 Protein 333 340 adipose
+T32 Condition 551 568 AAD-induced tumor
+T33 Condition 951 956 tumor
+T34 Condition 409 412 AAD
+T35 Protein 107 116 molecular
+T36 Protein 1071 1076 lipid
+T37 Intervention 622 635 reprogramming
+T38 Condition 1000 1006 cancer
+R1 Relation Arg1:T30 Arg2:T10

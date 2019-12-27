@@ -1,0 +1,33 @@
+T1 Condition 1230 1236 cancer
+T2 Biomarker 1008 1014 plasma
+T4 Biomarker 1246 1249 CAP
+T5 Biomarker 715 721 plasma
+T6 Biomarker 1044 1050 plasma
+T7 Condition 282 288 cancer
+T9 Biomarker 606 612 plasma
+T10 Condition 282 299 cancer cell lines
+T11 Condition 225 235 anticancer
+T12 Biomarker 17 23 plasma
+T13 Biomarker 507 513 plasma
+T14 Biomarker 1362 1379 self-organization
+T15 Biomarker 680 686 plasma
+T16 Intervention 881 887 Plasma
+T17 Biomarker 1443 1449 plasma
+T18 Level 767 775 cellular
+T19 Biomarker 486 503 Self-organization
+T20 Biomarker 1538 1544 plasma
+T21 Protein 116 124 chemical
+T22 Biomarker 99 102 CAP
+T23 Biomarker 849 855 plasma
+T24 Biomarker 339 356 Self-organization
+T25 Biomarker 99 103 CAPs
+T26 Biomarker 1161 1164 CAP
+T27 Condition 1453 1459 cancer
+T28 Biomarker 1477 1483 plasma
+T29 Biomarker 26 30 CAPs
+T30 Biomarker 1477 1501 plasma self-organization
+T31 Biomarker 788 791 CAP
+T32 Biomarker 26 29 CAP
+T33 Biomarker 1052 1055 CAP
+T34 Species 318 323 mouse
+T35 Protein 1125 1133 chemical

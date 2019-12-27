@@ -1,0 +1,50 @@
+T1 Condition 779 796 thyroid carcinoma
+T2 Intervention 593 632 g regions of highly expressed genes def
+T3 Condition 733 746  stomach carc
+T4 Condition 1091 1097 cancer
+T5 Condition 354 373 mutational hotspots
+T6 Protein 412 436 surfactant protein genes
+T7 Intervention 929 938 chromatin
+T8 Intervention 1070 1086 cellular lineage
+T9 Intervention 636 643 g certa
+T10 Protein 438 444 SFTPA1
+T11 Condition 256 259 oma
+T13 Condition 793 796 oma
+T14 Condition 748 751 oma
+T15 Condition 8 12 cell
+T16 Condition 717 723 lipase
+T17 Condition 656 660 cell
+T18 Condition 736 739 oma
+T20 Intervention 656 672 cellular lineage
+T21 Condition 400 408 hotspots
+T22 Protein 218 234 liver parenchyma
+T23 Intervention 823 862 indels targeting lineage-defining genes
+T24 Intervention 193 205 lung alveoli
+T25 Protein 959 966 H3K27ac
+T26 Gene 971 979 H3K36me3
+T27 Condition 704 707 oma
+T28 Protein 207 214 albumin
+T29 Condition 1070 1074 cell
+T30 Condition 932 935 oma
+T31 Protein 675 682 albumin
+T32 Condition 347 350 oma
+T33 Protein 457 462 SFTPC
+T34 Condition 240 246 lipase
+T35 Gene 898 915 AATAATD DNA motif
+T36 Condition 494 500 cancer
+T37 Intervention 146 151 organ
+T38 Intervention 558 577 del hotspots target
+T39 Gene 802 810 sequence
+T41 Condition 691 702  liver carc
+T42 Protein 446 451 SFTPB
+T43 Intervention 488 556 solid cancers demonstrated highly recurrent and tumor-type-specific 
+T44 Condition 254 261 stomach
+T45 Condition 562 570 hotspots
+T46 Condition 306 326 lung adenocarcinomas
+T47 Condition 322 325 oma
+T48 Intervention 579 591 g the noncod
+T49 Protein 84 92 proteins
+T50 Condition 734 741 stomach
+T51 Intervention 645 666  secretory cellular l
+R1 Relation Arg1:T28 Arg2:T11
+R2 Relation Arg1:T28 Arg2:T44

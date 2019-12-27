@@ -1,0 +1,19 @@
+T1 Disease 391 401 toxicities
+T2 Condition 654 713 patient-derived xenografts carrying KRAS and TP53 mutations
+T3 Condition 260 271 PDAC tumors
+T4 Organism 23 56 pancreatic ductal adenocarcinoma 
+T5 Organism 259 265  PDAC 
+T6 Organism 787 793  PDAC 
+T7 Level 534 545 human PDACs
+T8 Condition 282 286 Kras
+T9 Condition 287 302 Trp53 mutations
+T10 Protein 570 574 EGFR
+T11 Condition 616 621 tumor
+T12 Protein 181 186 c-RAF
+T13 Species 329 333 mice
+T14 Organism 792 801  patients
+T15 Organism 62 71  patients
+T16 Protein 172 176 EGFR
+T17 Protein 579 584 c-RAF
+T18 Gene 306 317 genetically
+T19 Condition 265 270 tumor

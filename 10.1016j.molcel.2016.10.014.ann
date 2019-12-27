@@ -1,0 +1,37 @@
+T1 Protein 169 174 ACAT1
+T2 Gene 148 163 PDH phosphatase
+T3 Protein 755 757 AH
+T4 Condition 911 916 tumor
+T5 Protein 637 639 AH
+T8 Condition 1055 1061 cancer
+T9 Protein 1085 1090 ACAT1
+T10 Gene 700 716 tetrameric ACAT1
+T11 Protein 606 611 ACAT1
+T12 Protein 95 98 PDC
+T13 Protein 826 829 PDC
+T14 Level 363 381 human cancer cells
+T15 Level 324 329 cells
+T17 Condition 881 887 cancer
+T18 Protein 470 474 Y407
+T19 Gene 280 296 tetrameric ACAT1
+T20 Gene 516 538 arecoline hydrobromide
+T21 Protein 540 542 AH
+T22 Protein 731 735 Y407
+T23 Protein 558 573 ACAT1 inhibitor
+T24 Gene 389 404 ACAT1 tetramers
+T26 Protein 1097 1108 anti-cancer
+T27 Condition 228 240 human cancer
+T28 Gene 63 93 pyruvate dehydrogenase complex
+T30 Protein 46 51 ACAT1
+T31 Protein 344 347 EGF
+T33 Protein 148 151 PDH
+T34 Gene 103 137 acetylating pyruvate dehydrogenase
+T35 Condition 870 892 attenuated cancer cell
+T36 Gene 606 621 ACAT1 tetramers
+T37 Protein 646 651 ACAT1
+T38 Protein 789 794 ACAT1
+T39 Protein 558 563 ACAT1
+T40 Condition 363 375 human cancer
+T41 Protein 139 142 PDH
+T42 Gene 637 660 AH-bound ACAT1 monomers
+T43 Protein 389 394 ACAT1

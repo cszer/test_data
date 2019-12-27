@@ -1,0 +1,35 @@
+T1 Protein 766 775 PI3K-mTOR
+T2 Protein 846 851 NLGN3
+T3 Level 467 515 pediatric and adult patient-derived HGG cultures
+T4 Level 728 736 HGG cell
+T5 Protein 675 680 NLGN3
+T6 Level 873 882 human HGG
+T8 Protein 157 160 HGG
+T9 Protein 674 681  NLGN3 
+T10 Protein 607 612 NLGN3
+T11 Gene 541 567 activity-regulated mitogen
+T12 Level 832 844 glioma cells
+T13 Protein 1055 1060 NLGN3
+T14 Condition 1004 1015 brain tumor
+T15 Condition 910 917 patient
+T16 Level 43 103 normal neural precursor and oligodendroglial precursor cells
+T17 Level 303 317 active neurons
+T18 Condition 138 155 high-grade glioma
+T19 CL 398 440 optogenetically stimulated cortical slices
+T20 Protein 751 758  NLGN3 
+T21 Protein 728 731 HGG
+T22 Protein 503 506 HGG
+T23 Level 118 126 cellular
+T24 Condition 487 494 patient
+T25 Level 982 996 active neurons
+T26 Protein 1054 1061  NLGN3 
+T27 Condition 227 275 patient-derived pediatric glioblastoma xenograft
+T28 Protein 752 757 NLGN3
+T29 Protein 336 339 HGG
+T30 Condition 227 234 patient
+T31 Intervention 195 212 cortical neuronal
+T32 Protein 823 828 NLGN3
+T33 Protein 576 606 synaptic protein neuroligin-3 
+T34 Condition 1098 1132 neuronal activity-regulated cancer
+T35 Protein 845 852  NLGN3 
+T36 Protein 822 829  NLGN3 

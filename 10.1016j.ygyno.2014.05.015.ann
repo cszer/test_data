@@ -1,0 +1,75 @@
+T1 Condition 850 854 cell
+T3 Biomarker 51 62 simvastatin
+T4 Condition 773 802 endometrial cancer cell lines
+T5 Condition 272 276 cell
+T6 Biomarker 1448 1459 Simvastatin
+T7 Biomarker 1631 1638 statins
+T9 Biomarker 1303 1308 ECC-1
+T10 Level 253 277 endometrial cancer cells
+T12 Protein 625 628 AKT
+T14 Condition 894 898 cell
+T15 Level 100 116 primary cultures
+T16 Protein 1209 1212 AKT
+T17 Level 120 144 endometrial cancer cells
+T18 Protein 1587 1591 MAPK
+T19 Gene 997 1000 DNA
+T20 Protein 1141 1144 AKT
+T21 Condition 120 138 endometrial cancer
+T23 Gene 347 356 Annexin V
+T25 Biomarker 606 617 simvastatin
+T26 Level 831 855 endometrial cancer cells
+T27 Gene 540 557 Mitochondrial DNA
+T28 Gene 554 557 DNA
+T29 Biomarker 1165 1170 ECC-1
+T30 Protein 1145 1149 mTOR
+T31 Level 1175 1185 Ishikawa c
+T32 Condition 1425 1429 cell
+T33 Level 811 855 primary cultures of endometrial cancer cells
+T34 Condition 85 89 cell
+T35 Condition 1012 1016 cell
+T36 Biomarker 417 423 oxygen
+T37 Condition 218 222 cell
+T38 Protein 954 961 HMG-CoA
+T39 Condition 1425 1435 cell lines
+T40 Gene 932 941 enzymatic
+T41 Protein 1288 1290 S6
+T42 Level 233 249 primary cultures
+T43 Biomarker 1499 1514 anti-metastatic
+T44 Level 154 158 Cell
+T45 Level 1012 1020 cellular
+T46 Condition 66 84 endometrial cancer
+T47 Condition 773 791 endometrial cancer
+T48 Condition 66 95 endometrial cancer cell lines
+T49 Condition 831 849 endometrial cancer
+T50 Condition 1681 1699 endometrial cancer
+T51 Protein 1600 1604 mTOR
+T52 Condition 253 271 endometrial cancer
+T53 Biomarker 1044 1055 simvastatin
+T54 Protein 294 297 MTT
+T55 Level 100 144 primary cultures of endometrial cancer cells
+T56 Condition 1246 1256 cell lines
+T57 Condition 1545 1549 cell
+T58 Condition 436 440 cell
+T59 Condition 792 796 cell
+T60 Protein 1596 1599 AKT
+T61 Protein 1086 1090 MAPK
+T62 Biomarker 1361 1372 simvastatin
+T63 Biomarker 857 868 Simvastatin
+T64 Condition 1184 1188 cell
+T65 Condition 139 143 cell
+T66 Level 1526 1550 endometrial cancer cells
+T67 Protein 638 642 MAPK
+T69 Condition 199 217 endometrial cancer
+T70 Level 809 827 8 primary cultures
+T71 Protein 629 633 mTOR
+T73 Condition 719 723 cell
+T74 Level 233 277 primary cultures of endometrial cancer cells
+T75 Biomarker 367 383 propidium iodide
+T76 Biomarker 697 708 Simvastatin
+T78 Condition 319 323 cell
+T79 Level 1165 1189 ECC-1 and Ishikawa cells
+T81 Intervention 891 898 G1 cell
+T82 Condition 1246 1250 cell
+R1 Relation Arg1:T5 Arg2:T54
+R2 Relation Arg1:T37 Arg2:T54
+R3 Relation Arg1:T54 Arg2:T78

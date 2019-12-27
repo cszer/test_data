@@ -1,0 +1,36 @@
+T2 Biomarker 221 237 ipilimumab-naive
+T3 Condition 933 938 tumor
+T4 Level 978 991 T cell clones
+T5 Organism 884 892 patients
+T6 Protein 928 944 intratumoral TCR
+T7 Biomarker 202 212 ipilimumab
+T8 Biomarker 221 231 ipilimumab
+T9 Gene 352 370 or T cell receptor
+T10 Gene 117 124 genomic
+T11 Condition 136 141 tumor
+T12 Protein 372 375 TCR
+T13 Condition 296 302 Tumors
+T14 Condition 486 498 intratumoral
+T15 Condition 578 584 tumors
+T16 Condition 413 421 mutation
+T17 Biomarker 1099 1108 nivolumab
+T18 Biomarker 256 265 nivolumab
+T19 Condition 174 182 melanoma
+T20 Biomarker 616 626 neoantigen
+T21 Condition 136 142 tumors
+T22 Condition 928 940 intratumoral
+T23 Condition 61 66 tumor
+T24 Organism 151 159 patients
+T25 Level 741 760 immune cell subsets
+T26 Condition 629 637 mutation
+T27 Gene 831 854 immune checkpoint genes
+T28 Gene 1041 1048 genomic
+T29 Condition 578 583 tumor
+T30 Biomarker 1010 1020 neoantigen
+T31 Organism 403 411 patients
+T32 Biomarker 426 436 neoantigen
+T33 Condition 491 496 tumor
+T34 Biomarker 692 701 nivolumab
+T35 Condition 629 638 mutations
+R1 Relation Arg1:T11 Arg2:T24
+R2 Relation Arg1:T21 Arg2:T24

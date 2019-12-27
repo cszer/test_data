@@ -1,0 +1,51 @@
+T1 Protein 1174 1178 IFNα
+T2 Gene 779 808 RNA-LPX triggers interferon-α
+T3 Level 1631 1633 DC
+T5 Protein 1509 1534 polypeptide-based antigen
+T6 Biomarker 414 417 RNA
+T7 Gene 1029 1036 RNA-LPX
+T8 Biomarker 779 782 RNA
+T9 Level 52 56 APCs
+T10 Level 875 877 DC
+T11 Gene 779 786 RNA-LPX
+T12 CL 714 728 DC populations
+T13 Level 1117 1143 effector and memory T-cell
+T14 Intervention 326 330  DCs
+T15 Protein 810 814 IFNα
+T16 Level 26 50 antigen presenting cells
+T17 Gene 1263 1270 RNA-LPX
+T19 Intervention 1174 1188 IFNα-dependent
+T20 Intervention 733 744 macrophages
+T21 Intervention 387 400 intravenously
+T22 Protein 756 777 lymphoid compartments
+T23 Biomarker 1267 1270 LPX
+T24 Level 259 262 DCs
+T25 Condition 1202 1221 progressive tumours
+T26 Biomarker 589 592 LPX
+T27 Organism 1337 1354 melanoma patients
+T28 Biomarker 1029 1032 RNA
+T29 Level 327 329 DC
+T30 Intervention 848 859 macrophages
+T31 Biomarker 414 428 RNA-lipoplexes
+T32 Protein 1384 1388 IFNα
+T33 Condition 1762 1768 cancer
+T34 Level 840 842 DC
+T35 Intervention 611 624 extracellular
+T36 Protein 459 464 lipid
+T37 Gene 430 437 RNA-LPX
+T38 Condition 1283 1296 shared tumour
+T39 Gene 1561 1568 RNA-LPX
+T40 Biomarker 1553 1556 RNA
+T41 Intervention 839 843  DCs
+T42 Level 259 261 DC
+T43 Gene 1029 1102 RNA-LPX encoding viral or mutant neo-antigens or endogenous self-antigens
+T46 Protein 566 575 molecular
+T47 Biomarker 1561 1564 RNA
+T48 Intervention 1400 1423 antigen-specific T-cell
+T49 Biomarker 602 605 RNA
+T51 Level 714 716 DC
+T54 Biomarker 1263 1266 RNA
+T55 Level 167 184 T-cell responses1
+T56 Level 84 91 T cells
+T57 Level 242 258 dendritic cells 
+T58 Biomarker 430 433 RNA

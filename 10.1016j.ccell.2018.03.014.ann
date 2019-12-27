@@ -1,0 +1,16 @@
+T2 Gene 544 581  and gene/lncRNA interaction networks
+T3 Protein 717 726 molecular
+T4 Condition 325 338 mutated genes
+T5 Gene 272 295 copy-number alterations
+T6 Gene_or_gene_product 367 371 SMGs
+T7 Condition 439 444 tumor
+T8 Gene_or_gene_product 340 344 SMGs
+T9 Protein 12 21 molecular
+T10 Organism 822 830 patients
+T11 Gene 486 535 estrogen receptor-regulated long non-coding RNAs 
+T12 Protein 408 412 TCGA
+T13 Condition 36 41 tumor
+T14 Condition 30 71 2,579 tumors from The Cancer Genome Atlas
+T15 Intervention 87 118 gynecological types plus breast
+T16 Protein 73 77 TCGA
+T17 Protein 164 173 molecular

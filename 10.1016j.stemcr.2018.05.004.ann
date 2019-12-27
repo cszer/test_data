@@ -1,0 +1,35 @@
+T1 Gene 151 156  gene
+T2 Gene 936 941  APP 
+T3 Gene 860 863 APP
+T4 Gene 937 940 APP
+T5 Intervention 780 793 neuronal gene
+T7 Gene 448 453  APP 
+T8 Condition 31 33 AD
+T10 Protein 382 389 CRISPRa
+T12 Gene 561 575 pyroglutamate 
+T13 Level 353 375 pluripotent stem cells
+T14 Disease 642 645  AD
+T15 Gene 147 150 APP
+T16 Disease 895 898  AD
+T17 Gene 723 728  APP 
+T18 Gene 859 864  APP 
+T19 Gene 449 457 APP gene
+T20 Gene 321 324 APP
+T21 Gene 240 243 APP
+T22 Gene 228 248 copy of the APP gene
+T25 Disease 1082 1085  AD
+T26 Condition 896 898 AD
+T27 Disease 1058 1085 Down syndrome-associated AD
+T28 Level 339 375 euploid human pluripotent stem cells
+T31 Condition 643 645 AD
+T32 Condition 1083 1085 AD
+T33 Gene 320 325  APP 
+T34 Level 283 305 pluripotent stem cells
+T35 Gene 449 452 APP
+T36 Biomarker 494 503 β-amyloid
+T37 Protein 120 146 amyloid precursor protein 
+T39 Gene_or_gene_product 631 634 tau
+T41 Intervention 391 408 Cortical neuronal
+T42 CL 1035 1048 neuronal cell
+T43 Disease 252 274 trisomic Down syndrome
+R1 Relation Arg1:T20 Arg2:T10

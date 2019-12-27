@@ -1,0 +1,84 @@
+T1 Protein 917 918 d
+T2 Protein 1055 1056 d
+T3 Species 1167 1171 mice
+T5 Condition 1061 1065 PD-1
+T7 Condition 640 645 PD-L1
+T8 Protein 134 153 immune tolerance1,2
+T9 Protein 221 222 d
+T10 Level 735 741 tumour
+T11 Protein 504 505 d
+T12 Protein 45 71 immune checkpoint receptor
+T13 Protein 369 370 d
+T14 Condition 934 955 primary human cancers
+T15 Condition 305 342 Monoclonal antibodies that block the 
+T16 Intervention 753 764 macrophages
+T17 Level 635 672 PD-1–PD-L1 blockade activates T cells
+T18 Condition 490 497 cancers
+T19 Condition 490 496 cancer
+T20 Protein 16 17 d
+T21 Protein 1139 1140 d
+T22 Gene 223 242 cell death ligand 1
+T23 Condition 825 829 PD-1
+T24 Protein 228 229 d
+T25 Protein 804 805 d
+T26 Protein 957 965 TAM PD-1
+T27 Organism 874 879 mouse
+T28 Protein 1047 1048 d
+T29 Level 1090 1100 macrophage
+T30 Protein 1183 1184 d
+T31 Protein 567 568 d
+T32 Protein 628 629 d
+T33 Condition 446 460 ical efficacy 
+T34 Condition 33 37 PD-1
+T35 Protein 384 385 d
+T36 Condition 371 376 PD-L1
+T37 Level 1004 1043 phagocytic potency against tumour cells
+T38 Protein 751 752 d
+T39 Condition 1252 1256 PD-1
+T40 Protein 11 31 cell death protein 1
+T41 Condition 206 210 PD-1
+T43 Condition 1257 1262 PD-L1
+T44 Protein 322 323 d
+T45 Protein 882 883 d
+T46 Protein 1219 1220 d
+T47 Condition 462 471  patients
+T48 Level 95 112 activated T cells
+T49 Condition 1191 1197 cancer
+T50 Organism 796 816 mouse and human TAMs
+T52 Condition 635 639 PD-1
+T53 Condition 1382 1388 cancer
+T54 Condition 835 839 PD-1
+T55 Protein 1117 1118 d
+T56 Organism 796 801 mouse
+T57 Intervention 735 765 tumour-associated macrophages 
+T58 Level 155 167 Tumour cells
+T59 Protein 831 839 TAM PD-1
+T60 Protein 899 900 d
+T61 Condition 244 249 PD-L1
+T62 Level 1061 1071 PD-1–PD-L1
+T63 Level 1031 1037 tumour
+T64 Condition 530 536 cancer
+T65 Level 1318 1328 macrophage
+T66 Protein 200 201 d
+T67 Protein 1301 1302 d
+T68 Protein 90 91 d
+T70 Protein 103 104 d
+T71 Protein 9 10 d
+T72 Organism 1175 1180 mouse
+T73 Level 1203 1213 macrophage
+T74 Condition 558 564 cancer
+T76 Level 1252 1262 PD-1–PD-L1
+T77 Level 1123 1129 tumour
+T79 Level 635 645 PD-1–PD-L1
+T80 Protein 123 124 d
+T81 Condition 890 896 cancer
+T82 Condition 948 954 cancer
+T83 Protein 408 409 d
+T84 Protein 652 653 d
+T85 Protein 239 240 d
+T86 Protein 571 572 d
+T87 Intervention 1318 1329 macrophages
+R1 Relation Arg1:T41 Arg2:T24
+R2 Relation Arg1:T24 Arg2:T85
+R3 Relation Arg1:T41 Arg2:T85
+R4 Relation Arg1:T66 Arg2:T85

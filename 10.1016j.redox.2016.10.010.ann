@@ -1,0 +1,35 @@
+T1 Biomarker 790 797  kcell 
+T4 Biomarker 462 467 H2O2 
+T6 Level 674 686 normal cells
+T7 Intervention 564 570 tissue
+T8 Biomarker 426 430 H2O2
+T9 Level 368 380 normal cells
+T10 Level 468 473 kcell
+T11 Biomarker 85 92 P-AscH−
+T12 Biomarker 292 296 H2O2
+T14 Protein 801 809 catalase
+T15 Biomarker 760 765 AscH−
+T16 Biomarker 173 180 P-AscH−
+T17 Protein 224 232 Catalase
+T18 Biomarker 628 632 H2O2
+T19 Biomarker 628 633 H2O2 
+T20 Condition 216 222 tumors
+T21 Protein 820 828 Catalase
+T22 Level 664 669 kcell
+T23 Intervention 138 149 intravenous
+T26 Level 713 718 cells
+T27 Biomarker 350 355 AscH−
+T30 Level 339 344 cells
+T31 Biomarker 175 180 AscH−
+T32 Biomarker 462 466 H2O2
+T33 Level 791 796 kcell
+T34 Level 612 617 cells
+T35 Protein 479 487 catalase
+T36 Condition 883 889 tumors
+T38 Biomarker 208 212 H2O2
+T39 Biomarker 348 355 P-AscH−
+T40 Level 664 686 kcell for normal cells
+T42 Biomarker 758 765 P-AscH−
+T43 Condition 522 552 tumor and 10 normal cell lines
+T44 Level 707 718 tumor cells
+T45 Biomarker 102 107 AscH−

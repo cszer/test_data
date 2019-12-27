@@ -1,0 +1,31 @@
+T1 Protein 704 707 p53
+T2 Biomarker 228 233 Par-4
+T3 Condition 54 65 cancer cell
+T4 Condition 403 419 metastatic tumor
+T5 Level 750 762 normal cells
+T6 Gene 575 581 GTPase
+T7 Gene 704 734 p53- and Rab8b-dependent Par-4
+T8 Level 372 384 cancer cells
+T9 Biomarker 617 622 Par-4
+T10 Protein 523 526 p53
+T11 Intervention 596 603 vesicle
+T12 Biomarker 311 313 CQ
+T13 Biomarker 428 430 CQ
+T14 Condition 797 813 metastatic tumor
+T15 Protein 167 185 anti-malarial drug
+T16 Condition 372 383 cancer cell
+T17 Condition 265 289 mice and cancer patients
+T18 Biomarker 187 198 chloroquine
+T19 Biomarker 767 772 Par-4
+T20 Biomarker 311 329 CQ-inducible Par-4
+T21 Protein 713 718 Rab8b
+T22 Biomarker 439 444 Par-4
+T24 Biomarker 324 329 Par-4
+T25 Biomarker 200 202 CQ
+T26 Cellular_component 630 645 plasma membrane
+T27 Protein 566 571 Rab8b
+T28 Protein 17 42 tumor suppressor proteins
+T29 Biomarker 693 695 CQ
+T30 Protein 767 782 Par-4-dependent
+T32 Level 249 261 normal cells
+R1 Relation Arg1:T12 Arg2:T24

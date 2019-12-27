@@ -1,0 +1,48 @@
+T1 Gene_or_gene_product 84 92 cytokine
+T2 Gene 954 957 MK2
+T3 Protein 580 616 phospho-mimetic S321D RIPK1 mutation
+T4 Protein 447 451 S321
+T5 Protein 514 536 RIPK1-kinase-dependent
+T6 Intervention 849 858 complex-I
+T7 Protein 986 991 RIPK1
+T8 Intervention 783 793 complex-II
+T9 Protein 602 607 RIPK1
+T11 Protein 762 767 RIPK1
+T12 Biomarker 331 342 TNF-induced
+T13 Gene 222 225 MK2
+T14 Protein 908 913 RIPK1
+T15 Protein 692 696 S321
+T16 Protein 0 3 TNF
+T17 Protein 596 600 S321
+T19 Protein 941 946 RIPK1
+T20 Protein 379 384 RIPK1
+T21 Protein 430 435 RIPK1
+T22 Level 123 127 cell
+T23 Biomarker 493 502 caspase-8
+T24 Protein 260 264 mRNA
+T25 Intervention 876 886 complex-II
+T26 Gene 917 946 complex-I and cytosolic RIPK1
+T27 Protein 67 70 TNF
+T28 Protein 135 140 TNFR1
+T29 Protein 331 334 TNF
+T30 Intervention 876 885 complex-I
+T31 Gene_or_gene_product 23 31 cytokine
+T32 Biomarker 624 635 TNF-induced
+T33 Gene 402 405 MK2
+T34 Protein 706 711 RIPK1
+T35 Biomarker 488 492 FADD
+T36 Intervention 783 792 complex-I
+T37 Intervention 917 926 complex-I
+T39 Level 1064 1068 cell
+T40 Protein 1026 1029 TNF
+T41 Gene 706 718 RIPK1 kinase
+T42 Protein 135 138 TNF
+T43 Gene 752 767 cytosolic RIPK1
+T44 Protein 514 519 RIPK1
+T45 Protein 624 627 TNF
+T47 Gene 357 360 MK2
+T48 Intervention 783 807 complex-II-mediated cell
+T49 Biomarker 954 966 MK2-mediated
+T50 Protein 67 72 TNFR1
+T51 Gene_or_gene_product 1082 1090 cytokine
+R1 Relation Arg1:T24 Arg2:T29

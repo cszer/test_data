@@ -1,0 +1,45 @@
+T1 Biomarker 723 727 fPSA
+T2 Intervention 149 152 men
+T4 Biomarker 970 973 PSA
+T5 Intervention 213 218 Serum
+T6 Intervention 237 243 biopsy
+T8 Condition 1548 1563 prostate cancer
+T9 Condition 281 296 prostate cancer
+T10 Biomarker 861 864 PSA
+T11 Condition 317 323 cancer
+T12 Biomarker 1453 1456 PSA
+T13 Biomarker 1491 1494 PSA
+T16 Biomarker 546 549 PSA
+T17 Biomarker 657 660 PSA
+T20 Biomarker 900 912 testosterone
+T22 Level 399 404 sites
+T23 Biomarker 1237 1240 PSA
+T25 Biomarker 854 857 PSA
+T26 Biomarker 890 894 BPSA
+T27 Biomarker 1030 1033 PSA
+T28 Biomarker 874 877 PSA
+T29 Condition 570 576 cancer
+T30 Biomarker 1307 1310 PSA
+T31 Biomarker 860 864 fPSA
+T32 Biomarker 1111 1115 fPSA
+T33 Biomarker 886 889 PSA
+T34 Biomarker 32 35 PSA
+T36 Intervention 271 277 biopsy
+T37 Biomarker 444 447 PSA
+T39 Biomarker 848 851 PSA
+T41 Biomarker 1306 1310 fPSA
+T42 Level 306 315 Specimens
+T44 Intervention 75 83 specimen
+T45 Biomarker 422 425 PSA
+T46 Biomarker 1349 1352 PSA
+T47 Biomarker 752 755 PSA
+T48 Biomarker 1512 1516 fPSA
+T50 Biomarker 1513 1516 PSA
+T51 Biomarker 951 954 PSA
+T53 Biomarker 432 435 PSA
+T54 Intervention 176 191 prostate biopsy
+T55 Biomarker 459 471 testosterone
+T56 Biomarker 1029 1033 fPSA
+T57 Condition 595 601 cancer
+T58 Biomarker 1070 1073 PSA
+T59 Intervention 253 256 men

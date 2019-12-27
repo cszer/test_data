@@ -1,0 +1,24 @@
+T1 Protein 577 580 NS1
+T2 Condition 610 613 RAS
+T3 Protein 412 415 NS1
+T4 Species 54 60 humans
+T5 Condition 393 396 RAS
+T6 Condition 558 561 RAS
+T7 Condition 486 498 RAS-mediated
+T8 Condition 475 478 RAS
+T9 Protein 277 302 synthetic binding protein
+T10 Condition 890 893 RAS
+T11 Condition 803 806 RAS
+T13 Condition 0 3 RAS
+T14 Condition 101 104 RAS
+T15 Condition 215 218 RAS
+T16 Condition 383 386 RAS
+T17 Level 863 867 site
+T18 Condition 631 634 RAS
+T19 Condition 871 874 RAS
+T20 Condition 803 815 RAS-mediated
+T21 Protein 571 575 MEK1
+T22 Protein 198 206 effector
+T23 Protein 270 273 NS1
+T24 Condition 486 489 RAS
+T25 Gene 352 410 GTP- and GDP-bound states of H-RAS and K-RAS but not N-RAS

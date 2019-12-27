@@ -1,0 +1,24 @@
+T1 Protein 426 430 mRNA
+T2 Condition 377 412 primary high-grade glioma specimens
+T4 Protein 327 332 ITGA7
+T6 Protein 732 737 ITGA7
+T8 Level 293 298  GSCs
+T9 Level 772 775 lam
+T10 Level 33 45 glioblastoma
+T11 Protein 485 490 ITGA7
+T12 Condition 836 841 tumor
+T13 Level 364 369  GSCs
+T14 Level 693 698  GSCs
+T15 Gene_or_gene_product 758 762 mAbs
+T16 Protein 198 219 monoclonal antibodies
+T17 Level 345 348 lam
+T18 Protein 630 635 ITGA7
+T19 Level 352 362  receptor 
+T20 Level 948 960 glioblastoma
+T21 Condition 560 586 low- and high-grade glioma
+T22 Condition 881 886 tumor
+T23 Organism 541 549 patients
+T24 Protein 937 942 ITGA7
+T25 Level 33 61 glioblastoma stem-like cells
+T26 Gene 314 325 integrin α7
+T27 Level 63 67 GSCs

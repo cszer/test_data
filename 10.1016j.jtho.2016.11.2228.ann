@@ -1,0 +1,42 @@
+T1 Level 1094 1104 tumor cell
+T2 Level 1552 1563 tumor cells
+T3 Condition 308 313 tumor
+T4 Biomarker 1280 1285 PD-L1
+T5 Condition 299 314 39 NSCLC tumors
+T6 Condition 856 861 tumor
+T7 Biomarker 53 58 PD-L1
+T8 Condition 1552 1557 tumor
+T9 Protein 379 384 SP263
+T10 Biomarker 1891 1896 PD-L1
+T11 Level 1020 1031 immune cell
+T12 Condition 1665 1670 tumor
+T13 Protein 944 949 SP142
+T14 Protein 908 913 SP263
+T15 Level 1665 1675 tumor cell
+T16 Protein 1886 1887 ”
+T17 Organism 1913 1921 patients
+T18 Level 980 991 tumor cells
+T19 Level 1604 1615 immune cell
+T20 Level 842 867 PD-L1–stained tumor cells
+T21 Biomarker 1389 1394 PD-L1
+T22 Level 526 537 immune cell
+T23 Biomarker 1786 1791 PD-L1
+T24 Level 526 538 immune cells
+T25 Organism 1913 1920 patient
+T27 Protein 1868 1869 “
+T28 Condition 980 985 tumor
+T29 Level 980 990 tumor cell
+T30 Level 1487 1497 tumor cell
+T31 Biomarker 842 847 PD-L1
+T32 Condition 516 521 tumor
+T33 Level 1552 1562 tumor cell
+T34 Level 856 866 tumor cell
+T35 Condition 1487 1492 tumor
+T36 Biomarker 338 343 PD-L1
+T37 Biomarker 2052 2057 PD-L1
+T38 Protein 368 373 SP142
+T39 Organism 643 650 patient
+T40 Condition 1094 1099 tumor
+T41 Biomarker 240 245 PD-L1
+R1 Relation Arg1:T36 Arg2:T9
+R2 Relation Arg1:T36 Arg2:T38

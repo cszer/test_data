@@ -1,0 +1,25 @@
+T1 Protein 503 517 microsatellite
+T2 Condition 145 150 tumor
+T3 Condition 795 803 mutation
+T4 Condition 263 268 tumor
+T5 Condition 311 319 mutation
+T6 Condition 93 98 tumor
+T7 Condition 415 424 mutations
+T8 Condition 1092 1097 tumor
+T9 Condition 38 46 mutation
+T10 Organism 1046 1054 patients
+T11 Condition 900 905 tumor
+T12 Condition 921 929 mutation
+T13 Condition 625 633 mutation
+T14 Condition 580 588 mutation
+T15 Condition 238 246 mutation
+T17 Condition 145 151 tumors
+T18 Gene 432 477 replication-repair-associated DNA polymerases
+T19 Condition 702 707 tumor
+T20 Condition 86 99 81,000 tumors
+T21 Condition 900 906 tumors
+T22 Condition 162 170 mutation
+T23 Organism 125 133 patients
+T24 Gene 1114 1121 genetic
+T25 Condition 415 423 mutation
+T26 Condition 702 708 tumors

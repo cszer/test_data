@@ -1,0 +1,41 @@
+T1 Biomarker 1026 1048 low-dose Dihydralazine
+T3 Intervention 897 913 peripheral blood
+T4 Biomarker 928 941 Dihydralazine
+T6 Intervention 312 318 kidney
+T7 Intervention 447 462 kidney fibrosis
+T8 Biomarker 1035 1048 Dihydralazine
+T9 Disease 15 37 chronic kidney disease
+T10 Biomarker 166 178 promoter CpG
+T11 Biomarker 1205 1218 Dihydralazine
+T12 Intervention 660 666 kidney
+T13 Disease 304 326 chronic kidney disease
+T14 Gene 509 538 RASAL1 promoter DNA fragments
+T15 Intervention 23 29 kidney
+T16 Gene 382 407 Ras-GTP suppressor RASAL1
+T17 Biomarker 1579 1601 low-dose Dihydralazine
+T18 Gene 509 524 RASAL1 promoter
+T20 Level 1067 1083 excretory kidney
+T21 Organism 955 963 patients
+T22 Gene 864 893 RASAL1 promoter DNA fragments
+T23 Biomarker 175 178 CpG
+T24 Biomarker 735 738 CpG
+T25 Intervention 542 558 peripheral blood
+T26 Intervention 648 656 fibrosis
+T27 Biomarker 1391 1406 counterbalances
+T28 Organism 1605 1613 patients
+T29 Biomarker 1258 1289 Tdg-mediated DNA-de-methylation
+T30 Intervention 1627 1633 kidney
+T31 Intervention 660 675 kidney biopsies
+T32 Gene 864 879 RASAL1 promoter
+T33 Condition 798 826 hypertensive nephrosclerosis
+T34 Biomarker 1102 1115 Dihydralazine
+T35 Intervention 1520 1534 renal fibrosis
+T36 Gene 1449 1464 RASAL1 promoter
+T37 Gene 251 256 genes
+T41 Disease 1619 1641 chronic kidney disease
+T42 Biomarker 1318 1330 promoter CpG
+T44 Organism 784 792 patients
+T45 Biomarker 1253 1257 Tet3
+T46 Intervention 447 453 kidney
+T47 Gene 606 621 RASAL1 promoter
+T48 Intervention 1646 1654 fibrosis

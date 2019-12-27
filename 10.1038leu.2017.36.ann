@@ -1,0 +1,32 @@
+T1 Protein 494 498 p210
+T2 Gene 14 22 isoforms
+T3 Condition 166 194 chronic myelogenous leukemia
+T4 Protein 753 757 p210
+T5 Condition 235 270 B-cell acute lymphoblastic leukemia
+T6 Condition 987 1010 leukemic transformation
+T7 Protein 48 56 tyrosine
+T8 Gene 786 825 Stat5 transcription factor and the Erk1
+T9 Biomarker 649 666 clathrin-mediated
+T10 Protein 551 559 tyrosine
+T11 Protein 503 507 p190
+T12 Protein 74 78 p190
+T13 Intervention 116 126 chromosome
+T14 Protein 1060 1077 kinase inhibitors
+T15 Protein 40 47 Bcr–Abl
+T16 Protein 204 208 p190
+T17 Protein 30 63 oncogenic Bcr–Abl tyrosine kinase
+T18 Protein 287 294 protein
+T19 Gene 867 877 Lyn kinase
+T20 Protein 731 735 Sts1
+T21 Protein 402 406 p210
+T22 Protein 535 546 interactome
+T23 Protein 65 69 p210
+T24 Protein 614 633 AP2 adaptor complex
+T25 Protein 894 898 p190
+T26 Protein 411 415 p190
+T27 Protein 142 146 p210
+T28 Protein 709 713 p190
+T29 Protein 954 961 Bcr–Abl
+T30 Protein 853 857 p210
+T31 Gene 826 835 2 kinases
+R1 Relation Arg1:T21 Arg2:T26

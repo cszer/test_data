@@ -1,0 +1,44 @@
+T1 Protein 1104 1110 p=0.04
+T3 Condition 1269 1306 rectal cancer and malignant melanoma 
+T4 Condition 123 130  cancer
+T5 Condition 1778 1781 men
+T6 Condition 1901 1913 malignancies
+T7 Level 666 669 m 2
+T10 Level 1028 1030 kg
+T13 Condition 1185 1191 cancer
+T14 Condition 2129 2136  cancer
+T18 Condition 1501 1517 women for colon 
+T19 Condition 1749 1752 men
+T20 Level 784 787 m 2
+T23 Intervention 1113 1140 oesophageal adenocarcinoma 
+T24 Condition 1805 1811 cancer
+T25 Level 781 783 kg
+T26 Condition 964 971  cancer
+T27 Level 1026 1030 5 kg
+T28 Condition 1804 1811  cancer
+T29 Condition 1367 1374  cancer
+T30 Condition 636 642 cancer
+T31 Condition 1924 1930 cancer
+T32 Level 3 5 kg
+T33 Protein 1068 1072 1·59
+T35 Condition 499 506  cancer
+T36 Condition 1184 1191  cancer
+T37 Condition 1275 1282  cancer
+T38 Condition 772 775 men
+T39 Level 1031 1034 m 2
+T41 Condition 2117 2124 obesity
+T42 Condition 1309 1312 men
+T45 Condition 1501 1506 women
+T46 Intervention 1055 1066 endometrial
+T48 Level 779 783 5 kg
+T49 Condition 977 982 women
+T50 Condition 879 897  and with thyroid 
+T53 Intervention 1085 1096 gallbladder
+T54 Condition 1798 1812 breast cancers
+T55 Condition 635 642  cancer
+T56 Condition 1318 1321 men
+T57 Condition 243 258 sites of cancer
+T58 Condition 594 597 men
+T59 Condition 118 131 adult cancers
+T61 Condition 1381 1384 men
+T62 Condition 1527 1534  cancer

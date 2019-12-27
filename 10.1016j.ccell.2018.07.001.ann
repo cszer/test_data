@@ -1,0 +1,26 @@
+T1 Condition 225 231 Tumors
+T2 Intervention 816 823 samples
+T3 Condition 678 684 tumors
+T4 Gene 949 992 major histocompatibility complex-I binders 
+T5 Condition 65 91 Cancer Genome Atlas cancer
+T6 Intervention 292 299 samples
+T7 Protein 633 657 ≈930 exon-exon junctions
+T9 Condition 791 815 breast and ovarian tumor
+T10 Gene 164 172 variants
+T11 Gene 437 491 U2AF1 and identified additional trans-acting variants 
+T12 Protein 427 432 SF3B1
+T13 Condition 678 683 tumor
+T14 Condition 912 917 tumor
+T15 Intervention 598 605 samples
+T16 Condition 158 163 tumor
+T17 Gene 482 490 variants
+T18 Organism 103 117 8,705 patients
+T19 Protein 196 207 whole-exome
+T20 Condition 520 525 tumor
+T21 Condition 225 230 Tumor
+T22 Condition 520 526 tumors
+T23 Gene 333 341 variants
+T24 Protein 188 191 RNA
+T25 Condition 838 924 ≈1.7 neojunction- and ≈0.6 single nucleotide variant-derived peptides per tumor sample
+T26 Condition 746 751 Tumor
+T27 Gene 415 423 variants

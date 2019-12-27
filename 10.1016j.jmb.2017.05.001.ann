@@ -1,0 +1,127 @@
+T3 Protein 1178 1179 s
+T4 Protein 1096 1097 s
+T5 Protein 774 781 pre-miR
+T6 Gene 1336 1339 RNA
+T7 Protein 711 712 s
+T8 Gene 398 416 conserved terminal
+T10 Protein 984 986 OA
+T11 Protein 1299 1300 s
+T14 Protein 991 992 s
+T15 Protein 902 910 proteins
+T16 Protein 1001 1002 s
+T17 Protein 637 638 s
+T18 Biomarker 933 939 miR-16
+T20 Protein 260 267 pre-miR
+T23 Biomarker 1044 1066 RRM-containing protein
+T24 Level 1169 1178 HeLa cell
+T25 Protein 1314 1315 s
+T26 Protein 1390 1391 s
+T27 Protein 1345 1346 s
+T28 Protein 429 434 miR-7
+T29 Protein 216 217 s
+T30 Protein 561 562 s
+T31 Protein 309 310 s
+T32 Protein 165 166 s
+T33 Protein 1283 1300 protein complexes
+T34 Protein 703 704 s
+T35 Protein 296 297 s
+T36 Protein 443 444 s
+T37 Protein 742 743 s
+T38 Protein 1346 1347 s
+T39 Protein 960 961 s
+T40 Protein 975 976 s
+T41 Protein 8 9 s
+T42 Protein 875 876 s
+T43 Protein 371 372 s
+T44 Protein 959 960 s
+T45 Level 719 728 HeLa cell
+T46 Protein 1008 1010 OA
+T48 Protein 1245 1246 s
+T49 Protein 1131 1133 OA
+T50 Protein 528 529 s
+T51 Protein 1220 1222 OA
+T52 Protein 149 150 s
+T53 Protein 189 190 s
+T54 Protein 369 370 s
+T55 Protein 1246 1247 s
+T56 Protein 502 503 s
+T57 Protein 1330 1331 s
+T58 Gene 598 620 RNA recognition motifs
+T59 Gene 598 601 RNA
+T60 Protein 736 737 s
+T61 Biomarker 929 939 pri-miR-16
+T62 Protein 819 820 s
+T63 Gene 5 8 RNA
+T64 Biomarker 538 548 oleic acid
+T65 Protein 710 711 s
+T66 Protein 454 455 s
+T67 Protein 848 857 pri-miR-7
+T69 Protein 226 227 s
+T70 Protein 1140 1141 s
+T71 Protein 162 163 s
+T72 Protein 1254 1262 pri-miRs
+T73 Protein 944 945 s
+T74 Protein 661 670 pri-miR-7
+T75 Protein 889 910 HuR and MSI2 proteins
+T76 Protein 752 754 OA
+T78 Protein 132 133 s
+T79 Protein 1261 1262 s
+T81 Protein 1421 1422 s
+T82 Protein 228 259  and precursor-miR transcripts 
+T83 Protein 619 620 s
+T84 Gene 170 173 RNA
+T85 Protein 782 799 protein complexes
+T86 Protein 1095 1096 s
+T87 Protein 401 402 s
+T88 Biomarker 1083 1089 miR-16
+T89 Protein 497 498 s
+T90 Protein 578 586 proteins
+T91 Protein 1067 1068 s
+T92 Protein 251 252 s
+T93 Protein 823 824 s
+T94 Protein 839 840 s
+T95 Protein 814 816 OA
+T96 Protein 170 218 RNA-binding proteins interact with primary miRs 
+T97 Protein 212 217  miRs
+T98 Protein 1201 1202 s
+T99 Gene 634 652 conserved terminal
+T100 Protein 1149 1154 miR-7
+T101 Protein 840 841 s
+T102 Protein 1305 1306 s
+T103 Protein 1119 1120 s
+T104 Level 1169 1179 HeLa cells
+T105 Protein 1376 1377 s
+T107 Protein 852 857 miR-7
+T108 Protein 550 552 OA
+T109 Protein 1423 1424 s
+T110 Protein 125 126 s
+T111 Protein 79 80 s
+T113 Protein 798 799 s
+T114 Protein 298 299 s
+T115 Gene 328 341 Hu antigen R 
+T116 Protein 1253 1263  pri-miRs 
+T117 Protein 714 715 s
+T118 Protein 219 227 pri-miRs
+T119 Protein 1408 1413 miR-7
+T120 Protein 767 768 s
+T121 Protein 866 867 s
+T122 Protein 425 434 pri-miR-7
+T123 Protein 107 108 s
+T124 Protein 182 190 proteins
+T125 Protein 239 240 s
+T126 Protein 474 479 miR-7
+T128 Protein 665 670 miR-7
+R1 Relation Arg1:T20 Arg2:T31
+R2 Relation Arg1:T92 Arg2:T20
+R3 Relation Arg1:T20 Arg2:T114
+R4 Relation Arg1:T20 Arg2:T115
+R5 Relation Arg1:T125 Arg2:T20
+R6 Relation Arg1:T92 Arg2:T31
+R7 Relation Arg1:T125 Arg2:T31
+R8 Relation Arg1:T53 Arg2:T125
+R9 Relation Arg1:T97 Arg2:T69
+R10 Relation Arg1:T97 Arg2:T92
+R11 Relation Arg1:T92 Arg2:T114
+R12 Relation Arg1:T92 Arg2:T115
+R13 Relation Arg1:T114 Arg2:T115
+R14 Relation Arg1:T125 Arg2:T114

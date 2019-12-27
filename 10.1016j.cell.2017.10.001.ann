@@ -1,0 +1,38 @@
+T2 Protein 800 807 HLA LOH
+T3 Gene 670 689 HLA LOH alterations
+T4 Condition 487 493 cancer
+T5 Gene 441 446  HLA 
+T6 Gene 90 114 human leukocyte antigen 
+T7 Intervention 1110 1121 neoantigens
+T8 Protein 670 677 HLA LOH
+T9 Protein 224 227 HLA
+T10 Gene 293 317 human leukocyte antigen 
+T11 Condition 32 38 cancer
+T12 Protein 442 449 HLA LOH
+T13 Protein 442 445 HLA
+T14 Gene 360 365  HLA 
+T15 Condition 912 917 tumor
+T16 Protein 224 239 HLA copy-number
+T17 Gene 734 750 metastatic sites
+T19 Protein 424 427 HLA
+T20 Gene 195 200 locus
+T21 Protein 361 364 HLA
+T22 Protein 800 803 HLA
+T23 Gene 119 124  loss
+T24 Gene 223 228  HLA 
+T25 Gene 420 427  LOHHLA
+T26 Intervention 70 81 neoantigens
+T27 Protein 670 673 HLA
+T28 Gene 956 963  LOHHLA
+T31 Protein 321 324 HLA
+T32 Protein 318 324 LOHHLA
+T33 Protein 944 947 HLA
+T34 Gene 669 674  HLA 
+T35 Protein 944 951 HLA LOH
+T36 Gene 169 180 polymorphic
+T37 Gene 799 804  HLA 
+T38 Gene 943 948  HLA 
+T39 Biomarker 632 637 PD-L1
+T40 Gene 266 271  loss
+T42 Condition 496 502 NSCLCs
+T43 Protein 115 118 HLA

@@ -1,0 +1,37 @@
+T1 Condition 674 677 Myc
+T2 Gene 990 994 PD-1
+T3 Gene 861 869 BETi JQ1
+T4 Condition 172 198 Myc-driven B cell lymphoma
+T5 Intervention 98 116 anti-cancer agents
+T6 Protein 475 480 IFN-γ
+T7 Gene 832 852 anti-PD-1 antibodies
+T8 Biomarker 861 865 BETi
+T9 Biomarker 603 607 BETi
+T10 Protein 29 60 bromodomain-containing proteins
+T11 Protein 1090 1095 CD274
+T12 Biomarker 369 384 Myc-independent
+T13 Protein 457 473 interferon-gamma
+T14 Biomarker 162 166 BETi
+T15 Organism 524 556 human and mouse tumor cell lines
+T16 Gene 808 813 PD-L1
+T17 Gene 837 841 PD-1
+T18 Biomarker 404 408 BETi
+T19 Biomarker 272 276 BETi
+T20 Protein 744 754 Cd274 mRNA
+T21 Protein 0 14 BET inhibitors
+T22 Condition 172 175 Myc
+T23 Protein 272 284 BETi-induced
+T24 Biomarker 386 390 BETi
+T25 Protein 325 356 immune checkpoint ligand Cd274 
+T26 Gene 995 1018 PD-L1 immune-checkpoint
+T27 Gene 803 807 PD-1
+T28 Condition 369 372 Myc
+T29 Gene 995 1000 PD-L1
+T30 Protein 640 651 Cd274 locus
+T31 Protein 490 495 CD274
+T32 Biomarker 977 981 BETi
+T33 Condition 915 918 Myc
+T34 Biomarker 16 20 BETi
+T35 Organism 902 935 mice bearing Myc-driven lymphomas
+T36 Organism 569 584 patient samples
+R1 Relation Arg1:T14 Arg2:T22

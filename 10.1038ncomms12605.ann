@@ -1,0 +1,25 @@
+T1 Gene 633 642 deletions
+T2 Level 717 723 genome
+T3 Condition 899 905 tumour
+T4 Condition 455 482 319 radiation-naive tumours
+T5 Level 548 554 genome
+T6 Condition 484 512 radiation-associated tumours
+T7 Condition 646 669 radiation-naive tumours
+T8 Condition 878 906 radiation-associated tumours
+T9 Level 118 131 human tissues
+T10 Condition 52 58 cancer
+T11 Condition 296 308 malignancies
+T12 Intervention 784 793 chromatin
+T13 Gene 538 547 deletions
+T14 Gene 595 624 microhomology at the junction
+T15 Gene 567 589 1–100 base pairs often
+T16 Condition 505 511 tumour
+T18 Gene 919 928 deletions
+T19 Condition 960 969 mutations
+T20 Condition 97 106 mutations
+T21 Condition 322 328 tumour
+T22 Gene 744 752 sequence
+T23 Condition 662 668 tumour
+T24 Protein 67 70 DNA
+T25 Condition 475 481 tumour
+T26 Condition 428 434 tumour

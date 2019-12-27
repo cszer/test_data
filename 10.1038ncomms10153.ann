@@ -1,0 +1,37 @@
+T1 Level 808 846 pre-neoplastic pancreatic acinar cells
+T2 Protein 639 644 c-MYC
+T3 Protein 473 476 DNA
+T4 Level 405 416 fibroblasts
+T5 Gene 108 113 genes
+T6 Level 520 524 Bptf
+T7 Protein 237 242 c-MYC
+T8 Level 520 534 Bptf-null MEFs
+T9 Gene 930 934 BPTF
+T10 Protein 0 5 c-MYC
+T11 Level 787 791 Bptf
+T12 Gene 492 501 chromatin
+T13 Protein 135 148 c-MYC targets
+T14 Gene 699 703 BPTF
+T15 Protein 135 140 c-MYC
+T16 Condition 44 50 tumour
+T17 Biomarker 558 570 c-MYC-driven
+T18 Protein 198 203 c-MYC
+T19 Protein 558 563 c-MYC
+T20 Gene 1022 1026 BPTF
+T21 Protein 1027 1032 c-MYC
+T22 Gene 258 262 BPTF
+T23 Gene 322 326 BPTF
+T24 Gene 291 300 chromatin
+T25 Protein 452 457 c-MYC
+T26 Protein 948 953 c-MYC
+T27 Biomarker 737 749 c-MYC-driven
+T28 Gene 418 422 BPTF
+T29 Protein 737 742 c-MYC
+T30 Gene 536 540 BPTF
+T31 Biomarker 639 651 c-MYC-driven
+T32 Protein 370 375 c-MYC
+T33 Condition 868 874 tumour
+T34 Condition 38 51 human tumours
+T35 Condition 1075 1081 cancer
+T36 Gene 53 60 Histone
+R1 Relation Arg1:T5 Arg2:T15

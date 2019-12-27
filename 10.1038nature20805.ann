@@ -1,0 +1,32 @@
+T1 Intervention 518 524 organs
+T2 Gene 781 788 genomic
+T5 Protein 870 875 GATA6
+T6 Intervention 937 952 adenocarcinomas
+T7 Protein 1153 1156 DNA
+T8 Condition 12 19 cancers
+T9 Intervention 1205 1232 oesophageal adenocarcinomas
+T10 Protein 173 182 molecular
+T11 Intervention 413 440 oesophageal adenocarcinomas
+T13 Protein 603 612 molecular
+T17 Protein 337 346 molecular
+T18 Intervention 425 440 adenocarcinomas
+T19 Condition 942 952 carcinomas
+T20 Intervention 556 571 adenocarcinomas
+T22 Intervention 442 508 Oesophageal squamous cell carcinomas resembled squamous carcinomas
+T23 Intervention 908 923 adenocarcinomas
+T24 Protein 843 848 ERBB2
+T27 Intervention 371 407 oesophageal squamous cell carcinomas
+T28 Protein 807 812 CCND1
+T29 Condition 653 663 carcinomas
+T30 Intervention 1217 1232 adenocarcinomas
+T31 Intervention 217 227 oesophagus
+T32 Protein 817 821 SOX2
+T33 Condition 1056 1063 cancers
+T35 Protein 829 833 TP63
+T37 Intervention 627 663 oesophageal squamous cell carcinomas
+T39 Condition 468 478 carcinomas
+T40 Intervention 925 952 Oesophageal adenocarcinomas
+T41 Protein 860 865 GATA4
+T42 Intervention 544 571 oesophageal adenocarcinomas
+T43 Condition 1010 1032 gastric adenocarcinoma
+T45 Protein 1123 1132 molecular

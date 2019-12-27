@@ -1,0 +1,32 @@
+T1 Biomarker 339 354 long-envisioned
+T2 Condition 33 40  humans
+T3 Level 82 89 T cells
+T4 Level 1701 1728 neoantigen-specific T cells
+T5 Condition 1443 1451 patients
+T6 Gene 737 747  molecules
+T7 Condition 965 971 tumour
+T8 Condition 1138 1144 tumour
+T9 Condition 580 587 tumours
+T10 Condition 1004 1010 tumour
+T11 Level 1203 1210 T cells
+T13 Condition 1646 1652 tumour
+T14 Condition 102 108 cancer
+T15 Condition 580 586 tumour
+T16 Condition 1283 1291 patients
+T18 Gene 708 732 human leukocyte antigen 
+T19 Condition 906 927 T-cell specificities 
+T20 Protein 255 269 normal tissues
+T21 Condition 930 936 cancer
+T22 Condition 15 21 tumour
+T23 Protein 1348 1366 wild-type antigens
+T24 Level 1313 1320 T cells
+T25 CL 1583 1603 anti-programmed cell
+T26 Condition 929 945  cancer patients
+T27 Condition 168 174 tumour
+T29 Condition 168 193 tumour-specific mutations
+T30 Condition 1417 1423 tumour
+T31 Intervention 295 301 thymic
+T32 CL 848 866 T-cell populations
+T33 Condition 563 572 mutations
+T34 Condition 386 392 tumour
+T35 Gene 1572 1581 anti-PD-1

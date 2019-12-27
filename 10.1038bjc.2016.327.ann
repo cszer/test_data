@@ -1,0 +1,41 @@
+T1 Condition 848 852 IL-6
+T2 CL 726 741 OSCC cell lines
+T3 Protein 478 521 humanised anti-human IL-6 receptor antibody
+T4 Condition 897 901 cell
+T5 Condition 1028 1032 IL-6
+T6 Condition 24 46 tumour malignancy IL-6
+T7 Condition 499 503 IL-6
+T8 Protein 726 730 OSCC
+T9 Intervention 680 708 IL-6-mediated radioresistant
+T10 Protein 1414 1418 OSCC
+T11 Condition 680 684 IL-6
+T12 Condition 1271 1275 IL-6
+T13 Gene_or_gene_product 1112 1128 Nrf2-antioxidant
+T14 Biomarker 867 878 tocilizumab
+T15 Level 395 415 radioresistant cells
+T16 Protein 332 336 OSCC
+T17 Organism 1385 1393 patients
+T19 Protein 349 353 OSCC
+T20 Intervention 746 753 tissues
+T21 Condition 946 950 IL-6
+T22 Condition 174 178 cell
+T23 Gene 1028 1098 IL-6 promotes the activation of not only the downstream molecule STAT3
+T24 Condition 304 308 IL-6
+T25 Protein 280 289 molecular
+T26 CL 349 364 OSCC cell lines
+T27 Condition 410 414 cell
+T28 Condition 132 136 IL-6
+T29 Protein 190 194 OSCC
+T30 Condition 454 458 IL-6
+T31 Condition 782 786 IL-6
+T32 Level 867 902 tocilizumab sensitised tumour cells
+T33 Protein 555 558 DNA
+T34 Condition 731 735 cell
+T35 Condition 816 820 cell
+T36 Biomarker 463 474 tocilizumab
+T37 Gene_or_gene_product 652 668 Nrf2-antioxidant
+T38 Protein 981 984 DNA
+T39 Condition 160 188 oral squamous cell carcinoma
+T40 Condition 354 358 cell
+T41 Protein 370 374 OSCC
+R1 Relation Arg1:T22 Arg2:T29

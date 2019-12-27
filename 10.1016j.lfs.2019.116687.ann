@@ -1,0 +1,147 @@
+T1 Condition 240 242  c
+T2 Condition 199 206 obesity
+T3 Condition 475 477  t
+T4 Protein 407 416 molecular
+T5 Condition 178 180  c
+T6 Condition 458 460  H
+T7 Condition 566 571  HNC 
+T8 Condition 39 41  a
+T9 Condition 394 397 HNC
+T10 Condition 11 13  b
+T11 Condition 223 225  a
+T12 Condition 501 503  n
+T13 Condition 27 29  a
+T14 Condition 176 178  a
+T15 Condition 297 304 cancers
+T16 Condition 210 212  h
+T17 Condition 58 60  c
+T18 Condition 573 575  a
+T19 Condition 163 165  t
+T20 Condition 389 391  a
+T21 Condition 398 400  a
+T22 Condition 356 358  t
+T23 Condition 534 536  t
+T24 Condition 328 331 HNC
+T25 Condition 140 142  h
+T26 Condition 116 118  c
+T27 Condition 549 551  a
+T28 Condition 296 298  c
+T29 Condition 190 192  b
+T30 Condition 277 279  c
+T31 Condition 81 83  c
+T32 Condition 241 248 cancers
+T33 Condition 74 76  h
+T34 Condition 567 570 HNC
+T35 Condition 459 462 HNC
+T36 Condition 158 160  t
+T37 Condition 284 286  a
+T38 Condition 310 312  a
+T39 Condition 402 404  t
+T40 Condition 173 175  b
+T41 Condition 269 271  b
+T42 Condition 314 316  n
+T43 Disease 590 595 obese
+T44 Condition 7 9  h
+T45 Condition 49 51  t
+T46 Condition 393 395  H
+T47 Protein 439 444 lipid
+T48 Condition 373 375  b
+T49 Condition 206 208  a
+T50 Condition 566 568  H
+T51 Condition 382 389 obesity
+T52 Condition 429 431  a
+T53 Condition 288 290  t
+T54 Condition 319 321  c
+T55 Condition 305 307  h
+R1 Relation Arg1:T5 Arg2:T1
+R2 Relation Arg1:T11 Arg2:T1
+R3 Relation Arg1:T14 Arg2:T1
+R4 Relation Arg1:T16 Arg2:T1
+R5 Relation Arg1:T1 Arg2:T28
+R6 Relation Arg1:T1 Arg2:T30
+R7 Relation Arg1:T1 Arg2:T37
+R8 Relation Arg1:T1 Arg2:T38
+R9 Relation Arg1:T40 Arg2:T1
+R10 Relation Arg1:T1 Arg2:T41
+R11 Relation Arg1:T49 Arg2:T1
+R12 Relation Arg1:T1 Arg2:T53
+R13 Relation Arg1:T1 Arg2:T54
+R14 Relation Arg1:T1 Arg2:T55
+R15 Relation Arg1:T5 Arg2:T11
+R16 Relation Arg1:T5 Arg2:T16
+R17 Relation Arg1:T36 Arg2:T5
+R18 Relation Arg1:T5 Arg2:T42
+R19 Relation Arg1:T5 Arg2:T49
+R20 Relation Arg1:T5 Arg2:T54
+R21 Relation Arg1:T14 Arg2:T11
+R22 Relation Arg1:T16 Arg2:T11
+R23 Relation Arg1:T19 Arg2:T11
+R24 Relation Arg1:T29 Arg2:T11
+R25 Relation Arg1:T11 Arg2:T30
+R26 Relation Arg1:T36 Arg2:T11
+R27 Relation Arg1:T11 Arg2:T37
+R28 Relation Arg1:T40 Arg2:T11
+R29 Relation Arg1:T11 Arg2:T41
+R30 Relation Arg1:T49 Arg2:T11
+R31 Relation Arg1:T11 Arg2:T53
+R32 Relation Arg1:T14 Arg2:T16
+R33 Relation Arg1:T19 Arg2:T14
+R34 Relation Arg1:T36 Arg2:T14
+R35 Relation Arg1:T14 Arg2:T49
+R36 Relation Arg1:T14 Arg2:T54
+R37 Relation Arg1:T19 Arg2:T16
+R38 Relation Arg1:T16 Arg2:T28
+R39 Relation Arg1:T29 Arg2:T16
+R40 Relation Arg1:T16 Arg2:T30
+R41 Relation Arg1:T36 Arg2:T16
+R42 Relation Arg1:T16 Arg2:T37
+R43 Relation Arg1:T40 Arg2:T16
+R44 Relation Arg1:T16 Arg2:T41
+R45 Relation Arg1:T16 Arg2:T49
+R46 Relation Arg1:T19 Arg2:T42
+R47 Relation Arg1:T19 Arg2:T49
+R48 Relation Arg1:T19 Arg2:T54
+R49 Relation Arg1:T42 Arg2:T22
+R50 Relation Arg1:T53 Arg2:T22
+R51 Relation Arg1:T54 Arg2:T22
+R52 Relation Arg1:T55 Arg2:T22
+R53 Relation Arg1:T30 Arg2:T28
+R54 Relation Arg1:T37 Arg2:T28
+R55 Relation Arg1:T28 Arg2:T38
+R56 Relation Arg1:T41 Arg2:T28
+R57 Relation Arg1:T28 Arg2:T42
+R58 Relation Arg1:T53 Arg2:T28
+R59 Relation Arg1:T28 Arg2:T54
+R60 Relation Arg1:T28 Arg2:T55
+R61 Relation Arg1:T29 Arg2:T41
+R62 Relation Arg1:T29 Arg2:T42
+R63 Relation Arg1:T29 Arg2:T49
+R64 Relation Arg1:T29 Arg2:T54
+R65 Relation Arg1:T41 Arg2:T30
+R66 Relation Arg1:T30 Arg2:T42
+R67 Relation Arg1:T30 Arg2:T54
+R68 Relation Arg1:T36 Arg2:T40
+R69 Relation Arg1:T36 Arg2:T42
+R70 Relation Arg1:T36 Arg2:T49
+R71 Relation Arg1:T36 Arg2:T54
+R72 Relation Arg1:T37 Arg2:T42
+R73 Relation Arg1:T49 Arg2:T37
+R74 Relation Arg1:T37 Arg2:T54
+R75 Relation Arg1:T37 Arg2:T55
+R76 Relation Arg1:T41 Arg2:T38
+R77 Relation Arg1:T38 Arg2:T42
+R78 Relation Arg1:T53 Arg2:T38
+R79 Relation Arg1:T38 Arg2:T54
+R80 Relation Arg1:T40 Arg2:T42
+R81 Relation Arg1:T40 Arg2:T49
+R82 Relation Arg1:T41 Arg2:T42
+R83 Relation Arg1:T49 Arg2:T41
+R84 Relation Arg1:T41 Arg2:T53
+R85 Relation Arg1:T41 Arg2:T54
+R86 Relation Arg1:T41 Arg2:T55
+R87 Relation Arg1:T53 Arg2:T42
+R88 Relation Arg1:T42 Arg2:T54
+R89 Relation Arg1:T55 Arg2:T42
+R90 Relation Arg1:T53 Arg2:T54
+R91 Relation Arg1:T53 Arg2:T55
+R92 Relation Arg1:T55 Arg2:T54

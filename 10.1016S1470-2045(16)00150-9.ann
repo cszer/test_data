@@ -1,0 +1,75 @@
+T2 Organism 2080 2088 patients
+T3 Condition 477 484 patient
+T5 Intervention 2475 2504 treatment-refractory patients
+T6 Organism 1683 1691 patients
+T7 Intervention 287 296  patients
+T8 Organism 2417 2438 trastuzumab and lapat
+T11 Condition 968 975 patient
+T12 Organism 259 280 trastuzumab and lapat
+T13 Organism 1601 1609 patients
+T14 Condition 106 112 tumour
+T16 Condition 491 500 KRAS exon
+T17 Condition 1560 1570 colorectal
+T18 Organism 2496 2504 patients
+T19 Condition 1938 1945 patient
+T20 Level 236 246 antitumour
+T21 Intervention 2196 2205  patients
+T22 Condition 1683 1690 patient
+T23 Condition 302 306 HER2
+T24 Condition 1615 1619 HER2
+T25 Intervention 986 1009 intravenous trastuzumab
+T26 Condition 763 767 HER2
+T27 Condition 153 157 HER2
+T28 Condition 550 578 metastatic colorectal cancer
+T29 Organism 2440 2443 ib 
+T30 Condition 2125 2132 patient
+T31 Condition 316 326 colorectal
+T32 Condition 1494 1501 patient
+T34 Condition 2496 2503 patient
+T35 Condition 521 578  wild-type and HER2-positive metastatic colorectal cancer
+T36 Condition 302 333 HER2-positive colorectal cancer
+T37 Condition 2197 2204 patient
+T38 Organism 1085 1088 ib 
+T39 Intervention 476 485  patients
+T40 Intervention 1188 1197  patients
+T43 Condition 561 571 colorectal
+T45 Condition 536 578 HER2-positive metastatic colorectal cancer
+T47 Condition 40 44 HER2
+T50 Gene 1788 1794 Oct 15
+T51 Condition 240 246 tumour
+T52 Condition 1884 1891 patient
+T53 Condition 179 189 colorectal
+T54 Condition 2524 2552 metastatic colorectal cancer
+T55 Condition 536 540 HER2
+T57 Condition 288 295 patient
+T58 Disease 2181 2188 fatigue
+T59 Condition 2535 2545 colorectal
+T60 Condition 123 130 patient
+T61 Biomarker 2247 2256 bilirubin
+T62 Organism 1494 1502 patients
+T63 Condition 491 503 KRAS exon 2 
+T64 Condition 2224 2231 patient
+T65 Condition 911 921 colorectal
+T66 Intervention 1883 1892  patients
+T67 Condition 1549 1577 metastatic colorectal cancer
+T68 Intervention 2079 2088  patients
+T69 Condition 2510 2552 HER2-positive metastatic colorectal cancer
+T71 Condition 2510 2514 HER2
+T72 Intervention 967 976  patients
+T73 Biomarker 1073 1087 oral lapatinib
+T74 Organism 82 85 ib 
+T75 Condition 434 449 academic cancer
+T76 Biomarker 2433 2442 lapatinib
+T77 Condition 2080 2087 patient
+T80 Biomarker 1078 1087 lapatinib
+T81 Intervention 1682 1691  patients
+T83 Organism 2125 2133 patients
+T84 Protein 2348 2360 drug-related
+T85 Condition 782 796 tumour samples
+T87 Intervention 2495 2504  patients
+T88 Condition 1629 1635 tumour
+T89 Condition 1508 1517 KRAS exon
+T90 Condition 1508 1520 KRAS exon 2 
+T91 Biomarker 75 84 lapatinib
+T93 Disease 2207 2216 skin rash
+T94 Intervention 2124 2133  patients

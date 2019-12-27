@@ -1,0 +1,47 @@
+T2 Condition 1019 1023  AML
+T3 Protein 432 437 RUNX1
+T4 Gene 358 360 t 
+T5 Biomarker 666 676 RUNX1-EVI1
+T6 Gene 641 643 t 
+T7 Protein 296 301 RUNX1
+T8 Protein 500 515 fusion proteins
+T9 Level 760 786 RUNX1-ETO-expressing cells
+T10 Gene 114 116 t 
+T12 Protein 937 946 molecular
+T13 Gene 311 313 t 
+T14 Protein 507 515 proteins
+T15 Protein 395 400 RUNX1
+T16 Gene 628 630 t 
+T17 Condition 846 850  AML
+T18 Gene 571 575 gene
+T19 Condition 24 27 AML
+T20 Gene 755 757 t 
+T21 Gene 863 865 t 
+T23 Protein 666 671 RUNX1
+T24 Protein 901 916 fusion proteins
+T25 Condition 253 256 AML
+T26 Protein 322 327 RUNX1
+T27 Gene 79 110 transcriptional regulator genes
+T28 Protein 643 664 transcription factors
+T29 Protein 737 742 GATA2
+T30 Gene 105 109 gene
+T31 Protein 817 822 RUNX1
+T32 Intervention 687 725 stem cell-like transcriptional network
+T33 Gene 732 734 t 
+T34 Gene 472 490 DNA-binding domain
+T35 Intervention 158 167 chromatin
+T37 Protein 296 307 RUNX1 locus
+T39 Intervention 591 600 chromatin
+T40 Condition 252 256  AML
+T42 Gene 128 130 t 
+T43 Gene 322 346 RUNX1 DNA-binding domain
+T44 Gene 531 533 t 
+T45 Biomarker 432 442 RUNX1-EVI1
+T46 Gene 40 44 gene
+T47 Gene 135 137 t 
+T48 Gene 130 136 mutant
+R1 Relation Arg1:T7 Arg2:T4
+R2 Relation Arg1:T13 Arg2:T4
+R3 Relation Arg1:T7 Arg2:T13
+R4 Relation Arg1:T25 Arg2:T7
+R5 Relation Arg1:T25 Arg2:T40

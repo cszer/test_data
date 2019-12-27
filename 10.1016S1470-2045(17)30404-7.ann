@@ -1,0 +1,81 @@
+T1 Biomarker 2235 2245 epirubicin
+T4 Biomarker 279 291 capecitabine
+T5 Disease 391 399 toxicity
+T6 Protein 249 252 TTR
+T7 Organism 2004 2017 4391 patients
+T8 Disease 3354 3361 fatigue
+T9 Organism 1596 1599 men
+T11 Organism 3408 3416 patients
+T12 Disease 3609 3627 hand-foot syndrome
+T13 Biomarker 1032 1044 fluorouracil
+T14 Disease 3523 3534 neutropenia
+T15 Organism 3671 3684 1044 patients
+T16 Biomarker 1209 1221 fluorouracil
+T17 Condition 42 55 breast cancer
+T18 Gene 678 686 excision
+T19 Biomarker 1300 1315 m2 capecitabine
+T20 Biomarker 1061 1077 cyclophosphamide
+T21 Biomarker 881 883 mg
+T22 Organism 2904 2907 men
+T23 Biomarker 303 319 cyclophosphamide
+T24 Organism 3403 3416 1045 patients
+T25 Disease 89 97 toxicity
+T27 Biomarker 1145 1147 mg
+T28 Disease 3095 3103 toxicity
+T29 Biomarker 1793 1803 epirubicin
+T30 Organism 2026 2029 men
+T31 Biomarker 3442 3452 epirubicin
+T32 Biomarker 803 813 epirubicin
+T33 Intervention 1581 1590 endocrine
+T34 Biomarker 2823 2835 capecitabine
+T35 Disease 3249 3260 neutropenia
+T36 Gene 2304 2314 stratified
+T37 Protein 2187 2190 TTR
+T38 Gene 1452 1462 stratified
+T39 Organism 354 362 patients
+T40 Biomarker 1844 1856 capecitabine
+T41 Biomarker 3784 3797 anthracycline
+T42 Biomarker 1115 1117 mg
+T43 Organism 2601 2609 patients
+T44 Organism 3578 3586 patients
+T45 Biomarker 3338 3348 epirubicin
+T46 Biomarker 1292 1299 2500 mg
+T48 Biomarker 2651 2663 capecitabine
+T49 Organism 3676 3684 patients
+T50 Biomarker 797 799 mg
+T51 Biomarker 1151 1163 methotrexate
+T52 Biomarker 934 944 epirubicin
+T53 Condition 230 236 tumour
+T55 Disease 3277 3284 fatigue
+T56 Biomarker 1303 1315 capecitabine
+T57 Organism 2037 2040 men
+T58 Condition 1708 1721 breast cancer
+T59 Protein 2482 2485 TTR
+T60 Biomarker 1322 1324 mg
+T61 Organism 505 513 patients
+T62 Organism 3171 3179 patients
+T63 Organism 3240 3243 1–4
+T64 Disease 3551 3558 fatigue
+T65 Biomarker 1014 1026 methotrexate
+T66 Biomarker 274 291 oral capecitabine
+T68 Biomarker 845 855 epirubicin
+T69 Organism 2499 2507 patients
+T70 Intervention 1118 1127 m2 orally
+T71 Biomarker 3834 3846 capecitabine
+T72 Biomarker 996 1012 cyclophosphamide
+T73 Organism 2019 2029 4371 women
+T74 Protein 1639 1642 TTR
+T75 Biomarker 1203 1205 mg
+T76 Condition 3644 3653 diarrhoea
+T77 Organism 2785 2793 patients
+T78 Biomarker 2392 2402 epirubicin
+T79 Intervention 1484 1489 nodes
+T80 Protein 884 897 pegfilgrastim
+T82 Condition 607 653 high-risk node-negative operable breast cancer
+T83 Biomarker 197 207 epirubicin
+T84 Organism 3307 3315 patients
+T85 Biomarker 2456 2466 epirubicin
+T86 Organism 2168 2176 patients
+T87 Protein 2620 2623 TTR
+T88 Gene 2699 2709 stratified
+R1 Relation Arg1:T53 Arg2:T6

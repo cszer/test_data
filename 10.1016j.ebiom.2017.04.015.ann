@@ -1,0 +1,31 @@
+T1 Condition 1016 1045 human lung- and breast cancer
+T2 Condition 1022 1026 lung
+T3 Protein 311 316 RIOK3
+T5 Level 107 111 cell
+T6 Level 239 243 cell
+T7 Level 459 482 RAS mutant cancer cells
+T8 Protein 284 289 RIOK1
+T9 Condition 227 231 lung
+T10 Protein 811 843 pro-invasive proteins Metadherin
+T11 Protein 302 307 RIOK2
+T12 Level 477 481 cell
+T13 Level 178 190 cancer cells
+T14 Protein 57 68 RIO kinases
+T15 Protein 631 636 RIOK1
+T16 Protein 576 581 RIOK1
+T17 Condition 933 937 lung
+T18 Condition 41 46 tumor
+T19 Level 185 189 cell
+T20 Protein 848 857 Stathmin1
+T21 Protein 706 711 RIOK1
+T22 Level 751 755 cell
+T23 Level 551 555 cell
+T24 Level 507 556 RAS wildtype Caco-2 and Bcr-Abl-driven K562 cells
+T25 Gene 655 668 oncogenic RAS
+T26 Protein 722 727 NF-κB
+T27 Condition 1131 1149 RAS-driven cancers
+T28 Level 97 112 mammalian cells
+T29 Protein 877 882 RIOK1
+T30 Protein 918 923 RIOK1
+T31 Protein 968 973 RIOK1
+T32 Protein 1076 1081 RIOK1

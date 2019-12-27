@@ -1,0 +1,53 @@
+T2 Level 1606 1649 neurons and oligodendrocyte precursor cells
+T3 Level 887 893 glioma
+T4 Protein 1411 1432 focal adhesion kinase
+T6 Level 380 388 Neuronal
+T7 Gene 734 774 synaptic adhesion molecule neuroligin-3 
+T9 Protein 1096 1102  NLGN3
+T10 Protein 432 443 molecularly
+T12 Protein 1716 1721 NLGN3
+T13 Level 194 207  glioma cells
+T14 Condition 1056 1059 HGG
+T15 Intervention 1731 1737 tumour
+T17 Protein 1658 1673 ADAM10 sheddase
+T18 Protein 1715 1721  NLGN3
+T19 Condition 468 471 HGG
+T20 Protein 1147 1152 NLGN3
+T23 Condition 582 596 pontine glioma
+T24 Level 360 366 glioma
+T25 Condition 1774 1777 HGG
+T27 Level 195 207 glioma cells
+T28 Protein 1097 1102 NLGN3
+T29 Level 798 804 glioma
+T30 Organism 1331 1350 Nlgn3 knockout mice
+T31 Level 1164 1170 glioma
+T32 Protein 1352 1357 NLGN3
+T33 Organism 131 139 children
+T34 Condition 1774 1787 HGG xenograft
+T35 Protein 1351 1357  NLGN3
+T36 Gene 831 849 PI3K–mTOR pathway1
+T37 Level 552 558 glioma
+T38 Gene 1456 1465 PI3K–mTOR
+T39 Level 1565 1571 glioma
+T41 Protein 930 936  NLGN3
+T42 Level 1564 1577  glioma cells
+T43 Protein 1578 1584  NLGN3
+T44 Condition 20 23 HGG
+T46 Level 1310 1315  GBM 
+T48 Level 1540 1562 synapse-related genes 
+T50 Protein 1078 1102 microenvironmental NLGN3
+T51 Condition 669 681 brain cancer
+T52 Gene 831 840 PI3K–mTOR
+T53 Level 489 523 adult and paediatric glioblastoma 
+T54 Level 11 17 glioma
+T55 Protein 1146 1152  NLGN3
+T58 Protein 775 780 NLGN3
+T59 Level 195 201 glioma
+T60 Intervention 96 116 brain tumour-related
+T61 Level 1008 1021  glioma cells
+T62 Intervention 323 329 tumour
+T63 Protein 989 995  NLGN3
+T64 Condition 1903 1906 HGG
+T65 Intervention 102 108 tumour
+T66 Protein 1848 1854  NLGN3
+R1 Relation Arg1:T59 Arg2:T24

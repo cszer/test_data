@@ -1,0 +1,31 @@
+T1 Gene 1004 1015 de novo DNA
+T2 Level 542 548 T cell
+T6 Biomarker 866 870 PD-1
+T7 Protein 393 401 effector
+T8 Biomarker 742 746 PD-1
+T9 Protein 265 268 ICB
+T10 Intervention 1091 1110 ICB-mediated T cell
+T11 Biomarker 490 499 bisulfite
+T12 Level 1058 1064 T cell
+T13 Level 957 962 tumor
+T14 Level 174 181 T cells
+T15 Biomarker 805 820 DNA-methylation
+T16 Level 357 363 T cell
+T18 Level 538 549 CD8 T cells
+T19 Level 697 703 T cell
+T20 Level 936 942 T cell
+T21 Gene 316 327 de novo DNA
+T22 Level 877 883 T cell
+T23 Level 174 180 T cell
+T24 Protein 28 31 ICB
+T26 Level 873 884 CD8 T cells
+T27 Level 68 75 T cells
+T28 Level 353 364 CD8 T cells
+T29 Protein 1091 1094 ICB
+T30 Intervention 265 290 ICB-mediated rejuvenation
+T31 Level 847 852 tumor
+T32 Condition 133 140 cancers
+T33 Level 68 74 T cell
+T34 Protein 978 981 ICB
+T35 Biomarker 1012 1027 DNA-methylation
+T36 Protein 557 565 effector

@@ -1,0 +1,44 @@
+T1 Biomarker 1069 1086 oral capecitabine
+T2 Organism 2297 2305 patients
+T3 Biomarker 444 472 gemcitabine and capecitabine
+T4 Biomarker 2313 2330 gemcitabine group
+T5 Biomarker 2313 2324 gemcitabine
+T6 Condition 272 278 tumour
+T7 Organism 1932 1940 patients
+T8 Biomarker 2064 2075 gemcitabine
+T9 Biomarker 1727 1738 gemcitabine
+T10 Biomarker 2064 2081 gemcitabine group
+T11 Organism 2188 2196 patients
+T12 Gene_or_gene_product 2264 2267 3–4
+T13 Biomarker 1948 1959 gemcitabine
+T14 Biomarker 49 60 gemcitabine
+T16 Disease 1412 1420 Toxicity
+T17 Condition 2461 2493 pancreatic ductal adenocarcinoma
+T18 Organism 1441 1449 patients
+T19 Organism 883 891 patients
+T20 Biomarker 487 498 gemcitabine
+T21 Biomarker 332 343 gemcitabine
+T22 Biomarker 2389 2401 capecitabine
+T24 Organism 177 185 patients
+T25 Biomarker 1704 1715 gemcitabine
+T26 Biomarker 2204 2233 gemcitabine plus capecitabine
+T27 Disease 123 131 toxicity
+T28 Condition 802 823 ductal adenocarcinoma
+T29 Biomarker 2204 2215 gemcitabine
+T30 Biomarker 2221 2233 capecitabine
+T31 Condition 200 217 pancreatic cancer
+T32 Biomarker 293 321 gemcitabine and capecitabine
+T33 Condition 365 393 metastatic pancreatic cancer
+T34 Gene_or_gene_product 2141 2144 3–4
+T35 Intervention 831 839 pancreas
+T37 Organism 712 720 patients
+T38 Biomarker 2373 2384 gemcitabine
+T43 Gene 161 173 folinic acid
+T44 Biomarker 1727 1756 gemcitabine plus capecitabine
+T45 Biomarker 293 304 gemcitabine
+T47 Condition 524 541 pancreatic cancer
+T49 Biomarker 444 455 gemcitabine
+T50 Biomarker 1948 1977 gemcitabine plus capecitabine
+T51 Gene 146 160 5-fluorouracil
+T52 Organism 1596 1604 patients
+T53 Protein 2033 2037 25·5

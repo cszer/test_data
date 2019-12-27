@@ -1,0 +1,34 @@
+T1 Organism 959 962 men
+T2 Condition 157 197 non-castrate metastatic prostate cancers
+T3 Organism 1553 1561 patients
+T4 Protein 1044 1047 PSA
+T5 Protein 574 595 retroperitoneal nodes
+T6 Organism 1069 1072 men
+T7 Organism 1353 1361 patients
+T8 Gene 832 857 prostate-specific antigen
+T9 Organism 1092 1100 patients
+T10 Disease 1417 1421 M1b 
+T11 Protein 859 862 PSA
+T12 Biomarker 1639 1651 testosterone
+T13 Biomarker 430 438 androgen
+T14 Protein 1629 1632 PSA
+T15 Organism 780 788 patients
+T16 Disease 1417 1428 M1b disease
+T17 Biomarker 1107 1115 androgen
+T18 Organism 695 698 men
+T19 Intervention 615 619 body
+T20 Organism 137 140 men
+T21 Condition 292 312 oligometastatic M1a 
+T22 Organism 283 286 men
+T23 Organism 1226 1234 patients
+T24 Biomarker 728 736 Androgen
+T25 Organism 1494 1497 men
+T26 Intervention 636 643 osseous
+T27 Biomarker 870 882 testosterone
+T28 Disease 343 347 M1b 
+R1 Relation Arg1:T13 Arg2:T18
+R2 Relation Arg1:T22 Arg2:T13
+R3 Relation Arg1:T19 Arg2:T18
+R4 Relation Arg1:T26 Arg2:T18
+R5 Relation Arg1:T22 Arg2:T19
+R6 Relation Arg1:T19 Arg2:T26

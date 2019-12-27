@@ -1,0 +1,53 @@
+T1 Protein 593 597 Stx6
+T2 Biomarker 60 64 cell
+T3 Level 619 636 NPC1 mutant cells
+T4 Biomarker 300 311 cholesterol
+T5 Gene 326 329 TGN
+T6 Cellular_component 418 452 Rab11-positive recycling endosomes
+T7 Protein 370 374 Stx6
+T8 Protein 394 399 VAMP3
+T9 Biomarker 563 567 cell
+T10 Biomarker 14 25 cholesterol
+T11 Biomarker 233 237 cell
+T12 Biomarker 921 923 RE
+T13 Biomarker 102 113 cholesterol
+T14 Biomarker 961 972 cholesterol
+T15 Gene 358 368 Syntaxin 6
+T16 Protein 535 558 αVβ3 and α5β1 integrins
+T17 Protein 401 412 transferrin
+T18 Protein 706 711 VAMP3
+T19 Protein 961 997 cholesterol-sensitive SNARE proteins
+T20 Protein 480 485 VAMP3
+T22 Biomarker 69 80 cholesterol
+T23 Gene 917 920 TGN
+T24 Biomarker 798 800 RE
+T25 Level 197 219  Niemann-Pick type C1 
+T26 Protein 755 759 Stx6
+T27 Cellular_component 131 150 trans-Golgi network
+T28 Protein 475 479 Stx6
+T29 Protein 853 857 Stx6
+T30 Biomarker 631 635 cell
+T31 Biomarker 986 988 RE
+T32 Cellular_component 38 52 late endosomes
+T33 Biomarker 454 457 REs
+T34 Biomarker 1028 1032 cell
+T35 Biomarker 861 863 RE
+T37 Level 170 192 Chinese hamster ovary 
+T38 Biomarker 891 902 cholesterol
+T39 Gene 917 934 TGN-RE boundaries
+T40 Gene 330 349 endosome boundaries
+T41 Biomarker 798 812 RE cholesterol
+T42 Gene 152 155 TGN
+T43 Biomarker 454 456 RE
+T44 Gene 767 770 TGN
+T45 Biomarker 653 664 cholesterol
+T46 Level 248 277 human NPC1 mutant fibroblasts
+T47 Biomarker 60 80 cellular cholesterol
+R1 Relation Arg1:T5 Arg2:T7
+R2 Relation Arg1:T5 Arg2:T15
+R3 Relation Arg1:T5 Arg2:T28
+R4 Relation Arg1:T11 Arg2:T7
+R5 Relation Arg1:T15 Arg2:T28
+R6 Relation Arg1:T33 Arg2:T28
+R7 Relation Arg1:T43 Arg2:T28
+R8 Relation Arg1:T33 Arg2:T43

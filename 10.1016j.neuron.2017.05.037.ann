@@ -1,0 +1,30 @@
+T2 Gene 307 321 clears amyloid
+T3 Level 160 168 neuronal
+T4 Protein 388 411 DNA-RNA binding protein
+T5 Protein 513 522 microglia
+T7 Gene 314 321 amyloid
+T8 Condition 766 769  AD
+T9 Intervention 814 825 age-matched
+T10 Condition 378 384 TDP-43
+T11 Condition 503 509 TDP-43
+T12 Condition 587 589 AD
+T13 Intervention 350 357 synapse
+T15 Intervention 46 68 central nervous system
+T16 Protein 271 281 microglial
+T17 Gene 665 672 amyloid
+T18 Intervention 628 635 synapse
+T19 Protein 271 280 microglia
+T20 Protein 192 199 protein
+T21 Condition 700 706 TDP-43
+T22 Protein 465 474 microglia
+T23 Organism 490 494 Mice
+T24 Protein 926 935 microglia
+T25 Protein 427 438 Tardbp gene
+T26 Gene 784 791 amyloid
+T27 Protein 465 475 microglial
+T28 Disease 784 801 amyloid pathology
+T29 Intervention 91 99 synaptic
+T30 Intervention 128 133 brain
+R1 Relation Arg1:T7 Arg2:T10
+R2 Relation Arg1:T16 Arg2:T7
+R3 Relation Arg1:T19 Arg2:T7

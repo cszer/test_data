@@ -1,0 +1,21 @@
+T1 Organism 310 320 C. elegans
+T2 Biomarker 651 676 bacterial deoxynucleotide
+T3 Gene 255 262 genetic
+T4 Level 732 742 host cells
+T5 Organism 116 124 patients
+T6 Protein 594 596 B9
+T7 Biomarker 505 522 fluoropyrimidines
+T8 Condition 51 68 colorectal cancer
+T9 Protein 410 427 host-microbe-drug
+T10 Organism 285 292 E. coli
+T11 Biomarker 718 722 cell
+T12 Biomarker 691 703 5-FU-induced
+T13 Protein 26 36 first-line
+T14 Intervention 145 157 gut microbes
+T15 Gene 582 592 vitamin B6
+T16 Biomarker 771 806 nucleoside diphosphate kinase ndk-1
+T17 Intervention 1012 1033 intestinal microbiota
+T18 Biomarker 602 616 ribonucleotide
+T19 Biomarker 858 874 fluoropyrimidine
+T20 Biomarker 505 521 fluoropyrimidine
+T21 Biomarker 737 741 cell

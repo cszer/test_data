@@ -1,0 +1,50 @@
+T1 Level 373 394 drug-resistant cells3
+T2 Organism 63 71 patients
+T3 Level 1278 1282 cell
+T4 Condition 1287 1310 acute myeloid leukaemia
+T5 Level 666 670 cell
+T6 Condition 177 186 mutations
+T7 Condition 1100 1124 leukaemia stem cell gene
+T8 Level 1629 1649 leukaemia stem cells
+T9 Intervention 569 576 genetic
+T10 Condition 3 26 acute myeloid leukaemia
+T11 Condition 457 488 acute myeloid leukaemia samples
+T12 Level 2117 2125 cellular
+T13 Level 929 933 cell
+T14 Condition 457 480 acute myeloid leukaemia
+T15 Condition 2001 2024 acute myeloid leukaemia
+T16 Biomarker 373 377 drug
+T17 Level 388 392 cell
+T18 Level 1515 1519 cell
+T20 Level 1813 1817 cell
+T21 Intervention 829 838 leukaemic
+T22 Biomarker 295 299 drug
+T23 Level 1644 1648 cell
+T24 Level 1772 1818 immunophenotypically committed leukaemia cells
+T25 Level 656 671 resistant cells
+T26 Level 378 393 resistant cells
+T27 Level 1497 1520 therapy-resistant cells
+T28 Biomarker 295 301 drugs2
+T29 Intervention 1759 1768 subclones
+T30 Intervention 1372 1379 genetic
+T31 Level 982 1006 leukaemia stem cells9,10
+T32 Protein 1076 1094 properties11,12,13
+T33 Gene 1235 1247 correlative7
+T34 Intervention 1840 1848 stemness
+T35 Intervention 569 586 genetic subclones
+T36 Intervention 2078 2086 stemness
+T37 Intervention 750 762 therapy6,7,8
+T38 Intervention 2223 2231 stemness
+T39 Level 982 1002 leukaemia stem cells
+T40 Level 1677 1702 progenitor cell phenotype
+T41 Level 1263 1283 leukaemia stem cells
+T42 Level 1688 1692 cell
+T43 Level 1416 1467 subpopulations and xenografts from paired diagnosis
+T44 Protein 1180 1192 failure14,15
+T45 Level 1657 1676 haematopoietic stem
+T46 Level 997 1001 cell
+T48 Level 2117 2121 cell
+T49 Level 1115 1119 cell
+T50 Level 1468 1483 relapse samples
+T51 Biomarker 200 204 drug
+R1 Relation Arg1:T51 Arg2:T22

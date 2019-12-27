@@ -1,0 +1,18 @@
+T1 Protein 463 467 SIX1
+T2 Condition 718 724 cancer
+T3 Protein 372 376 SIX1
+T4 Protein 406 410 HBO1
+T5 Gene 745 761 microRNA-548a-3p
+T6 Condition 52 57 tumor
+T7 Condition 337 342 tumor
+T8 Protein 463 476 SIX1 mutation
+T9 Condition 711 733 breast cancer patients
+T10 Condition 851 857 cancer
+T11 Protein 762 766 SIX1
+T12 Gene 597 613 microRNA-548a-3p
+T13 Condition 533 538 tumor
+T14 Gene 286 302 glycolytic genes
+T15 Protein 665 669 SIX1
+T16 Protein 239 243 SIX1
+T17 Protein 547 551 SIX1
+T18 Gene 415 446 AIB1 histone acetyltransferases

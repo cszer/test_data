@@ -1,0 +1,29 @@
+T1 Gene 498 517 histone deacetylase
+T2 Level 628 649  drug-resistant cells
+T3 Organism 533 539 ostat 
+T4 Organism 866 874 patients
+T5 Biomarker 795 798 vor
+T6 Biomarker 795 805 vorinostat
+T7 Level 975 1001 drug-resistant tumor cells
+T8 Level 834 839 tumor
+T9 Biomarker 941 944 vor
+T10 Level 716 721 tumor
+T11 Biomarker 528 538 vorinostat
+T12 Condition 315 349 MAPK inhibitor-resistant melanomas
+T13 Organism 808 813  mice
+T14 Level 701 727 drug-resistant tumor cells
+T15 Intervention 756 789 BRAF inhibitor-resistant melanoma
+T16 Biomarker 941 951 vorinostat
+T17 Level 622 626 ROS 
+T18 Gene 11 28  mutant melanomas
+T19 Level 990 995 tumor
+T20 Protein 60 200 BRAF and MEK kinases almost invariably develop resistance that is frequently caused by reactivation of the mitogen activated protein kinase 
+T21 Biomarker 528 531 vor
+T22 Protein 314 319  MAPK
+T23 Organism 261 269 patients
+T24 Protein 595 611 already-elevated
+T25 Biomarker 446 452 oxygen
+T26 Organism 800 806 ostat 
+T27 Protein 550 557 SLC7A11
+T28 Organism 946 952 ostat 
+R1 Relation Arg1:T23 Arg2:T22

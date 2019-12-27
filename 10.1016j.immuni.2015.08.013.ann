@@ -1,0 +1,26 @@
+T1 Condition 227 232 tumor
+T2 Condition 1005 1022 colorectal cancer
+T3 Biomarker 454 459 IL-18
+T4 Condition 39 44 tumor
+T5 Condition 1037 1042 liver
+T6 Gene 670 688 inflammasome-IL-18
+T7 Condition 819 824 tumor
+T8 Protein 439 452 inteleukin-18
+T9 Intervention 738 745 surface
+T10 Condition 483 488 tumor
+T11 Species 301 305 mice
+T12 Condition 365 388 liver colorectal cancer
+T13 Disease 22 34 inflammation
+T14 Condition 528 539 cancer cell
+T15 Condition 777 781 FasL
+T16 Gene 243 258 secondary sites
+T17 Intervention 571 592 intestinal microbiota
+T19 Condition 804 808 FasL
+T21 Condition 371 388 colorectal cancer
+T22 Condition 954 976 NK-cell-mediated tumor
+T23 Disease 94 106 inflammation
+T24 Condition 804 825 FasL-sensitive tumors
+T25 Level 720 736 hepatic NK cells
+T26 Condition 605 610 tumor
+T28 Condition 365 370 liver
+R1 Relation Arg1:T1 Arg2:T11

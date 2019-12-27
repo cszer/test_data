@@ -1,0 +1,20 @@
+T1 Biomarker 1074 1101 necroptosis-based antitumor
+T3 Level 789 801 cancer cells
+T4 Protein 82 119 receptor-interacting protein kinase 1
+T5 Condition 1074 1085 necroptosis
+T6 Condition 851 862 necroptosis
+T7 Condition 434 445 necroptosis
+T8 Condition 504 515 necroptosis
+T9 Level 904 908 cell
+T10 Protein 121 125 RIP1
+T11 Biomarker 275 284 antitumor
+T13 Level 940 944 cell
+T14 Condition 197 221 necroptosis-based cancer
+T15 Condition 197 208 necroptosis
+T16 Level 557 589 apoptosis-resistant cancer cells
+T17 Level 55 59 cell
+T18 Level 584 588 cell
+T19 Level 796 800 cell
+T20 Level 897 909 cancer cells
+T21 Protein 473 482 molecular
+T22 Level 933 945 normal cells

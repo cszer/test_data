@@ -1,0 +1,32 @@
+T1 Condition 406 423 colorectal cancer
+T2 Condition 514 521 colitis
+T3 Condition 76 93 colorectal cancer
+T4 Intervention 294 310 gastrointestinal
+T5 Species 455 459 mice
+T6 Intervention 39 65 inflammatory bowel disease
+T7 Biomarker 266 272 IRAK-M
+T8 Intervention 722 740 epithelial barrier
+T9 Level 916 922 T-cell
+T10 Biomarker 1070 1076 IRAK-M
+T11 Organism 234 240 − mice
+T12 Intervention 819 835 gastrointestinal
+T13 Organism 638 645 Irak-m−
+T14 Organism 958 965 Irak-m−
+T15 Organism 341 355 human patients
+T16 Intervention 294 324 gastrointestinal immune system
+T19 Species 648 652 mice
+T20 Organism 208 233 human studies and Irak-m−
+T21 Organism 966 972 − mice
+T22 Organism 474 481 Irak-m−
+T23 Protein 1023 1028 NF-κB
+T24 Protein 138 141 TLR
+T25 Intervention 819 862 gastrointestinal associated lymphoid tissue
+T26 Level 881 891 neutrophil
+T27 Gene 984 998 splice variant
+T28 Biomarker 357 363 IRAK-M
+T29 Disease 156 180 overzealous inflammation
+T31 Species 236 240 mice
+T32 Gene 482 491 − animals
+T34 Organism 646 652 − mice
+T35 Condition 526 533 colitis
+T36 Intervention 604 620 gastrointestinal

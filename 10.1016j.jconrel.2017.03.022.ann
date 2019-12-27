@@ -1,0 +1,33 @@
+T1 Intervention 1489 1498 liposomes
+T2 Biomarker 416 422 CPD100
+T3 Biomarker 182 188 CPD100
+T4 Biomarker 1236 1242 CPD100
+T5 Biomarker 1285 1291 CPD100
+T6 Condition 602 633 A549 non-small lung cancer cell
+T7 Biomarker 348 354 CPD100
+T8 Biomarker 785 791 CPD100
+T9 Biomarker 372 385 sphingomyelin
+T10 Condition 1535 1549 A549 xenograft
+T11 Biomarker 372 398 sphingomyelin/cholesterol 
+T12 Biomarker 676 682 CPD100
+T13 Condition 1607 1612 tumor
+T14 Disease 744 752 toxicity
+T15 Species 1559 1563 mice
+T16 Level 635 649 A549 cell line
+T17 Biomarker 169 180 vinblastine
+T18 Biomarker 386 397 cholesterol
+T19 Intervention 1766 1771 blood
+T20 Disease 2008 2016 toxicity
+T21 Intervention 1396 1405 liposomes
+T22 Intervention 1574 1583 liposomes
+T23 Biomarker 466 477 cholesterol
+T24 Biomarker 502 508 CPD100
+T25 Biomarker 452 465 sphingomyelin
+T26 Intervention 1701 1706 blood
+T27 Biomarker 562 568 CPD100
+T28 Species 844 849 mouse
+T29 Intervention 1657 1662 blood
+T30 Biomarker 1236 1245 CPD100 Li
+T31 Biomarker 258 264 oxygen
+T32 Biomarker 452 482 sphingomyelin/cholesterol/PEG 
+T33 Condition 6 11 tumor

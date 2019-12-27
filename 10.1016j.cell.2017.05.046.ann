@@ -1,0 +1,45 @@
+T1 Condition 326 334 mutation
+T2 Condition 506 511 genes
+T3 Condition 6 12 cancer
+T4 Condition 234 237 HCC
+T5 Condition 532 535 HCC
+T6 Gene 269 274 miRNA
+T7 Protein 401 407 EEF1A1
+T8 Protein 161 172 whole-exome
+T10 Condition 377 382 genes
+T11 Protein 247 250 DNA
+T12 Condition 456 464 mutation
+T13 Condition 780 783 HCC
+T14 Biomarker 1062 1066 PD-1
+T15 Protein 264 267 RNA
+T16 Condition 121 145 hepatocellular carcinoma
+T17 Condition 619 622 HCC
+T18 Protein 561 564 ALB
+T19 Protein 972 975 WNT
+T20 Protein 307 310 DNA
+T21 Protein 394 399 LZTR1
+T22 Gene 838 853 p53 target gene
+T23 Protein 998 1003 VEGFA
+T24 Protein 566 570 APOB
+T25 Protein 188 191 DNA
+T26 Protein 993 996 MET
+T27 Protein 409 414 SF3B1
+T28 Protein 987 991 MDM4
+T29 Protein 420 427 SMARCA4
+T30 Condition 369 382 mutated genes
+T31 Gene 597 632 Integrative molecular HCC subtyping
+T32 Condition 147 150 HCC
+T34 Protein 1005 1009 MCL1
+T35 Protein 576 580 CPS1
+T36 Condition 532 559 HCC metabolic reprogramming
+T37 Biomarker 1072 1077 PD-L1
+R1 Relation Arg1:T4 Arg2:T11
+R2 Relation Arg1:T4 Arg2:T20
+R3 Relation Arg1:T25 Arg2:T4
+R4 Relation Arg1:T32 Arg2:T4
+R5 Relation Arg1:T11 Arg2:T15
+R6 Relation Arg1:T25 Arg2:T11
+R7 Relation Arg1:T32 Arg2:T11
+R8 Relation Arg1:T15 Arg2:T20
+R9 Relation Arg1:T25 Arg2:T20
+R10 Relation Arg1:T32 Arg2:T25

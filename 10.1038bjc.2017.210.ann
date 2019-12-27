@@ -1,0 +1,44 @@
+T1 Intervention 849 854 urine
+T2 Condition 22 29 bladder
+T3 Condition 11 36 Urothelial bladder cancer
+T4 Protein 1179 1183 TERT
+T5 Protein 574 577 UBC
+T6 Protein 951 955 TERT
+T7 Disease 736 745 infection
+T8 Protein 38 41 UBC
+T9 Organism 1123 1131 patients
+T10 Protein 377 381 TERT
+T11 Protein 1037 1045 P=0.0004
+T12 Protein 747 751 TERT
+T13 Protein 841 845 TERT
+T14 Intervention 159 164 urine
+T15 Protein 424 427 UBC
+T16 Condition 834 839  situ
+T17 Condition 828 832 oma 
+T18 Condition 318 336 promoter mutations
+T19 Protein 234 239 NMIBC
+T20 Organism 90 97 Patient
+T21 Organism 484 491 patient
+T22 Protein 909 914 NMIBC
+T23 Condition 552 559 bladder
+T24 Disease 720 732 inflammation
+T25 Gene_or_gene_product 1179 1192 TERT mutation
+T26 Organism 518 526 patients
+T27 Condition 822 826 carc
+T28 Protein 1257 1260 UBC
+T29 Organism 618 626 patients
+T30 Organism 618 625 patient
+T31 Protein 276 280 TERT
+T32 Protein 1048 1052 TERT
+T33 Condition 198 232 non-muscle-invasive bladder cancer
+T34 Biomarker 1026 1035 5.34-fold
+T35 Gene 242 274 Telomerase reverse transcriptase
+T36 Protein 1276 1281 NMIBC
+T37 Intervention 1197 1202 urine
+T39 Gene_or_gene_product 377 390 TERT mutation
+T40 Organism 1123 1130 patient
+T41 Intervention 394 399 urine
+T42 Organism 518 525 patient
+T43 Protein 311 314 UBC
+T44 Condition 1184 1193 mutations
+T45 Condition 218 225 bladder

@@ -1,0 +1,39 @@
+T1 Condition 1000 1017 intestinal cancer
+T2 Condition 102 113 cancer cell
+T3 Biomarker 204 210 serine
+T4 Biomarker 1175 1181 serine
+T5 Biomarker 4 52 non-essential amino acids serine and glycine are
+T6 Condition 349 358 xenograft
+T7 Biomarker 664 670 serine
+T8 Biomarker 917 923 serine
+T9 Biomarker 313 320 glycine
+T10 Gene 957 961 Kras
+T11 Intervention 363 372 allograft
+T12 Gene 1146 1153 enzymes
+T13 Biomarker 30 36 serine
+T14 Biomarker 675 682 glycine
+T15 Biomarker 928 935 glycine
+T16 Condition 571 579 lymphoma
+T17 Biomarker 824 834 biguanides
+T18 Condition 471 477 tumour
+T19 Level 172 184 cancer cells
+T20 Condition 172 183 cancer cell
+T21 Species 969 974 mouse
+T22 Protein 550 553 Apc
+T23 Biomarker 252 258 serine
+T24 Condition 521 538 intestinal cancer
+T25 Biomarker 917 946 serine and glycine starvation
+T26 Biomarker 1225 1231 serine
+T27 Condition 985 1018 pancreatic and intestinal cancers
+T28 Biomarker 1067 1074 glycine
+T29 Protein 591 594 Myc
+T30 Gene 482 493 genetically
+T31 Condition 332 338 tumour
+T32 Biomarker 41 48 glycine
+T33 Species 505 510 mouse
+T34 Condition 900 906 tumour
+T35 Intervention 777 790 mitochondrial
+T36 Biomarker 302 308 serine
+T37 Condition 471 478 tumours
+T38 Biomarker 1056 1062 serine
+T39 Gene 1111 1115 Kras

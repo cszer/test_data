@@ -1,0 +1,35 @@
+T1 Level 1144 1166 shrink large spheroids
+T2 Protein 1507 1527 diffusion-controlled
+T3 Protein 950 955 toxic
+T4 Protein 818 819 ”
+T6 Condition 1666 1671 tumor
+T7 Protein 1119 1120 ”
+T8 Condition 1280 1289 spheroids
+T9 Protein 816 818 IP
+T10 Condition 610 615 tumor
+T12 Condition 682 712 large ovarian cancer spheroids
+T13 Intervention 239 261 advanced-stage disease
+T14 Condition 1387 1396 spheroids
+T16 Condition 29 37 patients
+T17 Intervention 51 73 advanced-stage disease
+T18 Protein 902 903 ”
+T19 Level 1274 1289 small spheroids
+T20 Condition 14 37 ovarian cancer patients
+T21 Protein 1491 1493 IP
+T22 Protein 1117 1119 IP
+T23 Protein 1341 1342 ”
+T24 Protein 533 535 IP
+T25 Organism 225 233 Patients
+T26 Intervention 957 965 Spheroid
+T27 Condition 1051 1056 tumor
+T28 Level 727 754 UCI101 and A2780 cell lines
+T29 Intervention 95 112 peritoneal cavity
+T30 Intervention 328 346 surgical debulking
+T31 Condition 474 482 patients
+T32 Condition 1455 1460 tumor
+T33 Condition 1666 1672 tumors
+T34 Immaterial_anatomical_entity 284 300 intraperitoneal 
+T35 Condition 1450 1462 intratumoral
+T37 Protein 1589 1591 IP
+T38 Protein 301 303 IP
+T39 Condition 176 181 tumor

@@ -1,0 +1,36 @@
+T1 Protein 215 224 inhibitor
+T2 Condition 26 29 HCC
+T3 Level 389 393  HCC
+T4 Level 649 678 cultured RAF1-deficient cells
+T5 Protein 980 987 protein
+T6 Level 296 313 human HCC samples
+T8 Condition 390 393 HCC
+T9 Protein 443 446 RAF
+T10 Protein 266 269 RAF
+T11 Protein 740 743 RAF
+T12 Level 301 305  HCC
+T13 Level 193 197  HCC
+T14 Protein 247 250 RAF
+T15 Condition 403 413 xenografts
+T16 Condition 788 809 skin and lung tumours
+T17 Protein 740 744 RAF1
+T19 Condition 194 197 HCC
+T20 Condition 683 697 HCC xenografts
+T22 Condition 302 305 HCC
+T23 Protein 325 328 RAF
+T24 Condition 720 733 liver tumours
+T25 Protein 599 603 YAP1
+T26 Protein 325 329 RAF1
+T27 Disease 838 858 hepatocarcinogenesis
+T28 Level 521 530 cultured 
+T29 Protein 619 624 STAT3
+T30 Level 682 686  HCC
+T32 Condition 683 686 HCC
+T33 Protein 443 447 RAF1
+T34 Protein 658 662 RAF1
+T35 Protein 266 270 RAF1
+T37 Gene 384 399 human HCC lines
+T38 Protein 658 661 RAF
+T39 Protein 1041 1050 molecular
+R1 Relation Arg1:T14 Arg2:T10
+R2 Relation Arg1:T14 Arg2:T35

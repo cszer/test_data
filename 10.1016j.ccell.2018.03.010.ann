@@ -1,0 +1,34 @@
+T1 Condition 239 245 cancer
+T2 Condition 750 803 colon and rectum lacking hypermutation and aneuploidy
+T3 Protein 895 900 PCBP1
+T4 Protein 295 304 deletions
+T5 Intervention 39 48 esophagus
+T6 Condition 437 448 plus tumors
+T7 Condition 760 766 rectum
+T8 Condition 506 515 mutations
+T9 Condition 525 531 Tumors
+T11 Biomarker 404 407 CpG
+T12 Condition 442 448 tumors
+T13 Protein 381 385 MLH1
+T14 Intervention 537 548 chromosomal
+T15 Condition 143 181 gastrointestinal tract adenocarcinomas
+T16 Intervention 50 57 stomach
+T17 Protein 885 889 SOX9
+T18 Gene 415 425 methylator
+T19 Condition 183 188 GIACs
+T20 Level 634 641 genomes
+T21 Protein 841 844 DNA
+T22 Gene 658 665 genomic
+T23 Protein 284 294 insertions
+T24 Condition 866 875 mutations
+T25 Condition 191 210 Hypermutated tumors
+T27 Condition 166 181 adenocarcinomas
+T28 Condition 750 755 colon
+T30 Condition 597 612 adenocarcinomas
+T31 Condition 59 64 colon
+T32 Condition 736 742 tumors
+T34 Condition 16 31 adenocarcinomas
+T35 Protein 879 883 KRAS
+T36 Level 811 817 genome
+T37 Intervention 580 612 gastroesophageal adenocarcinomas
+T38 Condition 70 76 rectum
